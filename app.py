@@ -31,6 +31,14 @@ def load_data():
     rows = []
     for company in companies:
         wp = company.get('work_policy', {})
+
+        # Safely convert days_required to int
+        days_required = wp.get('days_required', 0)
+        try:
+            days_required = int(days_required) if days_required is not None else 0
+        except (ValueError, TypeError):
+            days_required = 0
+
         row = {
             'company': company.get('company', 'Unknown'),
             'rank': company.get('rank', 999),
@@ -38,7 +46,7 @@ def load_data():
             'fortune_500_rank': company.get('fortune_500_rank', 'N/A'),
             'policy_type': wp.get('type', 'Unknown'),
             'category': wp.get('category', 'Unknown'),
-            'days_required': wp.get('days_required', 0),
+            'days_required': days_required,
             'specific_days': wp.get('specific_days', 'N/A'),
             'details': wp.get('details', ''),
             'effective_date': wp.get('effective_date', 'N/A'),
@@ -55,6 +63,9 @@ def load_data():
 
     # Clean up "Unknown" companies
     df = df[df['company'] != 'Unknown']
+
+    # Ensure days_required is integer type
+    df['days_required'] = df['days_required'].astype(int)
 
     return df, companies
 
