@@ -37,68 +37,71 @@ def extract_days_from_text(text: str) -> int:
 
 def map_to_category(policy_type: str, days_required: int, details: str) -> str:
     """
-    Categorize work policy based on type, days, and details.
+    Categorize work policy into simplified categories.
 
     Categories:
-    - Office-First: 4-5 days required
-    - Hybrid-Majority: 3 days required
-    - Hybrid-Flexible: 1-2 days or flexible arrangement
-    - Remote-First: 0 days, remote by default
-    - Role-Dependent: Varies by role
-    - Unverified: Unknown or insufficient data
+    - Fully Remote: 0 days required, remote-first policies
+    - Hybrid: 1-4 days in office, flexible arrangements
+    - Full Office: 5 days required in office
     """
     policy_lower = policy_type.lower() if policy_type else ""
     details_lower = details.lower() if details else ""
 
-    # Remote-first indicators
-    if any(keyword in policy_lower for keyword in ['remote-first', 'fully remote', 'permanent remote']):
-        return "Remote-First"
+    # Full Office (5 days)
+    if days_required >= 5:
+        return "Full Office"
 
-    if days_required == 0 and 'remote' in policy_lower:
-        return "Remote-First"
+    if any(keyword in policy_lower for keyword in ['5-day office', 'full-time office', 'five days']):
+        return "Full Office"
 
-    # Office-first indicators (4-5 days)
-    if days_required >= 4:
-        return "Office-First"
+    # Fully Remote (0 days or remote-first)
+    if any(keyword in policy_lower for keyword in ['remote-first', 'fully remote', 'permanent remote', 'remote only']):
+        return "Fully Remote"
 
-    if any(keyword in policy_lower for keyword in ['5-day office', '4-day office', 'full-time office']):
-        return "Office-First"
+    if days_required == 0 and any(keyword in policy_lower for keyword in ['remote', 'work from anywhere', 'distributed']):
+        return "Fully Remote"
 
-    # Hybrid-majority (3 days)
-    if days_required == 3:
-        return "Hybrid-Majority"
+    # Hybrid (1-4 days or any hybrid/flexible arrangement)
+    if days_required in [1, 2, 3, 4]:
+        return "Hybrid"
 
-    if '3-day' in policy_lower or '3 days' in policy_lower:
-        return "Hybrid-Majority"
+    if any(keyword in policy_lower for keyword in ['hybrid', 'flexible', 'days in office', 'days per week']):
+        return "Hybrid"
 
-    # Hybrid-flexible (1-2 days or flexible)
-    if days_required in [1, 2]:
-        return "Hybrid-Flexible"
-
-    if any(keyword in policy_lower for keyword in ['flexible', 'hybrid', '2-day', '1-day']):
-        return "Hybrid-Flexible"
-
-    # Role-dependent
+    # Role-dependent - categorize as Hybrid since it varies
     if any(keyword in policy_lower + details_lower for keyword in ['role-dependent', 'varies by role', 'position-dependent']):
-        return "Role-Dependent"
+        return "Hybrid"
 
-    # Healthcare-specific
+    # Healthcare-specific - categorize as Hybrid
     if 'clinical' in details_lower and 'administrative' in details_lower:
-        return "Role-Dependent"
+        return "Hybrid"
 
-    # Default to Unverified if unclear
-    if not policy_type or policy_type.lower() in ['unknown', 'unclear', 'unverified']:
-        return "Unverified"
+    # Default based on days if we have that info
+    if days_required == 0:
+        return "Fully Remote"
+    elif days_required > 0:
+        return "Hybrid"
 
-    # If we have some info but unclear category
-    if days_required > 0:
-        return "Hybrid-Flexible"
-
-    return "Unverified"
+    # Unknown/unverified - default to Hybrid as most common middle ground
+    return "Hybrid"
 
 def normalize_old_format(company: Dict[str, Any]) -> Dict[str, Any]:
     """Normalize old format (batches 1-25) to unified schema."""
     work_policy = company.get('work_policy', {})
+
+    # Extract days and policy type for re-categorization
+    policy_type = work_policy.get('type', 'Unknown')
+    days_required = work_policy.get('days_required', 0)
+    details = work_policy.get('details', '')
+
+    # Ensure days_required is int
+    try:
+        days_required = int(days_required) if days_required is not None else 0
+    except (ValueError, TypeError):
+        days_required = extract_days_from_text(str(days_required))
+
+    # Re-categorize using simplified categories
+    category = map_to_category(policy_type, days_required, details)
 
     return {
         'company': company.get('company', 'Unknown'),
@@ -106,11 +109,11 @@ def normalize_old_format(company: Dict[str, Any]) -> Dict[str, Any]:
         'sector': company.get('sector', 'Unknown'),
         'fortune_500_rank': company.get('fortune_500_rank', 'N/A'),
         'work_policy': {
-            'type': work_policy.get('type', 'Unknown'),
-            'category': work_policy.get('category', 'Unknown'),
-            'days_required': work_policy.get('days_required', 0),
+            'type': policy_type,
+            'category': category,
+            'days_required': days_required,
             'specific_days': work_policy.get('specific_days', 'N/A'),
-            'details': work_policy.get('details', ''),
+            'details': details,
             'effective_date': work_policy.get('effective_date', 'N/A'),
             'trend_direction': work_policy.get('trend_direction', 'Unknown'),
             'previous_policy': work_policy.get('previous_policy', ''),
