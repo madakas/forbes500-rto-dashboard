@@ -1,0 +1,219 @@
+{
+  "batch_number": 12,
+  "research_date": "2025-11-17",
+  "note": "Research conducted for companies ranked 165-172 from Forbes 500 list. Some companies had limited public information about RTO policies available.",
+  "companies": [
+    {
+      "company_name": "Frontier Communications",
+      "rank": 165,
+      "sector": "Telecommunications",
+      "current_policy": "Hybrid/Flexible - Role-dependent policy with remote and hybrid options available for certain positions",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Varies by role and team - some teams are 100% virtual, others require office presence",
+        "enforcement_date": null,
+        "flexibility": "Policy varies by team and role rather than being company-wide. Some positions offer full remote work (37.5 hours/week from home), while other teams may require office attendance. Customer service representatives, technical support agents, and sales specialists often work remotely. Company has received awards for Best Career Growth and Best Company Work-Life Balance from Comparably."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Job Postings",
+          "url": "https://careers.frontier.com/careers/*/remote?domain=ftr.com",
+          "date": "2024",
+          "note": "Multiple remote positions advertised including customer service, technical support, and sales roles"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.indeed.com/cmp/Frontier-f2c68661/faq/what-is-the-work-from-home-policy-at-frontier",
+          "date": "2024",
+          "note": "Employees report some teams are 100% virtual while others have varying work from home allowances"
+        },
+        {
+          "type": "Job Listings",
+          "url": "https://www.flexjobs.com/jobs/telecommuting-jobs-at-frontier_communications_corporation",
+          "date": "2024",
+          "note": "FlexJobs lists part-time and full-time 100% remote positions at Frontier Communications"
+        }
+      ],
+      "key_findings": "Frontier Communications has not publicly announced a formal company-wide RTO policy. The company offers team-dependent and role-dependent flexibility, with some teams operating 100% virtually while others have different arrangements. Remote positions are common for customer-facing roles (customer service, technical support, sales). The company has received recognition for work-life balance, suggesting ongoing commitment to flexible work arrangements. No evidence of recent RTO mandate or policy tightening found."
+    },
+    {
+      "company_name": "CVS Health",
+      "rank": 166,
+      "sector": "Health Care",
+      "current_policy": "Hybrid - 3 days per week in office for corporate employees",
+      "policy_details": {
+        "in_office_days": 3,
+        "remote_days": 2,
+        "typical_schedule": "3 days per week in office for corporate employees in certain locations",
+        "enforcement_date": "2024",
+        "flexibility": "Corporate employees required to spend 3 days each week at office locations. Previously had a 2-3 days per week policy announced in March 2022. The more recent internal communication increased the requirement to 3 days per week. Policy applies to corporate employees; pharmacy and retail staff continue on-site work."
+      },
+      "trend_direction": "Tightening",
+      "confidence_level": "Medium",
+      "sources": [
+        {
+          "type": "News Article",
+          "url": "https://buildremote.co/return-to-office/cvs/",
+          "date": "2024",
+          "note": "CVS sent internal email requiring 3 days per week in office for certain locations"
+        },
+        {
+          "type": "Company Statement",
+          "url": "https://www.abc6.com/cvs-announces-return-to-office-plans-for-corporate-employees/",
+          "date": "2022-03",
+          "note": "CVS Spokeswoman Tara Burke stated 'Most corporate employees will spend two to three days each week at one of our office locations'"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.glassdoor.com/Questions/CVS-Health-Question-FBQ64bf78ea2eec1a850603ebc5-E437.htm",
+          "date": "2024",
+          "note": "Employee discussions about work from home policy and hybrid arrangements"
+        }
+      ],
+      "key_findings": "CVS Health has implemented a hybrid work policy requiring corporate employees to work 3 days per week from office locations. This represents a tightening from the earlier 2-3 days per week policy announced in March 2022. The company sent internal communications about the 3-day requirement, though some details about specific locations and enforcement timelines were not publicly disclosed. CVS headquarters is in Woonsocket, Rhode Island, where it is one of the state's largest employers. The policy applies to corporate roles, while pharmacy and retail positions continue to be on-site."
+    },
+    {
+      "company_name": "Regions Financial",
+      "rank": 167,
+      "sector": "Financials",
+      "current_policy": "Hybrid/Flexible - Some form of flexible work arrangement in place",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Unknown - specific requirements not publicly disclosed",
+        "enforcement_date": null,
+        "flexibility": "Employee reviews indicate transition from full remote to flexible/hybrid arrangements. One employee mentioned 'We were working totally remote from home at the time and flex now.' Another review from March 2024 mentioned 'Working from home, which they are now taking away after many years of allowing it,' suggesting some reduction in remote work flexibility."
+      },
+      "trend_direction": "Tightening",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.indeed.com/cmp/Regions-Financial/reviews",
+          "date": "2024",
+          "note": "Employee mentions 'We were working totally remote from home at the time and flex now'"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.zippia.com/regions-financial-careers-9725/",
+          "date": "2024-03",
+          "note": "Employee review states 'Working from home, which they are now taking away after many years of allowing it'"
+        },
+        {
+          "type": "Industry Context",
+          "url": "https://www.americanbanker.com/list/what-banks-are-doing-about-workers-returning-to-the-office",
+          "date": "2025",
+          "note": "General banking industry trend showing banks implementing stricter RTO policies, though Regions not specifically mentioned"
+        }
+      ],
+      "key_findings": "Regions Financial has not made high-profile public announcements about their RTO policy, unlike larger national banks. Employee reviews suggest the company has transitioned from full remote work during the pandemic to some form of flexible or hybrid arrangement, with at least one employee indicating remote work options are being reduced. The specific number of required office days per week has not been publicly disclosed. The company is headquartered in Birmingham, Alabama, and operates as a regional bank across the Southeast."
+    },
+    {
+      "company_name": "CarMax",
+      "rank": 168,
+      "sector": "Specialty Retail",
+      "current_policy": "Hybrid - 4 days per week in office",
+      "policy_details": {
+        "in_office_days": 4,
+        "remote_days": 1,
+        "typical_schedule": "4 days per week in office for corporate employees",
+        "enforcement_date": "November 2024",
+        "flexibility": "Strict 4-day in-office requirement announced alongside major organizational changes. Policy appears to be part of broader restructuring effort."
+      },
+      "trend_direction": "Tightening",
+      "confidence_level": "High",
+      "sources": [
+        {
+          "type": "News Article",
+          "url": "https://richmondbizsense.com/2025/11/07/carmax-fires-ceo-nash-orders-employees-back-to-office-4-days-a-week/",
+          "date": "2024-11",
+          "note": "CarMax terminated President and CEO Bill Nash effective Dec. 1 and ordered employees back to office 4 days per week"
+        },
+        {
+          "type": "Company Tracking",
+          "url": "https://buildremote.co/companies/return-to-office/",
+          "date": "2024",
+          "note": "CarMax listed on Fortune 500 RTO tracker with recent policy changes"
+        }
+      ],
+      "key_findings": "CarMax implemented a significant 4-day per week in-office requirement in November 2024. This announcement came during a period of major organizational change, including the termination of CEO Bill Nash (effective December 1, 2024), layoffs of hundreds of employees, declining stock price, and faltering earnings. The 4-day requirement represents a substantial reduction in remote work flexibility. The company is headquartered in Goochland, Virginia. The timing of the RTO mandate alongside leadership changes and layoffs suggests the policy is part of a broader restructuring strategy."
+    },
+    {
+      "company_name": "BMC Software",
+      "rank": 172,
+      "sector": "Technology",
+      "current_policy": "Hybrid/Flexible - Flexible hybrid policy with significant remote work options",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Work from anywhere as long as work is being completed; flexible arrangements based on individual circumstances",
+        "enforcement_date": null,
+        "flexibility": "Company offers flexibility to work from home when necessary (feeling unwell, bad weather, vehicle breakdowns). Employees can work from anywhere according to recent reviews. The company has a hybrid setup that is accommodating with options for remote work flexibility. BMC hires for full-time, hybrid to 100% remote positions."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Medium",
+      "sources": [
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.glassdoor.com/Benefits/BMC-Software-Work-From-Home-US-BNFT152_E1160_N1.htm",
+          "date": "2024",
+          "note": "Employees report flexibility to work from home when necessary and accommodating hybrid policy"
+        },
+        {
+          "type": "Job Postings",
+          "url": "https://www.flexjobs.com/remote-jobs/company/bmc_software",
+          "date": "2024",
+          "note": "BMC Software has hired for a range of full-time, hybrid to 100% remote jobs"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.indeed.com/cmp/Bmc-Software/reviews",
+          "date": "2024",
+          "note": "Employee reviews from 2024 indicate remote work provides autonomy and company offers hybrid environment"
+        }
+      ],
+      "key_findings": "BMC Software maintains a flexible hybrid work policy that allows employees significant autonomy in where they work. The company has not implemented strict RTO mandates and continues to hire for remote and hybrid positions. Employees report the ability to work from anywhere as long as they meet their work commitments, with additional flexibility for personal circumstances like illness or weather. This approach is consistent with many technology companies that have maintained more flexible work arrangements compared to other industries. No evidence of recent RTO tightening was found."
+    }
+  ],
+  "research_methodology": {
+    "sources_checked": [
+      "BuildRemote.co RTO tracker",
+      "Company career pages and job postings",
+      "News articles from 2024-2025",
+      "Employee reports on Glassdoor, Indeed, FlexJobs",
+      "Company press releases and announcements",
+      "Industry-specific news sources (American Banker for financial services)",
+      "Richmond BizSense for local Virginia business news"
+    ],
+    "challenges": [
+      "Frontier Communications: No formal company-wide RTO policy publicly announced. Information pieced together from job postings and employee feedback indicating team-dependent policies.",
+      "CVS Health: Some internal communications not publicly detailed; policy evolution from 2-3 days to 3 days required inference from multiple sources.",
+      "Regions Financial: Minimal public announcements about RTO policy. Information primarily from employee reviews which may not reflect official company policy.",
+      "CarMax: Well-documented recent policy change but limited information about previous remote work arrangements.",
+      "BMC Software: No specific formal policy announcement; information based on employee reviews and job postings showing continued flexibility."
+    ],
+    "confidence_notes": {
+      "high": "CarMax - Recent, well-documented announcement from credible local business news source with specific details",
+      "medium": "CVS Health and BMC Software - Multiple consistent sources though not all from official company announcements",
+      "low": "Frontier Communications and Regions Financial - Limited public information, heavily reliant on employee reviews and job postings without formal policy confirmation"
+    }
+  },
+  "overall_trends": {
+    "summary": "Among these 5 companies (ranks 165-172 on Forbes 500), there is a mixed picture of RTO policies in 2024-2025. Two companies (CVS Health and CarMax) have tightened their policies, requiring 3 and 4 days in-office respectively. One company (Regions Financial) shows some evidence of tightening based on employee feedback. Two companies (Frontier Communications and BMC Software) maintain flexible, role-dependent approaches without strict mandates. The technology sector (BMC) continues to offer more flexibility than retail (CarMax) and healthcare (CVS). Financial services (Regions) appears to be following broader banking industry trends toward more in-office work.",
+    "by_sector": {
+      "Telecommunications": "Frontier Communications shows team-dependent flexibility with many remote positions available",
+      "Health Care": "CVS Health requires 3 days/week for corporate employees, reflecting tightening trend",
+      "Financials": "Regions Financial moving away from full remote toward hybrid/office work, consistent with banking industry",
+      "Specialty Retail": "CarMax implemented strict 4 days/week requirement as part of broader restructuring",
+      "Technology": "BMC Software maintains flexible hybrid approach with work-from-anywhere options"
+    },
+    "tightening_vs_maintaining": {
+      "tightening": ["CVS Health", "Regions Financial", "CarMax"],
+      "maintaining": ["Frontier Communications", "BMC Software"],
+      "note": "3 out of 5 companies showed evidence of reducing remote work flexibility in 2024, consistent with broader Fortune 500 trends"
+    }
+  }
+}
