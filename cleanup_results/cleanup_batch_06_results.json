@@ -1,0 +1,192 @@
+[
+  {
+    "company": "Live Nation Entertainment",
+    "rank": 116,
+    "sector": "Media",
+    "fortune_500_rank": "116",
+    "work_policy": {
+      "type": "Hybrid (flexible by role)",
+      "category": "Hybrid",
+      "days_required": null,
+      "specific_days": "N/A - Varies by role and team",
+      "details": "Live Nation Entertainment offers flexible work schedules and hybrid work arrangements, though specific requirements vary significantly by role. Corporate roles appear to have hybrid flexibility with employees able to work remotely some days per week, while venue-based and event production roles naturally require on-site presence. Workers can choose their work days with schedules sent out a month in advance. The company has been recognized as a Great Place to Work for seven years and emphasizes work-life balance flexibility.",
+      "effective_date": null,
+      "trend_direction": "Stable",
+      "previous_policy": null,
+      "previous_date": null
+    },
+    "sources": [
+      {
+        "url": "https://www.indeed.com/cmp/Live-Nation/topics/work-from-home",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/Live-Nation-Entertainment-Work-From-Home-US-BNFT152_E7601_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.flexjobs.com/remote-jobs/company/live_nation_entertainment",
+        "type": "Job Listings",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Scheduling is super flexible and pay is good. Workers choose the days they work, with schedules sent out a month in advance.",
+    "verification_status": "Partial",
+    "research_date": "2025-11-17",
+    "notes": "Limited official policy information available. Work arrangements appear highly dependent on role type - corporate/administrative roles have hybrid flexibility while event and venue staff work on-site. Company maintains 4.0/5 work-life balance rating on Indeed."
+  },
+  {
+    "company": "Mondelez International",
+    "rank": 117,
+    "sector": "Food, Beverages & Tobacco",
+    "fortune_500_rank": "117",
+    "work_policy": {
+      "type": "Hybrid (2 days in office)",
+      "category": "Hybrid",
+      "days_required": 2,
+      "specific_days": "N/A - Manager discretion",
+      "details": "Mondelez International has implemented a hybrid work model requiring a two-day office presence. The company emphasizes managers as role models for hybrid working, with expectations to contract on key moments when the team will meet in the office (such as team meetings, meetings with senior management, company events). The approach focuses on positive reinforcement rather than one-size-fits-all mandates. At the Chicago headquarters, Mondelez provides breakfast and lunch options, improved parking, and other amenities to support employees coming into the office.",
+      "effective_date": null,
+      "trend_direction": "Stable",
+      "previous_policy": "Remote during COVID",
+      "previous_date": "2020-2021"
+    },
+    "sources": [
+      {
+        "url": "https://www.i4cp.com/meetings/getting-hybrid-work-right-6-9",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://hubblehq.com/blog/famous-companies-workplace-strategies",
+        "type": "News",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.comparably.com/companies/mondelez-international/reviews",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Mondelez emphasizes managers as role models for hybrid working, with expectations to truly role model hybrid working with time spent in the office and remotely, contract on key moments when the team will meet in the office.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Mondelez has adopted a relatively flexible hybrid approach focusing on manager discretion and team needs. The company received positive reviews (4.0/5 rating on Glassdoor) with 79% of employees recommending the company. The policy recognizes that flexibility is a key enabler to creating an inclusive environment."
+  },
+  {
+    "company": "Xerox Holdings",
+    "rank": 118,
+    "sector": "Technology",
+    "fortune_500_rank": "118",
+    "work_policy": {
+      "type": "Flexible hybrid/remote (role-dependent)",
+      "category": "Hybrid",
+      "days_required": null,
+      "specific_days": "N/A - Varies by role",
+      "details": "Xerox employs many remote professionals through its virtual workforce program, offering a variety of flexible work arrangements including part-time, temporary, and hybrid to 100% remote jobs in areas such as account management, customer service, IT, project management, and sales. Employee reviews indicate that workers can work from home if needed, with many people working from home one day a week, though this varies significantly by role and manager. The company has not announced a company-wide RTO mandate for 2024-2025.",
+      "effective_date": null,
+      "trend_direction": "Stable",
+      "previous_policy": null,
+      "previous_date": null
+    },
+    "sources": [
+      {
+        "url": "https://www.flexjobs.com/remote-jobs/company/xerox",
+        "type": "Job Listings",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.glassdoor.com/Reviews/Xerox-work-from-home-Reviews-EI_IE747.0,5_KH6,20.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Xerox/reviews?fcountry=US&floc=Remote",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Xerox has recognized the benefits of working from home and now employs many remote professionals through its virtual workforce program.",
+    "verification_status": "Partial",
+    "research_date": "2025-11-17",
+    "notes": "Limited official policy information available. Xerox appears to maintain a flexible approach with role-based determinations. The company has a 3.4/5 rating on Glassdoor with employees rating work-life balance at 3.5/5. No evidence of strict RTO mandates in 2024-2025 period."
+  },
+  {
+    "company": "Progressive",
+    "rank": 119,
+    "sector": "Financials",
+    "fortune_500_rank": "119",
+    "work_policy": {
+      "type": "Flexible hybrid/remote (most roles remote)",
+      "category": "Remote",
+      "days_required": 0,
+      "specific_days": "N/A - Varies by role (some hybrid roles: 1 day/week in office)",
+      "details": "Progressive maintains a remote-friendly policy for most roles including claims, customer care, IT, analyst, legal, and corporate functions. The company has NOT implemented a strict return-to-office mandate and instead uses workplace flexibility as a competitive advantage in hiring. Some hybrid roles require office presence once per week, but the majority of positions are fully remote. Progressive announced plans to hire more than 12,000 people in 2025 with continued commitment to flexible workplace offerings. The company views this flexible approach as key to meeting current employee needs and reaching job seekers.",
+      "effective_date": null,
+      "trend_direction": "Maintaining",
+      "previous_policy": "Office-based pre-COVID",
+      "previous_date": "Pre-2020"
+    },
+    "sources": [
+      {
+        "url": "https://progressive.mediaroom.com/2025-04-28-progressive-insurance-R-intends-to-hire-more-than-12,000-people-in-2025-to-support-companys-continued-growth",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.hr-brew.com/stories/2025/05/20/progressive-12000-workers-hiring-spree",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/Progressive-Insurance-Work-From-Home-US-BNFT152_E546_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "By having a flexible workplace approach it not only allows us to meet the needs of our current employees, but to also reach job seekers where they are. The more companies that are dialing back remote, hybrid work, the more those people tend to be in my hiring pools.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Progressive stands out as bucking the trend of strict RTO mandates. The company explicitly uses remote work flexibility as a competitive hiring advantage. Placed #16 on Fortune 100 Best Companies to Work For in 2025 (8th consecutive year). Employee reviews note intensive monitoring of remote work performance but appreciate the flexibility. 3.9/5 rating on Glassdoor."
+  },
+  {
+    "company": "CDW",
+    "rank": 120,
+    "sector": "Technology",
+    "fortune_500_rank": "120",
+    "work_policy": {
+      "type": "Flexible hybrid (team discretion)",
+      "category": "Hybrid",
+      "days_required": null,
+      "specific_days": "N/A - Team-based decisions",
+      "details": "CDW is committed to offering a high quality, flexible work experience centered around connection, collaboration, and coworker well-being. The company uses a 'moments that matter' approach where coworkers are encouraged to meet for key times when it's important to gather with others (strategy sessions, partner meetings, social outings). Functional leaders work with individual teams to establish working norms for the group with a focus on meaningful interaction and predictability. Schedules vary from team-to-team from fully remote to fully onsite, though the majority of coworkers can expect to work from a CDW office plus have the flexibility to work remotely.",
+      "effective_date": null,
+      "trend_direction": "Stable",
+      "previous_policy": null,
+      "previous_date": null
+    },
+    "sources": [
+      {
+        "url": "https://www.cdwjobs.com/posts/best-of-both-embracing-hybrid-work",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.glassdoor.com/Reviews/CDW-Reviews-E2347.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Cdw/reviews",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "CDW is committed to offering a high quality, flexible work experience centered around connection, collaboration, and coworker well-being. Functional leaders work with their individual teams to establish working norms for the group with a focus on meaningful interaction and predictability.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "CDW maintains a truly flexible approach with no company-wide mandate. The 'moments that matter' philosophy allows teams to determine when in-person collaboration is most valuable. Employees rate the company 3.6/5 on Glassdoor with 67% recommending to friends. Reviews highlight flexibility, work-life balance, and strong benefits as key positives."
+  }
+]
