@@ -1,0 +1,217 @@
+{
+  "batch_number": 14,
+  "research_date": "2025-11-17",
+  "note": "Research conducted for companies ranked 179-183. Limited public information available for most companies in this batch.",
+  "companies": [
+    {
+      "company_name": "22nd Century Technologies",
+      "rank": 179,
+      "sector": "Technology",
+      "current_policy": "Role-dependent - Remote work available for some positions",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Varies by role and project - some positions offer remote work, others require on-site presence",
+        "enforcement_date": null,
+        "flexibility": "Company offers remote work opportunities for certain positions, particularly on government contracting projects. Flexibility appears to be determined by Program Manager and project requirements rather than company-wide policy. No formal RTO mandate identified."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Company Website",
+          "url": "https://www.tscti.com/",
+          "date": "2024",
+          "note": "IT Service Integrator and Workforce Solution company with 14 offices throughout the United States"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.indeed.com/cmp/22nd-Century-Technologies-210e7f6b/reviews",
+          "date": "2024",
+          "note": "Employee reviews mention ability to work remotely on certain projects"
+        },
+        {
+          "type": "Company Info",
+          "url": "https://www.zippia.com/22nd-century-technologies-careers-13161/",
+          "date": "2024",
+          "note": "Named 2025 Washington Business Journal's Best Places to Work; 6,000+ employees nationwide"
+        }
+      ],
+      "key_findings": "22nd Century Technologies is a fast-growing IT Service Integrator and Workforce Solution company founded in 1997, with headquarters in Princeton, NJ and McLean, VA. The company has 6,000+ employees across 14 U.S. offices. While no formal RTO or hybrid policy is publicly documented, employee reviews indicate that remote work is available for some positions, particularly those on government contracting projects. Flexibility appears to be managed at the program/project level rather than through a standardized company-wide policy. The company was recognized as one of the 2025 Best Places to Work in Greater Washington area."
+    },
+    {
+      "company_name": "DICK'S Sporting Goods",
+      "rank": 180,
+      "sector": "Retail",
+      "current_policy": "Hybrid - Corporate office employees work in-office Tuesday-Thursday, remote Monday and Friday",
+      "policy_details": {
+        "in_office_days": 3,
+        "remote_days": 2,
+        "typical_schedule": "Corporate office: In-office Tuesday, Wednesday, Thursday; Remote Monday and Friday. Some roles are fully remote (primarily customer service positions). Some positions may have different hybrid schedules (e.g., 1 day in office, 4 days remote).",
+        "enforcement_date": null,
+        "flexibility": "Standard hybrid schedule for corporate office employees in Coraopolis, PA (near Pittsburgh). Customer service and certain other roles may be fully remote. Hybrid schedule varies by specific role and team requirements."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Medium",
+      "sources": [
+        {
+          "type": "Employee Reports",
+          "url": "https://www.indeed.com/cmp/Dick's-Sporting-Goods/faq/what-is-the-work-from-home-policy-at-dick-s-sporting-goods?quid=1ev04m6uot5ho800",
+          "date": "2024",
+          "note": "Employees confirm hybrid schedule working remotely Mondays and Fridays, in-office Tuesday-Thursday"
+        },
+        {
+          "type": "Job Listings",
+          "url": "https://www.flexjobs.com/remote-jobs/company/dicks_sporting_goods",
+          "date": "2024",
+          "note": "Remote positions available, typically customer service roles"
+        },
+        {
+          "type": "Job Postings",
+          "url": "https://www.dickssportinggoods.jobs/jobs/?searchlocation=Remote",
+          "date": "2024",
+          "note": "Company advertises both remote and hybrid positions"
+        }
+      ],
+      "key_findings": "DICK'S Sporting Goods has implemented a hybrid work policy for corporate office employees at their Coraopolis, PA headquarters (near Pittsburgh). The standard schedule requires in-office presence Tuesday through Thursday, with remote work on Mondays and Fridays. Some positions, particularly in customer service, are offered as fully remote. Certain roles may have more flexible hybrid arrangements (e.g., 1 day in office, 4 days remote), indicating that the specific schedule can vary by role and team. The company continues to advertise both remote and hybrid positions, suggesting a stable approach to flexible work arrangements."
+    },
+    {
+      "company_name": "HealthPartners",
+      "rank": 181,
+      "sector": "Health Care",
+      "current_policy": "Hybrid/Remote - Role-dependent with flexible work options for eligible positions",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Varies by role and department - 20% of employees work fully remote according to employee reports",
+        "enforcement_date": null,
+        "flexibility": "Company offers work from home policy as an employee benefit. Remote and hybrid positions available across various departments including nursing, medicine, dentistry, health administration, business operations, customer service, and IT. Clinical positions typically require on-site presence while administrative and support roles may be eligible for remote or hybrid arrangements."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Employee Reports",
+          "url": "https://www.comparably.com/companies/healthpartners",
+          "date": "2024",
+          "note": "20% of employees report working fully remote; Work From Home Policy listed as company perk"
+        },
+        {
+          "type": "Job Listings",
+          "url": "https://www.flexjobs.com/remote-jobs/company/healthpartners",
+          "date": "2024",
+          "note": "Remote and hybrid positions advertised across multiple departments"
+        },
+        {
+          "type": "Company Info",
+          "url": "https://www.healthpartners.com/careers/ghi/",
+          "date": "2024",
+          "note": "Headquarters in Bloomington, MN; nation's largest consumer-governed healthcare organization with 22,500+ employees"
+        }
+      ],
+      "key_findings": "HealthPartners, headquartered in Bloomington, Minnesota, is the nation's largest consumer-governed healthcare organization with over 22,500 employees. The company offers role-dependent work arrangements with approximately 20% of employees working fully remote according to employee reports. HealthPartners advertises positions as onsite, remote, or hybrid across various departments including nursing, medicine, dentistry, health administration, business operations, customer service, and IT. The company lists a Work From Home Policy among its employee benefits. As a healthcare organization, clinical and patient-facing roles typically require on-site presence, while administrative and support positions may be eligible for remote or hybrid work. No formal company-wide RTO mandate or specific policy details are publicly available."
+    },
+    {
+      "company_name": "EMCOR Group",
+      "rank": 182,
+      "sector": "Industrials",
+      "current_policy": "Hybrid - Flexible arrangements available for eligible positions",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Varies by role - some positions offer hybrid schedules, others require on-site presence",
+        "enforcement_date": null,
+        "flexibility": "Company offers hybrid schedules and fairly flexible scheduling for some positions. Remote work and part-time opportunities available in areas like call center and customer service. Specific requirements vary by role and subsidiary. No standardized company-wide policy publicly disclosed."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Job Listings",
+          "url": "https://www.flexjobs.com/remote-jobs/company/emcor_group",
+          "date": "2024",
+          "note": "Remote jobs and flexible schedules advertised in call center and customer service areas"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.glassdoor.com/Reviews/EMCOR-Group-Reviews-E3564.htm",
+          "date": "2024",
+          "note": "Employee reviews mention hybrid schedule and remote work as pros; fairly flexible scheduling noted"
+        },
+        {
+          "type": "Company Website",
+          "url": "https://emcorgroup.com/careers",
+          "date": "2024",
+          "note": "Fortune 500 mechanical and electrical construction and facilities services company"
+        }
+      ],
+      "key_findings": "EMCOR Group is a Fortune 500 mechanical and electrical construction and facilities services company. While the company does not have a publicly disclosed formal remote work policy for corporate employees, employee reviews indicate that hybrid schedules and remote work options are available for certain positions. Employees have mentioned 'hybrid schedule' and 'fairly flexible scheduling' as benefits of working at the company. Remote work opportunities and part-time positions with alternative schedules are advertised in areas such as call center and customer service. As a construction and facilities services company, many roles naturally require on-site presence, but administrative and support functions appear to have some flexibility. No evidence of recent RTO mandates or policy changes."
+    },
+    {
+      "company_name": "Carilion Clinic",
+      "rank": 183,
+      "sector": "Health Care",
+      "current_policy": "Role-dependent - Hybrid and remote options available for eligible administrative positions",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Varies by position - some roles offer hybrid or remote work, onsite work preferred for most positions",
+        "enforcement_date": null,
+        "flexibility": "Healthcare organization with most clinical roles requiring on-site presence. Some administrative and corporate positions may qualify for remote or hybrid work. Remote positions limited to candidates residing in specific states (including Alabama, Florida, and others). Work arrangements determined on position-by-position basis."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Job Listings",
+          "url": "https://www.flexjobs.com/remote-jobs/company/carilion_clinic",
+          "date": "2024",
+          "note": "Hybrid and remote positions advertised with geographic restrictions for remote workers"
+        },
+        {
+          "type": "Job Postings",
+          "url": "https://www.indeed.com/q-carilion-clinic-remote-hybrid-jobs.html",
+          "date": "2024",
+          "note": "Some positions like Patient Appointment Scheduler have remote work option available"
+        },
+        {
+          "type": "News Article",
+          "url": "https://roanoke.com/news/local/business/health-care/carilion-financials-should-return-to-black-in-24-ceo-says/article_6c1d81a2-527e-11ee-bf59-ab6974c60961.html",
+          "date": "2023",
+          "note": "Company has 'leaned into lessons from pandemic, continuing flexible staffing and remote work models when able'"
+        }
+      ],
+      "key_findings": "Carilion Clinic is a healthcare organization based in Virginia that continues to offer flexible work arrangements for eligible positions following lessons learned during the pandemic. As expected for a healthcare provider, most clinical and patient-facing roles require on-site presence. However, the organization does offer hybrid and remote work options for certain administrative and corporate positions such as Patient Appointment Scheduler. For remote positions, geographic restrictions apply, with candidates typically needing to reside in specific states including Alabama, Florida, and others. A 2023 article noted that Carilion has 'leaned into the lessons from the pandemic, continuing flexible staffing and remote work models when able,' suggesting an ongoing commitment to flexibility where operationally feasible. Work arrangements appear to be determined on a position-by-position basis rather than through a standardized company-wide policy."
+    }
+  ],
+  "research_methodology": {
+    "sources_checked": [
+      "Company websites and career pages",
+      "Job postings on Indeed, FlexJobs, and company sites",
+      "Employee reviews on Glassdoor and Indeed",
+      "News articles and press releases",
+      "RTO tracker websites (BuildRemote.co, Archie, etc.)",
+      "Company information databases (Zippia, Comparably)"
+    ],
+    "challenges": [
+      "22nd Century Technologies: Very limited public information about formal work policies. Information pieced together from employee reviews and company descriptions.",
+      "DICK'S Sporting Goods: Most search results focused on product return policies rather than workplace policies. Found information through employee Q&A and job postings.",
+      "HealthPartners: No specific formal policy details publicly available. Information from employee reports and job listings only.",
+      "EMCOR Group: Minimal public documentation of remote work policies. Information inferred from job postings and employee reviews.",
+      "Carilion Clinic: Limited public policy information. As healthcare provider, most roles naturally require on-site presence. Some flexibility noted for administrative roles."
+    ],
+    "confidence_notes": {
+      "medium": "DICK'S Sporting Goods - Consistent employee reports of 3-day in-office schedule for corporate employees",
+      "low": "All other companies - Limited public information, no formal policy announcements found. Information pieced together from various sources including job postings and employee reviews"
+    }
+  },
+  "overall_trends": {
+    "summary": "This batch of companies (ranks 179-183) shows limited public transparency regarding formal RTO policies. Most companies appear to take a role-dependent approach with varying levels of flexibility. DICK'S Sporting Goods has the most clearly defined hybrid policy (3 days in office, 2 remote for corporate employees). Healthcare organizations (HealthPartners and Carilion Clinic) maintain role-dependent policies with on-site requirements for clinical staff and flexibility for administrative roles. Technology and industrial companies (22nd Century Technologies and EMCOR Group) offer some remote and hybrid options but lack standardized public policies. None of the companies showed evidence of recent RTO mandate tightening.",
+    "by_sector": {
+      "Technology": "22nd Century Technologies shows project-based flexibility without formal policy",
+      "Retail": "DICK'S Sporting Goods maintains structured 3-2 hybrid schedule for corporate office",
+      "Health Care": "HealthPartners and Carilion Clinic both maintain role-dependent policies with remote/hybrid options for eligible administrative positions, on-site requirements for clinical roles",
+      "Industrials": "EMCOR Group offers hybrid and flexible arrangements for eligible positions, varying by role and subsidiary"
+    }
+  }
+}
