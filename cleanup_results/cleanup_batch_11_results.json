@@ -1,0 +1,97 @@
+[
+  {
+    "company": "DoorDash",
+    "rank": 148,
+    "industry": "Technology",
+    "rto_policy": "Flexible/Hybrid - Team-based discretion",
+    "details": "DoorDash maintains a flexible workplace model allowing employees to choose between remote and in-office work. While the company recommends hybrid (2-3 days per week), individual teams ultimately decide their own requirements. Employees are required to be within proximity to one of three office locations (San Francisco, New York, or Seattle) on paper, though enforcement varies by team. The company explicitly stated 'never' to mandatory office returns.",
+    "policy_type": "Flexible",
+    "days_in_office": null,
+    "required_days": null,
+    "implementation_date": "Not specified",
+    "last_updated": "2024",
+    "sources": [
+      "https://about.doordash.com/en-us/news/doordashs-hybrid-work-plan-committing-to-flexibility",
+      "https://www.teamblind.com/post/What-is-DoorDashs-current-RTO-policy-ZL16iA05",
+      "https://www.teamblind.com/post/is-doordash-mandatory-rto-grzsmffv"
+    ],
+    "confidence": "High",
+    "notes": "DoorDash stands out among major tech companies for maintaining one of the most flexible RTO policies. The company recommends 2-3 days per week hybrid work but leaves final decisions to individual teams. Employees must be designated to SF, NY, or Seattle locations, but enforcement depends on team requirements. This represents a notably employee-friendly approach compared to stricter RTO mandates at other tech companies."
+  },
+  {
+    "company": "Paychex",
+    "rank": 149,
+    "industry": "Technology",
+    "rto_policy": "Hybrid - Transitioning from remote to hub-based hybrid",
+    "details": "Paychex offers in-office, remote, and hybrid work arrangements, with a focus on flexibility and work-life balance. The company has been transitioning away from fully remote positions and now primarily hires for hybrid or in-office roles. Employees are required to live in or near a Hub City. The company provides opportunities to work remotely, in office, and on a hybrid basis, with flexible schedules available for some roles.",
+    "policy_type": "Hybrid",
+    "days_in_office": null,
+    "required_days": null,
+    "implementation_date": "Not specified",
+    "last_updated": "2024",
+    "sources": [
+      "https://www.glassdoor.com/Benefits/Paychex-Work-From-Home-US-BNFT152_E1762_N1.htm",
+      "https://www.paychex.com/articles/human-resources/hybrid-workplace-modern-workspace",
+      "https://www.flexjobs.com/remote-jobs/company/paychex"
+    ],
+    "confidence": "Medium",
+    "notes": "Paychex is moving away from 100% remote work toward a hybrid-focused approach. While the company maintains flexibility, recent hiring trends show a shift to requiring employees to be located near Hub Cities. Specific in-office requirements are not publicly detailed and likely vary by role and department. The company emphasizes modern workspace strategies and supporting hybrid workers."
+  },
+  {
+    "company": "Home Depot",
+    "rank": 152,
+    "industry": "Retail",
+    "rto_policy": "Full-time/4 days per week in office (starting June 2025)",
+    "details": "Starting June 2025, Home Depot employees working within 50 miles of the Atlanta headquarters must return to the office either full-time (5 days) or 4 days per week. Additionally, all corporate employees are required to work a full eight-hour shift at a retail store once per quarter, which began in Q4 2024. This policy includes everyone from senior management to remote workers.",
+    "policy_type": "Full-time/Near Full-time",
+    "days_in_office": 4,
+    "required_days": null,
+    "implementation_date": "June 2025",
+    "last_updated": "2025",
+    "sources": [
+      "https://buildremote.co/return-to-office/home-depot/",
+      "https://www.ajc.com/news/business/home-depot-joins-ups-other-fortune-500s-with-new-back-to-office-rules/D2C33Z4SPVEWZBQHKIEV7VTUUI/",
+      "https://www.familyhandyman.com/article/why-home-depot-is-making-corporate-employees-work-retail-four-times-a-year/"
+    ],
+    "confidence": "High",
+    "notes": "Home Depot has implemented one of the stricter RTO policies among Fortune 500 companies, requiring 4-5 days in office starting June 2025 for employees within 50 miles of Atlanta HQ. The additional requirement for all corporate employees to work quarterly retail shifts is unique and demonstrates the company's emphasis on connecting corporate staff with store operations. This represents a significant shift from previous remote work flexibility."
+  },
+  {
+    "company": "ADAC Automotive",
+    "rank": 153,
+    "industry": "Manufacturing",
+    "rto_policy": "Primarily On-site (limited remote for specific roles)",
+    "details": "ADAC Automotive, primarily a manufacturing operation, requires most employees to work on-site at their facilities in Grand Rapids, Muskegon, and Holland, Michigan. Remote work is available only for certain positions such as sales and engineering roles. For example, some Account Executive positions are based in metro Detroit, working remotely and at customer locations with occasional visits to Grand Rapids headquarters. The nature of automotive parts manufacturing (door handles, exterior trim, marker lighting) necessitates on-site presence for production, assembly, and quality control.",
+    "policy_type": "On-site",
+    "days_in_office": 5,
+    "required_days": null,
+    "implementation_date": "Not specified",
+    "last_updated": "2024",
+    "sources": [
+      "https://www.indeed.com/cmp/Adac-Automotive/topics/work-from-home",
+      "https://adacautomotive.com/careers/",
+      "https://www.glassdoor.com/Overview/Working-at-ADAC-Automotive-EI_IE20092.11,26.htm"
+    ],
+    "confidence": "Medium",
+    "notes": "ADAC Automotive operates primarily as an on-site manufacturing company with approximately 3,000 employees. Remote work options are extremely limited and available only for select sales, engineering, and administrative positions. The company's business model (automotive parts manufacturing for automakers and tier 1 suppliers) requires most workforce to be present at manufacturing facilities. No formal company-wide remote work policy appears to be publicly available."
+  },
+  {
+    "company": "Unum Group",
+    "rank": 164,
+    "industry": "Insurance",
+    "rto_policy": "Hybrid - 3 days per week in office (for those within 50 miles)",
+    "details": "Unum operates a hybrid model with employees required to be in the office 3 days per week if they live within 50 miles of an office location. The company also offers fully remote positions for those outside this range. Unum provides all needed equipment for remote associates to work from anywhere in the United States. However, recent policy changes have raised concerns among remote workers, with reports that remote employees are last considered for promotions or advancement opportunities. Major offices are in Chattanooga, TN, Portland, ME, and Baton Rouge, LA, with over 35 US field offices.",
+    "policy_type": "Hybrid",
+    "days_in_office": 3,
+    "required_days": null,
+    "implementation_date": "Not specified",
+    "last_updated": "2024",
+    "sources": [
+      "https://www.glassdoor.com/Benefits/Unum-Work-From-Home-US-BNFT152_E9522_N1.htm",
+      "https://www.indeed.com/cmp/Unum/topics/work-from-home",
+      "https://careers.unum.com/global/en/flexibility-and-growth"
+    ],
+    "confidence": "High",
+    "notes": "Unum Group maintains a hybrid model requiring 3 days per week in office for employees within 50 miles of office locations. The company supports both hybrid and fully remote workers, though recent concerns have emerged about potential discrimination against remote workers in promotion decisions. The 50-mile proximity rule is a key factor in determining whether employees must follow the hybrid model or can work fully remote."
+  }
+]
