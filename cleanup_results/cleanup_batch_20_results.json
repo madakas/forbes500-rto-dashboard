@@ -1,0 +1,112 @@
+{
+  "batch_number": 20,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "Primerica",
+      "rank": 224,
+      "sector": "Financials",
+      "current_policy": "Hybrid with role-based flexibility",
+      "policy_details": {
+        "model_type": "Hybrid (varies by role and department)",
+        "in_office_days": null,
+        "office_requirements": "Some roles 100% remote (specific IT positions), others hybrid with multiple days per week in office. Based in Duluth, GA headquarters. Policy depends on role negotiation with manager.",
+        "flexibility": "High flexibility for certain technical roles; varies by department. Some positions allow remote work from anywhere in US within EST hours."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Benefits/Primerica-Work-From-Home-US-BNFT152_E13616_N1.htm",
+        "https://www.indeed.com/cmp/Primerica/reviews?fcountry=US&floc=Remote",
+        "https://primerica.wd1.myworkdayjobs.com/PRI",
+        "https://builtin.com/job/avp-isp-finance/4135352"
+      ],
+      "key_findings": "Primerica offers hybrid work arrangements that vary significantly by role. IT positions can be 100% remote, while other roles like Curriculum Developer, Regulatory Attorney, and AVP ISP Finance are hybrid requiring multiple days per week in Duluth, GA office. Customer Service Representatives may work remotely or hybrid after training. Company rated 3.8/5 on Glassdoor with 72% recommending to a friend. Named Top Workplace by USA Today (5 consecutive years through 2025) and Atlanta Journal-Constitution (11 consecutive years). No formal RTO mandate found for 2024-2025; policy appears stable and role-dependent.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "XPO",
+      "rank": 226,
+      "sector": "Transportation",
+      "current_policy": "Limited remote work, primarily office/field-based",
+      "policy_details": {
+        "model_type": "Office-first with limited remote positions",
+        "in_office_days": null,
+        "office_requirements": "Most positions are field-based (drivers, warehouse, operations) requiring physical presence. Some corporate/administrative roles offer remote options. Headquarters in Greenwich, CT.",
+        "flexibility": "Low flexibility overall; remote work available only for specific positions. Nature of logistics/transportation business requires most employees on-site."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.indeed.com/cmp/Xpo-bc1cd16f/topics/work-from-home",
+        "https://www.flexjobs.com/remote-jobs/company/xpo_logistics",
+        "https://www.glassdoor.com/Reviews/XPO-Reviews-E615153.htm",
+        "https://investors.xpo.com/news-releases/news-release-details/xpo-logistics-announces-move-new-headquarters-connecticut"
+      ],
+      "key_findings": "XPO Logistics operates primarily with an office-first/field-based model due to the nature of transportation and logistics operations. Some remote positions exist for corporate/administrative functions, but these are limited. Employee consensus on work-from-home is 'Not Available' per review platforms. Corporate headquarters remains in Greenwich, CT (approximately 75 employees at headquarters). Glassdoor rating 3.6/5 with 69% recommending to friend. No significant RTO policy changes announced for 2024-2025. Company recognized by Fortune as one of America's Most Innovative Companies in 2025.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "3HC Home Health and Hospice Care",
+      "rank": 235,
+      "sector": "Health Care",
+      "current_policy": "Return to office with limited remote work",
+      "policy_details": {
+        "model_type": "Office-first with inconsistent application",
+        "in_office_days": null,
+        "office_requirements": "Management has moved to revoke remote options that existed during pandemic for many workers. Clinical staff (home health/hospice nurses, caregivers) work in field by nature of role. Administrative/office roles largely required in-office.",
+        "flexibility": "Low flexibility; some remote work available but described as inconsistent ('favored ones can do as they please' per employee review). Flexible scheduling mentioned for work-life balance."
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://www.indeed.com/cmp/3hc-Home-Health-and-Hospice-Care/reviews",
+        "https://www.indeed.com/cmp/3hc-Home-Health-and-Hospice-Care/faq",
+        "https://www.3hc.org/",
+        "https://www.flexjobs.com/remote-jobs/company/3hc_home_health_and_hospice_care"
+      ],
+      "key_findings": "3HC (based in Eastern North Carolina, serving 22+ counties, 400+ employees, 7 clinical offices) has pulled back remote work arrangements that were in place during COVID-19. Employee review from May 2024 indicates management revoked remote options for many office workers, though application appears inconsistent. Company values work-life balance and offers flexible scheduling, but remote work is limited. High nursing turnover noted in reviews. Positive aspects include good pay, strong PTO accrual, and excellent benefits. Clinical staff work in field by nature of home health/hospice services.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "24 Hour Home Care",
+      "rank": 236,
+      "sector": "Health Care",
+      "current_policy": "Field-based with flexible scheduling for caregivers",
+      "policy_details": {
+        "model_type": "Field-based (caregivers work in clients' homes)",
+        "in_office_days": 0,
+        "office_requirements": "Caregivers work in clients' homes across California, Arizona, New Mexico, and Oregon. Corporate headquarters in El Segundo, CA. Office-based roles (administrative, corporate) likely in-office but no specific policy found.",
+        "flexibility": "High flexibility for caregivers with flexible work hours based on availability, skillset, and client needs. Schedules accommodate caregiver availability."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.linkedin.com/company/24hr-homecare",
+        "https://www.indeed.com/cmp/24-Hour-Home-Care/reviews?fcountry=US&floc=El+Segundo,+CA",
+        "https://www.glassdoor.com/Overview/Working-at-24-Hour-Home-Care-EI_IE535324.11,28.htm",
+        "https://www.24hrcares.com/",
+        "https://fortune.com/company/24-hour-home-care/"
+      ],
+      "key_findings": "24 Hour Home Care (headquartered in El Segundo, CA) provides in-home caregiving services with 16,000+ caregivers serving 16,000+ clients across California, Arizona, New Mexico, and Oregon. Caregivers work in clients' homes by nature of the business model. Company offers competitive pay, comprehensive benefits (for eligible employees), and flexible work hours based on caregiver availability and client needs. Named Fortune Best Workplaces since 2018. Founded 2008, $2.7B revenue, 1,728 corporate employees. No traditional RTO policy applicable as caregivers are field-based. Corporate/administrative staff policy not publicly documented.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "America First Credit Union",
+      "rank": 237,
+      "sector": "Financials",
+      "current_policy": "Branch-based with limited remote work",
+      "policy_details": {
+        "model_type": "Office-first (branch and corporate locations)",
+        "in_office_days": null,
+        "office_requirements": "Most positions are branch-based requiring in-person customer service. Headquarters in Riverdale, UT. 130+ branch locations across Utah, Nevada, Idaho, Arizona, and New Mexico. Some remote work mentioned in employee reviews but not widespread.",
+        "flexibility": "Low to moderate flexibility; some employees mention WFH availability and flexible hours. Remote interviews conducted. No comprehensive remote work policy publicly documented."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Reviews/America-First-Credit-Union-Reviews-E25674.htm",
+        "https://www.indeed.com/cmp/America-First-Credit-Union/reviews",
+        "https://www.americafirst.com/about/careers.html",
+        "https://www.glassdoor.com/Benefits/America-First-Credit-Union-US-Benefits-EI_IE25674.0,26_IL.27,29_IN1.htm"
+      ],
+      "key_findings": "America First Credit Union (headquartered in Riverdale, UT) is the 5th largest credit union in US by membership and 7th by assets. As of Dec 2023: 1 million+ members, 124-130+ branch locations, $19.35B in assets, operating in UT, NV, ID, AZ, and NM. Most positions are branch-based (tellers, customer service, supervisors) requiring physical presence for member interactions. Some employees mention work-from-home options and flexible scheduling in reviews from 2024. Glassdoor rating 3.9/5 for work-life balance. No formal RTO mandate or remote work policy publicly announced for 2024-2025. Some processing specialists mention WFH availability, and multiple employees wish for 'more remote possibilities.'",
+      "confidence_level": "Medium"
+    }
+  ]
+}
