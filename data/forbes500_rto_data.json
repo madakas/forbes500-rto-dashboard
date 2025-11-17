@@ -848,7 +848,7 @@
     "fortune_500_rank": "101",
     "work_policy": {
       "type": "Role-dependent (Limited hybrid/remote)",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "Varies by manager",
       "details": "Defense contractor with security clearance requirements limiting remote work. Majority of engineering and classified roles require on-site presence in SCIF/SAPF secure facilities. Some administrative, non-classified roles offer hybrid or remote options (4.5-day week, 9-day fortnight available). Remote work requires manager approval and role suitability. Flexibility varies significantly by program, location, and security requirements. Headquarters in Falls Church, VA with operations nationwide.",
@@ -1093,7 +1093,7 @@
     "fortune_500_rank": "512",
     "work_policy": {
       "type": "Flexible hybrid/remote",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "Team and manager discretion",
       "details": "Office-based, hybrid, and remote working models offered where 'employees can do their best work wherever they work best.' Most roles fully remote since COVID; some require onsite (lab testers, warehouse workers). Chicago corporate office roles typically 1-2 days/week currently, with expectations up to 4 days/week. Some positions specify 3 days/week hybrid. Remote work program includes telecommuting at manager discretion.",
@@ -1169,7 +1169,7 @@
     "fortune_500_rank": null,
     "work_policy": {
       "type": "Hybrid (Remote and In-Office)",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "Not specified",
       "details": "120 employees working both remotely and in the Homewood office. Company supports hybrid model with employees distributed between remote and in-office locations. Relocated to larger office space in Homewood, AL (600 University Park Place) in May 2023 to provide state-of-the-art workspace for collaboration while maintaining remote work options. Formerly Prepaid Technologies, rebranded as Dash Solutions in February 2023.",
@@ -1230,7 +1230,7 @@
     "fortune_500_rank": "14",
     "work_policy": {
       "type": "Flexible (Remote/Hybrid/In-Person)",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "Manager discretion",
       "details": "Three work models available: remote, hybrid, and in-person. No company-wide mandate for specific office days. CHRO Ola Snow states company is 'less focused on where employees get their work done but on what work needs to be done and where people are best energized to do it.' Policy varies significantly by role, department, and manager. Frontline workers have flexible shift options. Remote positions available in sales and customer service. No distinction between salaried/hourly for flexibility eligibility.",
@@ -1456,7 +1456,7 @@
     "fortune_500_rank": "339",
     "work_policy": {
       "type": "Client-dependent flexible (Hybrid/Remote/Onsite)",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "Determined by client requirements and team needs",
       "details": "Three work models: 'Onsite' (4+ days/week or >50% over 90 days at client/company sites), 'Remote' (≤20 days/year onsite, requires living >50 miles from facility or no facility in state), 'Hybrid' (work expectations determined at team level). Arrangements are heavily client-dependent. Some teams require office once per week, others fully remote. Recent administration changes have reduced remote government contracts.",
@@ -1494,7 +1494,7 @@
     "fortune_500_rank": "76",
     "work_policy": {
       "type": "Flexible choice (Predominantly remote)",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "Employee choice",
       "details": "75% of employees are home-based, 24% hybrid, 1% office-based. Manager-led decisions allow teams to determine their own arrangements. Employees can choose when to use offices. Closed 5,000+ employee headquarters in Northbrook, IL and reduced office footprint from 12M to 4M sq ft. Partnership with LiquidSpace gives 25% of 54,000 corporate employees access to coworking spaces in cities like Atlanta, Tampa, and Minneapolis.",
@@ -1575,7 +1575,7 @@
     "fortune_500_rank": "",
     "work_policy": {
       "type": "Remote-friendly hybrid",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "None",
       "details": "Distributed team across 4 continents. No mandatory office requirements. WeWork coworking access available but no brick-and-mortar offices. Remote work encouraged.",
@@ -1864,7 +1864,7 @@
     "fortune_500_rank": "",
     "work_policy": {
       "type": "Remote-friendly (role-dependent)",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Small IT consulting firm (30-71 employees). Offers remote positions and on-site roles. Consultant roles may work at client sites. Not a Fortune 500 company.",
@@ -1886,7 +1886,7 @@
     "fortune_500_rank": "",
     "work_policy": {
       "type": "Flexible remote/hybrid - Role-dependent",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "Varies by team - 2-3 days for hybrid, fully remote for others",
       "details": "Cleveland Clinic continues to embrace and expand remote/hybrid work. Over 11,000 employees (13% of global workforce) work remotely or hybrid as of 2024. Two-thirds of administrative employees work fully remote, while the rest are hybrid with 2-3 days in office. Clinical staff remain on-site. Eligible roles include systems and financial analysis, project/program/care management, HR, scheduling, patient financial advocacy, and authorization.",
@@ -2168,7 +2168,7 @@
     "fortune_500_rank": "",
     "work_policy": {
       "type": "Flexible hybrid/remote - Unit-based decisions",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "Varies by department - 1-4 days remote per week",
       "details": "Duke maintains a decentralized, flexible approach with decisions made at the unit/department level. Of surveyed employees, 45% work remotely 1-4 days per week (hybrid), 33% work fully remote, and 22% do not work remotely. Policy applies to non-patient and non-student facing roles. Remote Work Policy updated effective February 13, 2025. Duke is 'supportive of continuing long-term remote or hybrid work arrangements where appropriate' with primary responsibility remaining with deans and vice presidents for their respective schools and departments.",
@@ -2373,7 +2373,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unable to verify - No public data found",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "No public information available about a company specifically named 'AH Group' in the healthcare sector. This may refer to Advocate Health (formerly Advocate Aurora Health), but no specific RTO policy information was found in public sources.",
@@ -2612,7 +2612,7 @@
     "fortune_500_rank": "",
     "work_policy": {
       "type": "Role-Dependent (Remote/Hybrid/On-site)",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "Varies by role",
       "details": "Healthcare organization with mixed policy. Clinical staff on-site as required by nature of work. Administrative/support staff have access to remote and hybrid arrangements requiring manager approval. Remote workers typically don't maintain designated office space. Hybrid workers come on-site for specified days per week with flexible scheduling. All remote/hybrid arrangements require completion of Telecommuting Agreement in Blue system.",
@@ -2735,7 +2735,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -2772,7 +2772,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -2816,7 +2816,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -2853,7 +2853,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -2890,7 +2890,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -2934,7 +2934,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -2981,7 +2981,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3036,7 +3036,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3083,7 +3083,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3138,7 +3138,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3185,7 +3185,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3226,7 +3226,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3273,7 +3273,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3320,7 +3320,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3367,7 +3367,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3414,7 +3414,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3457,7 +3457,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3493,7 +3493,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3536,7 +3536,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3579,7 +3579,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3627,7 +3627,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3666,7 +3666,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3705,7 +3705,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3744,7 +3744,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3783,7 +3783,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3822,7 +3822,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3866,7 +3866,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3917,7 +3917,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -3961,7 +3961,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4012,7 +4012,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4056,7 +4056,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4093,7 +4093,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4144,7 +4144,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4188,7 +4188,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4239,7 +4239,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4290,7 +4290,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4329,7 +4329,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4376,7 +4376,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4423,7 +4423,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4470,7 +4470,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4525,7 +4525,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4560,7 +4560,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4595,7 +4595,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4630,7 +4630,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4665,7 +4665,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4700,7 +4700,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4744,7 +4744,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4788,7 +4788,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4832,7 +4832,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -4883,7 +4883,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -5124,7 +5124,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "No company-wide mandated office days; teams decide their own arrangements",
@@ -5150,7 +5150,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Varies by department and job level; increasingly requiring hub proximity",
@@ -5177,7 +5177,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "In-person at Arcola, Illinois facility",
@@ -5231,7 +5231,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Unknown",
@@ -5610,7 +5610,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Varies by department - No uniform company-wide policy",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Part-time and full-time, 100% remote positions available for certain roles",
@@ -5766,7 +5766,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -5810,7 +5810,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -5854,7 +5854,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -5905,7 +5905,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -5956,7 +5956,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -6118,7 +6118,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Mixed - Remote Available / Some RTO",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Varies by position, client, and location; traditional call center roles may require on-site",
@@ -6155,7 +6155,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Headquarters Consolidation (2022-2024)",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Corporate employees relocated to central headquarters location",
@@ -6199,7 +6199,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Remote work available for some roles",
@@ -6244,7 +6244,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Fixed hybrid schedule - Remote on Mondays and Fridays, in-office Tuesday through Thursday",
@@ -6493,7 +6493,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Remote/Hybrid (Inferred)",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "High flexibility - company built with cloud-first architecture and remote access capabilities",
@@ -6532,7 +6532,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Flexible (Remote, Hybrid, On-site)",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "High - offers flexible and hybrid to 100% remote positions",
@@ -6571,7 +6571,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Primarily On-Site",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Low - employee reports indicate work from home not granted despite advertising",
@@ -6611,7 +6611,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "On-Site for Corporate; Remote for Select Roles",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Low for corporate roles; role-specific remote options for operational positions",
@@ -6651,7 +6651,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "In-office/On-site",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "In-office/On-site",
@@ -6692,7 +6692,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Flexible Hybrid/Remote",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Flexible Hybrid/Remote",
@@ -6774,7 +6774,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Hybrid - Performance-Based Remote Eligibility",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Hybrid - Performance-Based Remote Eligibility",
@@ -6903,7 +6903,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Flexible work arrangements with remote options available",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Flexible schedules and part-time options available for eligible employees; accommodating management approach",
@@ -7172,7 +7172,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Manager-discretion based",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Flexible - manager and role dependent",
@@ -7246,7 +7246,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -7280,7 +7280,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -7314,7 +7314,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -7353,7 +7353,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -7387,7 +7387,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -7681,7 +7681,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "High - employees have flexibility to work remotely or go to the office",
@@ -7804,7 +7804,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Very high - work from home is the default for most positions",
@@ -7892,7 +7892,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Flexible Hybrid/Remote",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Flexible Hybrid/Remote",
@@ -8097,7 +8097,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown/In-person dominant",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Limited information - Likely primarily in-person",
@@ -8167,7 +8167,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Primarily In-Office",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Primarily in-office - Limited remote work",
@@ -8243,7 +8243,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Return to Office - Inconsistently Applied",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Return to Office - Inconsistently Applied",
@@ -8279,7 +8279,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Hybrid/Remote Available",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Hybrid/Remote Available",
@@ -8315,7 +8315,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Limited Remote - Position Dependent",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Limited Remote - Position Dependent",
@@ -8522,7 +8522,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Flexible hybrid with personalized remote options",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Flexible hybrid with personalized remote options",
@@ -8657,7 +8657,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Primarily in-office for corporate headquarters",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Primarily in-office for corporate headquarters",
@@ -8881,7 +8881,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Hybrid model but specific day requirements not publicly disclosed High - Multiple flexible work arrangements available",
@@ -8928,7 +8928,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -8963,7 +8963,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -9004,7 +9004,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -9045,7 +9045,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -9086,7 +9086,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -9154,7 +9154,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Primarily On-Site (Restaurant Operations) / Limited Information for Corporate",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Primarily On-Site (Restaurant Operations) / Limited Information for Corporate",
@@ -9237,7 +9237,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Role-Based Flexible/Remote Options",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Role-Based Flexible/Remote Options",
@@ -9265,7 +9265,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Flexible remote-first",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "No mandatory office days; optional Team Jams (in-person gatherings)",
@@ -9290,7 +9290,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown - Likely remote-friendly for education roles",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Not specified",
@@ -9315,7 +9315,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Primarily in-office with some remote positions",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Branch and headquarters employees primarily work on-site",
@@ -9468,7 +9468,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Role-based flexibility with remote options for select positions",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Position-dependent rather than company-wide policy",
@@ -9506,7 +9506,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Primarily on-site due to manufacturing operations",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Primarily on-site due to manufacturing operations",
@@ -9661,7 +9661,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Limited information available - primarily on-site operations",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Unknown",
@@ -9821,7 +9821,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Flexible scheduling with hybrid/remote options for eligible roles",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Flexible scheduling available as part of benefits package",
@@ -9848,7 +9848,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Insufficient public information - Likely in-office focused due to operational nature",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Insufficient public information - Likely in-office focused due to operational nature",
@@ -9886,7 +9886,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Hybrid with flexible arrangements - Remote and hybrid roles available",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Flexible scheduling with work-from-home options for eligible positions",
@@ -9931,7 +9931,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Insufficient public information - No formal policy details available",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "Insufficient public information - No formal policy details available",
@@ -10058,7 +10058,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -10102,7 +10102,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -10147,7 +10147,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -10189,7 +10189,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -10230,7 +10230,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -10277,7 +10277,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -10323,7 +10323,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -10370,7 +10370,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -10419,7 +10419,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",
@@ -10467,7 +10467,7 @@
     "fortune_500_rank": "N/A",
     "work_policy": {
       "type": "Unknown",
-      "category": "Fully Remote",
+      "category": "Hybrid",
       "days_required": 0,
       "specific_days": "N/A",
       "details": "",

@@ -40,12 +40,13 @@ def map_to_category(policy_type: str, days_required: int, details: str) -> str:
     Categorize work policy into simplified categories.
 
     Categories:
-    - Fully Remote: 0 days required, remote-first policies
-    - Hybrid: 1-4 days in office, flexible arrangements
+    - Fully Remote: Truly remote-first companies (explicit remote-first/permanent remote)
+    - Hybrid: 1-4 days in office, flexible, role-dependent, or unclear
     - Full Office: 5 days required in office
     """
     policy_lower = policy_type.lower() if policy_type else ""
     details_lower = details.lower() if details else ""
+    combined = policy_lower + " " + details_lower
 
     # Full Office (5 days)
     if days_required >= 5:
@@ -54,35 +55,43 @@ def map_to_category(policy_type: str, days_required: int, details: str) -> str:
     if any(keyword in policy_lower for keyword in ['5-day office', 'full-time office', 'five days']):
         return "Full Office"
 
-    # Fully Remote (0 days or remote-first)
-    if any(keyword in policy_lower for keyword in ['remote-first', 'fully remote', 'permanent remote', 'remote only']):
-        return "Fully Remote"
+    # Categorize as Hybrid first for ambiguous cases
+    # This prevents false positives in "Fully Remote"
 
-    if days_required == 0 and any(keyword in policy_lower for keyword in ['remote', 'work from anywhere', 'distributed']):
-        return "Fully Remote"
-
-    # Hybrid (1-4 days or any hybrid/flexible arrangement)
-    if days_required in [1, 2, 3, 4]:
+    # Unknown/unclear policies → Hybrid
+    if any(keyword in policy_lower for keyword in ['unknown', 'unclear', 'unable to verify', 'no public data']):
         return "Hybrid"
 
-    if any(keyword in policy_lower for keyword in ['hybrid', 'flexible', 'days in office', 'days per week']):
+    # Role/position/client dependent → Hybrid (varies by person)
+    if any(keyword in combined for keyword in ['role-dependent', 'role dependent', 'position-dependent', 'position dependent',
+                                                 'varies by role', 'varies by position', 'client-dependent', 'client dependent']):
         return "Hybrid"
 
-    # Role-dependent - categorize as Hybrid since it varies
-    if any(keyword in policy_lower + details_lower for keyword in ['role-dependent', 'varies by role', 'position-dependent']):
+    # Limited/partial remote → Hybrid
+    if any(keyword in policy_lower for keyword in ['limited remote', 'partial remote', 'some remote']):
         return "Hybrid"
 
-    # Healthcare-specific - categorize as Hybrid
+    # Flexible/hybrid keywords → Hybrid
+    if any(keyword in policy_lower for keyword in ['flexible', 'hybrid', 'days in office', 'days per week']):
+        return "Hybrid"
+
+    # Healthcare clinical/administrative split → Hybrid
     if 'clinical' in details_lower and 'administrative' in details_lower:
         return "Hybrid"
 
-    # Default based on days if we have that info
-    if days_required == 0:
+    # Now check for TRUE Fully Remote (must have explicit indicators)
+    # Only categorize as Fully Remote if we have strong evidence
+    if any(keyword in policy_lower for keyword in ['remote-first', 'fully remote', 'fully-remote', 'permanent remote',
+                                                     'permanently remote', 'remote only', 'all-remote', 'distributed',
+                                                     'work from anywhere', 'location independent']):
         return "Fully Remote"
-    elif days_required > 0:
+
+    # 1-4 days in office → Hybrid
+    if days_required in [1, 2, 3, 4]:
         return "Hybrid"
 
-    # Unknown/unverified - default to Hybrid as most common middle ground
+    # Default: If we don't have clear indicators, assume Hybrid
+    # This is safer than assuming Fully Remote
     return "Hybrid"
 
 def normalize_old_format(company: Dict[str, Any]) -> Dict[str, Any]:
