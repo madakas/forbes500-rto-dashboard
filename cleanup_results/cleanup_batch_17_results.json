@@ -1,0 +1,106 @@
+{
+  "batch_number": 17,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+      "rank": 200,
+      "sector": "Health Care",
+      "current_policy": "Hybrid with position-dependent flexibility. Some roles offer remote options after training, while clinical roles require on-site presence.",
+      "policy_details": {
+        "model_type": "Hybrid (varies by role)",
+        "in_office_days": 2,
+        "office_requirements": "Healthcare organization with varied policies: some roles allow 2-3 days remote after training, some positions offer 1 day remote as needed, and fully remote positions available for select administrative roles (e.g., Revenue Cycle Strategy Manager)",
+        "flexibility": "Position-dependent. Clinical roles primarily on-site, administrative roles may have hybrid or remote options. On-site during training required for hybrid positions."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/lurie_childrens_hospital_of_chicago",
+        "https://www.indeed.com/cmp/Ann-&-Robert-H.-Lurie-Children's-Hospital-of-Chicago/topics/work-from-home",
+        "https://careers.luriechildrens.org/"
+      ],
+      "key_findings": "As a healthcare organization, Lurie Children's Hospital maintains a balanced approach with most clinical roles on-site while offering hybrid and some fully remote options for administrative and revenue cycle positions. Policy varies significantly by department and role type.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Cintas",
+      "rank": 206,
+      "sector": "Business Services",
+      "current_policy": "Primarily office-first with limited remote flexibility. Conservative approach to work-from-home arrangements.",
+      "policy_details": {
+        "model_type": "Office-first",
+        "in_office_days": 5,
+        "office_requirements": "Headquarters in Cincinnati, OH. Corporate employees expected in office. Sales representatives have field flexibility but limited formal WFH policy. Employee reviews indicate company is resistant to remote work arrangements.",
+        "flexibility": "Very limited. Sales roles have field flexibility by nature of position. Employee feedback indicates company 'doesn't even bring up work from home' and maintains conservative office policies."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Reviews/Cintas-Reviews-E1256.htm",
+        "https://www.indeed.com/cmp/Cintas/faq/work-from-home",
+        "https://careers.cintas.com/"
+      ],
+      "key_findings": "Cintas maintains a conservative, office-first culture with very limited remote work options. Employee reviews consistently mention restrictive policies and resistance to WFH arrangements. The company required a pandemic to shift any policies, and has largely returned to pre-pandemic norms.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Arthur J. Gallagher",
+      "rank": 207,
+      "sector": "Financials",
+      "current_policy": "Flexible hybrid model with work-from-home encouraged. Employees report positive flexibility with remote and hybrid arrangements.",
+      "policy_details": {
+        "model_type": "Hybrid (flexible)",
+        "in_office_days": 1,
+        "office_requirements": "Flexible hybrid arrangements vary by team and location. Some teams operate on '1 week in office per month, 3 weeks WFH' model. Others have more traditional hybrid splits. Work from home is actively encouraged according to employee reviews.",
+        "flexibility": "High flexibility. Company described as 'flexible with working remote or hybrid' with focus on work/life balance. Select roles available as 100% remote. Policy varies by department but generally employee-friendly."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Reviews/Gallagher-work-from-home-Reviews-EI_IE57.0,9_KH10,24.htm",
+        "https://www.flexjobs.com/remote-jobs/company/arthur_j_gallagher_co",
+        "https://www.ajg.com/us/news-and-insights/2021/nov/elevating-the-employee-experience-by-moving-to-a-hybrid-workforce/"
+      ],
+      "key_findings": "Arthur J. Gallagher offers one of the more flexible RTO policies among major companies, with employee reviews consistently praising remote work options and work/life balance. The company has embraced hybrid work as a long-term strategy to 'elevate the employee experience.' Specific office day requirements vary by team but trend toward employee choice.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Chipotle Mexican Grill",
+      "rank": 208,
+      "sector": "Hotels/Restaurants/Leisure",
+      "current_policy": "Hybrid with 4-day in-office requirement for corporate staff at Newport Beach headquarters.",
+      "policy_details": {
+        "model_type": "Hybrid (office-majority)",
+        "in_office_days": 4,
+        "office_requirements": "Corporate employees required on-site 4 days per week at Newport Beach, CA headquarters. Policy increased from 3 days to 4 days per week in June 2023. Some tech roles may be designated as 100% remote.",
+        "flexibility": "Limited flexibility for most corporate roles. Standard 4-day office requirement with 1 remote day. Restaurant operations naturally on-site."
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://www.bloomberg.com/news/articles/2023-06-06/chipotle-cmg-tells-corporate-staff-to-be-in-office-four-days-a-week",
+        "https://www.linkedin.com/posts/the-wall-street-journal_chipotle-mexican-grill-has-settled-on-a-remote-work-activity-7278102929641750528-TGJo",
+        "https://builtin.com/company/chipotle"
+      ],
+      "key_findings": "Chipotle tightened its RTO policy in 2023, moving from 3 to 4 days in-office for corporate staff. CEO Brian Niccol announced this change in May 2023, joining the trend of companies increasing office requirements. No evidence of further changes in 2024-2025, suggesting the 4-day policy has stabilized.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "W.W. Grainger",
+      "rank": 209,
+      "sector": "Wholesalers",
+      "current_policy": "Hybrid 3-2 model (3 days office, 2 days remote) with option to earn fully remote status based on performance.",
+      "policy_details": {
+        "model_type": "Hybrid (3-2 split)",
+        "in_office_days": 3,
+        "office_requirements": "Employees near an office location expected 3 days on-site, 2 days remote. Can change remote days weekly. Employees distant from offices may work fully remote. After 6 months of strong performance, eligible team members can earn voluntary remote status. Option to work up to 5 days in office if preferred.",
+        "flexibility": "Moderate to high flexibility. Location-dependent: employees near offices do 3-2 hybrid, those far from offices can be fully remote. Performance-based remote option after 6 months. Company hiring fewer fully remote positions than previously but maintains flexible hybrid approach."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Benefits/Grainger-Work-From-Home-US-BNFT152_E711_N1.htm",
+        "https://www.flexjobs.com/remote-jobs/company/grainger",
+        "https://www.theretirementgroup.com/featured-article/5448096/return-to-work-policies-are-causing-issues-will-ww-grainger-workers-be-affected"
+      ],
+      "key_findings": "W.W. Grainger operates a structured hybrid model with clear expectations (3 days office, 2 remote) while offering pathways to greater flexibility based on location and performance. The company has shifted from hiring primarily remote positions to emphasizing hybrid roles, but maintains flexibility in its approach. Employee reviews from 2024 indicate the policy is generally well-received.",
+      "confidence_level": "High"
+    }
+  ]
+}

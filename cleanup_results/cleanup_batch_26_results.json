@@ -1,0 +1,104 @@
+{
+  "batch_number": 26,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "Little Caesars Enterprises",
+      "rank": 287,
+      "sector": "Hotels/Restaurants/Leisure",
+      "current_policy": "Office-First - Corporate headquarters in Detroit does not offer hybrid or remote options for corporate employees",
+      "policy_details": {
+        "model_type": "Office-First",
+        "in_office_days": 5,
+        "office_requirements": "Full-time in-office for corporate headquarters staff",
+        "flexibility": "Minimal - No hybrid or remote options reported for corporate roles"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Reviews/Little-Caesars-Pizza-Detroit-MI-Reviews-EI_IE2877.0,31_IL.32,42_IM236.htm",
+        "https://www.flexindex.com/company/littlecaesars"
+      ],
+      "key_findings": "Little Caesars corporate headquarters in Detroit requires full-time in-office work. Employee reviews on Glassdoor specifically note that the Detroit corporate office 'did not have hybrid or remote options.' The company has not made public announcements about RTO policies. Most public information available relates to franchise restaurant positions rather than corporate roles.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Molina Healthcare",
+      "rank": 288,
+      "sector": "Health Care",
+      "current_policy": "Remote-First - Permanent remote work environment announced in 2022 and maintained through 2024-2025",
+      "policy_details": {
+        "model_type": "Remote-First",
+        "in_office_days": 0,
+        "office_requirements": "Employees work remotely with occasional in-person requirements for training and collaboration at Long Beach headquarters",
+        "flexibility": "High - 100% remote positions available; company reduced real estate footprint by two-thirds to support permanent remote work"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.healthcaredive.com/news/molina-permanent-remote-work-cut-real-estate-footprint/628291/",
+        "https://www.fiercehealthcare.com/payers/molina-healthcare-slash-two-thirds-real-estate-footprint-amid-permanent-shift-remote-work",
+        "https://www.indeed.com/cmp/Molina-Healthcare/faq/work-from-home"
+      ],
+      "key_findings": "CEO Joe Zubretsky announced in July 2022 that Molina intends to 'move permanently to a remote work environment, a model we have been working under successfully for nearly two years.' The company eliminated 2/3 of its real estate portfolio. As of 2024-2025, policy remains unchanged - almost all jobs are remote. Employees 'train, convene, and collaborate at our Long Beach headquarters as appropriate' but do not work in downtown offices full-time. This represents one of the most comprehensive remote-first policies among Fortune 500 healthcare companies.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Jack in the Box",
+      "rank": 289,
+      "sector": "Hotels/Restaurants/Leisure",
+      "current_policy": "Hybrid - Corporate employees work in-office 3 days per week with Wednesday as required anchor day",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "Required in-office on Wednesday (anchor day) plus 2 additional days of employee's choice that can vary week-to-week based on business needs",
+        "flexibility": "Moderate - 2 days remote per week; employees can choose which 2 additional office days beyond Wednesday anchor day"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/807882/000115752323001296/a53518777_ex992.htm",
+        "https://www.glassdoor.com/Reviews/Jack-in-the-Box-San-Diego-Reviews-EI_IE1373.0,15_IL.16,25_IM758.htm"
+      ],
+      "key_findings": "Jack in the Box's hybrid policy is documented in SEC filings (2023 executive offer letter). Corporate employees at the San Diego headquarters can work remotely up to 2 days per week, with Wednesday serving as a mandatory in-office anchor day. The remaining 2 office days can change week-to-week based on business requirements. Glassdoor reviews from San Diego employees confirm 'hybrid' work is available and viewed positively. The policy balances in-person collaboration with remote work flexibility.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "AdaptHealth",
+      "rank": 290,
+      "sector": "Health Care",
+      "current_policy": "Remote-Flexible - Majority of positions are remote with some hybrid arrangements; policy appears to be in transition",
+      "policy_details": {
+        "model_type": "Remote-Flexible/Hybrid",
+        "in_office_days": 0,
+        "office_requirements": "Most positions are 100% remote; some concern about potential shift toward hybrid model",
+        "flexibility": "High for most roles - Remote work widely available; varies by team and manager"
+      },
+      "trend_direction": "Unknown",
+      "sources": [
+        "https://www.indeed.com/cmp/Adapthealth-1/reviews?fcountry=US&floc=Remote",
+        "https://www.glassdoor.com/Reviews/AdaptHealth-remote-work-Reviews-EI_IE1571700.0,11_KH12,23.htm",
+        "https://www.virtualvocations.com/company/remote-jobs-at-adapthealth-llc-51809.html"
+      ],
+      "key_findings": "AdaptHealth (headquartered in Plymouth Meeting, PA) offers remote work for many corporate positions. Employee reviews indicate 'most of the team is now remote' and positions are advertised as '100% Remote.' However, some reviews express concerns about managers 'placing too much emphasis on being in the office' and potential shifts from remote to hybrid. The company has not made public announcements about its RTO policy. Work arrangements appear to vary by department and manager discretion. Recent layoffs (September 2024) add uncertainty about policy direction.",
+      "confidence_level": "Low"
+    },
+    {
+      "company": "Alight",
+      "rank": 291,
+      "sector": "Business Services",
+      "current_policy": "Remote-First/Hybrid - Most positions are fully remote; some corporate employees expected in office 3 days per week",
+      "policy_details": {
+        "model_type": "Remote-First/Hybrid (varies by role)",
+        "in_office_days": 0,
+        "office_requirements": "Corporate employees may be expected in office 3 days per week; most positions are 100% virtual/remote",
+        "flexibility": "High - Vast majority of positions are now 100% remote; company has 'hybrid approach' allowing employees to 'work virtually and come to the office as needed'"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexindex.com/company/alight-solutions",
+        "https://www.glassdoor.com/Reviews/Alight-Solutions-work-from-home-Reviews-EI_IE1729719.0,16_KH17,31.htm",
+        "https://www.chicagobusiness.com/commercial-real-estate/alight-moving-hq-downtown-lincolnshire"
+      ],
+      "key_findings": "Alight (formerly Alight Solutions, headquartered in Lincolnshire, IL, relocating to downtown Chicago) has a remote-first culture. Employee reviews indicate 'almost all positions are fully remote' and the company is 'expertly set up for employees to work from home.' Some sources mention corporate employees are expected in office 3 days per week, but most recent reviews emphasize full remote work. The company moved from a 200,000 sq ft Lincolnshire office to a 16,000 sq ft downtown Chicago penthouse, maintaining facilities in Chicagoland for 1,800+ employees to 'come to the office as needed for client and team meetings.' Alight has been recognized as 'Top 100 Company for Remote Jobs' 5 years in a row.",
+      "confidence_level": "Medium"
+    }
+  ]
+}

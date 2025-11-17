@@ -1,0 +1,108 @@
+{
+  "batch_number": 18,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "CBRE Group",
+      "rank": 210,
+      "sector": "Financials",
+      "current_policy": "Hybrid - Flexible by role and manager discretion",
+      "policy_details": {
+        "model_type": "Hybrid - No strict mandate",
+        "in_office_days": null,
+        "office_requirements": "Varies by department and manager. Some roles 100% remote, others hybrid. No company-wide mandate enforced as of 2024.",
+        "flexibility": "High - Role and manager dependent. CBRE uses incentive-based approach rather than strict mandates. Previous internal recommendation suggested 50% WFH with structured team days."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Benefits/CBRE-Work-From-Home-US-BNFT152_E465818_N1.htm",
+        "https://www.costar.com/article/1002118083/heres-how-cbre-seeks-to-lure-employees-back-to-high-vacancy-market-without-office-mandate",
+        "https://www.indeed.com/cmp/Cbre/faq/what-is-the-work-from-home-policy-at-cbre"
+      ],
+      "key_findings": "CBRE does not have a publicly disclosed company-wide RTO mandate. Employee reviews indicate policy varies significantly by role and manager. At LA Century City office in Feb 2024, CBRE achieved 90 employee attendance without mandatory requirements, using incentive-based approach. Many roles offer hybrid or full remote options depending on job function. As a real estate services company researching hybrid work trends, CBRE appears to practice flexible policies internally.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "American Family Insurance Group",
+      "rank": 211,
+      "sector": "Financials",
+      "current_policy": "Hybrid - 50% in-office requirement (2.5 days/week)",
+      "policy_details": {
+        "model_type": "Mandatory Hybrid",
+        "in_office_days": 2.5,
+        "office_requirements": "Employees within 50 miles of an office must come in 2.5 days per week (50% of work time). Policy enforced with disciplinary action including possible termination for non-compliance.",
+        "flexibility": "Low - Mandatory attendance requirement implemented Nov 2022, affecting locations in Madison, DePere, Boston, Nashville, and Jacksonville"
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://captimes.com/news/business/workers-blast-american-family-for-bait-and-switch-on-remote-work/article_7d3a2c46-3f34-5d26-8811-655f44067b90.html",
+        "https://www.flexjobs.com/remote-jobs/company/american_family_insurance"
+      ],
+      "key_findings": "American Family Insurance implemented a controversial RTO policy in Nov 2022 requiring 50% in-office time (2.5 days/week) for ~13,000 employees across 5 companies. This represented a significant reversal from CEO Bill Westrate's Jan 2022 email stating 'there will never be a corresponding return to office event.' Employees, including some hired specifically for remote positions, expressed outrage at the 'bait-and-switch.' Policy is enforced with disciplinary measures. Represents clear tightening from previous flexible/remote arrangements.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Maximus",
+      "rank": 213,
+      "sector": "Technology",
+      "current_policy": "Hybrid - 2 days in-office for corporate employees",
+      "policy_details": {
+        "model_type": "Hybrid with role variation",
+        "in_office_days": 2,
+        "office_requirements": "Corporate employees expected to work in office 2 days per week. Customer service roles typically hybrid after initial on-site training. Clinical services offer in-person, hybrid, and fully remote options depending on role.",
+        "flexibility": "Moderate to High - Varies significantly by role type. Many customer service and clinical positions offer fully remote options after training. Corporate positions follow 2-day in-office hybrid model."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexindex.com/company/maximus",
+        "https://maximus.com/article/maximus-looks-future-hybridremote-work-expectations",
+        "https://www.glassdoor.com/Reviews/Maximus-work-from-home-Reviews-EI_IE6725.0,7_KH8,22.htm",
+        "https://maximus.com/careers"
+      ],
+      "key_findings": "Maximus offers flexible remote work options with policy varying by role. Corporate employees follow 2-day in-office hybrid model. Customer service representatives begin with on-site training then transition to WFH options. Clinical services provide flexible in-person, hybrid, and remote arrangements. Company actively hires for remote positions across multiple departments. No evidence of recent policy changes or tightening in 2024-2025. Maximus promotes work-life balance through flexible arrangements.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Banner Health",
+      "rank": 214,
+      "sector": "Health Care",
+      "current_policy": "Role-dependent - Clinical in-person, administrative hybrid/remote options available",
+      "policy_details": {
+        "model_type": "Healthcare provider - primarily on-site with administrative exceptions",
+        "in_office_days": null,
+        "office_requirements": "As a healthcare provider, most clinical positions require on-site presence. Administrative, billing, coding, scheduling, and telehealth positions offer remote/hybrid options. VPN access provided for remote employees.",
+        "flexibility": "High for non-clinical roles - Remote work options available for qualifying administrative positions. Clinical staff primarily on-site due to patient care requirements."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.bannerhealth.com/employees/employee-resources",
+        "https://www.indeed.com/cmp/Banner-Health/reviews?fcountry=US&floc=Remote",
+        "https://www.flexjobs.com/remote-jobs/company/banner_health",
+        "https://www.bannerhealth.com/careers"
+      ],
+      "key_findings": "Banner Health operates as a healthcare provider with ~55,000 employees, requiring most clinical positions to be on-site for patient care. However, administrative roles including patient financial services, medical coding, billing, scheduling, and telehealth positions offer remote/work-from-home options. Company provides VPN and equipment for remote employees. No public announcements of RTO policy changes in 2024. Job postings continue to advertise remote positions for qualifying roles. Policy reflects healthcare industry norms with clinical on-site requirements and administrative flexibility.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Acadia Healthcare",
+      "rank": 215,
+      "sector": "Health Care",
+      "current_policy": "Primarily on-site for clinical, limited remote for corporate roles",
+      "policy_details": {
+        "model_type": "Healthcare behavioral health provider - primarily on-site",
+        "in_office_days": null,
+        "office_requirements": "As behavioral healthcare provider, most facility-based positions require on-site presence. Some fully remote positions available for specialized corporate roles (credentialing, admissions services). Corporate headquarters in Franklin, TN.",
+        "flexibility": "Low to Moderate - Most positions on-site due to nature of behavioral healthcare services. Limited remote opportunities primarily for specific corporate functions. Employee feedback suggests desire for more remote flexibility."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/acadia_healthcare",
+        "https://www.glassdoor.com/Reviews/Acadia-Healthcare-corporate-office-Reviews-EI_IE443650.0,17_KH18,34.htm",
+        "https://www.acadiacareers.com/us/en/about",
+        "https://www.acadiahealthcare.com/about/"
+      ],
+      "key_findings": "Acadia Healthcare operates as largest standalone behavioral health company in US with ~23,500 employees serving 75,000 patients daily. Nature of behavioral healthcare requires most positions to be facility-based and on-site. Some fully remote positions exist for specialized roles like credentialing coordinators and admissions services. Employee reviews indicate desire for more remote opportunities, with feedback that company 'needs to be more open minded of remote work' and is 'losing valuable employees by not offering remote opportunity.' Corporate headquarters in Franklin, TN. No public RTO policy announcements found for 2024-2025.",
+      "confidence_level": "Low"
+    }
+  ]
+}

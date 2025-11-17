@@ -1,0 +1,107 @@
+{
+  "batch_number": 24,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "Norton Healthcare",
+      "rank": 272,
+      "sector": "Health Care",
+      "current_policy": "Hybrid with remote work available for select positions",
+      "policy_details": {
+        "model_type": "Role-dependent (Hybrid/Remote/On-site)",
+        "in_office_days": null,
+        "office_requirements": "Healthcare workers primarily on-site; corporate/administrative roles may qualify for remote work in approved states (KY, IN, MO, OH, TN, AL, MS, NC, SC)",
+        "flexibility": "Offers fully remote positions for billing, coding, IT, and revenue cycle roles; flexible hours (6am-6pm) for some remote positions"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/norton_healthcare",
+        "https://www.glassdoor.com/Reviews/Norton-Healthcare-Reviews-E18844.htm",
+        "https://nortonhealthcare.com/employees/"
+      ],
+      "key_findings": "Norton Healthcare (14,500+ employees, Louisville-based) maintains a role-specific approach to remote work. Clinical and bedside healthcare roles remain on-site, while corporate functions including billing, coding, IT systems, revenue cycle, and clinical applications offer remote or hybrid options. Remote employees must reside in approved states. Glassdoor reviews (3.8/5 rating, 75% recommend) cite remote work opportunities as a positive aspect. No evidence of recent RTO mandates or policy tightening in 2024-2025.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "AAON",
+      "rank": 273,
+      "sector": "Industrials",
+      "current_policy": "Primarily on-site with limited remote options",
+      "policy_details": {
+        "model_type": "Office-first/On-site",
+        "in_office_days": 5,
+        "office_requirements": "Manufacturing and engineering roles primarily require on-site presence at Tulsa HQ or other facilities (Longview TX, Parkville MO, Redmond OR)",
+        "flexibility": "Very limited remote work options; primarily on-site manufacturing and engineering environment"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.aaon.com/careers",
+        "https://www.indeed.com/cmp/Aaon/reviews",
+        "https://www.glassdoor.com/Reviews/AAON-Reviews-E2450.htm"
+      ],
+      "key_findings": "AAON is a commercial HVAC equipment manufacturer with 4,000+ employees headquartered in Tulsa, Oklahoma with manufacturing facilities in TX, MO, and OR. As a manufacturing company, most positions require on-site presence. Job listings for engineering and manufacturing roles do not mention remote options. Employee reviews (3.5/5 on Indeed, 76% would recommend) focus on benefits (175% HSA/401k match) and advancement opportunities but mention micromanagement culture. No specific RTO policy changes found for 2024-2025, suggesting stable office-first approach typical of manufacturing operations.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Sheetz",
+      "rank": 278,
+      "sector": "Retailing",
+      "current_policy": "Corporate hybrid/remote available; retail operations on-site",
+      "policy_details": {
+        "model_type": "Role-dependent (Hybrid/Remote for corporate; On-site for retail)",
+        "in_office_days": null,
+        "office_requirements": "Corporate headquarters in Altoona, PA offers hybrid and remote options for approved positions; retail store operations require on-site presence",
+        "flexibility": "Corporate roles in operations, marketing, finance, HR, and IT have remote and hybrid options; some positions fully remote with option for on-site/hybrid if desired"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/sheetz",
+        "https://jobs.sheetz.com/corporate/jobs",
+        "https://www.zippia.com/sheetz-careers-38210/locations/"
+      ],
+      "key_findings": "Sheetz is a convenience store and gas station chain with 600+ locations and 17,000+ employees, headquartered in Altoona, Pennsylvania. The company operates across PA, MD, NC, OH, VA, and WV. Corporate positions at Altoona headquarters offer flexibility with many roles approved for fully remote work, with successful candidates having the option to work on-site or hybrid if preferred. Retail store operations (majority of workforce) remain on-site. FlexJobs confirms Sheetz has offered temporary and remote jobs. No evidence of recent policy changes or RTO mandates for 2024-2025.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Lincoln National",
+      "rank": 280,
+      "sector": "Financials",
+      "current_policy": "Hybrid - 3 days per week in office",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "Preferred employees work 3 days per week in Lincoln office (Radnor, PA headquarters or other locations including Philadelphia)",
+        "flexibility": "Some fully remote positions available; hybrid model with 3-day in-office requirement for most corporate roles; flexible scheduling arrangements available"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/lincoln_financial_group",
+        "https://www.glassdoor.com/Benefits/Lincoln-Financial-Group-Work-From-Home-US-BNFT152_E403_N1.htm",
+        "https://jobs.lincolnfinancial.com/go/Work-from-Home/2258100/"
+      ],
+      "key_findings": "Lincoln National Corporation (Lincoln Financial Group) is a Fortune 200 insurance and investment management company with 9,000+ employees, headquartered in Radnor, PA (moved from Philadelphia in 2007). Current policy requires 3 days per week in Lincoln offices for hybrid roles. Employee reviews on Indeed and Glassdoor cite the hybrid work model as positive with good flexibility. The company offers mix of fully remote, hybrid (3 days in-office), and on-site positions. FlexJobs confirms Lincoln Financial has historically offered part-time, occasional, and 100% remote jobs with various flexible arrangements. No evidence of major RTO mandate changes in 2024-2025.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Foot Locker",
+      "rank": 281,
+      "sector": "Retailing",
+      "current_policy": "Corporate hybrid - 3 days per week in office; retail on-site",
+      "policy_details": {
+        "model_type": "Hybrid for corporate; On-site for retail",
+        "in_office_days": 3,
+        "office_requirements": "Corporate roles work Tuesday-Thursday in office (NYC or other corporate locations) with flexibility on Monday/Friday; retail store operations on-site",
+        "flexibility": "Hybrid roles require 3 days in NYC office; some fully remote positions available for corporate roles; 105 remote job openings listed"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/foot_locker",
+        "https://www.builtinnyc.com/company/foot-locker",
+        "https://www.businessobserverfl.com/news/2025/nov/13/foot-locker-backs-out-hq-st-petersburg/",
+        "https://wwd.com/footwear-news/shoe-industry-news/foot-locker-florida-headquarters-move-canceled-1238351379/"
+      ],
+      "key_findings": "Foot Locker is a multinational footwear and sportswear retailer with 45,000+ employees globally, headquartered at 330 West 34th Street, New York, NY. Corporate roles follow hybrid model working Tuesday-Thursday in office with Monday/Friday flexibility. In August 2024, Foot Locker announced plans to relocate global headquarters to St. Petersburg, FL in 2025 with no forced employee relocation (175 new FL jobs, 330 total in St. Pete). However, following $2.4B acquisition by Dick's Sporting Goods (Pittsburgh-based) in September 2024, the FL headquarters move was canceled in November 2025. Current policy maintains 3-day hybrid for corporate (NYC HQ), with some remote positions available. Retail operations remain on-site.",
+      "confidence_level": "High"
+    }
+  ]
+}

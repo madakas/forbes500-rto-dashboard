@@ -1,0 +1,106 @@
+{
+  "batch_number": 19,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "ServiceNow",
+      "rank": 216,
+      "sector": "Technology",
+      "current_policy": "Hybrid - 3 days in office, 2 days remote",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "3 days in office required for certain roles and cities. If employees want a dedicated desk when they come into office, they are required to come in at least 3 days or more per week.",
+        "flexibility": "Policy can be team-dependent with some employees able to request full remote arrangements. 2 days work from home flexibility."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Benefits/ServiceNow-Work-From-Home-US-BNFT152_E403326_N1.htm",
+        "https://www.glassdoor.com/Overview/Working-at-ServiceNow-EI_IE403326.11,21.htm",
+        "https://linkinghumans.com/redefining-the-workplace-for-the-servicenow-return-to-the-office/"
+      ],
+      "key_findings": "ServiceNow operates a hybrid model with 3 days in office and 2 days remote for most roles. The company maintains strong employee satisfaction (4.3/5 on Glassdoor) and was ranked #3 in Glassdoor's Best Places to Work for 2024. The policy is role and location dependent, with some flexibility for full remote arrangements. ServiceNow also develops hybrid workplace solutions as part of their product offerings.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Expedia Group",
+      "rank": 217,
+      "sector": "Retailing",
+      "current_policy": "Hybrid - 3 days in office, 2 days remote with enforcement",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "Full-time employees (5-day workweek) must be in office at least three days each week. Tuesday and Wednesday are preferred in-office days for all teams, with the third day decided by team and People Leader. Non-compliance can result in termination.",
+        "flexibility": "Remaining 2 days offer flexibility to work from home. Policy includes enforcement measures."
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://careers.expediagroup.com/faq/",
+        "https://www.glassdoor.com/Benefits/Expedia-Group-Work-From-Home-US-BNFT152_E9876_N1.htm",
+        "https://www.teamblind.com/post/Expedia-WFH-EDTgszz5"
+      ],
+      "key_findings": "Expedia Group implemented a new 3-day office requirement for 2025, representing an increase from their earlier 2-day office policy. The company has specific designated days (Tuesday/Wednesday) plus a team-chosen third day. Headquarters located at 1111 Expedia Group Way W, Seattle, WA (moved from Bellevue in 2019). The policy includes enforcement with potential termination for non-compliance, indicating a firm RTO stance. This represents a tightening trend as the company moved from 2 days to 3 days in office.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Huntington Ingalls Industries",
+      "rank": 218,
+      "sector": "Aerospace & Defense",
+      "current_policy": "Primarily On-Site with limited flexible arrangements for certain positions",
+      "policy_details": {
+        "model_type": "Office-First/On-Site",
+        "in_office_days": 5,
+        "office_requirements": "Shipbuilding operations require on-site presence at shipyard facilities in Virginia and Mississippi. Most positions (electricians, welders, pipefitters, engineers working on ships, etc.) require physical presence due to nature of work.",
+        "flexibility": "No formal flexible working hours policy, but flexible work arrangements available for certain administrative/professional positions including telecommuting, part-time hours, and compressed work weeks on a case-by-case basis."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.jobzmall.com/huntington-ingalls-industries-hii/faqs",
+        "https://www.flexjobs.com/remote-jobs/company/huntington_ingalls_industries-hii",
+        "https://careers.huntingtoningalls.com/"
+      ],
+      "key_findings": "Huntington Ingalls Industries (HII) is the largest military shipbuilding company in the United States. The nature of their work - building submarines and aircraft carriers - requires hands-on, on-site presence for the vast majority of positions. Skilled trades (welders, electricians, pipefitters, etc.) and engineers working on ship construction cannot work remotely. Limited flexibility may be available for certain business administration, IT, or professional roles. The company does not have a formal flexible working hours policy but offers case-by-case arrangements. Given the defense manufacturing context, remote work is inherently limited.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "TTEC Holdings",
+      "rank": 219,
+      "sector": "Technology",
+      "current_policy": "Remote-First - Predominantly work from home for customer service and support roles",
+      "policy_details": {
+        "model_type": "Remote-First",
+        "in_office_days": 0,
+        "office_requirements": "TTEC operates primarily as a remote work from home company. The 'TTEC at home' platform provides virtual work for customer service, technical support, chat, and social media support roles. Employees work from home with specific technical and workspace requirements.",
+        "flexibility": "100% remote for most customer service positions. Flexible scheduling with minimum 4-6 consecutive hours per shift. Availability required for weekends and holidays depending on client needs."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.ttecjobs.com/en/work-from-home",
+        "https://www.ttec.com/services/work-from-home",
+        "https://www.ttecjobs.com/en/faqs",
+        "https://www.flexjobs.com/remote-jobs/company/ttec"
+      ],
+      "key_findings": "TTEC Holdings operates as a remote-first BPO (Business Process Outsourcing) company with extensive work-from-home operations across 37 US states. The company 'had remote jobs before work-from-home was even a real thing.' Their business model is built around remote customer service representatives working from home. Requirements include: Windows PC, 15-25 Mbps internet (hardwired), quiet workspace, and minimum age 17 with high school diploma. Pay ranges from $16-19/hour for customer service reps. Currently not hiring from AK, CA, HI, MT. The remote model helps with scalability and flexibility for client needs. This is a core business model, not a pandemic response.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Domino's Pizza",
+      "rank": 220,
+      "sector": "Hotels/Restaurants/Leisure",
+      "current_policy": "Hybrid - 2 days in office at Ann Arbor headquarters",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 2,
+        "office_requirements": "Corporate employees required to be in Ann Arbor, Michigan headquarters two days per week. Employees given choice to relocate to be near headquarters or accept severance package.",
+        "flexibility": "3 days per week work from home flexibility for corporate roles that transitioned to hybrid model."
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://www.theretirementgroup.com/featured-article/5448103/are-return-to-work-policies-going-to-have-drastic-implications-for-dominos-pizza-professionals",
+        "https://www.indeed.com/cmp/Domino's/topics/work-from-home"
+      ],
+      "key_findings": "Domino's Pizza introduced a hybrid work model requiring corporate employees to be in the Ann Arbor, Michigan headquarters (30 Frank Lloyd Wright Dr.) two days per week. This policy was implemented around 2023-2024 as part of broader organizational changes during a period when the company faced revenue challenges (1% decline in Q4 2023). Employees were given a brief window to decide between relocating to be closer to the office or accepting a severance package, indicating a firm stance on the policy. The 2-day requirement represents a shift from fully remote work during the pandemic to a hybrid model. Note: This applies to corporate/headquarters roles, not retail store operations which are inherently on-site.",
+      "confidence_level": "Medium"
+    }
+  ]
+}

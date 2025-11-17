@@ -1,0 +1,110 @@
+{
+  "batch_number": 16,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "ABB Optical Group",
+      "rank": 195,
+      "sector": "Health Care",
+      "current_policy": "Flexible - Role-dependent remote and hybrid options available",
+      "policy_details": {
+        "model_type": "Flexible/Hybrid",
+        "in_office_days": null,
+        "office_requirements": "Varies by role - headquarters in Coral Springs, FL with some positions offering remote work",
+        "flexibility": "Remote positions available for customer service, corporate accounts, and administrative roles; warehouse and lab positions require on-site presence"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/abb_optical_group",
+        "https://www.glassdoor.com/Overview/Working-at-ABB-Optical-Group-EI_IE485895.11,28.htm",
+        "https://www.indeed.com/cmp/Abb-Optical-Group-2/reviews?fcountry=US&floc=Remote",
+        "https://www.abboptical.com/careers"
+      ],
+      "key_findings": "ABB Optical Group, headquartered in Coral Springs, FL, offers flexible work arrangements depending on role. Remote positions exist for customer service, order entry, and corporate roles ($17/hour for customer service). On-site roles include lab technicians and fulfillment specialists. Employee reviews indicate work-from-home is available for some positions. No evidence of recent RTO mandates or policy changes in 2024-2025.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Republic Services",
+      "rank": 196,
+      "sector": "Business Services",
+      "current_policy": "Flexible - Role-dependent with remote and hybrid options for corporate positions",
+      "policy_details": {
+        "model_type": "Flexible/Hybrid",
+        "in_office_days": null,
+        "office_requirements": "Field operations require on-site; corporate and administrative roles offer remote/hybrid options",
+        "flexibility": "Company supports work-life balance with part-time, temporary, alternative schedule, and remote arrangements for eligible positions"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/republic_services_inc",
+        "https://builtin.com/company/republic-services/benefits",
+        "https://www.indeed.com/cmp/Republic-Services/topics/work-from-home",
+        "https://www.glassdoor.com/Overview/Working-at-Republic-Services-EI_IE8328.11,28.htm"
+      ],
+      "key_findings": "Republic Services is a certified Great Place to Work that offers flexible arrangements for corporate roles including customer service, accounting, finance, operations, and engineering. Field operations (drivers, waste collection) require on-site presence due to nature of work. Employee reviews indicate remote work is available and valued. No evidence of RTO mandates in 2024-2025. Policy varies by department and role type.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "M&T Bank",
+      "rank": 197,
+      "sector": "Financials",
+      "current_policy": "Hybrid - 3 days in office required with anchor days",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "Corporate employees required in office at least 3 days per week, including mandatory Tuesday and Wednesday (anchor days)",
+        "flexibility": "Limited flexibility; 2 days remote allowed; retail positions do not offer remote options; some departments may vary"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.indeed.com/cmp/M&T-Bank/faq/what-is-the-work-from-home-policy-at-m-t-bank",
+        "https://www.flex.scoopforwork.com/company/m-t-bank",
+        "https://www.indeed.com/cmp/M&T-Bank/reviews?fcountry=US&floc=Remote"
+      ],
+      "key_findings": "M&T Bank implemented a structured hybrid policy requiring corporate employees to be in office 3 days per week with Tuesday and Wednesday as mandatory anchor days. Multiple employee reviews from 2024 confirm this arrangement (3 days office, 2 days home). Some employees express concerns about potential tightening to 5 days. Policy primarily applies to corporate and back-office positions. Bank underwent workforce reduction of ~5% in early 2024 during organizational restructuring. No recent changes to hybrid policy observed in 2024-2025.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Hackensack Meridian Health",
+      "rank": 198,
+      "sector": "Health Care",
+      "current_policy": "Flexible - Role-dependent with remote and hybrid options for non-clinical positions",
+      "policy_details": {
+        "model_type": "Flexible/Hybrid",
+        "in_office_days": null,
+        "office_requirements": "Clinical roles require on-site presence; administrative and corporate positions may be remote or hybrid",
+        "flexibility": "Remote and hybrid positions available for compensation, credentialing, workforce management, contact center, and administrative roles"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/hackensack_meridian_health",
+        "https://jobs.hackensackmeridianhealth.org/",
+        "https://www.indeed.com/q-hackensack-meridian-remote-jobs.html",
+        "https://www.glassdoor.com/Jobs/Hackensack-Meridian-Health-Jobs-E1431731.htm"
+      ],
+      "key_findings": "Hackensack Meridian Health offers 49+ remote positions as of search date, including fully remote roles (Delegated Credentialing Coordinator, Workforce Management) and hybrid positions (Compensation Analyst/Specialist, Team Member & Labor Relations). Healthcare system allows flexibility for administrative, education, training, and customer service roles. Clinical positions remain on-site as required by nature of work. No evidence of RTO mandates or policy changes in 2024-2025. Job postings indicate ongoing commitment to hybrid/remote arrangements.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Huntington Bancshares",
+      "rank": 199,
+      "sector": "Financials",
+      "current_policy": "Hybrid - 3 days in office for back-office roles",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "Back-office and corporate roles required in office 3 days per week; some departments report 1 WFH day (4 days in office)",
+        "flexibility": "Limited flexibility; rare exceptions for personal issues or chronic health conditions; policy varies by department"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Community/job-hunting-in-tech/what-is-huntingtons-current-rto-policy-for-back-office-roles-hybrid-32-in-office-5-days-something-else-huntington-national",
+        "https://www.glassdoor.com/Reviews/Huntington-National-Bank-Reviews-E1496.htm",
+        "https://www.flexjobs.com/remote-jobs/company/huntington_national_bank",
+        "https://www.nbc4i.com/news/columbus-business-first/why-huntingtons-return-to-office-is-a-columbus-partnership-move-as-much-as-a-bank-policy/"
+      ],
+      "key_findings": "Huntington Bancshares has implemented a hybrid policy with 3 days in-office requirement for back-office roles, with exceptions granted only for personal issues or chronic health conditions. Employee feedback on Glassdoor indicates this is 'better than full RTO which so many others are experiencing.' Some departments report only 1 WFH day permitted. The RTO policy was noted as part of Columbus Partnership initiative. Employee review mentioned RTO 'was not thought out nor planned well across the board.' Policy appears to vary by department but generally follows 3/2 hybrid model.",
+      "confidence_level": "Medium"
+    }
+  ]
+}

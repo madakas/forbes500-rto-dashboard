@@ -1,0 +1,93 @@
+[
+  {
+    "company": "Navy Federal Credit Union",
+    "rank": 173,
+    "industry": "Financials",
+    "rto_policy": "Hybrid - 3 days per week in office (increased from 2 days in Spring 2024)",
+    "details": "Navy Federal Credit Union requires employees to work in the office 3 days per week as of Spring 2024, which represents an increase from their previous 2-day requirement. Some sources mention approximately 8 days on campus per month. The company describes itself as maintaining a hybrid workforce model with the specific requirement of 3 in-office days per week. Associates in geographic areas where the company has no physical site may continue with 100% remote work.",
+    "policy_type": "Hybrid",
+    "days_in_office": 3,
+    "required_days": null,
+    "implementation_date": "Spring 2024",
+    "last_updated": "2024",
+    "sources": [
+      "https://www.nvdaily.com/nvdaily/hybrid-re-entry-models-could-be-popular-workplace-option/article_98439920-53e8-544b-a0b3-1bf32aed4d2b.html",
+      "https://www.indeed.com/cmp/Navy-Federal-Credit-Union/faq/what-is-the-work-from-home-policy-at-navy-federal-credit-union",
+      "https://www.glassdoor.com/Benefits/Navy-Federal-Credit-Union-Work-From-Home-US-BNFT152_E7281_N1.htm"
+    ],
+    "confidence": "High",
+    "notes": "Navy Federal Credit Union has progressively increased in-office requirements from 1 day to 2 days and then to 3 days per week in Spring 2024. Employee reviews indicate some frustration with the policy evolution, particularly for those who relocated farther from offices during the initial hybrid period. The policy varies somewhat by role and department, with details typically discussed during the interview process."
+  },
+  {
+    "company": "ACCO Engineered Systems",
+    "rank": 187,
+    "industry": "Construction & Engineering",
+    "rto_policy": "Full-time in office - No remote work allowed",
+    "details": "ACCO Engineered Systems does not allow flexibility to work from home. Employee reviews indicate that working from home is not an option at this company and is heavily frowned upon even when requested for legitimate reasons. Onsite work is required for all employees.",
+    "policy_type": "Full RTO",
+    "days_in_office": 5,
+    "required_days": null,
+    "implementation_date": "Not specified",
+    "last_updated": "2024",
+    "sources": [
+      "https://www.glassdoor.com/Reviews/ACCO-Engineered-Systems-work-from-home-Reviews-EI_IE9128.0,23_KH24,38.htm"
+    ],
+    "confidence": "Medium",
+    "notes": "ACCO Engineered Systems maintains a strict in-office policy with no remote or hybrid work options. This information is based primarily on employee reviews on Glassdoor rather than official company policy statements. As a construction and engineering firm, the nature of their work may require on-site presence for most positions."
+  },
+  {
+    "company": "Akron Children's Hospital",
+    "rank": 188,
+    "industry": "Health Care",
+    "rto_policy": "Hybrid/Remote options available for certain positions",
+    "details": "Akron Children's Hospital offers remote and flexible work options for certain positions. Job listings indicate filters for 'Remote,' 'Hybrid work,' and traditional on-site roles. The hospital has remote work opportunities available through various job platforms, though specific policy requirements (such as number of days in office for hybrid roles) are not publicly disclosed.",
+    "policy_type": "Hybrid/Remote (varies by role)",
+    "days_in_office": null,
+    "required_days": null,
+    "implementation_date": "Not specified",
+    "last_updated": "2024",
+    "sources": [
+      "https://www.flexjobs.com/remote-jobs/company/akron_childrens_hospital",
+      "https://careers.akronchildrens.org/search-jobs"
+    ],
+    "confidence": "Low",
+    "notes": "Akron Children's Hospital has not publicly disclosed a comprehensive RTO policy. The organization appears to offer remote and hybrid work options for certain positions, but specific requirements vary by role and department. As a healthcare provider with two hospital campuses and over 50 locations, many roles require on-site presence due to the nature of healthcare work. Detailed policy information is likely communicated internally or during the hiring process."
+  },
+  {
+    "company": "Alorica",
+    "rank": 177,
+    "industry": "Business Services",
+    "rto_policy": "Remote work available with strict monitoring",
+    "details": "Alorica offers work-from-home positions, particularly for customer service roles. The company provides paid training and flexible work schedules for remote employees. However, employee reviews indicate very strict monitoring practices including recorded calls, script adherence requirements, and close monitoring of break times and bathroom breaks. Remote work is available but comes with intensive performance tracking and micromanagement.",
+    "policy_type": "Remote/Hybrid (varies by role)",
+    "days_in_office": 0,
+    "required_days": null,
+    "implementation_date": "Not specified",
+    "last_updated": "2024",
+    "sources": [
+      "https://www.glassdoor.com/Reviews/Alorica-work-from-home-Reviews-EI_IE17814.0,7_KH8,22.htm",
+      "https://www.indeed.com/cmp/Alorica/reviews?fcountry=US&floc=Remote",
+      "https://workfromhomehappiness.com/alorica-work-from-home/"
+    ],
+    "confidence": "Medium",
+    "notes": "Alorica offers remote customer service positions with pay typically ranging from $15-$18 per hour. While the company provides work-from-home opportunities, employee reviews consistently mention strict monitoring and micromanagement practices. The company has an overall rating of 3.1/5 on Glassdoor and 2.9/5 on Indeed. No specific return-to-office mandate was found, suggesting the company continues to support remote work for appropriate roles, particularly in customer service."
+  },
+  {
+    "company": "Tyson Foods",
+    "rank": 178,
+    "industry": "Food, Beverages & Tobacco",
+    "rto_policy": "Limited information available - primarily on-site work (manufacturing-focused)",
+    "details": "Tyson Foods has limited publicly available information about corporate office RTO policies for 2024-2025. As a food manufacturing company, the majority of employees work in production facilities and plants, which require on-site presence. Some remote work opportunities may be available for corporate positions, but no specific hybrid or RTO policy has been publicly announced for office-based employees.",
+    "policy_type": "Unknown/On-site (varies by role)",
+    "days_in_office": null,
+    "required_days": null,
+    "implementation_date": "Not specified",
+    "last_updated": "2024",
+    "sources": [
+      "https://www.indeed.com/cmp/Tyson-Foods-Incorporated/topics/work-from-home",
+      "https://www.flexjobs.com/remote-jobs/company/tyson_foods"
+    ],
+    "confidence": "Low",
+    "notes": "Tyson Foods is primarily a food manufacturing company where most employees work in production facilities requiring on-site presence. Historical information from 2020 mentions attendance policies for plant workers, but no specific information about corporate office RTO policies for 2024-2025 was found. The company does post some remote positions on job boards, suggesting flexibility may exist for certain corporate roles, but this appears to be position-dependent rather than a company-wide policy."
+  }
+]

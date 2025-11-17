@@ -1,0 +1,177 @@
+[
+  {
+    "company": "Parker-Hannifin",
+    "rank": 106,
+    "sector": "Industrials",
+    "fortune_500_rank": "106",
+    "work_policy": {
+      "type": "Flexible/Variable by location",
+      "category": "Hybrid",
+      "days_required": "N/A",
+      "specific_days": "N/A",
+      "details": "Parker-Hannifin offers flexible work programs allowing employees to work from home on a regular basis or adjust schedules. Policy varies by location and department. Some locations (e.g., Ogden, UT) noted as having very flexible work environments. No company-wide mandate announced.",
+      "effective_date": "N/A",
+      "trend_direction": "Stable",
+      "previous_policy": "N/A",
+      "previous_date": "N/A"
+    },
+    "sources": [
+      {
+        "url": "https://www.theretirementgroup.com/featured-article/5448111/the-idea-of-the-ideal-workplace-is-changing-how-will-parkerhannifin-be-impacted",
+        "type": "News",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.jobzmall.com/parker-hannifin/faqs/does-parker-hannifin-offer-remote-working-opportunities",
+        "type": "Job Board",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Parker Hannifin offers remote working opportunities in some positions, with a flexible work program that allows employees to work from home on a regular basis.",
+    "verification_status": "Partially Verified",
+    "research_date": "2025-11-17",
+    "notes": "Limited public information about company-wide RTO policy. Appears to be decentralized with location-specific policies. Manufacturing operations likely require on-site presence."
+  },
+  {
+    "company": "Synchrony Financial",
+    "rank": 107,
+    "sector": "Financials",
+    "fortune_500_rank": "107",
+    "work_policy": {
+      "type": "Permanent remote/flexible hybrid",
+      "category": "Remote-First",
+      "days_required": 0,
+      "specific_days": "N/A",
+      "details": "All U.S. employees can work from home permanently or choose hybrid arrangement. Employees living within commuting distance of offices encouraged to attend 'Connection Days' - weekly events for brainstorming, networking, and cultural activities. No mandatory office requirements.",
+      "effective_date": "2020-10",
+      "trend_direction": "Stable",
+      "previous_policy": "Traditional office-based",
+      "previous_date": "Pre-2020"
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2024/11/12/hybrid-work-strategy-synchrony/",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.bankingdive.com/news/synchrony-workers-stay-remote-permanently/587448/",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.americanbanker.com/news/synchrony-says-all-u-s-employees-can-work-from-home-permanently",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "When other institutions are mandating employees return to the office, Synchrony is sticking to its flexible workplace model. More than 85% of employees wanted a remote option.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "CEO Brian Doubles has actively resisted RTO mandates. Company climbed to #2 on Fortune 100 Best Companies to Work For list (from #37 in 2021). Turnover down, applications up 30%. Outlier in financial services industry."
+  },
+  {
+    "company": "U.S. Bancorp",
+    "rank": 108,
+    "sector": "Financials",
+    "fortune_500_rank": "108",
+    "work_policy": {
+      "type": "3-day hybrid (mandatory)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "N/A",
+      "details": "Employees with assigned office space required to be in office 3+ days per week starting Q1 2024. Attendance tracked and included in annual performance reviews. Company designated 24 hub markets for continued office investment. Remote workers in hub locations expected to transition to on-site work as space becomes available.",
+      "effective_date": "2024-Q1",
+      "trend_direction": "Tightening",
+      "previous_policy": "3-day hybrid (voluntary request)",
+      "previous_date": "2022-2023"
+    },
+    "sources": [
+      {
+        "url": "https://www.startribune.com/us-bank-return-to-office-mandate-requirement-downtown-minneapolis/600347542",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.axios.com/local/twin-cities/2024/03/01/us-bank-office-workers-return-three-days-week",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.bankingdive.com/news/us-bank-employees-wanted-back-in-office-three-days/635926/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Beginning in early 2024, employees with assigned office space in U.S. Bank facilities are required to be in the office three or more days a week, with this goal included in annual performance reviews.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Transition from voluntary to mandatory in 2024. About 70% of workforce lives/works in designated hub markets. Future hiring and promotions centered on hub sites. Performance review linkage adds enforcement mechanism."
+  },
+  {
+    "company": "Mohawk Industries",
+    "rank": 109,
+    "sector": "Consumer Discretionary",
+    "fortune_500_rank": "109",
+    "work_policy": {
+      "type": "Department-specific/Variable",
+      "category": "Hybrid",
+      "days_required": "N/A",
+      "specific_days": "N/A",
+      "details": "Flex schedules available with department-specific guidelines. Some positions offer remote work ranging from partially to 100% remote. Manufacturing and distribution nature of business limits remote opportunities for many roles.",
+      "effective_date": "N/A",
+      "trend_direction": "N/A",
+      "previous_policy": "N/A",
+      "previous_date": "N/A"
+    },
+    "sources": [
+      {
+        "url": "https://www.indeed.com/cmp/Mohawk-Industries/faq/work-from-home",
+        "type": "Job Board",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.flexjobs.com/remote-jobs/company/mohawk_industries",
+        "type": "Job Board",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "They have flex schedules and employees are allowed to make up time missed, however each department has their own guidelines as to how often and duration of time allowed.",
+    "verification_status": "Not Verified",
+    "research_date": "2025-11-17",
+    "notes": "Very limited public information available. As a manufacturing/flooring company, most operations likely require on-site presence. No company-wide RTO policy announcements found. Information based on employee reports and job postings."
+  },
+  {
+    "company": "Workday",
+    "rank": 110,
+    "sector": "Technology",
+    "fortune_500_rank": "110",
+    "work_policy": {
+      "type": "50% hybrid (mandatory, quarterly tracking)",
+      "category": "Hybrid",
+      "days_required": "50% of days per quarter",
+      "specific_days": "Employee choice within quarter",
+      "details": "Employees required to be in office 50% of time measured quarterly. Badge tracking enforced - employees can choose which days to attend. Only need to badge in once per day (hours don't matter). Policy strictly enforced - failure to meet requirement may result in employment termination. Includes 30-day work-from-anywhere policy per rolling year (with restrictions).",
+      "effective_date": "2024",
+      "trend_direction": "Stable",
+      "previous_policy": "N/A",
+      "previous_date": "N/A"
+    },
+    "sources": [
+      {
+        "url": "https://www.teamblind.com/post/Workday-Hybrid-Policy-qZfaD6uT",
+        "type": "Employee Forum",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.teamblind.com/post/Workday-WFH-Policy-Fy7OPvBi",
+        "type": "Employee Forum",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Workday requires employees to be in the office 50% of the time, measured quarterly. Employees who cannot meet the 50% requirement have been told to 'reevaluate your employment at Workday'.",
+    "verification_status": "Partially Verified",
+    "research_date": "2025-11-17",
+    "notes": "Information primarily from employee forums (Blind). Policy offers flexibility in scheduling within quarterly requirement. Some offices also track WiFi connectivity. Employees can front-load or back-load office days within quarter."
+  }
+]

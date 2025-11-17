@@ -1,0 +1,110 @@
+{
+  "batch_number": 23,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "Advantage Solutions",
+      "rank": 257,
+      "sector": "Business Services",
+      "current_policy": "Role-dependent hybrid/remote model - Professional/corporate roles offer remote or hybrid options throughout the US and Canada, while field-based retail and merchandising positions require in-person work",
+      "policy_details": {
+        "model_type": "Hybrid/Remote (role-dependent)",
+        "in_office_days": null,
+        "office_requirements": "Professional roles: Remote or hybrid options available. Field roles (merchandisers, event specialists): 100% in-person at retail locations",
+        "flexibility": "High flexibility for corporate/professional positions with part-time, flexible schedule, hybrid remote, and 100% remote options. No flexibility for field positions due to nature of work"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://youradv.com/careers/",
+        "https://www.flexjobs.com/remote-jobs/company/advantage_solutions",
+        "https://www.indeed.com/cmp/Advantage-Solutions/faq/what-is-the-work-from-home-policy-at-advantage-solutions",
+        "https://money.usnews.com/careers/companies/advantage-solutions-57958216"
+      ],
+      "key_findings": "Advantage Solutions maintains a differentiated approach based on role type. Corporate/professional positions have access to remote and hybrid work arrangements with considerable flexibility, while field-based positions (merchandisers, event specialists) require in-person work at retail store locations. No evidence of recent RTO mandate or policy tightening for 2024-2025.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Atlantic Health System",
+      "rank": 258,
+      "sector": "Health Care",
+      "current_policy": "Limited hybrid options available for eligible positions, with infrastructure supporting remote access for team members. Policy specifics not publicly disclosed",
+      "policy_details": {
+        "model_type": "Hybrid (limited)",
+        "in_office_days": null,
+        "office_requirements": "Varies by role and department. Clinical positions require in-person presence. Some administrative roles offer hybrid arrangements",
+        "flexibility": "Moderate - Company supports workplace flexibility through full-time, part-time, occasional, alternative schedule, and flexible schedule employment opportunities"
+      },
+      "trend_direction": "Unknown",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/atlantic_health_system",
+        "https://ahs.atlantichealth.org/careers/working-at-atlantic-health.html",
+        "https://espanol.atlantichealth.org/secure-ahs-remote-access",
+        "https://www.greatplacetowork.com/certified-company/1000317"
+      ],
+      "key_findings": "Atlantic Health System, headquartered in Morristown, NJ, employs 18,000+ people across their healthcare network. Employee reviews mention 'hybrid work' availability, and the organization has infrastructure for secure remote access. However, as a healthcare provider, many clinical roles inherently require in-person work. The company has been recognized as one of Fortune's '100 Best Companies to Work For' for 14 consecutive years. No specific RTO policy changes announced for 2024-2025.",
+      "confidence_level": "Low"
+    },
+    {
+      "company": "Allegro MicroSystems",
+      "rank": 259,
+      "sector": "Technology",
+      "current_policy": "Hybrid model called 'Flex@Allegro' - Requires minimum 2 days per week in office for hybrid roles, with managers and teams empowering to decide where and when work will be done",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 2,
+        "office_requirements": "Minimum 2 days per week in office for hybrid positions. Employees must reside in states where Allegro has office locations (NH, MA, TX, MI)",
+        "flexibility": "Moderate - Managers and team members collaborate to decide specific work arrangements within the framework"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.allegromicro.com/en/about-allegro/careers",
+        "https://www.glassdoor.com/Reviews/Allegro-MicroSystems-Reviews-E16233.htm",
+        "https://www.linkedin.com/company/allegro-microsystems"
+      ],
+      "key_findings": "Allegro MicroSystems, a semiconductor company headquartered in Manchester, NH, has implemented a structured hybrid work program called 'Flex@Allegro'. The policy requires a minimum of 2 days per week in-office for hybrid roles, with flexibility for managers and teams to determine specific arrangements. Employees appreciate the hybrid workplace model. Geographic restriction applies - remote/hybrid workers must reside in states with Allegro office locations. No indication of recent policy changes or tightening for 2024-2025.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Cheesecake Factory",
+      "rank": 261,
+      "sector": "Hotels/Restaurants/Leisure",
+      "current_policy": "Primarily in-office culture at corporate headquarters in Calabasas, CA, with limited remote work capabilities. Some remote positions exist for specific roles",
+      "policy_details": {
+        "model_type": "Office-first",
+        "in_office_days": 5,
+        "office_requirements": "Corporate office employees expected on-site. Business attire required. Network infrastructure described as having 'limited capabilities for remote work'",
+        "flexibility": "Low - Primarily in-office expectations with some exceptions for specific remote roles such as recruiters who travel to corporate center as needed"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/cheesecake_factory",
+        "https://www.glassdoor.com/Reviews/Cheesecake-Factory-Calabasas-Reviews-EI_IE2229.0,18_IL.19,28_IC1146757.htm",
+        "https://www.cakecareers.com/support-center",
+        "https://culinaryagents.com/entities/352786-The-Cheesecake-Factory-Corporate-Support-Center---Calabasas-Hills"
+      ],
+      "key_findings": "The Cheesecake Factory's corporate support center in Calabasas, CA maintains a predominantly in-office culture. Employee reviews from Glassdoor mention 'extremely slow network with limited capabilities for remote work' and business attire requirements, suggesting an office-first environment. While some remote positions exist (e.g., Restaurant Management Recruiter), the overall corporate culture appears to favor in-person work. Company rated 3.7/5 on Glassdoor by 6,200+ employees. No evidence of formal RTO mandate changes for 2024-2025.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Apollo Education Group",
+      "rank": 266,
+      "sector": "Business Services",
+      "current_policy": "Fully remote, work-from-home environment for University of Phoenix employees (Apollo Education Group's main subsidiary)",
+      "policy_details": {
+        "model_type": "Remote-first",
+        "in_office_days": 0,
+        "office_requirements": "None - employees work from home across the United States",
+        "flexibility": "Very high - fully remote model allows employees to work from anywhere in the US, supporting work-life balance and attracting talent nationwide"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.phoenix.edu/jobs.html",
+        "https://www.flexjobs.com/remote-jobs/company/university_of_phoenix",
+        "https://www.virtualvocations.com/company/remote-jobs-at-university-of-phoenix-inc-1257.html",
+        "https://en.wikipedia.org/wiki/Apollo_Education_Group"
+      ],
+      "key_findings": "Apollo Education Group (now operating as Phoenix Education Partners following October 2025 IPO) owns University of Phoenix and maintains a fully remote work environment for employees. The organization explicitly states commitment to remote work to 'attract top talent from around the country' while promoting work-life balance and reducing environmental impact. Company went public on NYSE in October 2025 (ticker: PXED) with $1.3B+ valuation. No indication of shifting away from remote-first model. Note: Apollo Education Group is distinct from Apollo Global Management (the investment firm).",
+      "confidence_level": "High"
+    }
+  ]
+}

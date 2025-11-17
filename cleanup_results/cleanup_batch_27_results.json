@@ -1,0 +1,111 @@
+{
+  "batch_number": 27,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "Principal Financial Group",
+      "rank": 292,
+      "sector": "Financials",
+      "current_policy": "Hybrid with mandatory 3 days in office for employees within 30 miles of major offices",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "Employees living within 30 miles of Des Moines, IA or Charlotte, NC offices must work in-office at least 3 days per week. Remote work available only for those residing more than 30 miles from these locations.",
+        "flexibility": "Policy enforced through badge-in data tracking. Managers have access to compliance reports. Policy implemented November 2023 and continues through 2024-2025."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.axios.com/local/des-moines/2023/08/11/principal-financial-group-workers-back-office-dsm",
+        "https://www.businessrecord.com/principal-financial-groups-workers-are-returning-to-the-office-what-it-could-mean-for-downtown/",
+        "https://www.indeed.com/cmp/Principal-Financial-Group/topics/work-from-home",
+        "https://www.glassdoor.com/Benefits/Principal-Financial-Group-Work-From-Home-US-BNFT152_E2941_N1.htm"
+      ],
+      "key_findings": "Principal Financial Group implemented a 3-day in-office requirement in November 2023 for employees within 30 miles of major offices. The policy distinguishes between hybrid non-production staff (required 3 days/week) and hybrid production staff (flexible remote work). Policy is actively monitored through badge-in tracking systems. No changes announced for 2024-2025, indicating policy is maintaining at current levels.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Children's Hospital Colorado",
+      "rank": 293,
+      "sector": "Health Care",
+      "current_policy": "Position-dependent with hybrid and remote options for select nonclinical roles",
+      "policy_details": {
+        "model_type": "Flexible/Hybrid",
+        "in_office_days": null,
+        "office_requirements": "Clinical roles typically require on-site presence. Nonclinical/administrative positions may offer hybrid (some/most work remote with on-site as needed) or fully remote options. Specific requirements vary by position and discussed during interview process.",
+        "flexibility": "High flexibility for eligible positions. Remote work permitted only from approved states (excludes 18 states due to employment law/compliance requirements including CA, NY, MA, WA, and others)."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.childrenscolorado.org/careers/",
+        "https://www.childrenscolorado.org/careers/pay-and-benefits/",
+        "https://www.childrenscolorado.org/careers/nonclinical-job-opportunities/",
+        "https://www.indeed.com/cmp/Children's-Hospital-Colorado/reviews"
+      ],
+      "key_findings": "Children's Hospital Colorado offers hybrid and remote work for select positions, primarily nonclinical/administrative roles. The organization maintains a position-dependent approach rather than a blanket RTO mandate. Healthcare nature of business means most clinical staff work on-site. No evidence of policy changes or RTO mandates in 2024-2025. Geographic restrictions limit remote work to specific states for compliance reasons.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Cleveland-Cliffs",
+      "rank": 294,
+      "sector": "Industrials",
+      "current_policy": "Office-first with strict 5-day in-office requirement for most office employees",
+      "policy_details": {
+        "model_type": "Office-First",
+        "in_office_days": 5,
+        "office_requirements": "Very strict 5-day on-site policy for office employees. Work from home described by employees as 'treated as a cardinal sin'. Some flexibility may exist with individual managers for corporate salaried employees on scheduling/hours, but not location.",
+        "flexibility": "Minimal. Policy shifted from pandemic-era remote work to mandatory full-time in-office. Manager discretion may allow some schedule flexibility but not remote work location flexibility."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.indeed.com/cmp/Cleveland-Cliffs-Inc/topics/work-from-home",
+        "https://www.glassdoor.com/FAQ/Cleveland-Cliffs-Question-FAQ200129-E157.htm",
+        "https://www.glassdoor.com/Reviews/Cleveland-Cliffs-Reviews-E157.htm",
+        "https://www.clevelandcliffs.com/employee-information"
+      ],
+      "key_findings": "Cleveland-Cliffs operates in steel manufacturing and mining, with approximately 30,000 employees primarily in manufacturing facilities. The company has a strict 5-day in-office policy for office employees, representing a significant tightening from pandemic-era remote work. Employee reviews from 2022-2024 consistently describe inflexible RTO requirements. Company work-life balance rated 2.7/5 on Glassdoor, with flexibility cited as a concern. As a manufacturing company, most roles inherently require on-site presence.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Allegiant Travel",
+      "rank": 295,
+      "sector": "Transportation",
+      "current_policy": "Hybrid and remote options available for corporate positions",
+      "policy_details": {
+        "model_type": "Flexible/Hybrid",
+        "in_office_days": null,
+        "office_requirements": "Corporate headquarters in Las Vegas offers open, casual work environment. Company actively offers positions with part-time and full-time hybrid to 100% remote employment flexibility. Remote and on-site employees both considered core to company culture.",
+        "flexibility": "High flexibility for corporate roles. Remote call center and corporate finance positions available. Employees can work from headquarters or remotely depending on position."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/allegiant_travel_company",
+        "https://www.allegiantair.jobs/careers/corporate-administration/",
+        "https://jobs.lever.co/allegiantair",
+        "https://www.glassdoor.com/Overview/Working-at-Allegiant-Air-EI_IE19903.11,24.htm"
+      ],
+      "key_findings": "Allegiant Travel actively promotes flexible work arrangements for corporate positions, offering hybrid to 100% remote options. As an airline, flight operations and customer-facing roles require on-site presence, but corporate/administrative functions have significant flexibility. Company culture emphasizes both remote and in-office work as valuable. No evidence of RTO mandates or policy tightening in 2024-2025. Benefits include 'Flexible work schedules / Remote Positions Available' in job postings.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Wegmans Food Markets",
+      "rank": 296,
+      "sector": "Food & Drug Stores",
+      "current_policy": "Position-dependent with flexible arrangements for eligible corporate roles",
+      "policy_details": {
+        "model_type": "Flexible/Hybrid",
+        "in_office_days": null,
+        "office_requirements": "Retail store positions require on-site presence (24/7 operations). Corporate roles at Rochester, NY headquarters and regional offices may offer flexible work arrangements. Remote work available primarily for customer service, digital marketing, software engineering, data entry, and administrative support positions. Availability varies by department and location.",
+        "flexibility": "Role-specific flexibility. Company recognizes individual scheduling needs and offers flexible schedules. Remote work not universally available but offered for eligible corporate positions."
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.indeed.com/cmp/Wegmans-Food-Markets/topics/work-from-home",
+        "https://www.flexjobs.com/remote-jobs/company/wegmans",
+        "https://jobs.wegmans.com/en/corporate",
+        "https://www.wegmans.com/service/faq/careers"
+      ],
+      "key_findings": "Wegmans operates 100+ grocery stores with 24/7 operations, meaning most retail positions require on-site work. Company offers flexible work arrangements for eligible corporate roles but this varies by department and location. No company-wide RTO mandate or policy changes identified for 2024-2025. Approach is position-dependent rather than blanket policy. Company culture emphasizes work-life balance and recognizes individual scheduling needs. Remote opportunities exist in tech, customer service, and administrative functions.",
+      "confidence_level": "Medium"
+    }
+  ]
+}

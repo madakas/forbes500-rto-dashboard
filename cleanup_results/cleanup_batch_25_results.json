@@ -1,0 +1,111 @@
+{
+  "batch_number": 25,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "Baptist Health South Florida",
+      "rank": 282,
+      "sector": "Health Care",
+      "current_policy": "Hybrid/Flexible - Role-dependent with remote options for administrative positions",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": null,
+        "office_requirements": "Varies by role; clinical positions require on-site presence, while administrative and coding positions offer remote or hybrid options. Some hybrid roles require 3 days in office, 2 days remote.",
+        "flexibility": "High flexibility for non-clinical roles including coding, finance, accounts payable, and health information management positions"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/baptist_health_south_florida",
+        "https://careers.baptisthealth.net/us/en/",
+        "https://www.linkedin.com/company/baptisthealthsf/jobs",
+        "https://baptisthealth.net/healthcare-professionals/for-employees"
+      ],
+      "key_findings": "Baptist Health South Florida offers flexible work arrangements primarily for administrative and support roles. LinkedIn job postings show multiple remote positions in coding, health information management, finance, and accounts payable. Named one of Fortune's 100 Best Companies to Work For for 25 years, suggesting stable and employee-friendly policies. As a healthcare organization with 12 hospitals and 29,000+ employees, clinical roles require on-site presence while administrative functions have adopted hybrid/remote flexibility.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "MaineHealth",
+      "rank": 283,
+      "sector": "Health Care",
+      "current_policy": "Flexible Work Policy - Hybrid and remote options available for qualifying positions",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": null,
+        "office_requirements": "Position-dependent; offers on-site, hybrid, and fully remote options. Current job openings include 32 hybrid jobs, 12 remote jobs, and 650 on-site positions out of 1,252 total careers.",
+        "flexibility": "Flexible work policy listed as a key benefit; remote work available for coding, IT, program management, and development roles"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.careersatmainehealth.org/pages/our-benefits",
+        "https://www.careersatmainehealth.org/search/jobs",
+        "https://www.flexjobs.com/remote-jobs/company/mainehealth",
+        "https://www.linkedin.com/jobs/mainehealth-jobs-worldwide"
+      ],
+      "key_findings": "MaineHealth promotes a 'flexible work policy' as part of their benefits package. Current job distribution shows approximately 3.5% fully remote and 2.5% hybrid positions, with the majority being on-site clinical roles. Remote opportunities exist for medical coding, business intelligence, program management, and health coaching positions. LinkedIn postings from 2024 show various hybrid and fully remote positions, indicating stable flexible work arrangements for administrative and support functions.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Essentia Health",
+      "rank": 284,
+      "sector": "Health Care",
+      "current_policy": "Flexible - Case-by-case hybrid and remote arrangements for eligible positions",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": null,
+        "office_requirements": "Role-specific; some positions require first 3 months on-site before transitioning to remote. Approval not guaranteed regardless of location.",
+        "flexibility": "Remote and hybrid work evaluated on a case-by-case basis; employee reviews mention 'very flexible schedule and remote work encouraged'"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.indeed.com/cmp/Essentia-Health/topics/work-from-home",
+        "https://www.flexjobs.com/remote-jobs/company/essentia_health",
+        "https://www.linkedin.com/jobs/essentia-health-jobs",
+        "https://www.glassdoor.com/Overview/Working-at-Essentia-Health-EI_IE408420.11,26.htm"
+      ],
+      "key_findings": "Essentia Health offers flexible work opportunities with part-time, hybrid, and remote options, particularly in medical coding, billing, IT applications, and business systems roles. LinkedIn and job board postings from 2024 show multiple remote positions for billing representatives and clinical applications analysts. Some positions require initial on-site training (3 months) before transitioning to remote work. Employee reviews indicate flexible scheduling with remote work encouraged, though approval is discretionary and role-dependent.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Fastenal",
+      "rank": 285,
+      "sector": "Wholesalers",
+      "current_policy": "Primarily Office-First with limited hybrid options for select corporate roles",
+      "policy_details": {
+        "model_type": "Office-First",
+        "in_office_days": 3,
+        "office_requirements": "Historically in-person culture with limited remote work. Some corporate positions offer 2 days work-from-home (Tuesday/Wednesday/Thursday options) with 3 days in office. Many positions, particularly branch-based and operations roles, have no remote work options.",
+        "flexibility": "Low flexibility overall; limited to certain corporate/office roles with 4-10 schedules for some positions"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.indeed.com/cmp/Fastenal/reviews",
+        "https://www.glassdoor.com/Overview/Working-at-Fastenal-EI_IE1391.11,19.htm",
+        "https://www.theretirementgroup.com/featured-article/5448096/return-to-work-policies-are-causing-issues-will-fastenal-workers-be-affected",
+        "https://careers.fastenal.com/"
+      ],
+      "key_findings": "Fastenal maintains a primarily in-person work culture consistent with their wholesale distribution business model operating over 2,700 branch locations. Employee reviews from 2020-2022 indicate 'no positions at this company were allowed to work remote, ever,' though more recent reviews (2024) mention some corporate roles offer 2 days WFH with 3 days in office. The company requires two in-person interviews before hiring. Given their branch-based retail and distribution model, most roles require physical presence. Limited remote flexibility exists for select corporate administrative positions.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "AdventHealth",
+      "rank": 286,
+      "sector": "Health Care",
+      "current_policy": "Flexible Work Arrangements - Hybrid and remote options for eligible positions",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": null,
+        "office_requirements": "Position-dependent; offers on-site, hybrid, and remote work arrangements. Hybrid role requirements vary by department and position.",
+        "flexibility": "Flexible scheduling options with full-time and part-time shifts; remote and hybrid positions available particularly for consumer access, accounting, and administrative roles"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.adventhealth.com/careers/employee-benefits",
+        "https://www.flexjobs.com/remote-jobs/company/adventhealth",
+        "https://www.linkedin.com/company/adventhealth/jobs",
+        "https://www.glassdoor.com/Reviews/AdventHealth-Corporate-decent-work-from-home-Reviews-EI_IE17651.0,22_KH23,44.htm"
+      ],
+      "key_findings": "AdventHealth offers flexible work arrangements with numerous remote and hybrid positions posted on LinkedIn and job boards throughout 2024, including consumer access specialists, accountants, and various administrative roles. Employee reviews on Glassdoor discuss hybrid arrangements with varying in-office day requirements by department. The organization promotes work-life balance benefits and flexible scheduling as part of their employee value proposition. As a large healthcare system, clinical roles require on-site presence while administrative and support functions have embraced flexible work models.",
+      "confidence_level": "Medium"
+    }
+  ]
+}

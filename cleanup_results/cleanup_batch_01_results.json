@@ -1,0 +1,218 @@
+{
+  "batch_number": 1,
+  "research_date": "2025-11-17",
+  "note": "Research conducted for companies from Fortune's Most Innovative Companies 2025 list. Some company identifications required clarification as not all ranks could be verified from the Fortune list.",
+  "companies": [
+    {
+      "company_name": "Air Products & Chemicals",
+      "rank": 41,
+      "sector": "Materials",
+      "current_policy": "Hybrid/Flexible - Role-dependent policy with remote and hybrid options available for certain positions",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Varies by role - some positions offer 2 days in office/2 days remote on 4x10 schedule",
+        "enforcement_date": null,
+        "flexibility": "Company offers hybrid positions for IT and technical roles. Employees report flexibility is allowed. No company-wide standardized policy publicly announced. Field positions and some technical roles can be fully remote."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Job Postings",
+          "url": "https://www.flexjobs.com/remote-jobs/company/air_products",
+          "date": "2024",
+          "note": "Hybrid positions advertised including Planning & Project Management IT Analyst roles"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.indeed.com/cmp/Air-Products/topics/work-from-home",
+          "date": "2024",
+          "note": "6 employees answered questions about work from home policy; employees report flexibility"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.glassdoor.com/Reviews/Air-Products-work-life-balance-Reviews-EI_IE17.0,12_KH13,30.htm",
+          "date": "2024",
+          "note": "3.9/5 work-life balance rating; employees note remote work helps balance"
+        }
+      ],
+      "key_findings": "Air Products has not publicly announced a formal company-wide RTO policy. The company offers hybrid and some remote positions, particularly in IT and technical roles. Employee reviews indicate flexibility is provided and work-life balance is generally respected. Specific office attendance requirements vary by role and department. No evidence of recent RTO mandate or policy tightening."
+    },
+    {
+      "company_name": "AH Group",
+      "rank": 74,
+      "sector": "Health Care",
+      "current_policy": "Unknown - No public information available",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Unknown",
+        "enforcement_date": null,
+        "flexibility": "No public information available about work arrangements"
+      },
+      "trend_direction": "Unknown",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Company Website",
+          "url": "https://ahgroupna.com/about/",
+          "date": "2024",
+          "note": "Industrial MRO and repair management company with global operations - no RTO policy information"
+        },
+        {
+          "type": "LinkedIn",
+          "url": "https://www.linkedin.com/company/ahgroupofcompanies",
+          "date": "2024",
+          "note": "Company profile confirmed but no remote work policy details"
+        }
+      ],
+      "key_findings": "AH Group (American Hydrostatics) is a global leader in managing failed machinery and automation components, headquartered in Troy, Michigan with operations in 11 countries. The company has not publicly disclosed its RTO, hybrid, or remote work policies. NOTE: Could not verify this company at rank 74 on Fortune's Most Innovative Companies 2025 list - the ranking may need verification."
+    },
+    {
+      "company_name": "Duke Energy",
+      "rank": 92,
+      "sector": "Energy",
+      "current_policy": "Hybrid - Flexible arrangements varying by role",
+      "policy_details": {
+        "in_office_days": 2,
+        "remote_days": 2,
+        "typical_schedule": "Common schedule: 4x10 hours with 2 days in office, 2 days remote. Some positions may require 3 days in office.",
+        "enforcement_date": "2023-2024",
+        "flexibility": "Hybrid policy allows employees to work from both remote and onsite locations after onboarding period. Employees must live within reasonable commute distance to designated Duke Energy facility. Specific requirements vary by position and department."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Medium",
+      "sources": [
+        {
+          "type": "Job Postings",
+          "url": "https://www.indeed.com/cmp/Duke-Energy/faq/work-from-home",
+          "date": "2024",
+          "note": "Employee responses indicate hybrid arrangements with 2-3 days in office"
+        },
+        {
+          "type": "News Article",
+          "url": "https://www.wcnc.com/article/money/duke-energy-downsizing-real-estate-footprint-employees-working-home/275-4c5b06b7-e162-414b-be80-732ef7d1e94e",
+          "date": "2024",
+          "note": "Duke Energy downsizing real estate footprint, new Charlotte HQ designed for 4,400 workers despite 6,000 employees"
+        },
+        {
+          "type": "Company Resource",
+          "url": "https://www.flexindex.com/company/duke-energy",
+          "date": "2024",
+          "note": "Listed as offering hybrid remote work arrangements"
+        }
+      ],
+      "key_findings": "Duke Energy has embraced a hybrid work model with most positions requiring 2-3 days in office per week. The company spokesperson stated employees 'can have a hybrid work environment and still get jobs done.' Their new Charlotte headquarters was designed to accommodate not all employees simultaneously, indicating commitment to ongoing flexible work. The specific schedule varies by role, with some departments using a 4x10 schedule (2 days in office, 2 remote) while others may require 3 days in office."
+    },
+    {
+      "company_name": "Liberty Mutual Insurance Group",
+      "rank": 93,
+      "sector": "Financials",
+      "current_policy": "Hybrid - 2 days in office per week for employees within 50 miles of hub locations",
+      "policy_details": {
+        "in_office_days": 2,
+        "remote_days": 3,
+        "typical_schedule": "2 days per week in office for most departments; GRS Claims only requires 2 days per month in office",
+        "enforcement_date": "September 2023",
+        "flexibility": "Employees living within 50 miles of hub office locations (Boston, Seattle, Portsmouth, Plano) must work hybrid schedule. Those 50+ miles from hubs can remain fully remote. Field adjusters typically 100% remote. Some departments vary in requirements. Company offered 7 weeks of fully remote work in summer/holiday periods in 2024."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "High",
+      "sources": [
+        {
+          "type": "Employee Reports",
+          "url": "https://www.indeed.com/cmp/Liberty-Mutual-Insurance/faq/what-is-the-work-from-home-policy-at-liberty-mutual-insurance",
+          "date": "2024",
+          "note": "Multiple employees confirm 2 days/week requirement for those within 50 miles of hubs"
+        },
+        {
+          "type": "News Article",
+          "url": "https://www.hr-brew.com/stories/2024/06/26/to-avoid-a-summer-slump-some-employers-offer-flexible-work-policies",
+          "date": "2024-06",
+          "note": "Liberty Mutual offers hybrid employees 7 weeks fully remote during summer/holidays 2024"
+        },
+        {
+          "type": "News Article",
+          "url": "https://www.boston.com/news/the-boston-globe/2024/11/27/amazon-is-requiring-workers-to-come-back-to-the-office-five-days-a-week-are-boston-companies-following-suit/",
+          "date": "2024-11",
+          "note": "Liberty Mutual maintaining 2 days/week policy as of November 2024, not increasing despite other companies' RTO pushes"
+        },
+        {
+          "type": "News Article",
+          "url": "https://www.dallasnews.com/business/real-estate/2024/04/30/hybrid-work-compels-liberty-mutual-to-reimagine-plano-campus/",
+          "date": "2024-04",
+          "note": "Company planning for employees to average 2 days/week in office, 3 days virtual"
+        }
+      ],
+      "key_findings": "Liberty Mutual has a clearly defined hybrid policy requiring 2 days per week in office for employees within 50 miles of major hub locations (Boston, Seattle, Portsmouth, Plano). The policy was implemented in September 2023 and has remained stable through November 2024, even as other companies increased RTO requirements. Notably, the company provided additional flexibility with 7 weeks of fully remote work during summer/holiday periods in 2024. GRS Claims department has more lenient requirements (2 days/month vs 2 days/week). Field adjusters remain fully remote. The company is redesigning office spaces to accommodate the hybrid model."
+    },
+    {
+      "company_name": "The University of Kansas Health System",
+      "rank": 94,
+      "sector": "Health Care",
+      "current_policy": "Role-dependent - Hybrid and remote options available for eligible administrative/clinical support positions",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Varies significantly by role - clinical positions typically require on-site presence; administrative and IT positions may qualify for hybrid or remote arrangements",
+        "enforcement_date": null,
+        "flexibility": "As a healthcare provider, most clinical and patient-facing roles require on-site work. Administrative, IT, and certain clinical analyst positions may be eligible for hybrid or remote work. No standardized company-wide policy publicly available."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Medium",
+      "sources": [
+        {
+          "type": "Job Postings",
+          "url": "https://jobs.kansashealthsystem.com/",
+          "date": "2024-2025",
+          "note": "Multiple remote and hybrid positions advertised including Epic Clinical Analyst I (Remote), Administrative Assistant (Hybrid)"
+        },
+        {
+          "type": "Job Listings",
+          "url": "https://www.flexjobs.com/remote-jobs/company/university_of_kansas_hospital",
+          "date": "2024",
+          "note": "FlexJobs lists part-time and alternative schedule flexibility for certain roles"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.glassdoor.com/Reviews/The-University-of-Kansas-Health-System-Reviews-E122128.htm",
+          "date": "2024",
+          "note": "3.9/5 overall rating with 874+ reviews; 3.7/5 work-life balance rating"
+        }
+      ],
+      "key_findings": "The University of Kansas Health System, as an academic medical center, maintains a role-dependent approach to remote and hybrid work. Clinical and patient-facing positions require on-site presence due to the nature of healthcare delivery. However, the organization offers remote and hybrid arrangements for eligible administrative, IT, and clinical support positions (e.g., Epic analysts, HR administrative roles). The health system has not announced broad RTO mandates and continues to advertise remote and hybrid positions in 2024-2025, suggesting a stable, flexible approach for non-clinical roles."
+    }
+  ],
+  "research_methodology": {
+    "sources_checked": [
+      "BuildRemote.co RTO tracker",
+      "Company career pages and job postings",
+      "News articles from 2024-2025",
+      "Employee reports on Glassdoor, Indeed, Fishbowl",
+      "Company press releases and announcements",
+      "Fortune's Most Innovative Companies 2025 list"
+    ],
+    "challenges": [
+      "Air Products & Chemicals: No formal company-wide RTO policy publicly announced. Information pieced together from job postings and employee reviews.",
+      "AH Group: Could not verify ranking on Fortune's Most Innovative Companies 2025 list. Minimal public information about work policies available.",
+      "Duke Energy: Policy varies by department; no single standardized announcement found. Information from multiple sources including job postings and employee reports.",
+      "Liberty Mutual: Most comprehensive and well-documented policy among the five companies.",
+      "Kansas Health System: As expected for healthcare, policy is highly role-dependent. Limited formal policy documentation but job postings indicate ongoing hybrid/remote options."
+    ],
+    "confidence_notes": {
+      "high": "Liberty Mutual - Multiple consistent sources from news articles, employee reports, and official announcements",
+      "medium": "Duke Energy and Kansas Health System - Information from job postings and employee feedback, though not formal policy announcements",
+      "low": "Air Products & Chemicals and AH Group - Limited public information, pieced together from various sources without formal policy confirmation"
+    }
+  },
+  "overall_trends": {
+    "summary": "Among these 5 companies from Fortune's Most Innovative Companies 2025 list, hybrid work remains the dominant model where applicable. Liberty Mutual has the most clearly defined policy (2 days/week in office for those within 50 miles of hubs). Duke Energy offers flexible hybrid arrangements (2-3 days/week). Air Products maintains flexibility without a standardized policy. Healthcare organizations (Kansas Health System) maintain role-dependent policies with remote options for administrative roles. None of the companies showed evidence of tightening RTO policies in 2024-2025; most are maintaining stable hybrid arrangements.",
+    "by_sector": {
+      "Materials": "Air Products shows flexible, role-dependent approach",
+      "Energy": "Duke Energy committed to ongoing hybrid model with real estate decisions reflecting this",
+      "Financials": "Liberty Mutual maintains structured 2-days/week hybrid policy with distance-based criteria",
+      "Health Care": "Role-dependent policies with hybrid/remote for eligible administrative positions"
+    }
+  }
+}

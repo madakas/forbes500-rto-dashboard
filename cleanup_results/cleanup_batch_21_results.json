@@ -1,0 +1,109 @@
+{
+  "batch_number": 21,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "Ryder System",
+      "rank": 238,
+      "sector": "Transportation",
+      "current_policy": "Hybrid with specified in-office days - corporate employees required to be in office on Tuesdays and Wednesdays",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 2,
+        "office_requirements": "Mandatory Tuesday and Wednesday office attendance for corporate employees",
+        "flexibility": "Approximately 800 South Florida-based employees work remotely or in hybrid capacity. Company downsized headquarters in 2024 to accommodate hybrid work style, moving from 248,989 sq ft to smaller Coral Gables location"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexindex.com/company/ryder-system",
+        "https://www.indeed.com/cmp/Ryder-System-6/faq/what-is-the-work-from-home-policy-at-ryder-system",
+        "https://www.truckingdive.com/news/ryder-secures-longterm-lease-for-new-coral-gables-headquarters/651011/",
+        "https://www.nasdaq.com/press-release/ryder-announces-new-headquarters-in-coral-gables-2023-05-16"
+      ],
+      "key_findings": "Ryder System implemented a 2-day in-office hybrid policy (Tuesday/Wednesday) for corporate employees. The company relocated to a smaller headquarters in Coral Gables in early 2024, explicitly designed for hybrid work. CEO stated 'we needed much less office space than we were utilizing' post-pandemic. The new office serves approximately 800 employees, many working remotely or hybrid. Some positions remain fully remote.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Ace Hardware",
+      "rank": 244,
+      "sector": "Retailing",
+      "current_policy": "Hybrid - 3 days in office, 2 days remote for most corporate positions",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "Most business areas require 3 days in-office attendance per week",
+        "flexibility": "Some departments may vary. Internship program offers hybrid and on-site opportunities. Employee reviews indicate management is pushing for increased office presence post-COVID"
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://www.glassdoor.com/Reviews/Ace-Hardware-Oak-Brook-Reviews-EI_IE2699.0,12_IL.13,22_IC1128935.htm",
+        "https://www.indeed.com/cmp/Ace-Hardware/reviews?fcountry=US&floc=Oak+Brook,+IL",
+        "https://careers.acehardware.com/corporate-careers/"
+      ],
+      "key_findings": "Ace Hardware's Oak Brook headquarters operates a 3-2 hybrid model for most business areas. Employee reviews indicate the company is actively working to increase office presence, with management concerned about getting people back post-COVID. The headquarters was recognized as one of DuPage County's Smartest Workplaces in 2024. Employee sentiment suggests work-life balance has decreased as the company pushes for more in-office time.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Emory Healthcare",
+      "rank": 245,
+      "sector": "Health Care",
+      "current_policy": "Role-dependent - clinical roles on-site, administrative and telehealth positions offer remote/hybrid options",
+      "policy_details": {
+        "model_type": "Role-based flexibility",
+        "in_office_days": "Varies by role",
+        "office_requirements": "Direct patient care requires on-site presence. Administrative, billing, coding, scheduling, and telehealth nursing positions available as remote",
+        "flexibility": "Expanded telehealth services (Emory Connected Care) across almost every medical specialty. Virtual desktop infrastructure (EHC Workspace) enables secure remote access for eligible employees"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/emory_healthcare",
+        "https://www.emoryhealthcare.org/i-am/vdt-vdi",
+        "https://www.emoryhealthcare.org/emory-connected-care/index.html"
+      ],
+      "key_findings": "Emory Healthcare has not made public announcements about a formal return-to-office policy. The organization offers 100% remote positions in administrative, medical coding, billing, scheduling, and telehealth nursing roles. Clinical positions requiring direct patient care remain on-site. The company has robust virtual desktop infrastructure for remote work. As a healthcare organization, policy appears to be role-specific rather than organization-wide.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Advocate Health",
+      "rank": 250,
+      "sector": "Health Care",
+      "current_policy": "Role-dependent - clinical roles on-site, select administrative positions offer hybrid/remote options",
+      "policy_details": {
+        "model_type": "Role-based flexibility",
+        "in_office_days": "Varies by role",
+        "office_requirements": "Direct patient care and hospital administrative functions require on-site presence. Some corporate and administrative roles offer hybrid schedules",
+        "flexibility": "Limited remote opportunities available for specific positions. Created after 2022 merger of Advocate Aurora Health and Atrium Health, with headquarters in Charlotte and strong presence in Chicago/Milwaukee areas"
+      },
+      "trend_direction": "Unknown",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/advocate_aurora_health",
+        "https://careers.aah.org/benefits/",
+        "https://www.healthcaredive.com/news/advocate-aurora-atrium-complete-merger/637880/",
+        "https://www.fiercehealthcare.com/providers/advocate-aurora-health-atrium-health-close-mega-merger-forming-nations-5th-largest-non"
+      ],
+      "key_findings": "Advocate Health (formed from December 2022 merger of Advocate Aurora Health and Atrium Health) has not publicly announced a comprehensive return-to-office policy. As the nation's 5th largest nonprofit health system with 67 hospitals and 160,000 employees across 6 states, the organization maintains role-specific policies. Job postings mention hybrid schedules for certain positions. Healthcare industry requires on-site presence for direct patient care and administrative functions in hospitals/clinics. Limited public information available about corporate office policies.",
+      "confidence_level": "Low"
+    },
+    {
+      "company": "American Airlines Group",
+      "rank": 251,
+      "sector": "Transportation",
+      "current_policy": "Hybrid - corporate employees required in office at least 3 days per week including Tuesday",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "Minimum 3 days per week in-office attendance required for corporate employees, with Tuesday as mandatory day",
+        "flexibility": "Some positions remain fully remote. Policy has evolved from earlier 2-3 day recommendation to firmer 3-day requirement. Employee reviews indicate limited flexibility and strong push for office presence"
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://www.flexindex.com/company/american-airlines",
+        "https://www.glassdoor.com/Reviews/American-Airlines-work-from-home-Reviews-EI_IE8.0,17_KH18,32.htm",
+        "https://www.theretirementgroup.com/featured-article/5448096/return-to-work-policies-are-causing-issues-will-american-airlines-group-workers-be-affected",
+        "https://www.indeed.com/cmp/American-Airlines/topics/work-from-home"
+      ],
+      "key_findings": "American Airlines requires corporate employees at Fort Worth headquarters and other offices to be in-office at least 3 days per week, including mandatory Tuesday attendance. The policy has tightened over time - earlier guidance suggested 2-3 days, now firmly 3 days minimum. Employee reviews indicate dissatisfaction with the mandate and limited work-from-home flexibility. Some employees report the company 'forced people back in the office' and return-to-work policies are causing work-life balance issues and increased attrition. IT and some specialized roles may have different arrangements.",
+      "confidence_level": "High"
+    }
+  ]
+}

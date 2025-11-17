@@ -1,0 +1,214 @@
+{
+  "batch_number": 15,
+  "research_date": "2025-11-17",
+  "note": "Research conducted for companies at ranks 184, 186, 189, 190, and 191. Most companies did not have publicly available RTO policy information for 2024-2025.",
+  "companies": [
+    {
+      "company_name": "Lowe's",
+      "rank": 184,
+      "sector": "Retail",
+      "current_policy": "Unknown - No public information available",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Unknown",
+        "enforcement_date": null,
+        "flexibility": "No public information available about corporate office RTO policies. As a retailer, most positions are store-based and inherently require on-site presence."
+      },
+      "trend_direction": "Unknown",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Web Search",
+          "url": "https://buildremote.co/companies/return-to-office/",
+          "date": "2024-2025",
+          "note": "Fortune 500 RTO tracker does not specifically mention Lowe's RTO policy"
+        },
+        {
+          "type": "Company Website",
+          "url": "https://corporate.lowes.com/",
+          "date": "2024",
+          "note": "Corporate website does not contain public RTO policy information"
+        }
+      ],
+      "key_findings": "Lowe's has not publicly announced or disclosed return-to-office policies for corporate employees in 2024 or 2025. As a home improvement retailer, the vast majority of Lowe's workforce consists of store employees who work on-site by nature of the business. Any RTO policies would apply to corporate headquarters staff in Mooresville, NC, but no public announcements or documentation could be found. The company made news in 2024 for reducing DEI programs, but no related RTO mandate announcements were found."
+    },
+    {
+      "company_name": "Lumen Technologies",
+      "rank": 186,
+      "sector": "Telecommunications",
+      "current_policy": "Flexible/Hybrid - Agile working model maintained",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Role-dependent - Remote, hybrid, and onsite positions available based on job requirements",
+        "enforcement_date": null,
+        "flexibility": "Lumen has embraced an agile working model for select roles, enabling colleagues to work from home or in a blended, hybrid model. The company offers remote, hybrid, and onsite job opportunities, with remote positions clearly noted in job descriptions."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Medium",
+      "sources": [
+        {
+          "type": "Job Postings",
+          "url": "https://jobs.lumen.com/global/en/life-at-lumen",
+          "date": "2024-2025",
+          "note": "Company career page states agile working model and lists remote, hybrid, and onsite positions"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.glassdoor.com/Benefits/Lumen-US-Benefits-EI_IE248324.0,5_IL.6,8.htm",
+          "date": "2024",
+          "note": "Employees report flexibility including remote work and flexible time off"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.indeed.com/cmp/Lumen-667f951b/reviews?fcountry=US&floc=Remote",
+          "date": "2024",
+          "note": "80+ reviews from remote workers indicating ongoing remote opportunities"
+        }
+      ],
+      "key_findings": "Unlike many large tech and telecommunications companies that announced strict RTO mandates in 2024-2025, Lumen Technologies has maintained its flexible, agile working model. The company continues to offer remote, hybrid, and onsite positions based on role requirements. Employee reviews from 2024 highlight Lumen's flexibility, particularly regarding remote work and work-life balance. There is no evidence of a company-wide RTO mandate requiring employees to return to offices full-time or on a strict hybrid schedule."
+    },
+    {
+      "company_name": "HCA Healthcare",
+      "rank": 189,
+      "sector": "Health Care",
+      "current_policy": "Role-dependent - No public RTO mandate for administrative roles",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Highly role-dependent. Clinical and hospital-based positions require on-site presence. Administrative and corporate roles may have flexible arrangements but specifics not publicly disclosed.",
+        "enforcement_date": null,
+        "flexibility": "As the largest health system in the U.S., most of HCA Healthcare's workforce consists of clinical staff (nurses, physicians, hospital workers) who work on-site by nature of healthcare delivery. Corporate and administrative roles may have flexible arrangements, but no formal policy has been publicly announced."
+      },
+      "trend_direction": "Unknown",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Web Search",
+          "url": "https://www.talentlms.com/blog/return-to-office-mandates/",
+          "date": "2024-2025",
+          "note": "General RTO mandate information but HCA Healthcare not specifically mentioned"
+        },
+        {
+          "type": "Company Resources",
+          "url": "https://careers.hcahealthcare.com/",
+          "date": "2024",
+          "note": "Career page focuses on benefits and employee support but does not detail RTO policies"
+        }
+      ],
+      "key_findings": "HCA Healthcare has not publicly announced a return-to-office policy for 2024 or 2025. As the largest health system in the United States, the vast majority of HCA's 309,000+ employees are clinical staff who have always worked on-site at hospitals and medical facilities. Any RTO policies would primarily affect corporate headquarters staff in Nashville, TN, and administrative personnel, but no public announcements or documentation about such policies could be found. The company's focus appears to be on employee benefits, PTO, and healthcare worker support rather than remote work policies."
+    },
+    {
+      "company_name": "Advance Financial",
+      "rank": 190,
+      "sector": "Financials",
+      "current_policy": "Unknown - Limited public information available",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Unknown. Company has historically offered hybrid remote jobs in customer service and call center categories.",
+        "enforcement_date": null,
+        "flexibility": "Advance Financial has offered flexible work options, including hybrid remote jobs in customer service roles, but no specific RTO policy for 2024-2025 has been publicly disclosed."
+      },
+      "trend_direction": "Unknown",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Job Postings",
+          "url": "https://www.flexjobs.com/remote-jobs/company/advance_financial",
+          "date": "2024",
+          "note": "Company has posted hybrid remote jobs in customer service and call center categories"
+        },
+        {
+          "type": "Company Information",
+          "url": "https://careers.advancefinancial.com/",
+          "date": "2024",
+          "note": "Career page exists but does not detail remote work or RTO policies"
+        },
+        {
+          "type": "Company Profile",
+          "url": "https://en.wikipedia.org/wiki/Advance_Financial",
+          "date": "2024",
+          "note": "Nashville-based fintech/payday lending company founded 1996, approximately 538 employees"
+        }
+      ],
+      "key_findings": "Advance Financial is a Nashville-based payday lending and fintech company with approximately 538 employees across its locations. While the company has historically offered hybrid remote work options for customer service and call center roles, no specific return-to-office policy for 2024-2025 could be found in public sources. As a smaller financial services company compared to major banks and insurers, Advance Financial may not publicly announce RTO policies. Job postings indicate some flexibility remains available for certain positions."
+    },
+    {
+      "company_name": "PPG Industries",
+      "rank": 191,
+      "sector": "Materials",
+      "current_policy": "Flexible - Some flexibility maintained, specific policy unclear",
+      "policy_details": {
+        "in_office_days": null,
+        "remote_days": null,
+        "typical_schedule": "Flexible work time policy allows employees to choose working hours within reasonable limits (e.g., starting between 6am-9am). Remote work capability exists for some roles.",
+        "enforcement_date": null,
+        "flexibility": "PPG has a flexible work time policy that allows employees scheduling flexibility. Some employees work remotely with company vehicles and technology provided. However, no formal company-wide RTO mandate details for 2024-2025 are publicly available."
+      },
+      "trend_direction": "Maintaining",
+      "confidence_level": "Low",
+      "sources": [
+        {
+          "type": "Employee Benefits",
+          "url": "https://builtin.com/company/ppg/benefits",
+          "date": "2024",
+          "note": "PPG offers flexible work time policy allowing employees to choose working hours"
+        },
+        {
+          "type": "News Article",
+          "url": "https://www.theretirementgroup.com/featured-article/5448096/return-to-work-policies-are-causing-issues-will-ppg-industries-workers-be-affected",
+          "date": "2024",
+          "note": "Article mentions mandatory office returns affecting PPG employees, challenges in retention and recruitment"
+        },
+        {
+          "type": "Employee Reviews",
+          "url": "https://www.indeed.com/cmp/Ppg-af81e37f/reviews",
+          "date": "2024",
+          "note": "Some employee reviews mention remote work arrangements with company technology provided"
+        }
+      ],
+      "key_findings": "PPG Industries maintains a flexible work time policy that allows employees some autonomy over their schedules. While one source mentioned return-to-work policies affecting PPG employees (particularly those nearing retirement), no specific RTO mandate details (such as required office days per week) were found for 2024-2025. Some employees report working remotely with company-provided vehicles and technology. In October 2024, PPG announced plans to lay off 1,800 employees (4% of workforce) as part of cost-cutting measures related to business divestitures, but this was separate from RTO policy. The company appears to maintain some workplace flexibility, but detailed policy information is not publicly available."
+    }
+  ],
+  "research_methodology": {
+    "sources_checked": [
+      "BuildRemote.co RTO tracker",
+      "Company career pages and job postings",
+      "News articles from 2024-2025",
+      "Employee reports on Glassdoor, Indeed",
+      "Company press releases and announcements",
+      "RTO tracking websites (Archie, TalentLMS, Hubble)",
+      "Fortune 500 RTO trackers"
+    ],
+    "challenges": [
+      "Lowe's: No public RTO policy information found. As a retailer, most employees work in stores on-site, limiting relevance of corporate RTO policies.",
+      "Lumen Technologies: Maintains flexible model unlike many tech peers, but specific mandate details not formalized publicly.",
+      "HCA Healthcare: As expected for healthcare, most employees are clinical and work on-site. No corporate RTO policy announcements found.",
+      "Advance Financial: Smaller company with limited public disclosure of internal policies. Some hybrid jobs advertised but no formal RTO policy documented.",
+      "PPG Industries: Some flexibility indicated but no clear, formal RTO mandate details available publicly."
+    ],
+    "confidence_notes": {
+      "high": "None - all companies lack publicly available, detailed RTO policy information",
+      "medium": "Lumen Technologies - consistent employee reports and job postings indicate maintained flexibility",
+      "low": "Lowe's, HCA Healthcare, Advance Financial, PPG Industries - limited or no public RTO policy information available"
+    }
+  },
+  "overall_trends": {
+    "summary": "This batch of 5 companies (ranks 184-191) shows a pattern of limited public disclosure of RTO policies. Lumen Technologies stands out as maintaining an explicitly flexible, agile working model without implementing strict RTO mandates seen at many tech peers. The two healthcare/retail companies (Lowe's rank 184, HCA Healthcare rank 189) have workforces that are predominantly on-site by nature of their industries (retail stores, hospitals), making corporate RTO policies less relevant to most employees. Advance Financial and PPG Industries show some workplace flexibility but lack publicly documented RTO mandates. None of these companies appear in major RTO tracking databases with specific policy details, suggesting either maintained flexibility, internal-only communication of policies, or industry-specific approaches where remote work was never widespread.",
+    "by_sector": {
+      "Retail": "Lowe's - No public RTO policy (most employees are store-based)",
+      "Telecommunications": "Lumen Technologies - Maintains agile/flexible model, no strict RTO mandate",
+      "Health Care": "HCA Healthcare - Role-dependent, most staff on-site (clinical), no corporate RTO announcement",
+      "Financials": "Advance Financial - Some hybrid options available, no formal RTO policy disclosed",
+      "Materials": "PPG Industries - Flexible work time policy, no specific RTO mandate details"
+    },
+    "notable_observations": [
+      "Lumen Technologies diverges from telecommunications peers by maintaining flexibility rather than mandating returns",
+      "Industry types (retail, healthcare) where remote work was never widespread show no RTO policy announcements",
+      "Smaller companies (Advance Financial, ~538 employees) less likely to publicly announce RTO policies",
+      "No evidence of tightening RTO requirements in 2024-2025 for any of these five companies"
+    ]
+  }
+}

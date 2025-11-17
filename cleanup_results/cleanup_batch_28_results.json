@@ -1,0 +1,86 @@
+{
+  "batch_number": 28,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "American Electric Power",
+      "rank": 297,
+      "sector": "Energy",
+      "current_policy": "Full-time office return mandated effective June 1, 2025. AEP is ending its hybrid work model and requiring all employees to return to a five-day, in-office work schedule.",
+      "policy_details": {
+        "model_type": "Office-First (Full RTO)",
+        "in_office_days": 5,
+        "office_requirements": "All employees required in office 5 days per week starting June 1, 2025. Exceptions only for employees hired specifically for remote roles or those who don't live near an AEP facility.",
+        "flexibility": "Minimal - only remote-specific hires and geographically distant employees exempt"
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://www.wosu.org/2025-01-24/american-electric-power-orders-employees-back-to-the-office-full-time-by-june",
+        "https://abc6onyourside.com/news/local/aep-announces-will-require-all-employees-return-office-this-year-2025-hybrid-columbus-central-ohio-power-utility-company-work-model",
+        "https://www.insideindianabusiness.com/articles/aep-ending-hybrid-work-model-some-indiana-employees-set-to-return-to-office"
+      ],
+      "key_findings": "AEP announced in January 2025 that approximately 5,000 workers (including 2,400 in central Ohio and 300 in Indiana) must return to full-time office work by June 1, 2025. This represents a complete elimination of their previous hybrid work model. Company cites $54 billion investment plan over next five years and belief that 'face-to-face, in-person interactions have real benefits.' Employees report frustration with leadership and increased attrition.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Ulta Beauty",
+      "rank": 298,
+      "sector": "Retailing",
+      "current_policy": "Hybrid model requiring corporate employees to work in office 3 days per week with 2 days remote flexibility.",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "Corporate staff required in office 3 days per week. Store employees work full-time in retail locations.",
+        "flexibility": "Moderate - 2 days remote per week for corporate roles"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.flexindex.com/company/ulta-beauty",
+        "https://www.glossy.co/beauty/beauty-wellness-briefing-what-does-the-future-of-in-office-work-look-like/"
+      ],
+      "key_findings": "Ulta Beauty maintains a hybrid work policy for corporate employees requiring 3 days in office per week. Earlier reports from 2022 mentioned a 'FlexWork @ Ulta Beauty' program with 2-3 days office presence plus 4 weeks per year of fully remote work from any location. Current policy appears to have standardized at 3 days. Store employees remain full-time in retail locations. Policy has been stable throughout 2024 with no major changes announced.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Wayfair",
+      "rank": 299,
+      "sector": "Retailing",
+      "current_policy": "Hybrid model with inconsistent enforcement. Officially 3 days per week for technology employees and 4 days for other departments, though implementation varies by manager.",
+      "policy_details": {
+        "model_type": "Hybrid (shifting toward Office-First)",
+        "in_office_days": 3,
+        "office_requirements": "3 days per week for tech employees, 4 days for other departments. CTO stated won't take attendance, but CEO and HR indicate it's mandatory. Manager discretion appears significant.",
+        "flexibility": "Limited and inconsistent - policy enforcement varies significantly"
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://www.quiverquant.com/news/Wayfair%20Targets%20Remote%20Work%20Amidst%20Major%20Layoffs",
+        "https://www.linkedin.com/news/story/wayfair-cuts-targeted-remote-staff-5903148/",
+        "https://retailwire.com/wayfair-targeted-remote-workers-for-layoffs/",
+        "https://www.teamblind.com/post/Wayfair-return-to-office-TmPNCgsL"
+      ],
+      "key_findings": "Wayfair is actively tightening its RTO approach. In January 2024, the company laid off 1,650 employees (13% of workforce), with remote workers disproportionately affected. CEO Niraj Shah indicated the company 'has figured out which ones make sense in-person' and executives believe 'most workers should be at their desks in an office on most days.' Official policy is 3 days for tech, 4 days for others, but messaging is inconsistent - CTO says it's up to managers while CEO/HR say mandatory. Clear trend away from remote work despite maintaining some remote roles strategically.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Novant Health",
+      "rank": 300,
+      "sector": "Health Care",
+      "current_policy": "No publicly announced formal RTO policy. Healthcare organization with mix of clinical (on-site) and corporate roles. Some remote positions available but no standardized hybrid schedule disclosed.",
+      "policy_details": {
+        "model_type": "Varied by Role",
+        "in_office_days": null,
+        "office_requirements": "Clinical staff work on-site at medical facilities. Corporate/administrative roles have some remote options but no standard policy publicly disclosed. Role-dependent rather than company-wide mandate.",
+        "flexibility": "Varies significantly by position and department"
+      },
+      "trend_direction": "Unknown",
+      "sources": [
+        "https://www.flexjobs.com/remote-jobs/company/novant_health",
+        "https://jobs.novanthealth.org/corporate/jobs",
+        "https://www.indeed.com/cmp/Novant-Health/topics/work-from-home"
+      ],
+      "key_findings": "Novant Health has not publicly announced a formal RTO policy or standardized hybrid work schedule. As a healthcare organization with 40+ medical facilities across NC, SC, and VA, most clinical staff work on-site. Corporate positions show some remote opportunities on job boards (FlexJobs, Indeed, ZipRecruiter), but no company-wide policy is publicly documented. Benefits guides and handbooks reviewed did not contain RTO policy details. Likely uses role-based approach rather than blanket policy. No evidence of recent policy changes or mandates in 2024-2025.",
+      "confidence_level": "Low"
+    }
+  ]
+}

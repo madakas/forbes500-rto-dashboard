@@ -1,0 +1,139 @@
+{
+  "batch_number": 9,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "rank": 132,
+      "company": "United Parcel Service",
+      "industry": "Transportation",
+      "rto_policy": {
+        "status": "Full RTO",
+        "details": "5 days per week in office",
+        "implementation_date": "2024-03-04",
+        "policy_description": "UPS announced in January 2024 that it would require employees to return to the office five days a week starting March 4, 2024. The policy applied to non-operations UPS employees globally, affecting upward of 3,600 workers including those in Human Resources, Marketing, Communications, and Finance.",
+        "previous_policy": "UPS previously had a hybrid workweek that allowed corporate employees to commute to a physical workspace at least three days per week. Prior to that, they phased out fully remote work policy in September 2021.",
+        "exceptions": "Some previously-approved remote positions will be permitted to continue. The mandate allows for business travel, sick days, caregiving needs, home repairs, and other circumstances with managerial permission.",
+        "context": "The RTO mandate was announced alongside plans to lay off 12,000 workers as part of broader cost-cutting measures amid slowing business. UPS welcomed non-operations employees back into offices globally, including at its nearly 625,000-square-foot global headquarters in Atlanta.",
+        "confidence": "high",
+        "sources": [
+          "Bloomberg News (2024-02-06)",
+          "Atlanta Journal-Constitution (2024-03-05)",
+          "CoStar News (2024)",
+          "Bisnow (2024)",
+          "WSB-TV Atlanta (2024)"
+        ]
+      }
+    },
+    {
+      "rank": 133,
+      "company": "Adtalem Global Education",
+      "industry": "Education",
+      "rto_policy": {
+        "status": "Hybrid (4 days in office)",
+        "details": "4 days per week in office for employees within 50 miles",
+        "implementation_date": "2023-2024",
+        "policy_description": "Adtalem recently eliminated fully remote work and is requiring colleagues within 50 miles of a location to come into the office 4 days a week. Employees who live outside the 50-mile radius of the office can work from home.",
+        "flexibility_options": "The company has implemented remote work on Mondays and Fridays, Focused Fridays where meetings are not scheduled for a block of time, Summer Hours to shorten employees work days, Flexible Time Off (FTO), and You Day for eligible colleagues.",
+        "previous_policy": "Adtalem previously had a formal Flexwork program that allowed work from home, condensed work week, job share and other options, with many colleagues working from home full time.",
+        "benefits": "Health, dental, vision, life and disability insurance, 401k Retirement Program + 6% employer match, and participation in Adtalem's Flexible Time Off (FTO) Policy with 12 Paid Holidays.",
+        "context": "The company has shifted from a more flexible remote-first approach to a hybrid model requiring in-office presence for employees near office locations.",
+        "confidence": "high",
+        "sources": [
+          "Glassdoor employee reviews (2024)",
+          "FlexJobs company profile",
+          "Indeed job listings",
+          "Built In benefits page"
+        ]
+      }
+    },
+    {
+      "rank": 134,
+      "company": "Keurig Dr Pepper",
+      "industry": "Food, Beverages & Tobacco",
+      "rto_policy": {
+        "status": "Hybrid (2 days remote)",
+        "details": "Work from home 2 days per week (3 days in office)",
+        "implementation_date": "Ongoing",
+        "policy_description": "Keurig Dr Pepper offers a hybrid work environment where employees work from home 2 days a week. The company has a strict hybrid schedule that is not open to remote work for brand management positions.",
+        "flexibility_notes": "Recent reviews (April 2025) mention 'Flexible hybrid work days' as a positive aspect. However, the policy is described as strict and not open to full remote work for certain roles like brand management.",
+        "company_positioning": "KDP is committed to offering employees resources to personalize their physical, mental and emotional health, ensuring team members feel safe, valued and cared for at work and at home, with the hybrid work environment being one component of their employee well-being strategy.",
+        "employee_sentiment": "Mixed - while some employees appreciate the 2 days WFH benefit, Glassdoor reviews suggest some challenges with the policy. Employees note limited career advancement opportunities and minimal salary increases, along with the strict hybrid schedule. Overall rating: 3.4 out of 5 stars based on 1,818 reviews. 57% would recommend working there.",
+        "confidence": "medium-high",
+        "sources": [
+          "Glassdoor employee reviews (2023-2025)",
+          "The Retirement Group article",
+          "Employee benefit listings",
+          "Indeed employee reviews"
+        ]
+      }
+    },
+    {
+      "rank": 135,
+      "company": "Nationwide",
+      "industry": "Financials",
+      "rto_policy": {
+        "status": "Hybrid",
+        "details": "Varies by location and role; Columbus office requires 2 days per week for employees within 35 miles",
+        "implementation_date": "March 2025 (for Columbus office policy)",
+        "policy_description": "Nationwide operates with a hybrid model. For the Columbus campus, employees within 35 miles must work in the office at least two days per week (effective March 2025). Some employee reviews mention working onsite 1 day per week at Columbus location as of May 2025, though this may vary by department.",
+        "overall_strategy": "Nationwide announced a plan to permanently transition to a hybrid operating model that comprises primarily working-from-office in four main corporate campuses and working-from-home in most other locations.",
+        "historical_context": "This hybrid model has been in place since 2020 when Nationwide announced a permanent shift in workplace strategy.",
+        "office_locations": "Four main corporate campuses, with significant presence in Columbus, Ohio and surrounding suburbs (Dublin, Grandview Heights, and Grove City).",
+        "note": "Policy may vary by role and department. The most recent specific information found was from a May 2025 employee review mentioning 1 day per week onsite, rather than 2 days, suggesting some flexibility in implementation.",
+        "important_distinction": "Note: Some search results referenced Nationwide Building Society (UK financial institution), which is a different company from Nationwide Insurance (US-based). The information provided here pertains to Nationwide Insurance.",
+        "confidence": "medium",
+        "sources": [
+          "Nationwide news releases (2020, 2025)",
+          "Indeed employee reviews (2025)",
+          "Insurance Business America",
+          "Wealth Management news"
+        ]
+      }
+    },
+    {
+      "rank": 136,
+      "company": "Quest Diagnostics",
+      "industry": "Health Care",
+      "rto_policy": {
+        "status": "Hybrid (flexible options)",
+        "details": "Quest Virtual Model with hybrid (1-2 days from home per week), near-site, or fully remote options",
+        "implementation_date": "Ongoing",
+        "policy_description": "Quest Diagnostics has a 'Quest Virtual Model' that allows eligible employees to work either a hybrid schedule (1-2 days from home per work week), a near-site schedule (primarily from home with occasional work in a Quest office), or fully remote.",
+        "flexibility_tiers": [
+          {
+            "option": "Hybrid",
+            "description": "1-2 days working from home per week"
+          },
+          {
+            "option": "Near-Site",
+            "description": "Primarily remote with occasional office visits"
+          },
+          {
+            "option": "Fully Remote",
+            "description": "100% remote for eligible positions"
+          }
+        ],
+        "role_dependency": "The company is 'continually evolving' its remote, hybrid, and flexible scheduling options to meet the unique needs of everyone on the team, though these options depend on the specific role. Not all roles qualify for these arrangements, as they depend on the nature of the work being performed.",
+        "company_statement": "Quest Diagnostics offers 'part-time and full-time hours, alternative and flexible schedules, occasional and temporary opportunities, and hybrid to 100% remote flexibility.'",
+        "note": "No company-wide RTO mandate announced for 2024-2025. The policy appears designed to provide flexibility while accommodating different job functions within the company.",
+        "confidence": "medium",
+        "sources": [
+          "Quest Diagnostics careers page",
+          "The Retirement Group article",
+          "FlexJobs company profile",
+          "Glassdoor job listings"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_companies": 5,
+    "rto_categories": {
+      "full_rto": 1,
+      "hybrid_4_days": 1,
+      "hybrid_3_days": 1,
+      "hybrid_flexible": 2
+    },
+    "notes": "This batch shows a range of RTO policies from full return to office (UPS with 5 days) to highly flexible hybrid arrangements (Quest Diagnostics). The majority (4 out of 5) have hybrid policies, though the strictness varies significantly. UPS stands out as having one of the strictest RTO mandates, implemented as a cost-cutting measure alongside layoffs. Quest Diagnostics and Nationwide appear to have more flexible arrangements with role-dependent options."
+  }
+}

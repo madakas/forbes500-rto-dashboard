@@ -1,0 +1,172 @@
+[
+  {
+    "company": "Mars",
+    "rank": 111,
+    "sector": "Food, Beverages & Tobacco",
+    "fortune_500_rank": "111",
+    "work_policy": {
+      "type": "Hybrid (50/50 split)",
+      "category": "Hybrid",
+      "days_required": 2.5,
+      "specific_days": "N/A - Team discretion",
+      "details": "Mars' Future of Work strategy offers a flexible hybrid model where employees can spend approximately half their time in the office and half working remotely. The company empowers Associates to make choices about where, when and how to work to be most productive. Implemented in summer 2021, this policy provides greater flexibility than traditional hybrid models and embraces a broader range of working styles. Leaders and managers work with teams to balance individual and team needs.",
+      "effective_date": "2021-06",
+      "trend_direction": "Stable",
+      "previous_policy": "Office-based with some flexibility",
+      "previous_date": "Pre-2021"
+    },
+    "sources": [
+      {
+        "url": "https://www.mars.com/news-and-stories/articles/future-of-work",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.worklife.news/leadership/vulnerable-leadership-mars-global-vp-of-workplace-transformation-nici-bush-on-whats-driving-a-new-flexible-working-model/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Our Future of Work strategy is designed to empower Associates to make more choices about where, when and how to work to be the most productive and effective.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Mars has supported flexible working policies for over a decade and continues to expand flexibility rather than tighten RTO requirements."
+  },
+  {
+    "company": "H&R Block",
+    "rank": 112,
+    "sector": "Financials",
+    "fortune_500_rank": "112",
+    "work_policy": {
+      "type": "Fully flexible (team discretion)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "N/A - Team-based decisions",
+      "details": "H&R Block reversed its original 3-day RTO mandate (Tue-Thu) after listening to employee feedback. CEO Jeff Jones announced in early 2023 that the company would operate as a fully hybrid workplace with individual teams setting their own office attendance requirements. Approximately 25% of corporate staff (610+ employees) now work fully remote. The company is subleasing half of its Kansas City headquarters space and has committed to not reversing this policy.",
+      "effective_date": "2023-01",
+      "trend_direction": "Loosening",
+      "previous_policy": "3-day hybrid (Tue-Thu mandatory)",
+      "previous_date": "2021-03"
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2024/04/10/hr-block-ceo-reversed-rto-mandate-listening-employees/",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://hrexecutive.com/return-to-office-policies-are-still-tricky-how-hr-block-made-its-decision/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We have no plan to go backward. We're taking steps that are one-way doors that you don't reverse.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Notably bucked the trend of companies tightening RTO policies. CEO emphasizes hiring great people and holding them accountable to outcomes rather than micromanaging office attendance."
+  },
+  {
+    "company": "Jacobs Solutions",
+    "rank": 113,
+    "sector": "Business Services",
+    "fortune_500_rank": "113",
+    "work_policy": {
+      "type": "Hybrid",
+      "category": "Hybrid",
+      "days_required": null,
+      "specific_days": "N/A",
+      "details": "Jacobs empowers employees with a hybrid working policy that allows them to split their work week between Jacobs offices/project sites and remote locations. The company values collaboration and believes in-person interactions are crucial for both culture and client delivery. Specific requirements vary by role and team. The policy is designed to enable employees to deliver their best work with flexibility.",
+      "effective_date": null,
+      "trend_direction": "Stable",
+      "previous_policy": null,
+      "previous_date": null
+    },
+    "sources": [
+      {
+        "url": "https://www.glassdoor.com/Reviews/Jacobs-flexible-work-Reviews-EI_IE913.0,6_KH7,20.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.linkedin.com/pulse/embracing-flexible-working-jacobs-karen-winward-tkvpe",
+        "type": "Social Media",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Jacobs empowers employees with their hybrid working policy, allowing them to split their work week between Jacobs offices/projects and remote locations enabling them to deliver their best work.",
+    "verification_status": "Partial",
+    "research_date": "2025-11-17",
+    "notes": "Limited official information available. Policy appears flexible with emphasis on collaboration and in-person work for client-facing roles."
+  },
+  {
+    "company": "Exelon",
+    "rank": 114,
+    "sector": "Energy",
+    "fortune_500_rank": "114",
+    "work_policy": {
+      "type": "Hybrid (manager discretion)",
+      "category": "Hybrid",
+      "days_required": 1,
+      "specific_days": "N/A - Manager discretion",
+      "details": "Exelon implemented a hybrid work model following COVID-19, with typical arrangements allowing employees to work from home 1 day per week, though this requires manager approval. Leaders have discretion to require remote-enabled employees to work onsite at any time based on business needs. The company approached re-entry with a hybrid mindset rather than traditional full-time office requirements. Current employee reports indicate primarily 1 day per week remote work is standard.",
+      "effective_date": "2021-05",
+      "trend_direction": "Stable",
+      "previous_policy": "Remote during COVID",
+      "previous_date": "2020-2021"
+    },
+    "sources": [
+      {
+        "url": "https://www.glassdoor.com/Benefits/Exelon-Work-From-Home-US-BNFT152_E526_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://content.exeloncorp.com/covid19updates/time-to-set-a-date-for-responsible-re-entry",
+        "type": "Official",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Leaders continue to have the discretion to require remote-enabled employees to work onsite at any time, based on business needs.",
+    "verification_status": "Partial",
+    "research_date": "2025-11-17",
+    "notes": "Policy varies significantly by manager and team. Limited recent official information available. Appears to be conservative hybrid approach with significant in-office emphasis."
+  },
+  {
+    "company": "Airbnb",
+    "rank": 115,
+    "sector": "Technology",
+    "fortune_500_rank": "115",
+    "work_policy": {
+      "type": "Remote-first with quarterly gatherings",
+      "category": "Remote",
+      "days_required": 0,
+      "specific_days": "N/A - Quarterly gathering weeks",
+      "details": "Airbnb's 'Live and Work Anywhere' policy allows employees to permanently work remotely from anywhere in their country without compensation changes. Employees can also work internationally in any of 170 countries for up to 90 days per year in each location. Most employees gather in person quarterly for about a week at a time, with some senior roles gathering more frequently. As of 2024-2025, CEO Brian Chesky asks employees to come to San Francisco one week per month, suggesting increased gathering requirements for some roles.",
+      "effective_date": "2022-04",
+      "trend_direction": "Stable",
+      "previous_policy": "Office-based",
+      "previous_date": "Pre-2020"
+    },
+    "sources": [
+      {
+        "url": "https://news.airbnb.com/airbnbs-design-to-live-and-work-anywhere/",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.entrepreneur.com/business-news/airbnb-ceo-brian-cheskys-one-rule-for-remote-hybrid-work/486878",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://fortune.com/2022/05/29/airbnb-work-from-anywhere-brian-chesky-interview/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We've decided that we're going to design a 21st-century company, and we're going to design it around the principles of working remotely.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Airbnb is among the most flexible Fortune 500 companies. CEO Brian Chesky has been outspoken critic of strict RTO mandates. The policy resulted in over 1 million visits to Airbnb's job page when announced."
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "company": "Broadcom",
+    "rank": 126,
+    "sector": "Technology",
+    "rto_policy": "Full RTO (5 days)",
+    "policy_details": "Broadcom CEO Hock Tan mandated a strict return-to-office policy requiring employees living within 50 miles of an office to work in-person five days per week. Following the $69 billion acquisition of VMware in late 2023, the policy was enforced starting December 4, 2023. CEO stated 'Any other exception, you better learn how to walk on water' indicating virtually no flexibility. This represents one of the strictest RTO mandates among major tech companies, with no hybrid or remote options for employees within the 50-mile radius.",
+    "sources": [
+      "https://www.sfgate.com/tech/article/broadcom-vmware-layoffs-rto-mandate-18527044.php",
+      "https://fortune.com/2023/12/02/broadcom-ceo-orders-employees-get-butt-back-office-vmware-remote-work/",
+      "https://news.outsourceaccelerator.com/broadcom-office-return/"
+    ],
+    "last_updated": "2025-11-17",
+    "notes": "Note: Broadcom's actual Fortune 500 2024 rank is #118, not #126. This is one of the strictest RTO policies in the tech industry, requiring full-time in-office presence rather than hybrid arrangements."
+  },
+  {
+    "company": "Dominion Energy",
+    "rank": 127,
+    "sector": "Energy",
+    "rto_policy": "Hybrid (3-2)",
+    "policy_details": "Dominion Energy has adopted a hybrid work schedule where most employees work in the office three days per week and work remotely two days per week (3-2 hybrid model). With 65% of its workforce going into the field daily, full remote work is not feasible company-wide. The policy varies by role and location - some sites have hybrid arrangements, some are fully remote, and some require in-person only. The company is adjusting its real estate footprint to accommodate the hybrid model, including selling its 20-story high rise building in downtown Richmond as they transition to this flexible workforce model.",
+    "sources": [
+      "https://www.theretirementgroup.com/featured-article/5448096/return-to-work-policies-are-causing-issues-will-dominion-energy-workers-be-affected",
+      "https://www.indeed.com/cmp/Dominion-Energy/faq/what-is-the-work-from-home-policy-at-dominion-energy",
+      "https://www.hcamag.com/us/specialization/learning-development/dominion-energy-director-dont-be-afraid-to-say-youre-not-a-fully-remote-company/422763",
+      "https://virginiabusiness.com/dominion-energy-to-sell-downtown-richmond-high-rise/"
+    ],
+    "last_updated": "2025-11-17",
+    "notes": "Note: Dominion Energy's actual Fortune 500 2024 rank is #230, not #127. The company is committed to maintaining a hybrid approach rather than requiring full-time office presence."
+  },
+  {
+    "company": "Whirlpool",
+    "rank": 128,
+    "sector": "Consumer Discretionary",
+    "rto_policy": "Hybrid (3-2)",
+    "policy_details": "Whirlpool Corporation offers hybrid work arrangements with employees working 3 days in the office and 2 days remotely. According to employee reviews on Glassdoor, the company has a work-life balance rating of 3.8. Whirlpool also offers flexibility benefits to global salaried employees, including 'Two-Week Work from Anywhere' opportunities. The company published guidelines for returning employees to the office environment in June 2020 focusing on health and safety protocols, but current 2024-2025 information indicates a settled hybrid model.",
+    "sources": [
+      "https://www.flexindex.com/company/whirlpool",
+      "https://www.glassdoor.com/FAQ/Whirlpool-Corporation-Work-Life-Balance-Questions-EI_IE732.0,21_KC22,39.htm",
+      "https://www.whirlpoolcorp.com/return-to-office-guidelines/"
+    ],
+    "last_updated": "2025-11-17",
+    "notes": "Note: Whirlpool's exact Fortune 500 2024 rank was not confirmed in search results, though historically ranked between #134-162. Limited official company-wide policy announcements available; information based on employee feedback and company benefits documentation."
+  },
+  {
+    "company": "Henry Ford Health System",
+    "rank": 130,
+    "sector": "Health Care",
+    "rto_policy": "Role-dependent (Hybrid options available)",
+    "policy_details": "Henry Ford Health System offers flexible work arrangements on a role-by-role basis rather than a system-wide policy. The organization currently offers various remote and hybrid positions for healthcare employees, including roles in billing, utilization review, coding, IT, and administrative functions. Job listings from 2024-2025 indicate remote work options remain available for Michigan residents in certain positions. Many positions are listed as 'hybrid & remote options,' suggesting flexible work arrangements continue to be offered. However, clinical and patient-facing roles require in-person presence due to the nature of healthcare delivery.",
+    "sources": [
+      "https://www.flexjobs.com/remote-jobs/company/henry_ford_health_system",
+      "https://www.indeed.com/q-henry-ford-health-system-l-remote-jobs.html",
+      "https://www.henryford.com/human-resources",
+      "https://www.glassdoor.com/Overview/Working-at-Henry-Ford-Health-EI_IE4660.11,28.htm"
+    ],
+    "last_updated": "2025-11-17",
+    "notes": "Note: Henry Ford Health is not on the Fortune 500 list. With $5.8B in 2024 revenue, it is too small for Fortune 500 inclusion. No official company-wide RTO mandate found; remote/hybrid availability varies by department and role type."
+  },
+  {
+    "company": "Sorcero",
+    "rank": 131,
+    "sector": "Technology",
+    "rto_policy": "Fully Remote",
+    "policy_details": "Sorcero is a fully remote company and has been since its founding in 2018. The company operates as a remote and globally distributed team, meaning employees don't need to commute to an office and can work from anywhere. This has been a core part of their company culture from day one. Sorcero is a Certified B Corp headquartered in Washington, DC, providing AI-powered Language Intelligence solutions for the life sciences industry. Employee reviews highlight that 'Health benefits are fantastic, getting to work fully remote with a global team' is a valued aspect of working at Sorcero. The company offers benefits including a company-wide holiday recess at the end of the year, parental leave and family support, and an inclusive environment.",
+    "sources": [
+      "https://www.sorcero.com/company/careers",
+      "https://www.sorcero.com/careers",
+      "https://wellfound.com/company/sorcero",
+      "https://www.glassdoor.com/Overview/Working-at-sorcero-EI_IE4224698.11,18.htm"
+    ],
+    "last_updated": "2025-11-17",
+    "notes": "Note: Sorcero is NOT a Fortune 500 company. It is a small AI technology startup founded in 2018, providing solutions to life sciences companies. The company has no Fortune 500 ranking as it is a private startup, not one of the 500 largest U.S. companies by revenue."
+  }
+]

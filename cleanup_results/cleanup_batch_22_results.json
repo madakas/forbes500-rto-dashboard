@@ -1,0 +1,106 @@
+{
+  "batch_number": 22,
+  "research_date": "2025-11-17",
+  "companies": [
+    {
+      "company": "Northwestern Mutual",
+      "rank": 252,
+      "sector": "Financials",
+      "current_policy": "Hybrid model with 3 days in-office requirement",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 3,
+        "office_requirements": "Employees expected in office 3 days per week, with flexibility for remaining days",
+        "flexibility": "Some variation by role; financial advisors required to be in office 51% of the time. Company maintains flexibility messaging while enforcing in-office requirements"
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://chiefexecutive.net/northwestern-mutual-wants-everyone-back-in-the-office/",
+        "https://careers.northwesternmutual.com/culture/flexibility-balance/",
+        "https://www.glassdoor.com/Benefits/Northwestern-Mutual-Work-From-Home-US-BNFT152_E2919_N1.htm"
+      ],
+      "key_findings": "Northwestern Mutual operates a hybrid model requiring approximately 3 days per week in-office for most corporate roles, though this varies by position. CEO has expressed commitment to physical return to office. Employee reviews from late 2024 confirm the 3-day mandate, with some roles (financial advisors) having different requirements (51% in-office). The company markets work-life flexibility but has been increasing in-office requirements. Glassdoor reviews rate work-from-home benefit 4.4/5 stars despite mandatory office days.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Prisma Health",
+      "rank": 253,
+      "sector": "Health Care",
+      "current_policy": "Role-dependent with selective remote positions available",
+      "policy_details": {
+        "model_type": "On-site dominant with selective remote roles",
+        "in_office_days": null,
+        "office_requirements": "Healthcare operations primarily on-site; select administrative, coding, and support roles available remotely",
+        "flexibility": "Remote work available for specific non-clinical positions including medical coders, customer service, and telehealth roles"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Reviews/Prisma-Health-Reviews-E4675.htm",
+        "https://www.indeed.com/q-prisma-health-l-remote-jobs.html",
+        "https://careers.prismahealth.org/us/en/"
+      ],
+      "key_findings": "Prisma Health, as a major healthcare provider, operates primarily on-site for clinical roles. The organization has selectively offered remote positions for administrative functions including medical coding, customer service, telehealth, and analytics roles. No company-wide hybrid policy was found. Employee reviews from 2024 show 3.5/5 rating overall with remote workers in coding and support roles expressing satisfaction. The policy reflects typical healthcare industry practices where patient-facing roles require on-site presence while back-office functions may be remote.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Citizens Financial Group",
+      "rank": 254,
+      "sector": "Financials",
+      "current_policy": "Hybrid model with strict 4-day in-office requirement (80% in-office)",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 4,
+        "office_requirements": "80% in-office requirement translating to 4 days per week; calculation issues with holidays/PTO often result in 5-day weeks to meet threshold",
+        "flexibility": "Minimal flexibility; one work-from-home day per week for most roles. Policy viewed as restrictive by employees"
+      },
+      "trend_direction": "Tightening",
+      "sources": [
+        "https://www.glassdoor.com/Reviews/Citizens-Reviews-E13640.htm",
+        "https://www.indeed.com/cmp/Citizens-2/reviews",
+        "https://jobs.citizensbank.com/category/remote-jobs/288/71809/1"
+      ],
+      "key_findings": "Citizens Financial Group (Citizens Bank) implemented a strict hybrid policy requiring employees to be in-office 80% of the time, which translates to 4 days per week. Employee reviews from 2024 are highly critical of this policy, noting it contradicts marketed work-life balance claims. A significant complaint involves calculation issues where holidays and PTO aren't factored properly, forcing employees to work 5 days/week to meet the 80% threshold. This represents a tightening from previous more flexible arrangements. The policy has been described as 'forced back into the office with little to no flexibility' in multiple 2024 reviews.",
+      "confidence_level": "High"
+    },
+    {
+      "company": "Marsh McLennan Agency, Midwest Region",
+      "rank": 255,
+      "sector": "Financials",
+      "current_policy": "Hybrid model with flexible arrangements, typically 1 day in-office per week",
+      "policy_details": {
+        "model_type": "Hybrid",
+        "in_office_days": 1,
+        "office_requirements": "Most positions are remote or hybrid with minimal in-office requirements; varies by team and location",
+        "flexibility": "High flexibility; employees report choosing hybrid schedules with majority of work done remotely"
+      },
+      "trend_direction": "Maintaining",
+      "sources": [
+        "https://www.glassdoor.com/Reviews/Marsh-McLennan-Agency-Reviews-E823747.htm",
+        "https://www.glassdoor.com/Reviews/Marsh-McLennan-Reviews-E426.htm",
+        "https://siouxfalls.business/next-wave-businesses-returning-to-office-this-spring-report-hybrid-largely-remote-options/"
+      ],
+      "key_findings": "Marsh McLennan Agency maintains a flexible hybrid approach with most positions offering remote or hybrid options. Employee reviews from 2024 indicate approximately 1 day per week in-office for many roles, with 'flexible schedule and hybrid choices' cited as a key benefit. The Midwest Region (part of Marsh McLennan Agency) returned to hybrid work in 2022 and has maintained this approach. Some variation exists by position, with certain roles requiring more in-office presence. Overall company rating of 3.9/5 on Glassdoor with work arrangements cited positively. Named one of Glassdoor's Best Places to Work in 2025.",
+      "confidence_level": "Medium"
+    },
+    {
+      "company": "Voya Financial",
+      "rank": 256,
+      "sector": "Financials",
+      "current_policy": "Hybrid model with reduced office footprint, majority remote",
+      "policy_details": {
+        "model_type": "Hybrid with remote emphasis",
+        "in_office_days": null,
+        "office_requirements": "Flexible hybrid with most roles offering substantial remote work; specific requirements vary by department",
+        "flexibility": "High flexibility; some departments offer 24 WFH days annually, others offer majority remote work. Company downsized headquarters by 82% indicating commitment to remote/hybrid"
+      },
+      "trend_direction": "Relaxing",
+      "sources": [
+        "https://hartfordbusiness.com/article/embracing-remote-work-voya-financial-puts-its-470000-square-foot-windsor-headquarters-up/",
+        "https://www.flexjobs.com/remote-jobs/company/voya_financial",
+        "https://www.glassdoor.com/Benefits/Voya-Financial-Work-From-Home-US-BNFT152_E816322_N1.htm"
+      ],
+      "key_findings": "Voya Financial has actively embraced hybrid and remote work, putting its 470,000 sq ft Windsor headquarters up for sale in 2024 and planning to lease back only 85,000 sq ft (82% reduction). Company spokesperson stated 'Like many companies that have made similar shifts, we no longer need as much office space.' The majority of roles have adopted hybrid schedules with substantial remote work. Some departments offer specific allocations (e.g., 24 WFH days/year = ~2 days/month), while other positions are fully remote. Job postings show many 100% remote positions available. This represents a 'relaxing' trend as the company reduces physical footprint and increases flexibility.",
+      "confidence_level": "High"
+    }
+  ]
+}

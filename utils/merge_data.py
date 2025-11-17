@@ -141,8 +141,10 @@ def normalize_new_format(company: Dict[str, Any], batch_date: str = "2025-11-17"
     # Extract basic info
     company_name = company.get('company_name', company.get('company', 'Unknown'))
 
-    # Get policy details
+    # Get policy details (ensure it's a dict)
     policy_details = company.get('policy_details', {})
+    if not isinstance(policy_details, dict):
+        policy_details = {}
     current_policy = company.get('current_policy', '')
 
     # Extract policy type
@@ -266,6 +268,7 @@ def merge_research_data(source_dir: str) -> List[Dict[str, Any]]:
     """
     Merge all research batch files from the source directory.
     Handles both old and new JSON formats.
+    Cleanup batches override earlier entries for the same company.
 
     Args:
         source_dir: Path to the forbes500 research directory
@@ -274,8 +277,7 @@ def merge_research_data(source_dir: str) -> List[Dict[str, Any]]:
         List of all company records in unified format
     """
     source_path = Path(source_dir)
-    all_companies = []
-    company_names_seen = set()
+    all_companies = {}  # Use dict to allow updates
 
     # Pattern for pilot batch files (old format)
     pilot_batches = sorted(source_path.glob("pilot_results_batch*.json"))
@@ -286,16 +288,23 @@ def merge_research_data(source_dir: str) -> List[Dict[str, Any]]:
     # Exclude batch_plan.json
     research_batches = [f for f in research_batches if 'plan' not in f.name]
 
-    all_batch_files = pilot_batches + research_batches
+    # Pattern for cleanup_results batch files (new format) - process LAST to override
+    cleanup_results_path = Path(__file__).parent.parent / "cleanup_results"
+    cleanup_batches = []
+    if cleanup_results_path.exists():
+        cleanup_batches = sorted(cleanup_results_path.glob("cleanup_batch_*_results.json"))
+
+    all_batch_files = pilot_batches + research_batches + cleanup_batches
 
     print(f"Found {len(all_batch_files)} batch files to merge")
     print(f"  Pilot batches: {len(pilot_batches)}")
-    print(f"  Research batches: {len(research_batches)}\n")
+    print(f"  Research batches: {len(research_batches)}")
+    print(f"  Cleanup batches: {len(cleanup_batches)}\n")
 
     stats = {
         'old_format': 0,
         'new_format': 0,
-        'duplicates': 0,
+        'updated': 0,
         'unknown_skipped': 0
     }
 
@@ -304,18 +313,13 @@ def merge_research_data(source_dir: str) -> List[Dict[str, Any]]:
         companies, batch_date = load_json_file(batch_file)
 
         batch_count = 0
+        updated_count = 0
         for company in companies:
             # Skip Unknown companies
             company_name = company.get('company', company.get('company_name', 'Unknown'))
 
             if company_name == 'Unknown' or not company_name:
                 stats['unknown_skipped'] += 1
-                continue
-
-            # Check for duplicates
-            if company_name in company_names_seen:
-                print(f"  ⚠️  Duplicate: {company_name} (skipping)")
-                stats['duplicates'] += 1
                 continue
 
             # Normalize based on format
@@ -326,22 +330,32 @@ def merge_research_data(source_dir: str) -> List[Dict[str, Any]]:
                 normalized = normalize_new_format(company, batch_date)
                 stats['new_format'] += 1
 
-            company_names_seen.add(company_name)
-            all_companies.append(normalized)
-            batch_count += 1
+            # Check if this is an update or new entry
+            if company_name in all_companies:
+                # Update existing entry (cleanup results override earlier data)
+                all_companies[company_name] = normalized
+                updated_count += 1
+                stats['updated'] += 1
+            else:
+                # New entry
+                all_companies[company_name] = normalized
+                batch_count += 1
 
-        print(f"  ✓ Added {batch_count} companies")
+        if updated_count > 0:
+            print(f"  ✓ Added {batch_count} companies, updated {updated_count} existing")
+        else:
+            print(f"  ✓ Added {batch_count} companies")
 
     print(f"\n{'='*60}")
     print(f"Merge Statistics:")
     print(f"  Total unique companies: {len(all_companies)}")
     print(f"  Old format processed: {stats['old_format']}")
     print(f"  New format processed: {stats['new_format']}")
-    print(f"  Duplicates skipped: {stats['duplicates']}")
+    print(f"  Companies updated by cleanup: {stats['updated']}")
     print(f"  Unknown/empty skipped: {stats['unknown_skipped']}")
     print(f"{'='*60}\n")
 
-    # Sort by rank
+    # Convert dict to list and sort by rank
     def get_sort_key(company):
         rank = company.get('rank', 999)
         try:
@@ -349,9 +363,10 @@ def merge_research_data(source_dir: str) -> List[Dict[str, Any]]:
         except (ValueError, TypeError):
             return 999
 
-    all_companies.sort(key=get_sort_key)
+    companies_list = list(all_companies.values())
+    companies_list.sort(key=get_sort_key)
 
-    return all_companies
+    return companies_list
 
 def save_merged_data(companies: List[Dict[str, Any]], output_path: str):
     """Save the merged data to a JSON file."""

@@ -1,0 +1,192 @@
+[
+  {
+    "company": "Stanley Black & Decker",
+    "rank": 95,
+    "sector": "Household Products",
+    "fortune_500_rank": "95",
+    "work_policy": {
+      "type": "Hybrid/Remote split (Role-based)",
+      "category": "Hybrid",
+      "days_required": "Varies by role",
+      "specific_days": "N/A - Role-dependent",
+      "details": "One-third of office positions (10,000 worldwide) are fully remote, one-third work hybrid schedule, and one-third remain in office 5 days per week. Role-based approach where customer service roles can be fully virtual, while engineering roles typically hybrid or in-office. Company restructured headquarters to support communications infrastructure for hybrid work.",
+      "effective_date": "2021-08",
+      "trend_direction": "Stable",
+      "previous_policy": "Traditional office-first",
+      "previous_date": "Pre-2020"
+    },
+    "sources": [
+      {
+        "url": "https://www.hartfordbusiness.com/article/amid-vastly-changing-work-environment-stanley-black-decker-to-shift-one-third-of-office",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.courant.com/2021/08/09/stanley-black-decker-pivots-to-hybrid-workplace-as-covid-19-pandemic-reshapes-the-office-of-the-future/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We wanted to take a thoughtful, role-based approach to determine which jobs could be done remotely or require an in-person presence.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Policy established in 2021 and remains stable through 2024. About 350 Connecticut employees shifted to remote work. Company invested in headquarters renovation to support hybrid infrastructure."
+  },
+  {
+    "company": "Morgan Stanley",
+    "rank": 96,
+    "sector": "Financials",
+    "fortune_500_rank": "96",
+    "work_policy": {
+      "type": "4-day hybrid (Wealth Management) / 3-day hybrid (Other divisions)",
+      "category": "Hybrid",
+      "days_required": "3-4",
+      "specific_days": "N/A - Not specified",
+      "details": "Wealth Management division (~15,000 employees) required in office 4 days per week starting May 5, 2025. Supervisors expected in office 5 days unless exempted. Most other employees work hybrid with average 3 days per week in office. Remote work capped at 90 days per year for salespeople (policy from July 2022). Company tracks office presence through system logins.",
+      "effective_date": "2025-05",
+      "trend_direction": "Tightening",
+      "previous_policy": "3-day hybrid average",
+      "previous_date": "2022-2024"
+    },
+    "sources": [
+      {
+        "url": "https://www.advisorhub.com/morgan-stanley-to-bring-advisors-back-to-office-four-days-a-week/",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://buildremote.co/return-to-office/morgan-stanley/",
+        "type": "Tracker",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.advisorhub.com/exclusive-morgan-stanley-calls-brokers-back-to-offices-sets-90-day-cap-on-wfh/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "What has not changed, however, is the vast majority of us do our best work when we are together in person.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Policy varies by division. Wealth Management head Jed Finn announced 4-day requirement in March 2025 memo. Company uses badge tracking and login monitoring to enforce attendance."
+  },
+  {
+    "company": "Zillow Group",
+    "rank": 97,
+    "sector": "Technology",
+    "fortune_500_rank": "97",
+    "work_policy": {
+      "type": "Remote-first (CloudHQ)",
+      "category": "Remote",
+      "days_required": 0,
+      "specific_days": "N/A",
+      "details": "84% of 6,900 employees are fully remote with no requirement to work in office regularly. Only 5% required in office 80-100% of time (primarily mortgage roles due to compliance requirements). Company maintains 6 offices across US (Seattle, San Francisco, Irvine, New York, and other major hubs) but considers them optional collaborative spaces. Employees now located in all 50 states.",
+      "effective_date": "2020-early",
+      "trend_direction": "Stable",
+      "previous_policy": "Traditional office-based",
+      "previous_date": "Pre-2020"
+    },
+    "sources": [
+      {
+        "url": "https://www.entrepreneur.com/business-news/zillow-is-sticking-with-remote-work-cloudhq-says-ceo/486254",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://fortune.com/2024/08/30/zillow-ceo-remote-work-job-applicants-quadrupled-jeremy-wacksman/",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.zillowgroup.com/news/zillow-announces-indefinite-work-from-home-policy/",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://fortune.com/2025/05/23/remote-work-business-strategy-zillow/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Remote work isn't a perk, it's a business strategy. We pivoted the company and committed to [CloudHQ] model almost 5 years ago now, and it's been fantastic for us.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "CEO Jeremy Wacksman reports 4x increase in job applicants compared to pre-pandemic. Rent expense decreased $31 million in 2024 due to reduced office space needs. Chief People Officer Dan Spaulding emphasizes removing 'politics of proximity' from workplace culture."
+  },
+  {
+    "company": "Cognizant Technology Solutions",
+    "rank": 98,
+    "sector": "Technology",
+    "fortune_500_rank": "98",
+    "work_policy": {
+      "type": "3-day hybrid (India employees)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "N/A - Team leader discretion",
+      "details": "All India associates (254,000 of 347,700 total employees) required in office average 3 days per week or as defined by team leader, effective February 2024. Company launched hybrid-work scheduling app to coordinate schedules and reserve office space. CEO urged employees to prioritize collaborative activities like projects, training, and team building during in-office time. Non-compliance warnings issued April 2024 with potential termination for violations.",
+      "effective_date": "2024-02",
+      "trend_direction": "Tightening",
+      "previous_policy": "Flexible office visits based on project needs",
+      "previous_date": "2020-2024"
+    },
+    "sources": [
+      {
+        "url": "https://www.businesstoday.in/technology/news/story/wfh-over-cognizant-asks-employees-in-india-to-work-from-office-thrice-a-week-internal-memo-shows-419411-2024-02-29",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.business-standard.com/companies/news/may-lead-to-termination-cognizant-warns-it-employees-defying-return-to-office-rule-124051700430_1.html",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.hrkatha.com/news/3-days-in-office-cognizant-mandate-for-india-employees/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "All India associates are expected to be in the office an average of three days per week, or as defined by their team leader.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "CEO Ravi Kumar S announced policy in late February 2024 memo. Company joined Indian IT peers TCS, Infosys, and Wipro in implementing return-to-office mandates. Enforcement includes office hour tracking and seat allocation system."
+  },
+  {
+    "company": "Goldman Sachs Group",
+    "rank": 99,
+    "sector": "Financials",
+    "fortune_500_rank": "99",
+    "work_policy": {
+      "type": "5-day office-first",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Mon-Fri",
+      "details": "Full-time in-office requirement with flexibility only for exceptional circumstances. Policy continuously enforced since 2021 with multiple reminder campaigns. In August 2023, HR Chief Jacqueline Arthur sent reminders to employees after reluctance from non-revenue-producing staff. Revenue-producing employees mostly compliant. One of Wall Street's strictest return-to-office policies alongside Blackstone and JPMorgan.",
+      "effective_date": "2021",
+      "trend_direction": "Stable",
+      "previous_policy": "Remote during pandemic",
+      "previous_date": "2020-2021"
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2023/08/22/goldman-sachs-return-to-office-rto-five-days-weekly/",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://buildremote.co/return-to-office/goldman-sachs/",
+        "type": "Tracker",
+        "reliability": "High"
+      },
+      {
+        "url": "https://hubblehq.com/blog/famous-companies-workplace-strategies",
+        "type": "Tracker",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "While there is flexibility when needed, we are simply reminding our employees of our existing policy. We have continued to encourage employees to work in the office five days a week.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Goldman has issued seven return-to-office mandates/reminders since 2021. Among most aggressive Wall Street firms on in-office requirements. Senior managers frustrated by reluctance of non-revenue staff to comply fully."
+  }
+]

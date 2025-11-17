@@ -1,0 +1,93 @@
+[
+  {
+    "company": "NRG Energy",
+    "rank": 137,
+    "industry": "Energy",
+    "rto_policy": "Hybrid - 2 days per week in office",
+    "details": "Corporate employees are expected to go into an office at least 2 days a week, including Tuesday and Wednesday. Employees report tremendous flexibility to perform work while balancing family.",
+    "policy_type": "Hybrid",
+    "days_in_office": 2,
+    "required_days": ["Tuesday", "Wednesday"],
+    "implementation_date": "Not specified",
+    "last_updated": "2025",
+    "sources": [
+      "https://www.flex.scoopforwork.com/company/nrg-energy",
+      "https://www.indeed.com/cmp/Nrg-Energy/reviews?fcountry=US&floc=Remote"
+    ],
+    "confidence": "High",
+    "notes": "NRG Energy operates a hybrid model with specific required days (Tuesday and Wednesday). The policy allows remote work for the remaining days of the week."
+  },
+  {
+    "company": "Stryker",
+    "rank": 138,
+    "industry": "Health Care",
+    "rto_policy": "Hybrid - 3 days per week in office",
+    "details": "Stryker values in-person collaboration and teamwork, with most offices allowing hybrid work a couple days a week. Employees typically try to be on-site Monday through Wednesday, with Thursday and Friday being flexible in some cases. Flexibility varies by role, and most management positions have some flexibility.",
+    "policy_type": "Hybrid",
+    "days_in_office": 3,
+    "required_days": ["Monday", "Tuesday", "Wednesday"],
+    "implementation_date": "Not specified",
+    "last_updated": "2024",
+    "sources": [
+      "https://www.glassdoor.com/Benefits/Stryker-Work-From-Home-US-BNFT152_E1918_N1.htm",
+      "https://www.indeed.com/cmp/Stryker-3/topics/work-from-home"
+    ],
+    "confidence": "High",
+    "notes": "Stryker follows a hybrid model with in-office presence typically Monday through Wednesday. The specific arrangement depends on the department and position, with individual teams having some flexibility based on operational needs."
+  },
+  {
+    "company": "Textron",
+    "rank": 139,
+    "industry": "Aerospace & Defense",
+    "rto_policy": "Hybrid - 2 days per week in office (varies by division)",
+    "details": "Some employees have been moved from fully remote to a 2-day-per-week in-office requirement. Policies may vary by division (Textron Aviation, Textron Systems, etc.). The company has been reducing remote work options rather than expanding them, with limited flexibility for remote/hybrid arrangements at some subsidiaries.",
+    "policy_type": "Hybrid",
+    "days_in_office": 2,
+    "required_days": null,
+    "implementation_date": "Not specified",
+    "last_updated": "2024",
+    "sources": [
+      "https://www.theretirementgroup.com/featured-article/5448096/return-to-work-policies-are-causing-issues-will-textron-workers-be-affected",
+      "https://www.flexindex.com/company/textron"
+    ],
+    "confidence": "Medium",
+    "notes": "Textron's policy appears to vary significantly by division and location. Some employees report being required to come to the office 2 days per week, while others indicate limited remote/hybrid opportunities. The company appears to be trending toward more in-office requirements. Specific details for different divisions may vary."
+  },
+  {
+    "company": "Ameriprise Financial",
+    "rank": 140,
+    "industry": "Financials",
+    "rto_policy": "Hybrid - 4 days per week in office (as of September 2025)",
+    "details": "Ameriprise Financial previously required employees to be in the office 3 days per week since 2021, but starting in September 2025, the requirement increases to 4 days per week. This places Ameriprise on the more structured end of hybrid policies among Fortune 500 companies.",
+    "policy_type": "Hybrid",
+    "days_in_office": 4,
+    "required_days": null,
+    "implementation_date": "September 2025",
+    "last_updated": "2025",
+    "sources": [
+      "https://buildremote.co/return-to-office/minnesota/",
+      "https://www.indeed.com/cmp/Ameriprise-Financial/topics/work-from-home"
+    ],
+    "confidence": "High",
+    "notes": "Ameriprise Financial has increased its in-office requirement from 3 days to 4 days per week starting in September 2025. This represents a significant shift toward more in-office presence, joining other major Minnesota-based companies in this trend. The move aligns with broader industry trends toward increased office presence in 2025."
+  },
+  {
+    "company": "Honeywell International",
+    "rank": 143,
+    "industry": "Industrials",
+    "rto_policy": "Hybrid - 3 days per week in office",
+    "details": "As of July 2025, Honeywell has a hybrid policy allowing 3 days on site and 2 days remote for certain positions. This aligns with the company's flexible work approach from 2022 when they introduced hybrid work requiring workers to come into the office three days a week. Policy may vary by division, location, and role type.",
+    "policy_type": "Hybrid",
+    "days_in_office": 3,
+    "required_days": null,
+    "implementation_date": "2022 (ongoing)",
+    "last_updated": "2025",
+    "sources": [
+      "https://allwork.space/2022/03/honeywell-introduces-flexible-work-policies-following-employee-feedback-interviews/",
+      "https://www.comparably.com/companies/honeywell/questions/3779862/what-s-the-work-from-home-policy-like-at-honeywell",
+      "https://www.indeed.com/cmp/Honeywell/faq/what-is-the-work-from-home-policy-at-honeywell"
+    ],
+    "confidence": "High",
+    "notes": "Honeywell maintains a 3-2 hybrid work schedule (3 days in office, 2 days remote) for eligible positions. While there were discussions in early 2024 about a potential move to 5 days per week in some divisions (particularly in Aero division), the 3-2 hybrid model appears to remain the standard company-wide policy as of mid-2025. Not all positions are eligible for hybrid work arrangements."
+  }
+]
