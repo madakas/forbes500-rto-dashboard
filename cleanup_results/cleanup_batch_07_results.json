@@ -1,0 +1,177 @@
+[
+  {
+    "company": "AIG",
+    "rank": 121,
+    "sector": "Financials",
+    "fortune_500_rank": "121",
+    "work_policy": {
+      "type": "Hybrid (3-4 days required)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Varies by division; some IT teams Mon-Thu",
+      "details": "AIG has implemented a hybrid return-to-office policy with varying requirements by division. New employees are generally required to come in 3 days per week. Some divisions, particularly IT, have a 4-day per week requirement (Monday-Thursday, 10am-4pm core hours). Legacy employees' requirements vary by division, with underwriting teams also at 3 days per week. The policy appears to be tightening, with discussions of increased mandates. Implementation has been inconsistent, with some decisions handled at divisional levels rather than through formal company-wide communications.",
+      "effective_date": "2024",
+      "trend_direction": "Tightening",
+      "previous_policy": "Hybrid 2-3 days per week",
+      "previous_date": "2023"
+    },
+    "sources": [
+      {
+        "url": "https://www.thelayoff.com/t/1uQg47aA",
+        "type": "Employee Forum",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.flexindex.com/company/aig",
+        "type": "Third-party Tracker",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "4 days per week return to office policy for IT departments, specifically Monday through Thursday, with employees required by 10am and unable to leave earlier than 4pm.",
+    "verification_status": "Partial",
+    "research_date": "2025-11-17",
+    "notes": "Policy implementation appears fragmented across divisions. Some employees believe the RTO mandate may be used as an attrition strategy. All remote contracts are reportedly under review for elimination. Employees located 50+ miles from offices must either comply or seek other opportunities."
+  },
+  {
+    "company": "American Axle & Manufacturing",
+    "rank": 122,
+    "sector": "Motor Vehicles & Parts",
+    "fortune_500_rank": "122",
+    "work_policy": {
+      "type": "On-site (Manufacturing operations)",
+      "category": "On-site",
+      "days_required": 5,
+      "specific_days": "Monday-Friday",
+      "details": "As a manufacturing company, American Axle & Manufacturing (AAM) primarily operates with on-site requirements for production and plant-based employees. The company has not publicly announced specific return-to-office policies for corporate/administrative staff, suggesting that remote work policies are either handled at the departmental level or are not a significant focus due to the nature of the business. Limited information is available about hybrid or remote work options for non-manufacturing roles.",
+      "effective_date": null,
+      "trend_direction": "Stable",
+      "previous_policy": null,
+      "previous_date": null
+    },
+    "sources": [
+      {
+        "url": "https://www.flexjobs.com/remote-jobs/company/aam-american_axle_manufacturing",
+        "type": "Job Board",
+        "reliability": "Low"
+      }
+    ],
+    "key_quote": "No specific RTO policy information publicly available for corporate staff.",
+    "verification_status": "Unverified",
+    "research_date": "2025-11-17",
+    "notes": "Limited publicly available information about work-from-home policies. As a manufacturing company, the majority of the workforce requires on-site presence. Corporate office policies may exist but are not widely documented or discussed publicly."
+  },
+  {
+    "company": "Baxter International",
+    "rank": 123,
+    "sector": "Health Care",
+    "fortune_500_rank": "123",
+    "work_policy": {
+      "type": "Hybrid (2 days required)",
+      "category": "Hybrid",
+      "days_required": 2,
+      "specific_days": "N/A",
+      "details": "Baxter International introduced a hybrid work model requiring employees to be in the office for two days per week. The policy was implemented as part of broader organizational restructuring. Employees were given a brief window to decide between relocating to comply with the policy or accepting a severance package. The specific implementation varies by department, with some departments allowing multiple work-from-home days per week. The company offers flexible work hours and work-from-home options within reason as a benefit for managing work-life balance.",
+      "effective_date": "2024",
+      "trend_direction": "Stable",
+      "previous_policy": "More flexible remote arrangements",
+      "previous_date": "2023"
+    },
+    "sources": [
+      {
+        "url": "https://www.theretirementgroup.com/featured-article/5448103/are-return-to-work-policies-going-to-have-drastic-implications-for-baxter-international-professionals",
+        "type": "News",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.glassdoor.com/Reviews/Baxter-work-from-home-Reviews-EI_IE83.0,6_KH7,21.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Baxter-1/topics/work-from-home",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Baxter International introduced a hybrid work model, necessitating a two-day office presence. Employees were given a brief window to decide between relocating or accepting a severance package.",
+    "verification_status": "Partial",
+    "research_date": "2025-11-17",
+    "notes": "Policy was implemented with urgency as part of organizational restructuring. The company maintains some flexibility with departmental variations in implementation. Remote work opportunities still exist for certain positions."
+  },
+  {
+    "company": "Raymond James Financial",
+    "rank": 124,
+    "sector": "Financials",
+    "fortune_500_rank": "124",
+    "work_policy": {
+      "type": "Hybrid (3 days required)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "N/A",
+      "details": "Raymond James Financial operates with a hybrid work policy requiring 3 days in the office per week for many positions. The company maintains flexibility for certain roles and has expressed openness to flexible work arrangements for advisors. Work arrangements are position-dependent, with some roles requiring 3 days per week in office and others requiring 8 days per month. The company has offered temporary, part-time, and full-time positions with hybrid to 100% remote options in the past, with specific arrangements varying by department and role.",
+      "effective_date": null,
+      "trend_direction": "Stable",
+      "previous_policy": null,
+      "previous_date": null
+    },
+    "sources": [
+      {
+        "url": "https://www.indeed.com/cmp/Raymond-James/faq/what-is-the-work-from-home-policy-at-raymond-james",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.advisorhub.com/raymond-james-executive-were-open-to-flexible-work-arrangements-for-advisors/",
+        "type": "News",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.flexjobs.com/remote-jobs/company/raymond_james",
+        "type": "Job Board",
+        "reliability": "Low"
+      }
+    ],
+    "key_quote": "Raymond James has a hybrid work policy requiring 3 days in office, confirmed by employees as recently as March 2025.",
+    "verification_status": "Partial",
+    "research_date": "2025-11-17",
+    "notes": "Policy implementation varies by role and department. The company shows more flexibility for advisor roles compared to corporate positions. No major policy changes announced for 2024-2025 period."
+  },
+  {
+    "company": "Baylor Scott & White Health",
+    "rank": 125,
+    "sector": "Health Care",
+    "fortune_500_rank": "125",
+    "work_policy": {
+      "type": "Role-dependent (Clinical on-site, Administrative hybrid/remote)",
+      "category": "Hybrid",
+      "days_required": null,
+      "specific_days": "N/A",
+      "details": "Baylor Scott & White Health operates with role-dependent work policies. Clinical and patient-facing healthcare workers require on-site presence at healthcare facilities. Administrative and support roles have access to remote and hybrid work opportunities, including positions in administration, scheduling, billing, patient services, IT, compliance, and analytics. The organization offers competitive compensation and flexible work opportunities for eligible positions. Remote administrative roles require relevant professional backgrounds (healthcare administration, nursing, or customer service), familiarity with telehealth platforms, electronic health records (EHRs), and secure remote communication systems.",
+      "effective_date": null,
+      "trend_direction": "Stable",
+      "previous_policy": null,
+      "previous_date": null
+    },
+    "sources": [
+      {
+        "url": "https://www.indeed.com/cmp/Baylor-Scott-&-White-Health/topics/work-from-home",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.flexjobs.com/remote-jobs/company/baylor_scott_white_health",
+        "type": "Job Board",
+        "reliability": "Low"
+      },
+      {
+        "url": "https://www.ziprecruiter.com/Jobs/Work-From-Home-Baylor-Scott-White",
+        "type": "Job Board",
+        "reliability": "Low"
+      }
+    ],
+    "key_quote": "Work From Home jobs at Baylor Scott & White Health are remote positions that allow employees to perform their job duties from their homes rather than at a physical healthcare facility.",
+    "verification_status": "Partial",
+    "research_date": "2025-11-17",
+    "notes": "As a healthcare organization, policy varies significantly by role type. No system-wide RTO mandate announced for 2024-2025. The organization continues to offer remote opportunities for administrative roles while maintaining on-site requirements for clinical staff. Some positions transition to remote work after initial onsite training."
+  }
+]
