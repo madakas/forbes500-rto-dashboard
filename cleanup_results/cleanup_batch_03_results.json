@@ -1,0 +1,177 @@
+[
+  {
+    "company": "Byrne Software Technologies",
+    "rank": 100,
+    "sector": "Technology",
+    "fortune_500_rank": "N/A",
+    "work_policy": {
+      "type": "Flexible/Remote options available",
+      "category": "Hybrid/Flexible",
+      "days_required": "N/A",
+      "specific_days": "N/A",
+      "details": "Company offers flexible work arrangements including some remote positions. As a consulting firm, many employees work at client sites. Employee reviews mention mostly flexible hours. Company unveiled Employee Stock Ownership Plan (ESOP) in 2024.",
+      "effective_date": "N/A",
+      "trend_direction": "Stable",
+      "previous_policy": "N/A",
+      "previous_date": "N/A"
+    },
+    "sources": [
+      {
+        "url": "https://www.glassdoor.com/Reviews/Byrne-Software-Reviews-E101500.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.linkedin.com/company/byrne-software-technologies",
+        "type": "Company Profile",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Hours were mostly flexible",
+    "verification_status": "Limited Info",
+    "research_date": "2025-11-17",
+    "notes": "St. Louis-based IT consulting firm. No official public RTO policy found. Company focuses on IT Professional Services, Benefits Administration Software, and Construction Management. Limited public information available on formal work-from-home policies."
+  },
+  {
+    "company": "4D Molecular Therapeutics",
+    "rank": 102,
+    "sector": "Health Care",
+    "fortune_500_rank": "N/A",
+    "work_policy": {
+      "type": "Hybrid to fully remote",
+      "category": "Hybrid/Remote",
+      "days_required": "Varies by role",
+      "specific_days": "N/A",
+      "details": "Biotech company offers flexible work arrangements ranging from hybrid to 100% remote job options with flexible and full-time schedules to support work-life balance. Employee reviews mention hybrid work environment as a benefit.",
+      "effective_date": "N/A",
+      "trend_direction": "Stable",
+      "previous_policy": "N/A",
+      "previous_date": "N/A"
+    },
+    "sources": [
+      {
+        "url": "https://www.flexjobs.com/remote-jobs/company/4dmt-4d_molecular_therapeutics",
+        "type": "Job Listings",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.glassdoor.com/Reviews/4D-Molecular-Therapeutics-Reviews-E1889045.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Flexible work arrangements, such as hybrid to 100% remote job options with flexible and full-time schedules, to support work-life balance",
+    "verification_status": "Limited Info",
+    "research_date": "2025-11-17",
+    "notes": "Emeryville, CA-based gene therapy company. Founded 2013. No official RTO mandate found. Company appears to maintain flexible work options based on job listings and employee feedback."
+  },
+  {
+    "company": "Bospar",
+    "rank": 103,
+    "sector": "Business Services",
+    "fortune_500_rank": "N/A",
+    "work_policy": {
+      "type": "Fully remote (permanent)",
+      "category": "Remote",
+      "days_required": 0,
+      "specific_days": "N/A",
+      "details": "PR firm remains fully remote by design since founding. Company actively advocates for remote work and commissioned research showing 61% of employees feel more productive working from home. Company philosophy: 'At Bospar, working from home isn't a trend; it's the foundation of our success.'",
+      "effective_date": "Since founding (2014)",
+      "trend_direction": "Stable",
+      "previous_policy": "Remote since inception",
+      "previous_date": "2014"
+    },
+    "sources": [
+      {
+        "url": "https://bospar.com/press-release/bospars-10th-anniversary-research-confirms-remote-work-drives-superior-business-outcomes/",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://bospar.com/10-years-of-award-winning-work-from-home/",
+        "type": "Official",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "By investing in people and not buildings you can effortlessly scale your workforce and your footprint",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Bospar is a fully remote PR firm that has operated remotely since founding. In 2024, they commissioned research (Propeller Insights survey) showing remote work benefits. 81.4% of employees report improved work-life balance. Company actively promotes remote work and has no plans for RTO."
+  },
+  {
+    "company": "Meta Platforms",
+    "rank": 104,
+    "sector": "Technology",
+    "fortune_500_rank": "N/A",
+    "work_policy": {
+      "type": "3-day hybrid (mandatory)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "N/A - Not specified",
+      "details": "Most Meta staff expected to work from company office roughly three days per week, with ability to work from home the rest of the time. Employees designated as remote workers keep remote status but are asked not to attend office more than 4 days per month unless there's a clear business reason. Failure to meet minimum attendance requirements can result in disciplinary action up to termination.",
+      "effective_date": "2023-09",
+      "trend_direction": "Stable",
+      "previous_policy": "Flexible remote",
+      "previous_date": "2021-2023"
+    },
+    "sources": [
+      {
+        "url": "https://buildremote.co/return-to-office/meta-facebook/",
+        "type": "Tracker",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.cnbc.com/2023/09/05/meta-employees-are-back-in-office-three-days-a-week-.html",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://wfa.team/blog/meta-remote-work-from-anywhere-policy/",
+        "type": "Analysis",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "The status quo is fine. The data backs this up that people can be productive outside the office.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Meta implemented 3-day in-office requirement in September 2023. In early 2025, CEO Mark Zuckerberg confirmed 'no change' is planned to current hybrid policy, stating the status quo is fine. Head of People Lori Goler has warned that failure to meet attendance requirements could result in termination. Policy is enforced and stable."
+  },
+  {
+    "company": "Sherwin-Williams",
+    "rank": 105,
+    "sector": "Industrials",
+    "fortune_500_rank": "N/A",
+    "work_policy": {
+      "type": "5-day office-first",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Mon-Fri",
+      "details": "All Continental U.S., Hawaii, Alaska and Canada employees assigned to company offices required to work in office five days per week. Employees receive bank of 12 remote days per year (usable in half-day increments, max 2 days per month, no rollover). Policy initially applies to North American employees with global expansion planned.",
+      "effective_date": "2026-01",
+      "trend_direction": "Tightening",
+      "previous_policy": "Hybrid work model",
+      "previous_date": "2022-2025"
+    },
+    "sources": [
+      {
+        "url": "https://buildremote.co/return-to-office/sherwin-williams/",
+        "type": "Tracker",
+        "reliability": "High"
+      },
+      {
+        "url": "https://clevelandmagazine.com/in-the-cle/development/articles/sherwin-williams-ends-hybrid-work-model-forcing-workers-back-to-the-office-next-year",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.wkyc.com/article/news/local/cleveland/sherwin-williams-announces-end-of-hybrid-work-schedule-will-require-employees-office-starting-2026/95-6b6528b0-e1fa-4a8c-80a5-bdb907b90158",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Effective January 1, 2026, all Continental U.S., Hawaii, Alaska and Canada employees assigned to company offices will return to work in the office five days a week.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "CEO Heidi Petz announced policy via internal email on July 17, 2025. Coincides with move to new 36-story Cleveland headquarters (3,500 employees) and new R&D center in Brecksville, OH (900 employees). Company website references 'Global Flexible Working Policy' from 2022, but this is being replaced. 12 remote days per year allowance is restrictive compared to previous hybrid model."
+  }
+]
