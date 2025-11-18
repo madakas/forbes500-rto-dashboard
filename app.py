@@ -781,6 +781,7 @@ with tab5:
     ### Acknowledgments
 
     - Professor **Haim Mendelson** for guidance on this research project
+    - [Monika Stezewska-Kruk](https://www.linkedin.com/in/monikastezewskakruk/) as course facilitator
     - **Fortune** and **Statista** for the Most Innovative Companies ranking and methodology
     - **LexisNexis®** for patent analysis data
 
