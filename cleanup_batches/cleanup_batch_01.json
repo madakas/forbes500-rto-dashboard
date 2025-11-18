@@ -1,0 +1,58 @@
+{
+  "batch_number": 1,
+  "companies": [
+    {
+      "rank": 41,
+      "company": "Air Products & Chemicals",
+      "sector": "Industrials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 74,
+      "company": "AH Group",
+      "sector": "Business Services",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 92,
+      "company": "Duke Energy",
+      "sector": "Energy",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 93,
+      "company": "Liberty Mutual Insurance Group",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 94,
+      "company": "Kansas Health System",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    }
+  ]
+}

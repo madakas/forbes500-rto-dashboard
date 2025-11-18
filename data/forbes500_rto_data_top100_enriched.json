@@ -348,7 +348,7 @@
       }
     ],
     "key_quote": "5 days in office will be fully implemented by the end of FY25. - Anonymous Qualcomm employee reporting CEO announcement",
-    "verification_status": "Unverified - Employee reports",
+    "verification_status": "Partial",
     "research_date": "2025-11-17",
     "notes": "Rapid policy escalation: 2 days (2021) → 4 days (May 2023) → 5 days (Feb 2025 announcement, Sept 2025 implementation). Not officially confirmed by Qualcomm corporate communications. Information sourced from employee forums and anonymous reports.",
     "innovation": {
@@ -813,13 +813,13 @@
       }
     ],
     "key_quote": "Tons of employee perks, surprises, and flexibility - Excellent work/life balance (corporate) - Remote opportunities",
-    "verification_status": "Partially Verified",
+    "verification_status": "Partial",
     "research_date": "2025-11-17",
     "notes": "Named Glassdoor Best Places to Work 2024 for 3rd consecutive year. Healthcare nature means most clinical roles must be on-site. Administrative roles have remote/hybrid flexibility. Employee satisfaction rating 4.3/5 on Glassdoor with 4.0/5 for work-life balance. 88% would recommend to a friend. No formal RTO mandate found; policy appears stable since pandemic.",
     "innovation": {
       "culture_rank": 2,
       "process_rank": 61,
-      "product_rank": 106,
+      "product_rank": 100,
       "overall_rank": 35
     },
     "logo_url": "https://logo.clearbit.com/houstonmethodist.org"
@@ -858,7 +858,7 @@
       }
     ],
     "key_quote": "Friendly staff, lots of events, fun environment, hybrid, employee perks! I worked remote but had the option of sitting at a desk.",
-    "verification_status": "Partially Verified",
+    "verification_status": "Partial",
     "research_date": "2025-11-17",
     "notes": "Headquartered in Corning, NY with ~20,000 employees across 6 continents. Overall rating 3.8/5 on Glassdoor, 3.5/5 for work-life balance. Policy appears manager and role-dependent rather than company-wide mandate. Employee survey influenced policy changes. Manufacturing nature limits remote work for production roles.",
     "innovation": {
@@ -971,7 +971,7 @@
       "specific_days": "N/A",
       "details": "Healthcare organization with selective remote work program since 2011. Approximately 1,500 employees at Minnesota campus work permanently remote, primarily in Patient Access (preregistration, precertification, scheduling, coding, billing, authorization, insurance verification). Expanded to Arizona and Florida campuses. Clinical staff (clinicians, greeters, high-touch patient care) required on-site. Remote workers undergo probationary period and must maintain secure, paperless home offices with strict HIPAA compliance. Used as recruitment and retention tool.",
       "effective_date": "2011-2024",
-      "trend_direction": "Maintaining/Expanding",
+      "trend_direction": "Maintaining",
       "previous_policy": "",
       "previous_date": ""
     },
@@ -1048,7 +1048,7 @@
       }
     ],
     "key_quote": "Most engineering roles require employees to be at the office due to the nature of classified work. Return to office is required for some positions at Northrop Grumman, but working from home is possible depending on circumstances.",
-    "verification_status": "Partially Verified",
+    "verification_status": "Partial",
     "research_date": "2025-11-17",
     "notes": "Security clearance requirements (Confidential, Secret, Top Secret, SCI, SAP) significantly limit remote work options. Classified work requires secure facilities (SCIF/SAPF). Some hybrid positions listed requiring TS/SCI clearances indicate flexibility exists for certain roles. Company among top 20 offering high-paying remote positions in aerospace/defense sector. Policy is position-dependent rather than company-wide. Employees have expressed concerns about RTO policies. Offers 9/80 schedules and flexible working patterns where applicable.",
     "innovation": {
@@ -1176,7 +1176,7 @@
       }
     ],
     "key_quote": "The working environment is relaxed, allows hybrid WFH, and provides a good work-life balance. However, the company has a very strict hybrid schedule where they monitor when you are in the office.",
-    "verification_status": "Verified - Employee reports",
+    "verification_status": "Verified",
     "research_date": "2025-11-17",
     "notes": "Semiconductor company with headquarters in Chandler, Arizona since 1989. Known for strong no-layoff policy and good work-life balance despite strict monitoring. Hybrid eligibility requires one year tenure. Policy varies by role; manufacturing and lab positions typically require full-time onsite presence.",
     "innovation": {
@@ -1356,7 +1356,7 @@
       }
     ],
     "key_quote": "We offer office-based, hybrid and remote working models, where Motorolans can do their best work wherever they work best.",
-    "verification_status": "Verified - Employee reports",
+    "verification_status": "Verified",
     "research_date": "2025-11-17",
     "notes": "Communications technology company (not to be confused with Motorola Mobility). Flexible arrangements vary significantly by role, team, and location. Remote options more readily available post-COVID. Employees report flexibility as major benefit, citing 'flexible work schedule' and 'great culture.' No company-wide RTO mandate announced. Chicago HQ serves as primary corporate campus.",
     "innovation": {
@@ -1441,7 +1441,7 @@
       }
     ],
     "key_quote": "Dash Solutions has 120 employees working both remotely and in the Homewood office. - Company announcement",
-    "verification_status": "Partial - Limited public information",
+    "verification_status": "Partial",
     "research_date": "2025-11-17",
     "notes": "Birmingham, Alabama-based fintech company providing digital payment and engagement solutions. 40% workforce growth since May 2022 following $96M investment from Edison Partners in 2021. Specific remote/in-office ratio and policy details not publicly disclosed. Office expansion suggests commitment to hybrid model supporting both work arrangements.",
     "innovation": {
@@ -1606,7 +1606,7 @@
       }
     ],
     "key_quote": "Under Armour, T. Rowe expand return-to-office requirements. - WBAL-TV Baltimore (September 2025)",
-    "verification_status": "Verified from job postings and media reports",
+    "verification_status": "Verified",
     "research_date": "2025-11-17",
     "notes": "Approximately 1,500 employees working at new Baltimore Peninsula headquarters (opened November 2024). New HQ added 280,000 sq ft office space. Policy tightening coincides with major office infrastructure investment. Aligns with broader Baltimore corporate trend - T. Rowe Price also implementing 4-day requirement for 8,000+ associates. Under Armour operates on hybrid basis similar to other athletic apparel companies (Adidas, Tapestry), contrasting with Nike's stricter 4-day mandate.",
     "innovation": {
@@ -1651,7 +1651,7 @@
       }
     ],
     "key_quote": "TI mandated 5 days a week at all Dallas locations for all job roles with no remote work allowed. CFO announced 5 days in office due to 'poor financial performance.' - Glassdoor employee reviews",
-    "verification_status": "Verified - Employee reports",
+    "verification_status": "Verified",
     "research_date": "2025-11-17",
     "notes": "One of the strictest RTO policies among tech companies. Previously, managers were very flexible with WFH policies, though this varied by group. Policy change coincided with financial challenges and layoffs, creating significant employee dissatisfaction. Badge monitoring enforcement suggests company is serious about compliance.",
     "innovation": {
@@ -1719,7 +1719,7 @@
       "specific_days": "Determined by client requirements and team needs",
       "details": "Three work models: 'Onsite' (4+ days/week or >50% over 90 days at client/company sites), 'Remote' (≤20 days/year onsite, requires living >50 miles from facility or no facility in state), 'Hybrid' (work expectations determined at team level). Arrangements are heavily client-dependent. Some teams require office once per week, others fully remote. Recent administration changes have reduced remote government contracts.",
       "effective_date": "2021-present",
-      "trend_direction": "Tightening (client-driven)",
+      "trend_direction": "Tightening",
       "previous_policy": "Very flexible remote before 2024",
       "previous_date": ""
     },
@@ -2444,7 +2444,7 @@
       "specific_days": "N/A - Role-dependent",
       "details": "One-third of office positions (10,000 worldwide) are fully remote, one-third work hybrid schedule, and one-third remain in office 5 days per week. Role-based approach where customer service roles can be fully virtual, while engineering roles typically hybrid or in-office. Company restructured headquarters to support communications infrastructure for hybrid work.",
       "effective_date": "2021-08",
-      "trend_direction": "Stable",
+      "trend_direction": "Maintaining",
       "previous_policy": "Traditional office-first",
       "previous_date": "Pre-2020"
     },
@@ -2529,7 +2529,7 @@
       "specific_days": "N/A",
       "details": "84% of 6,900 employees are fully remote with no requirement to work in office regularly. Only 5% required in office 80-100% of time (primarily mortgage roles due to compliance requirements). Company maintains 6 offices across US (Seattle, San Francisco, Irvine, New York, and other major hubs) but considers them optional collaborative spaces. Employees now located in all 50 states.",
       "effective_date": "2020-early",
-      "trend_direction": "Stable",
+      "trend_direction": "Maintaining",
       "previous_policy": "Traditional office-based",
       "previous_date": "Pre-2020"
     },
@@ -2624,7 +2624,7 @@
       "specific_days": "Mon-Fri",
       "details": "Full-time in-office requirement with flexibility only for exceptional circumstances. Policy continuously enforced since 2021 with multiple reminder campaigns. In August 2023, HR Chief Jacqueline Arthur sent reminders to employees after reluctance from non-revenue-producing staff. Revenue-producing employees mostly compliant. One of Wall Street's strictest return-to-office policies alongside Blackstone and JPMorgan.",
       "effective_date": "2021",
-      "trend_direction": "Stable",
+      "trend_direction": "Maintaining",
       "previous_policy": "Remote during pandemic",
       "previous_date": "2020-2021"
     },
@@ -2669,7 +2669,7 @@
       "specific_days": "N/A",
       "details": "Company offers flexible work arrangements including some remote positions. As a consulting firm, many employees work at client sites. Employee reviews mention mostly flexible hours. Company unveiled Employee Stock Ownership Plan (ESOP) in 2024.",
       "effective_date": "N/A",
-      "trend_direction": "Stable",
+      "trend_direction": "Maintaining",
       "previous_policy": "N/A",
       "previous_date": "N/A"
     },
@@ -2686,7 +2686,7 @@
       }
     ],
     "key_quote": "Hours were mostly flexible",
-    "verification_status": "Limited Info",
+    "verification_status": "Partial",
     "research_date": "2025-11-17",
     "notes": "St. Louis-based IT consulting firm. No official public RTO policy found. Company focuses on IT Professional Services, Benefits Administration Software, and Construction Management. Limited public information available on formal work-from-home policies.",
     "innovation": {

@@ -1,0 +1,55 @@
+{
+  "batch_number": 3,
+  "companies": [
+    {
+      "rank": 100,
+      "company": "Byrne Software Technologies",
+      "sector": "Technology",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 102,
+      "company": "4D Molecular Therapeutics",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 103,
+      "company": "Bospar",
+      "sector": "Business Services",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 104,
+      "company": "Meta Platforms",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 105,
+      "company": "Sherwin-Williams",
+      "sector": "Industrials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

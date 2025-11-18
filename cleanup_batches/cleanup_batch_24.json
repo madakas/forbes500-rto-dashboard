@@ -1,0 +1,55 @@
+{
+  "batch_number": 24,
+  "companies": [
+    {
+      "rank": 272,
+      "company": "Norton Healthcare",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 273,
+      "company": "AAON",
+      "sector": "Industrials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 278,
+      "company": "Sheetz",
+      "sector": "Retailing",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 280,
+      "company": "Lincoln National",
+      "sector": "Financials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 281,
+      "company": "Foot Locker",
+      "sector": "Retailing",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

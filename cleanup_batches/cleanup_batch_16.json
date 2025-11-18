@@ -1,0 +1,55 @@
+{
+  "batch_number": 16,
+  "companies": [
+    {
+      "rank": 195,
+      "company": "ABB Optical Group",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 196,
+      "company": "Republic Services",
+      "sector": "Business Services",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 197,
+      "company": "M&T Bank",
+      "sector": "Financials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 198,
+      "company": "Hackensack Meridian Health",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 199,
+      "company": "Huntington Bancshares",
+      "sector": "Financials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

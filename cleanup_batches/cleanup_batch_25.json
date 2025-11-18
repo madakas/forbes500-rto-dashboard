@@ -1,0 +1,55 @@
+{
+  "batch_number": 25,
+  "companies": [
+    {
+      "rank": 282,
+      "company": "Baptist Health South Florida",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 283,
+      "company": "MaineHealth",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 284,
+      "company": "Essentia Health",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 285,
+      "company": "Fastenal",
+      "sector": "Wholesalers",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 286,
+      "company": "AdventHealth",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

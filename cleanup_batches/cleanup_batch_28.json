@@ -1,0 +1,46 @@
+{
+  "batch_number": 28,
+  "companies": [
+    {
+      "rank": 297,
+      "company": "American Electric Power",
+      "sector": "Energy",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 298,
+      "company": "Ulta Beauty",
+      "sector": "Retailing",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 299,
+      "company": "Wayfair",
+      "sector": "Retailing",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 300,
+      "company": "Novant Health",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

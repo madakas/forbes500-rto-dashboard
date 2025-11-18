@@ -1,0 +1,56 @@
+{
+  "batch_number": 18,
+  "companies": [
+    {
+      "rank": 210,
+      "company": "CBRE Group",
+      "sector": "Financials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 211,
+      "company": "American Family Insurance Group",
+      "sector": "Financials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 213,
+      "company": "Maximus",
+      "sector": "Technology",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 214,
+      "company": "Banner Health",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 215,
+      "company": "Acadia Healthcare",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    }
+  ]
+}

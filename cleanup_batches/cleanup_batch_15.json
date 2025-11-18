@@ -1,0 +1,55 @@
+{
+  "batch_number": 15,
+  "companies": [
+    {
+      "rank": 184,
+      "company": "Lowe's",
+      "sector": "Retailing",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 186,
+      "company": "Lumen Technologies",
+      "sector": "Telecommunications",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 188,
+      "company": "HCA Healthcare",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 192,
+      "company": "Advance Financial",
+      "sector": "Financials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 194,
+      "company": "PPG Industries",
+      "sector": "Industrials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

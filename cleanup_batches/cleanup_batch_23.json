@@ -1,0 +1,58 @@
+{
+  "batch_number": 23,
+  "companies": [
+    {
+      "rank": 257,
+      "company": "Advantage Solutions",
+      "sector": "Business Services",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 258,
+      "company": "Atlantic Health System",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 259,
+      "company": "Allegro MicroSystems",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 261,
+      "company": "Cheesecake Factory",
+      "sector": "Hotels, Restaurants & Leisure",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 266,
+      "company": "Apollo Education Group",
+      "sector": "Business Services",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    }
+  ]
+}

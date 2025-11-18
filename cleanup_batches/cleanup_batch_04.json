@@ -1,0 +1,58 @@
+{
+  "batch_number": 4,
+  "companies": [
+    {
+      "rank": 106,
+      "company": "Parker-Hannifin",
+      "sector": "Industrials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 107,
+      "company": "Synchrony Financial",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 108,
+      "company": "U.S. Bancorp",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 109,
+      "company": "Mohawk Industries",
+      "sector": "Household Products",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 110,
+      "company": "Workday",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "batch_number": 17,
+  "companies": [
+    {
+      "rank": 200,
+      "company": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 206,
+      "company": "Cintas",
+      "sector": "Business Services",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 207,
+      "company": "Arthur J. Gallagher",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 208,
+      "company": "Chipotle Mexican Grill",
+      "sector": "Hotels, Restaurants & Leisure",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 209,
+      "company": "W.W. Grainger",
+      "sector": "Wholesalers",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "batch_number": 20,
+  "companies": [
+    {
+      "rank": 224,
+      "company": "Primerica",
+      "sector": "Financials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 226,
+      "company": "XPO",
+      "sector": "Transportation",
+      "issues": [
+        "NoPolicy",
+        "NotVerified"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 235,
+      "company": "3HC Home Health and Hospice Care",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 236,
+      "company": "24 Hour Home Care",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 237,
+      "company": "America First Credit Union",
+      "sector": "Financials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

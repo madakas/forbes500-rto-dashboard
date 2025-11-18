@@ -1,0 +1,56 @@
+{
+  "batch_number": 27,
+  "companies": [
+    {
+      "rank": 292,
+      "company": "Principal Financial",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 293,
+      "company": "Children's Hospital Colorado",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 294,
+      "company": "Cleveland-Cliffs",
+      "sector": "Industrials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 295,
+      "company": "Allegiant Travel",
+      "sector": "Transportation",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 296,
+      "company": "Wegmans Food Markets",
+      "sector": "Food & Drug Stores",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

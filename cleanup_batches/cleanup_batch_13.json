@@ -1,0 +1,55 @@
+{
+  "batch_number": 13,
+  "companies": [
+    {
+      "rank": 170,
+      "company": "Navy Federal Credit Union",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 171,
+      "company": "ACCO Engineered Systems",
+      "sector": "Industrials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 172,
+      "company": "Akron Children's Hospital",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 177,
+      "company": "Alorica",
+      "sector": "Business Services",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 178,
+      "company": "Tyson Foods",
+      "sector": "Food, Beverages & Tobacco",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

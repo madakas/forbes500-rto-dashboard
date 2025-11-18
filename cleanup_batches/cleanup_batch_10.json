@@ -1,0 +1,56 @@
+{
+  "batch_number": 10,
+  "companies": [
+    {
+      "rank": 137,
+      "company": "NRG Energy",
+      "sector": "Energy",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 138,
+      "company": "Stryker",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 139,
+      "company": "Textron",
+      "sector": "Aerospace & Defense",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 140,
+      "company": "Ameriprise Financial",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 142,
+      "company": "Honeywell International",
+      "sector": "Industrials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

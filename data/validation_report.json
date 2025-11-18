@@ -1,0 +1,31 @@
+{
+  "innovation": {
+    "stats": {
+      "total_with_innovation": 62,
+      "missing_innovation": 0,
+      "invalid_ranges": 0,
+      "duplicate_overall_ranks": 0,
+      "missing_fields": 0
+    },
+    "issues": []
+  },
+  "schema": {
+    "stats": {
+      "total_companies": 62,
+      "schema_violations": 0,
+      "type_errors": 0,
+      "null_values": 0
+    },
+    "issues": []
+  },
+  "names": {
+    "stats": {
+      "total_companies": 62,
+      "duplicate_names": 0,
+      "whitespace_issues": 0,
+      "capitalization_issues": 0
+    },
+    "issues": []
+  },
+  "total_issues": 0
+}

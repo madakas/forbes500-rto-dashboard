@@ -1,0 +1,60 @@
+{
+  "batch_number": 5,
+  "companies": [
+    {
+      "rank": 111,
+      "company": "Mars",
+      "sector": "Food, Beverages & Tobacco",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 112,
+      "company": "H&R Block",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 113,
+      "company": "Jacobs Solutions",
+      "sector": "Business Services",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 114,
+      "company": "Exelon",
+      "sector": "Energy",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 115,
+      "company": "Airbnb",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "batch_number": 14,
+  "companies": [
+    {
+      "rank": 179,
+      "company": "22nd Century Technologies",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 180,
+      "company": "DICK'S Sporting Goods",
+      "sector": "Retailing",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 181,
+      "company": "HealthPartners",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 182,
+      "company": "EMCOR Group",
+      "sector": "Industrials",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 183,
+      "company": "Carilion Clinic",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    }
+  ]
+}

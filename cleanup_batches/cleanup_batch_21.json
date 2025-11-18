@@ -1,0 +1,55 @@
+{
+  "batch_number": 21,
+  "companies": [
+    {
+      "rank": 238,
+      "company": "Ryder System",
+      "sector": "Transportation",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 244,
+      "company": "Ace Hardware",
+      "sector": "Retailing",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 245,
+      "company": "Emory Healthcare",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 250,
+      "company": "Advocate Health",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 251,
+      "company": "American Airlines Group",
+      "sector": "Transportation",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

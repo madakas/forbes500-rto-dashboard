@@ -1,0 +1,60 @@
+{
+  "batch_number": 6,
+  "companies": [
+    {
+      "rank": 116,
+      "company": "Live Nation Entertainment",
+      "sector": "Media",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 117,
+      "company": "Mondelez International",
+      "sector": "Food, Beverages & Tobacco",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 118,
+      "company": "Xerox Holdings",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 119,
+      "company": "Progressive",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 120,
+      "company": "CDW",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    }
+  ]
+}

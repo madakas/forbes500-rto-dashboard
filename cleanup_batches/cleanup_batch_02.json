@@ -1,0 +1,57 @@
+{
+  "batch_number": 2,
+  "companies": [
+    {
+      "rank": 95,
+      "company": "Stanley Black & Decker",
+      "sector": "Household Products",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 96,
+      "company": "Morgan Stanley",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 97,
+      "company": "Zillow Group",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 98,
+      "company": "Cognizant Technology Solutions",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 99,
+      "company": "Goldman Sachs Group",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

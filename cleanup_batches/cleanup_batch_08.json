@@ -1,0 +1,58 @@
+{
+  "batch_number": 8,
+  "companies": [
+    {
+      "rank": 126,
+      "company": "Broadcom",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 127,
+      "company": "Dominion Energy",
+      "sector": "Energy",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 128,
+      "company": "Whirlpool",
+      "sector": "Industrials",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 130,
+      "company": "Henry Ford Health System",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 131,
+      "company": "Sorcero",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    }
+  ]
+}

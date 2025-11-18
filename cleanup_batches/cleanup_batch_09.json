@@ -1,0 +1,60 @@
+{
+  "batch_number": 9,
+  "companies": [
+    {
+      "rank": 132,
+      "company": "United Parcel Service",
+      "sector": "Transportation",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 133,
+      "company": "Adtalem Global Education",
+      "sector": "Business Services",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 134,
+      "company": "Keurig Dr Pepper",
+      "sector": "Food, Beverages & Tobacco",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 135,
+      "company": "Nationwide",
+      "sector": "Financials",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 136,
+      "company": "Quest Diagnostics",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    }
+  ]
+}

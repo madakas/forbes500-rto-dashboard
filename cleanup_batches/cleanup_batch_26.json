@@ -1,0 +1,55 @@
+{
+  "batch_number": 26,
+  "companies": [
+    {
+      "rank": 287,
+      "company": "Little Caesars Enterprises",
+      "sector": "Hotels, Restaurants & Leisure",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 288,
+      "company": "Molina Healthcare",
+      "sector": "Health Care",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 289,
+      "company": "Jack in the Box",
+      "sector": "Hotels, Restaurants & Leisure",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 290,
+      "company": "AdaptHealth",
+      "sector": "Health Care",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 291,
+      "company": "Alight",
+      "sector": "Business Services",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

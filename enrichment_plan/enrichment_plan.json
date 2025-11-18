@@ -1,0 +1,147 @@
+{
+  "total_companies": 62,
+  "total_batches": 13,
+  "batch_size": 5,
+  "batches": [
+    {
+      "batch_number": 1,
+      "companies": [
+        "Alphabet",
+        "Microsoft",
+        "Amazon",
+        "Nike",
+        "Tesla"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 2,
+      "companies": [
+        "Comcast",
+        "JPMorgan Chase",
+        "Nvidia",
+        "Qualcomm",
+        "Boston Scientific"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 3,
+      "companies": [
+        "Verizon Communications",
+        "Procter & Gamble",
+        "Cummins",
+        "HP Inc",
+        "Pfizer"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 4,
+      "companies": [
+        "American Express",
+        "Advanced Micro Devices (AMD)",
+        "Walt Disney",
+        "PayPal Holdings",
+        "Houston Methodist"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 5,
+      "companies": [
+        "Corning",
+        "AT&T",
+        "Lockheed Martin",
+        "Mayo Clinic",
+        "Northrop Grumman"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 6,
+      "companies": [
+        "Air Products & Chemicals",
+        "PepsiCo",
+        "Microchip Technology",
+        "Mass General Brigham",
+        "Coca-Cola"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 7,
+      "companies": [
+        "State Farm Insurance",
+        "Motorola Solutions",
+        "Fidelity Investments",
+        "Dash Solutions",
+        "Visa"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 8,
+      "companies": [
+        "Cardinal Health",
+        "SpaceX",
+        "Under Armour",
+        "Texas Instruments",
+        "Rockwell Automation"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 9,
+      "companies": [
+        "Booz Allen Hamilton",
+        "Allstate",
+        "eBay",
+        "Cleveland Clinic",
+        "Netflix"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 10,
+      "companies": [
+        "Intuit",
+        "AH Group",
+        "Omnidian",
+        "UnitedHealth Group",
+        "Walmart"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 11,
+      "companies": [
+        "Best Buy",
+        "Target",
+        "FedEx",
+        "Starbucks",
+        "Duke Energy"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 12,
+      "companies": [
+        "Liberty Mutual Insurance Group",
+        "Stanley Black & Decker",
+        "Morgan Stanley",
+        "Zillow Group",
+        "Cognizant Technology Solutions"
+      ],
+      "company_count": 5
+    },
+    {
+      "batch_number": 13,
+      "companies": [
+        "Goldman Sachs Group",
+        "Byrne Software Technologies"
+      ],
+      "company_count": 2
+    }
+  ]
+}

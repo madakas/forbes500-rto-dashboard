@@ -1,0 +1,56 @@
+{
+  "batch_number": 11,
+  "companies": [
+    {
+      "rank": 148,
+      "company": "DoorDash",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 149,
+      "company": "Paychex",
+      "sector": "Business Services",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 152,
+      "company": "Home Depot",
+      "sector": "Retailing",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 153,
+      "company": "ADAC Automotive",
+      "sector": "Motor Vehicles & Parts",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 164,
+      "company": "Unum Group",
+      "sector": "Financials",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}

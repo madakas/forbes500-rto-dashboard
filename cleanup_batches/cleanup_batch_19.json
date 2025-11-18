@@ -1,0 +1,56 @@
+{
+  "batch_number": 19,
+  "companies": [
+    {
+      "rank": 216,
+      "company": "ServiceNow",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 3
+    },
+    {
+      "rank": 217,
+      "company": "Expedia Group",
+      "sector": "Retailing",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 218,
+      "company": "Huntington Ingalls Industries",
+      "sector": "Aerospace & Defense",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 219,
+      "company": "TTEC Holdings",
+      "sector": "Technology",
+      "issues": [
+        "NoPolicy",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    },
+    {
+      "rank": 220,
+      "company": "Domino's Pizza",
+      "sector": "Hotels, Restaurants & Leisure",
+      "issues": [
+        "NotVerified",
+        "NoTrend"
+      ],
+      "issue_count": 2
+    }
+  ]
+}
