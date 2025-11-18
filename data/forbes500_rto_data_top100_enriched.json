@@ -37,7 +37,12 @@
       "product_rank": 1,
       "overall_rank": 1
     },
-    "logo_url": "https://logo.clearbit.com/abc.xyz"
+    "logo_url": "https://logo.clearbit.com/abc.xyz",
+    "headquarters": "Mountain View, California, USA",
+    "industry_sector": "Technology - Internet Services",
+    "employee_count": 187103,
+    "enrichment_source": "PitchBook, Wikipedia",
+    "enrichment_date": "2025"
   },
   {
     "company": "Microsoft",
@@ -77,7 +82,12 @@
       "product_rank": 3,
       "overall_rank": 2
     },
-    "logo_url": "https://logo.clearbit.com/microsoft.com"
+    "logo_url": "https://logo.clearbit.com/microsoft.com",
+    "headquarters": "Redmond, Washington, USA",
+    "industry_sector": "Technology - Software & Cloud Services",
+    "employee_count": 228000,
+    "enrichment_source": "Statista, Wikipedia",
+    "enrichment_date": "2024"
   },
   {
     "company": "Amazon",
@@ -117,7 +127,12 @@
       "product_rank": 5,
       "overall_rank": 7
     },
-    "logo_url": "https://logo.clearbit.com/amazon.com"
+    "logo_url": "https://logo.clearbit.com/amazon.com",
+    "headquarters": "Seattle, Washington, USA",
+    "industry_sector": "Technology - E-commerce & Cloud Services",
+    "employee_count": 1578000,
+    "enrichment_source": "Amazon Corporate Filings",
+    "enrichment_date": "2025"
   },
   {
     "company": "Nike",
@@ -157,7 +172,12 @@
       "product_rank": 8,
       "overall_rank": 8
     },
-    "logo_url": "https://logo.clearbit.com/nike.com"
+    "logo_url": "https://logo.clearbit.com/nike.com",
+    "headquarters": "Beaverton, Oregon, USA",
+    "industry_sector": "Consumer Goods - Athletic Apparel & Footwear",
+    "employee_count": 79400,
+    "enrichment_source": "Statista, Nike Corporate",
+    "enrichment_date": "2024"
   },
   {
     "company": "Tesla",
@@ -197,7 +217,12 @@
       "product_rank": 54,
       "overall_rank": 11
     },
-    "logo_url": "https://logo.clearbit.com/tesla.com"
+    "logo_url": "https://logo.clearbit.com/tesla.com",
+    "headquarters": "Austin, Texas, USA",
+    "industry_sector": "Automotive - Electric Vehicles & Energy",
+    "employee_count": 125665,
+    "enrichment_source": "Tesla Corporate Filings",
+    "enrichment_date": "2024"
   },
   {
     "company": "Comcast",
@@ -232,7 +257,12 @@
       "product_rank": 61,
       "overall_rank": 16
     },
-    "logo_url": "https://logo.clearbit.com/comcast.com"
+    "logo_url": "https://logo.clearbit.com/comcast.com",
+    "headquarters": "Philadelphia, Pennsylvania, USA",
+    "industry_sector": "Media & Telecommunications",
+    "employee_count": 186000,
+    "enrichment_source": "Wikipedia",
+    "enrichment_date": "2025"
   },
   {
     "company": "JPMorgan Chase",
@@ -272,7 +302,12 @@
       "product_rank": 10,
       "overall_rank": 17
     },
-    "logo_url": "https://logo.clearbit.com/jpmorganchase.com"
+    "logo_url": "https://logo.clearbit.com/jpmorganchase.com",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Financial Services & Banking",
+    "employee_count": 316000,
+    "enrichment_source": "Wikipedia",
+    "enrichment_date": "2025"
   },
   {
     "company": "Nvidia",
@@ -317,7 +352,12 @@
       "product_rank": 57,
       "overall_rank": 18
     },
-    "logo_url": "https://logo.clearbit.com/nvidia.com"
+    "logo_url": "https://logo.clearbit.com/nvidia.com",
+    "headquarters": "Santa Clara, California, USA",
+    "industry_sector": "Semiconductors & Computing",
+    "employee_count": 278000,
+    "enrichment_source": "Wikipedia",
+    "enrichment_date": "2025"
   },
   {
     "company": "Qualcomm",
@@ -357,7 +397,12 @@
       "product_rank": 63,
       "overall_rank": 19
     },
-    "logo_url": "https://logo.clearbit.com/qualcomm.com"
+    "logo_url": "https://logo.clearbit.com/qualcomm.com",
+    "headquarters": "San Diego, California, USA",
+    "industry_sector": "Semiconductors & Telecommunications",
+    "employee_count": 50000,
+    "enrichment_source": "Wikipedia",
+    "enrichment_date": "2025"
   },
   {
     "company": "Boston Scientific",
@@ -402,7 +447,12 @@
       "product_rank": 83,
       "overall_rank": 20
     },
-    "logo_url": "https://logo.clearbit.com/bostonscientific.com"
+    "logo_url": "https://logo.clearbit.com/bostonscientific.com",
+    "headquarters": "Marlborough, Massachusetts, USA",
+    "industry_sector": "Medical Devices & Biotechnology",
+    "employee_count": 53000,
+    "enrichment_source": "Wikipedia",
+    "enrichment_date": "2025"
   },
   {
     "company": "Verizon Communications",
@@ -442,7 +492,12 @@
       "product_rank": 9,
       "overall_rank": 21
     },
-    "logo_url": "https://logo.clearbit.com/verizon.com"
+    "logo_url": "https://logo.clearbit.com/verizon.com",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Telecommunications",
+    "employee_count": 99600,
+    "enrichment_source": "Fortune 500 / Company Website",
+    "enrichment_date": "2024"
   },
   {
     "company": "Procter & Gamble",
@@ -487,7 +542,12 @@
       "product_rank": 53,
       "overall_rank": 22
     },
-    "logo_url": "https://logo.clearbit.com/pg.com"
+    "logo_url": "https://logo.clearbit.com/pg.com",
+    "headquarters": "Cincinnati, Ohio, USA",
+    "industry_sector": "Consumer Packaged Goods",
+    "employee_count": 109000,
+    "enrichment_source": "Company Reports",
+    "enrichment_date": "2025"
   },
   {
     "company": "Cummins",
@@ -527,7 +587,12 @@
       "product_rank": 14,
       "overall_rank": 28
     },
-    "logo_url": "https://logo.clearbit.com/cummins.com"
+    "logo_url": "https://logo.clearbit.com/cummins.com",
+    "headquarters": "Columbus, Indiana, USA",
+    "industry_sector": "Industrial Machinery",
+    "employee_count": 62000,
+    "enrichment_source": "Company Reports",
+    "enrichment_date": "2024"
   },
   {
     "company": "HP Inc",
@@ -567,7 +632,12 @@
       "product_rank": 11,
       "overall_rank": 29
     },
-    "logo_url": "https://logo.clearbit.com/hp.com"
+    "logo_url": "https://logo.clearbit.com/hp.com",
+    "headquarters": "Palo Alto, California, USA",
+    "industry_sector": "Information Technology",
+    "employee_count": 58000,
+    "enrichment_source": "Company Reports",
+    "enrichment_date": "2024"
   },
   {
     "company": "Pfizer",
@@ -607,7 +677,12 @@
       "product_rank": 19,
       "overall_rank": 30
     },
-    "logo_url": "https://logo.clearbit.com/pfizer.com"
+    "logo_url": "https://logo.clearbit.com/pfizer.com",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Pharmaceuticals",
+    "employee_count": 81000,
+    "enrichment_source": "Company Reports",
+    "enrichment_date": "2025"
   },
   {
     "company": "American Express",
@@ -642,7 +717,12 @@
       "product_rank": 12,
       "overall_rank": 31
     },
-    "logo_url": "https://logo.clearbit.com/americanexpress.com"
+    "logo_url": "https://logo.clearbit.com/americanexpress.com",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Financial Services",
+    "employee_count": 75100,
+    "enrichment_source": "Multiple sources",
+    "enrichment_date": "2025"
   },
   {
     "company": "Advanced Micro Devices (AMD)",
@@ -687,7 +767,12 @@
       "product_rank": 30,
       "overall_rank": 32
     },
-    "logo_url": "https://logo.clearbit.com/amd.com"
+    "logo_url": "https://logo.clearbit.com/amd.com",
+    "headquarters": "Santa Clara, California, USA",
+    "industry_sector": "Semiconductors",
+    "employee_count": 28000,
+    "enrichment_source": "Multiple sources",
+    "enrichment_date": "2025"
   },
   {
     "company": "Walt Disney",
@@ -732,7 +817,12 @@
       "product_rank": 21,
       "overall_rank": 33
     },
-    "logo_url": "https://logo.clearbit.com/disney.com"
+    "logo_url": "https://logo.clearbit.com/disney.com",
+    "headquarters": "Burbank, California, USA",
+    "industry_sector": "Entertainment",
+    "employee_count": 233800,
+    "enrichment_source": "Multiple sources",
+    "enrichment_date": "2024"
   },
   {
     "company": "PayPal Holdings",
@@ -777,7 +867,12 @@
       "product_rank": 15,
       "overall_rank": 34
     },
-    "logo_url": "https://logo.clearbit.com/paypal.com"
+    "logo_url": "https://logo.clearbit.com/paypal.com",
+    "headquarters": "San Jose, California, USA",
+    "industry_sector": "Financial Technology",
+    "employee_count": 26000,
+    "enrichment_source": "Multiple sources",
+    "enrichment_date": "2025"
   },
   {
     "company": "Houston Methodist",
@@ -822,7 +917,12 @@
       "product_rank": 100,
       "overall_rank": 35
     },
-    "logo_url": "https://logo.clearbit.com/houstonmethodist.org"
+    "logo_url": "https://logo.clearbit.com/houstonmethodist.org",
+    "headquarters": "Houston, Texas, USA",
+    "industry_sector": "Healthcare",
+    "employee_count": 32000,
+    "enrichment_source": "Multiple sources",
+    "enrichment_date": "2025"
   },
   {
     "company": "Corning",
@@ -867,7 +967,12 @@
       "product_rank": 17,
       "overall_rank": 36
     },
-    "logo_url": "https://logo.clearbit.com/corning.com"
+    "logo_url": "https://logo.clearbit.com/corning.com",
+    "headquarters": "Corning, New York, USA",
+    "industry_sector": "Specialty Glass, Ceramics and Materials",
+    "employee_count": 56300,
+    "enrichment_source": "Corporate Reports, MacroTrends",
+    "enrichment_date": "2024"
   },
   {
     "company": "AT&T",
@@ -917,7 +1022,12 @@
       "product_rank": 16,
       "overall_rank": 37
     },
-    "logo_url": "https://logo.clearbit.com/att.com"
+    "logo_url": "https://logo.clearbit.com/att.com",
+    "headquarters": "Dallas, Texas, USA",
+    "industry_sector": "Telecommunications",
+    "employee_count": 140990,
+    "enrichment_source": "PitchBook, Corporate Data",
+    "enrichment_date": "2025"
   },
   {
     "company": "Lockheed Martin",
@@ -957,7 +1067,12 @@
       "product_rank": 28,
       "overall_rank": 38
     },
-    "logo_url": "https://logo.clearbit.com/lockheedmartin.com"
+    "logo_url": "https://logo.clearbit.com/lockheedmartin.com",
+    "headquarters": "Bethesda, Maryland, USA",
+    "industry_sector": "Aerospace and Defense",
+    "employee_count": 121000,
+    "enrichment_source": "Corporate Profile, GlobalData",
+    "enrichment_date": "2024"
   },
   {
     "company": "Mayo Clinic",
@@ -1007,7 +1122,12 @@
       "product_rank": 86,
       "overall_rank": 39
     },
-    "logo_url": "https://logo.clearbit.com/mayoclinic.org"
+    "logo_url": "https://logo.clearbit.com/mayoclinic.org",
+    "headquarters": "Rochester, Minnesota, USA",
+    "industry_sector": "Healthcare and Medicine",
+    "employee_count": 76000,
+    "enrichment_source": "Corporate Reports",
+    "enrichment_date": "2022"
   },
   {
     "company": "Northrop Grumman",
@@ -1057,7 +1177,12 @@
       "product_rank": 34,
       "overall_rank": 40
     },
-    "logo_url": "https://logo.clearbit.com/northropgrumman.com"
+    "logo_url": "https://logo.clearbit.com/northropgrumman.com",
+    "headquarters": "Falls Church, Virginia, USA",
+    "industry_sector": "Aerospace and Defense",
+    "employee_count": 97000,
+    "enrichment_source": "Corporate Reports, MacroTrends",
+    "enrichment_date": "2024"
   },
   {
     "company": "Air Products & Chemicals",
@@ -1105,7 +1230,12 @@
       "product_rank": 29,
       "overall_rank": 41
     },
-    "logo_url": "https://logo.clearbit.com/airproducts.com"
+    "logo_url": "https://logo.clearbit.com/airproducts.com",
+    "headquarters": "Allentown, Pennsylvania, USA",
+    "industry_sector": "Industrial Gases & Specialty Chemicals",
+    "employee_count": 23000,
+    "enrichment_source": "Web Search",
+    "enrichment_date": "2025"
   },
   {
     "company": "PepsiCo",
@@ -1140,7 +1270,12 @@
       "product_rank": 37,
       "overall_rank": 42
     },
-    "logo_url": "https://logo.clearbit.com/pepsico.com"
+    "logo_url": "https://logo.clearbit.com/pepsico.com",
+    "headquarters": "Purchase, New York, USA",
+    "industry_sector": "Food and Beverage",
+    "employee_count": 319000,
+    "enrichment_source": "Web Search",
+    "enrichment_date": "2024"
   },
   {
     "company": "Microchip Technology",
@@ -1185,7 +1320,12 @@
       "product_rank": 32,
       "overall_rank": 43
     },
-    "logo_url": "https://logo.clearbit.com/microchip.com"
+    "logo_url": "https://logo.clearbit.com/microchip.com",
+    "headquarters": "Chandler, Arizona, USA",
+    "industry_sector": "Semiconductors",
+    "employee_count": 19400,
+    "enrichment_source": "Web Search",
+    "enrichment_date": "2025"
   },
   {
     "company": "Mass General Brigham",
@@ -1230,7 +1370,12 @@
       "product_rank": 89,
       "overall_rank": 44
     },
-    "logo_url": "https://logo.clearbit.com/massgeneralbrigham.org"
+    "logo_url": "https://logo.clearbit.com/massgeneralbrigham.org",
+    "headquarters": "Somerville, Massachusetts, USA",
+    "industry_sector": "Healthcare & Hospitals",
+    "employee_count": 82000,
+    "enrichment_source": "Web Search",
+    "enrichment_date": "2025"
   },
   {
     "company": "Coca-Cola",
@@ -1275,7 +1420,12 @@
       "product_rank": 23,
       "overall_rank": 45
     },
-    "logo_url": "https://logo.clearbit.com/coca-colacompany.com"
+    "logo_url": "https://logo.clearbit.com/coca-colacompany.com",
+    "headquarters": "Atlanta, Georgia, USA",
+    "industry_sector": "Beverages",
+    "employee_count": 82500,
+    "enrichment_source": "Web Search",
+    "enrichment_date": "2024"
   },
   {
     "company": "State Farm Insurance",
@@ -1320,7 +1470,12 @@
       "product_rank": 31,
       "overall_rank": 46
     },
-    "logo_url": "https://logo.clearbit.com/statefarm.com"
+    "logo_url": "https://logo.clearbit.com/statefarm.com",
+    "headquarters": "Bloomington, Illinois, USA",
+    "industry_sector": "Insurance",
+    "employee_count": 97000,
+    "enrichment_source": "Company Overview & Multiple Sources",
+    "enrichment_date": "2025"
   },
   {
     "company": "Motorola Solutions",
@@ -1365,7 +1520,12 @@
       "product_rank": 36,
       "overall_rank": 47
     },
-    "logo_url": "https://logo.clearbit.com/motorolasolutions.com"
+    "logo_url": "https://logo.clearbit.com/motorolasolutions.com",
+    "headquarters": "Chicago, Illinois, USA",
+    "industry_sector": "Telecommunications/Technology and Communications",
+    "employee_count": 21000,
+    "enrichment_source": "Company Profile & MacroTrends",
+    "enrichment_date": "2025"
   },
   {
     "company": "Fidelity Investments",
@@ -1410,7 +1570,12 @@
       "product_rank": 41,
       "overall_rank": 48
     },
-    "logo_url": "https://logo.clearbit.com/fidelity.com"
+    "logo_url": "https://logo.clearbit.com/fidelity.com",
+    "headquarters": "Boston, Massachusetts, USA",
+    "industry_sector": "Financial Services",
+    "employee_count": 10001,
+    "enrichment_source": "Company Careers & Wikipedia",
+    "enrichment_date": "2025"
   },
   {
     "company": "Dash Solutions",
@@ -1450,7 +1615,12 @@
       "product_rank": 40,
       "overall_rank": 49
     },
-    "logo_url": "https://logo.clearbit.com/dashsolutions.com"
+    "logo_url": "https://logo.clearbit.com/dashsolutions.com",
+    "headquarters": "Birmingham, Alabama, USA",
+    "industry_sector": "Financial Services",
+    "employee_count": 161,
+    "enrichment_source": "LeadIQ & LinkedIn",
+    "enrichment_date": "2025"
   },
   {
     "company": "Visa",
@@ -1485,7 +1655,12 @@
       "product_rank": 46,
       "overall_rank": 50
     },
-    "logo_url": "https://logo.clearbit.com/visa.com"
+    "logo_url": "https://logo.clearbit.com/visa.com",
+    "headquarters": "San Francisco, California, USA",
+    "industry_sector": "Payment Processing Technology",
+    "employee_count": 28000,
+    "enrichment_source": "Company Profile & ZoomInfo",
+    "enrichment_date": "2025"
   },
   {
     "company": "Cardinal Health",
@@ -1525,7 +1700,12 @@
       "product_rank": 33,
       "overall_rank": 51
     },
-    "logo_url": "https://logo.clearbit.com/cardinalhealth.com"
+    "logo_url": "https://logo.clearbit.com/cardinalhealth.com",
+    "headquarters": "Dublin, Ohio, USA",
+    "industry_sector": "Healthcare Distribution",
+    "employee_count": 50000,
+    "enrichment_source": "Web Search",
+    "enrichment_date": "2025"
   },
   {
     "company": "SpaceX",
@@ -1570,7 +1750,12 @@
       "product_rank": 67,
       "overall_rank": 52
     },
-    "logo_url": "https://logo.clearbit.com/spacex.com"
+    "logo_url": "https://logo.clearbit.com/spacex.com",
+    "headquarters": "Starbase, Texas, USA",
+    "industry_sector": "Aerospace & Defense",
+    "employee_count": 13000,
+    "enrichment_source": "Web Search",
+    "enrichment_date": "2025"
   },
   {
     "company": "Under Armour",
@@ -1615,7 +1800,12 @@
       "product_rank": 25,
       "overall_rank": 53
     },
-    "logo_url": "https://logo.clearbit.com/underarmour.com"
+    "logo_url": "https://logo.clearbit.com/underarmour.com",
+    "headquarters": "Baltimore, Maryland, USA",
+    "industry_sector": "Sportswear & Apparel",
+    "employee_count": 13000,
+    "enrichment_source": "Web Search",
+    "enrichment_date": "2025"
   },
   {
     "company": "Texas Instruments",
@@ -1660,7 +1850,12 @@
       "product_rank": 44,
       "overall_rank": 59
     },
-    "logo_url": "https://logo.clearbit.com/ti.com"
+    "logo_url": "https://logo.clearbit.com/ti.com",
+    "headquarters": "Dallas, Texas, USA",
+    "industry_sector": "Semiconductor Manufacturing",
+    "employee_count": 34000,
+    "enrichment_source": "Web Search",
+    "enrichment_date": "2025"
   },
   {
     "company": "Rockwell Automation",
@@ -1705,7 +1900,12 @@
       "product_rank": 39,
       "overall_rank": 60
     },
-    "logo_url": "https://logo.clearbit.com/rockwellautomation.com"
+    "logo_url": "https://logo.clearbit.com/rockwellautomation.com",
+    "headquarters": "Milwaukee, Wisconsin, USA",
+    "industry_sector": "Industrial Automation & Manufacturing",
+    "employee_count": 27000,
+    "enrichment_source": "Web Search",
+    "enrichment_date": "2025"
   },
   {
     "company": "Booz Allen Hamilton",
@@ -1750,7 +1950,12 @@
       "product_rank": 42,
       "overall_rank": 61
     },
-    "logo_url": "https://logo.clearbit.com/boozallen.com"
+    "logo_url": "https://logo.clearbit.com/boozallen.com",
+    "headquarters": "McLean, Virginia, USA",
+    "industry_sector": "Management Consulting & IT Services",
+    "employee_count": 33400,
+    "enrichment_source": "Company Fact Sheet & Official Website",
+    "enrichment_date": "2025"
   },
   {
     "company": "Allstate",
@@ -1800,7 +2005,12 @@
       "product_rank": 45,
       "overall_rank": 62
     },
-    "logo_url": "https://logo.clearbit.com/allstate.com"
+    "logo_url": "https://logo.clearbit.com/allstate.com",
+    "headquarters": "Northbrook, Illinois, USA",
+    "industry_sector": "Property & Casualty Insurance",
+    "employee_count": 55400,
+    "enrichment_source": "Company Official Website & Stock Analysis",
+    "enrichment_date": "2024"
   },
   {
     "company": "eBay",
@@ -1845,7 +2055,12 @@
       "product_rank": 56,
       "overall_rank": 63
     },
-    "logo_url": "https://logo.clearbit.com/ebay.com"
+    "logo_url": "https://logo.clearbit.com/ebay.com",
+    "headquarters": "San Jose, California, USA",
+    "industry_sector": "E-Commerce & Online Retail",
+    "employee_count": 11600,
+    "enrichment_source": "Company Official Website & ZoomInfo",
+    "enrichment_date": "2024"
   },
   {
     "company": "Cleveland Clinic",
@@ -1893,7 +2108,12 @@
       "product_rank": 97,
       "overall_rank": 64
     },
-    "logo_url": "https://logo.clearbit.com/clevelandclinic.org"
+    "logo_url": "https://logo.clearbit.com/clevelandclinic.org",
+    "headquarters": "Cleveland, Ohio, USA",
+    "industry_sector": "Healthcare & Hospitals",
+    "employee_count": 82608,
+    "enrichment_source": "Company Official Website & Annual Report",
+    "enrichment_date": "2024"
   },
   {
     "company": "Netflix",
@@ -1935,7 +2155,12 @@
       "product_rank": 66,
       "overall_rank": 65
     },
-    "logo_url": "https://logo.clearbit.com/netflix.com"
+    "logo_url": "https://logo.clearbit.com/netflix.com",
+    "headquarters": "Los Gatos, California, USA",
+    "industry_sector": "Entertainment & Media Streaming",
+    "employee_count": 14000,
+    "enrichment_source": "Company Official Website & LinkedIn",
+    "enrichment_date": "2024"
   },
   {
     "company": "Intuit",
@@ -1983,7 +2208,12 @@
       "product_rank": 64,
       "overall_rank": 69
     },
-    "logo_url": "https://logo.clearbit.com/intuit.com"
+    "logo_url": "https://logo.clearbit.com/intuit.com",
+    "headquarters": "Mountain View, California, USA",
+    "industry_sector": "Financial Software",
+    "employee_count": 18200,
+    "enrichment_source": "MacroTrends, Company Official Data",
+    "enrichment_date": "2025"
   },
   {
     "company": "AH Group",
@@ -2025,7 +2255,12 @@
       "product_rank": 62,
       "overall_rank": 74
     },
-    "logo_url": "https://logo.clearbit.com/ahgroupna.com"
+    "logo_url": "https://logo.clearbit.com/ahgroupna.com",
+    "headquarters": "Troy, Michigan, USA",
+    "industry_sector": "Industrial Repair & Component Management",
+    "employee_count": 300,
+    "enrichment_source": "LeadIQ, Company Profile",
+    "enrichment_date": "2025"
   },
   {
     "company": "Omnidian",
@@ -2060,7 +2295,12 @@
       "product_rank": 65,
       "overall_rank": 75
     },
-    "logo_url": "https://logo.clearbit.com/omnidian.com"
+    "logo_url": "https://logo.clearbit.com/omnidian.com",
+    "headquarters": "Seattle, Washington, USA",
+    "industry_sector": "Renewable Energy Services",
+    "employee_count": 270,
+    "enrichment_source": "PitchBook, LeadIQ",
+    "enrichment_date": "2025"
   },
   {
     "company": "UnitedHealth Group",
@@ -2108,7 +2348,12 @@
       "product_rank": 59,
       "overall_rank": 78
     },
-    "logo_url": "https://logo.clearbit.com/unitedhealthgroup.com"
+    "logo_url": "https://logo.clearbit.com/unitedhealthgroup.com",
+    "headquarters": "Minneapolis, Minnesota, USA",
+    "industry_sector": "Health Care Services",
+    "employee_count": 400000,
+    "enrichment_source": "MacroTrends, Company Official Data",
+    "enrichment_date": "2024"
   },
   {
     "company": "Walmart",
@@ -2143,7 +2388,12 @@
       "product_rank": 71,
       "overall_rank": 80
     },
-    "logo_url": "https://logo.clearbit.com/walmart.com"
+    "logo_url": "https://logo.clearbit.com/walmart.com",
+    "headquarters": "Bentonville, Arkansas, USA",
+    "industry_sector": "Retail & Discount Stores",
+    "employee_count": 2100000,
+    "enrichment_source": "MacroTrends, Company Official Data",
+    "enrichment_date": "2025"
   },
   {
     "company": "Best Buy",
@@ -2191,7 +2441,12 @@
       "product_rank": 74,
       "overall_rank": 81
     },
-    "logo_url": "https://logo.clearbit.com/bestbuy.com"
+    "logo_url": "https://logo.clearbit.com/bestbuy.com",
+    "headquarters": "Richfield, Minnesota, USA",
+    "industry_sector": "Consumer Electronics Retail",
+    "employee_count": 85000,
+    "enrichment_source": "Best Buy Corporate Website / MacroTrends",
+    "enrichment_date": "2025"
   },
   {
     "company": "Target",
@@ -2245,7 +2500,12 @@
       "product_rank": 73,
       "overall_rank": 82
     },
-    "logo_url": "https://logo.clearbit.com/target.com"
+    "logo_url": "https://logo.clearbit.com/target.com",
+    "headquarters": "Minneapolis, Minnesota, USA",
+    "industry_sector": "General Merchandise Retail",
+    "employee_count": 440000,
+    "enrichment_source": "Target Corporate Website / MacroTrends",
+    "enrichment_date": "2025"
   },
   {
     "company": "FedEx",
@@ -2280,7 +2540,12 @@
       "product_rank": 76,
       "overall_rank": 86
     },
-    "logo_url": "https://logo.clearbit.com/fedex.com"
+    "logo_url": "https://logo.clearbit.com/fedex.com",
+    "headquarters": "Memphis, Tennessee, USA",
+    "industry_sector": "Integrated Freight & Logistics",
+    "employee_count": 440000,
+    "enrichment_source": "FedEx Corporate Website / MacroTrends",
+    "enrichment_date": "2025"
   },
   {
     "company": "Starbucks",
@@ -2328,7 +2593,12 @@
       "product_rank": 80,
       "overall_rank": 87
     },
-    "logo_url": "https://logo.clearbit.com/starbucks.com"
+    "logo_url": "https://logo.clearbit.com/starbucks.com",
+    "headquarters": "Seattle, Washington, USA",
+    "industry_sector": "Food & Beverage Services",
+    "employee_count": 381000,
+    "enrichment_source": "Starbucks Corporate Website / MacroTrends",
+    "enrichment_date": "2025"
   },
   {
     "company": "Duke Energy",
@@ -2376,7 +2646,12 @@
       "product_rank": 90,
       "overall_rank": 92
     },
-    "logo_url": "https://logo.clearbit.com/duke-energy.com"
+    "logo_url": "https://logo.clearbit.com/duke-energy.com",
+    "headquarters": "Charlotte, North Carolina, USA",
+    "industry_sector": "Utilities - Electric Power & Natural Gas",
+    "employee_count": 28000,
+    "enrichment_source": "Duke Energy Corporate Website / Wikipedia",
+    "enrichment_date": "2025"
   },
   {
     "company": "Liberty Mutual Insurance Group",
@@ -2430,7 +2705,12 @@
       "product_rank": 88,
       "overall_rank": 93
     },
-    "logo_url": "https://logo.clearbit.com/libertymutual.com"
+    "logo_url": "https://logo.clearbit.com/libertymutual.com",
+    "headquarters": "Boston, Massachusetts, USA",
+    "industry_sector": "Insurance",
+    "employee_count": 45000,
+    "enrichment_source": "Wikipedia, ZoomInfo",
+    "enrichment_date": "2025"
   },
   {
     "company": "Stanley Black & Decker",
@@ -2470,7 +2750,12 @@
       "product_rank": 84,
       "overall_rank": 95
     },
-    "logo_url": "https://logo.clearbit.com/stanleyblackanddecker.com"
+    "logo_url": "https://logo.clearbit.com/stanleyblackanddecker.com",
+    "headquarters": "New Britain, Connecticut, USA",
+    "industry_sector": "Manufacturing",
+    "employee_count": 48000,
+    "enrichment_source": "Wikipedia, Zippia",
+    "enrichment_date": "2025"
   },
   {
     "company": "Morgan Stanley",
@@ -2515,7 +2800,12 @@
       "product_rank": 92,
       "overall_rank": 96
     },
-    "logo_url": "https://logo.clearbit.com/morganstanley.com"
+    "logo_url": "https://logo.clearbit.com/morganstanley.com",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Financial Services/Investment Banking",
+    "employee_count": 82000,
+    "enrichment_source": "Wikipedia, ZoomInfo",
+    "enrichment_date": "2025"
   },
   {
     "company": "Zillow Group",
@@ -2565,7 +2855,12 @@
       "product_rank": 94,
       "overall_rank": 97
     },
-    "logo_url": "https://logo.clearbit.com/zillowgroup.com"
+    "logo_url": "https://logo.clearbit.com/zillowgroup.com",
+    "headquarters": "Seattle, Washington, USA",
+    "industry_sector": "Real Estate Technology/Software",
+    "employee_count": 7298,
+    "enrichment_source": "Wikipedia, Zippia",
+    "enrichment_date": "2025"
   },
   {
     "company": "Cognizant Technology Solutions",
@@ -2610,7 +2905,12 @@
       "product_rank": 87,
       "overall_rank": 98
     },
-    "logo_url": "https://logo.clearbit.com/cognizant.com"
+    "logo_url": "https://logo.clearbit.com/cognizant.com",
+    "headquarters": "Teaneck, New Jersey, USA",
+    "industry_sector": "IT Consulting & Outsourcing",
+    "employee_count": 349800,
+    "enrichment_source": "Wikipedia, Zippia",
+    "enrichment_date": "2025"
   },
   {
     "company": "Goldman Sachs Group",
@@ -2655,7 +2955,12 @@
       "product_rank": 93,
       "overall_rank": 99
     },
-    "logo_url": "https://logo.clearbit.com/goldmansachs.com"
+    "logo_url": "https://logo.clearbit.com/goldmansachs.com",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Investment Banking & Financial Services",
+    "employee_count": 46500,
+    "enrichment_source": "Goldman Sachs Official & MacroTrends",
+    "enrichment_date": "2025"
   },
   {
     "company": "Byrne Software Technologies",
@@ -2695,6 +3000,11 @@
       "product_rank": 96,
       "overall_rank": 100
     },
-    "logo_url": "https://logo.clearbit.com/byrnesoftware.com"
+    "logo_url": "https://logo.clearbit.com/byrnesoftware.com",
+    "headquarters": "Chesterfield, Missouri, USA",
+    "industry_sector": "IT Services & IT Consulting",
+    "employee_count": 71,
+    "enrichment_source": "Byrne Software Official & ZoomInfo",
+    "enrichment_date": "2025"
   }
 ]

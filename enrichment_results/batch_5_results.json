@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Corning",
+    "headquarters": "Corning, New York, USA",
+    "industry_sector": "Specialty Glass, Ceramics and Materials",
+    "employee_count": 56300,
+    "data_source": "Corporate Reports, MacroTrends",
+    "last_updated": "2024"
+  },
+  {
+    "company": "AT&T",
+    "headquarters": "Dallas, Texas, USA",
+    "industry_sector": "Telecommunications",
+    "employee_count": 140990,
+    "data_source": "PitchBook, Corporate Data",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Lockheed Martin",
+    "headquarters": "Bethesda, Maryland, USA",
+    "industry_sector": "Aerospace and Defense",
+    "employee_count": 121000,
+    "data_source": "Corporate Profile, GlobalData",
+    "last_updated": "2024"
+  },
+  {
+    "company": "Mayo Clinic",
+    "headquarters": "Rochester, Minnesota, USA",
+    "industry_sector": "Healthcare and Medicine",
+    "employee_count": 76000,
+    "data_source": "Corporate Reports",
+    "last_updated": "2022"
+  },
+  {
+    "company": "Northrop Grumman",
+    "headquarters": "Falls Church, Virginia, USA",
+    "industry_sector": "Aerospace and Defense",
+    "employee_count": 97000,
+    "data_source": "Corporate Reports, MacroTrends",
+    "last_updated": "2024"
+  }
+]

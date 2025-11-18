@@ -1,0 +1,18 @@
+[
+  {
+    "company": "Goldman Sachs Group",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Investment Banking & Financial Services",
+    "employee_count": 46500,
+    "data_source": "Goldman Sachs Official & MacroTrends",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Byrne Software Technologies",
+    "headquarters": "Chesterfield, Missouri, USA",
+    "industry_sector": "IT Services & IT Consulting",
+    "employee_count": 71,
+    "data_source": "Byrne Software Official & ZoomInfo",
+    "last_updated": "2025"
+  }
+]

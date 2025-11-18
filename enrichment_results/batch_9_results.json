@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Booz Allen Hamilton",
+    "headquarters": "McLean, Virginia, USA",
+    "industry_sector": "Management Consulting & IT Services",
+    "employee_count": 33400,
+    "data_source": "Company Fact Sheet & Official Website",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Allstate",
+    "headquarters": "Northbrook, Illinois, USA",
+    "industry_sector": "Property & Casualty Insurance",
+    "employee_count": 55400,
+    "data_source": "Company Official Website & Stock Analysis",
+    "last_updated": "2024"
+  },
+  {
+    "company": "eBay",
+    "headquarters": "San Jose, California, USA",
+    "industry_sector": "E-Commerce & Online Retail",
+    "employee_count": 11600,
+    "data_source": "Company Official Website & ZoomInfo",
+    "last_updated": "2024"
+  },
+  {
+    "company": "Cleveland Clinic",
+    "headquarters": "Cleveland, Ohio, USA",
+    "industry_sector": "Healthcare & Hospitals",
+    "employee_count": 82608,
+    "data_source": "Company Official Website & Annual Report",
+    "last_updated": "2024"
+  },
+  {
+    "company": "Netflix",
+    "headquarters": "Los Gatos, California, USA",
+    "industry_sector": "Entertainment & Media Streaming",
+    "employee_count": 14000,
+    "data_source": "Company Official Website & LinkedIn",
+    "last_updated": "2024"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "company": "American Express",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Financial Services",
+    "employee_count": 75100,
+    "data_source": "Multiple sources",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Advanced Micro Devices (AMD)",
+    "headquarters": "Santa Clara, California, USA",
+    "industry_sector": "Semiconductors",
+    "employee_count": 28000,
+    "data_source": "Multiple sources",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Walt Disney",
+    "headquarters": "Burbank, California, USA",
+    "industry_sector": "Entertainment",
+    "employee_count": 233800,
+    "data_source": "Multiple sources",
+    "last_updated": "2024"
+  },
+  {
+    "company": "PayPal Holdings",
+    "headquarters": "San Jose, California, USA",
+    "industry_sector": "Financial Technology",
+    "employee_count": 26000,
+    "data_source": "Multiple sources",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Houston Methodist",
+    "headquarters": "Houston, Texas, USA",
+    "industry_sector": "Healthcare",
+    "employee_count": 32000,
+    "data_source": "Multiple sources",
+    "last_updated": "2025"
+  }
+]

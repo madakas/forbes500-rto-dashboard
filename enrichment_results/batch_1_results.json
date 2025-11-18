@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Alphabet",
+    "headquarters": "Mountain View, California, USA",
+    "industry_sector": "Technology - Internet Services",
+    "employee_count": 187103,
+    "data_source": "PitchBook, Wikipedia",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Microsoft",
+    "headquarters": "Redmond, Washington, USA",
+    "industry_sector": "Technology - Software & Cloud Services",
+    "employee_count": 228000,
+    "data_source": "Statista, Wikipedia",
+    "last_updated": "2024"
+  },
+  {
+    "company": "Amazon",
+    "headquarters": "Seattle, Washington, USA",
+    "industry_sector": "Technology - E-commerce & Cloud Services",
+    "employee_count": 1578000,
+    "data_source": "Amazon Corporate Filings",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Nike",
+    "headquarters": "Beaverton, Oregon, USA",
+    "industry_sector": "Consumer Goods - Athletic Apparel & Footwear",
+    "employee_count": 79400,
+    "data_source": "Statista, Nike Corporate",
+    "last_updated": "2024"
+  },
+  {
+    "company": "Tesla",
+    "headquarters": "Austin, Texas, USA",
+    "industry_sector": "Automotive - Electric Vehicles & Energy",
+    "employee_count": 125665,
+    "data_source": "Tesla Corporate Filings",
+    "last_updated": "2024"
+  }
+]

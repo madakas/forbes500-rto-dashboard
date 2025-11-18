@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Comcast",
+    "headquarters": "Philadelphia, Pennsylvania, USA",
+    "industry_sector": "Media & Telecommunications",
+    "employee_count": 186000,
+    "data_source": "Wikipedia",
+    "last_updated": "2025"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Financial Services & Banking",
+    "employee_count": 316000,
+    "data_source": "Wikipedia",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Nvidia",
+    "headquarters": "Santa Clara, California, USA",
+    "industry_sector": "Semiconductors & Computing",
+    "employee_count": 278000,
+    "data_source": "Wikipedia",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Qualcomm",
+    "headquarters": "San Diego, California, USA",
+    "industry_sector": "Semiconductors & Telecommunications",
+    "employee_count": 50000,
+    "data_source": "Wikipedia",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Boston Scientific",
+    "headquarters": "Marlborough, Massachusetts, USA",
+    "industry_sector": "Medical Devices & Biotechnology",
+    "employee_count": 53000,
+    "data_source": "Wikipedia",
+    "last_updated": "2025"
+  }
+]

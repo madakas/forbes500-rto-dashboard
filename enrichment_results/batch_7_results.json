@@ -1,0 +1,42 @@
+[
+  {
+    "company": "State Farm Insurance",
+    "headquarters": "Bloomington, Illinois, USA",
+    "industry_sector": "Insurance",
+    "employee_count": 97000,
+    "data_source": "Company Overview & Multiple Sources",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Motorola Solutions",
+    "headquarters": "Chicago, Illinois, USA",
+    "industry_sector": "Telecommunications/Technology and Communications",
+    "employee_count": 21000,
+    "data_source": "Company Profile & MacroTrends",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Fidelity Investments",
+    "headquarters": "Boston, Massachusetts, USA",
+    "industry_sector": "Financial Services",
+    "employee_count": 10001,
+    "data_source": "Company Careers & Wikipedia",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Dash Solutions",
+    "headquarters": "Birmingham, Alabama, USA",
+    "industry_sector": "Financial Services",
+    "employee_count": 161,
+    "data_source": "LeadIQ & LinkedIn",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Visa",
+    "headquarters": "San Francisco, California, USA",
+    "industry_sector": "Payment Processing Technology",
+    "employee_count": 28000,
+    "data_source": "Company Profile & ZoomInfo",
+    "last_updated": "2025"
+  }
+]

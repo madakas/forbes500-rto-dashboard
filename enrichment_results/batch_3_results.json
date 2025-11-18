@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Verizon Communications",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Telecommunications",
+    "employee_count": 99600,
+    "data_source": "Fortune 500 / Company Website",
+    "last_updated": "2024"
+  },
+  {
+    "company": "Procter & Gamble",
+    "headquarters": "Cincinnati, Ohio, USA",
+    "industry_sector": "Consumer Packaged Goods",
+    "employee_count": 109000,
+    "data_source": "Company Reports",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Cummins",
+    "headquarters": "Columbus, Indiana, USA",
+    "industry_sector": "Industrial Machinery",
+    "employee_count": 62000,
+    "data_source": "Company Reports",
+    "last_updated": "2024"
+  },
+  {
+    "company": "HP Inc",
+    "headquarters": "Palo Alto, California, USA",
+    "industry_sector": "Information Technology",
+    "employee_count": 58000,
+    "data_source": "Company Reports",
+    "last_updated": "2024"
+  },
+  {
+    "company": "Pfizer",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Pharmaceuticals",
+    "employee_count": 81000,
+    "data_source": "Company Reports",
+    "last_updated": "2025"
+  }
+]

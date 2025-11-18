@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Air Products & Chemicals",
+    "headquarters": "Allentown, Pennsylvania, USA",
+    "industry_sector": "Industrial Gases & Specialty Chemicals",
+    "employee_count": 23000,
+    "data_source": "Web Search",
+    "last_updated": "2025"
+  },
+  {
+    "company": "PepsiCo",
+    "headquarters": "Purchase, New York, USA",
+    "industry_sector": "Food and Beverage",
+    "employee_count": 319000,
+    "data_source": "Web Search",
+    "last_updated": "2024"
+  },
+  {
+    "company": "Microchip Technology",
+    "headquarters": "Chandler, Arizona, USA",
+    "industry_sector": "Semiconductors",
+    "employee_count": 19400,
+    "data_source": "Web Search",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Mass General Brigham",
+    "headquarters": "Somerville, Massachusetts, USA",
+    "industry_sector": "Healthcare & Hospitals",
+    "employee_count": 82000,
+    "data_source": "Web Search",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Coca-Cola",
+    "headquarters": "Atlanta, Georgia, USA",
+    "industry_sector": "Beverages",
+    "employee_count": 82500,
+    "data_source": "Web Search",
+    "last_updated": "2024"
+  }
+]

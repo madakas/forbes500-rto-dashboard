@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Best Buy",
+    "headquarters": "Richfield, Minnesota, USA",
+    "industry_sector": "Consumer Electronics Retail",
+    "employee_count": 85000,
+    "data_source": "Best Buy Corporate Website / MacroTrends",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Target",
+    "headquarters": "Minneapolis, Minnesota, USA",
+    "industry_sector": "General Merchandise Retail",
+    "employee_count": 440000,
+    "data_source": "Target Corporate Website / MacroTrends",
+    "last_updated": "2025"
+  },
+  {
+    "company": "FedEx",
+    "headquarters": "Memphis, Tennessee, USA",
+    "industry_sector": "Integrated Freight & Logistics",
+    "employee_count": 440000,
+    "data_source": "FedEx Corporate Website / MacroTrends",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Starbucks",
+    "headquarters": "Seattle, Washington, USA",
+    "industry_sector": "Food & Beverage Services",
+    "employee_count": 381000,
+    "data_source": "Starbucks Corporate Website / MacroTrends",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Duke Energy",
+    "headquarters": "Charlotte, North Carolina, USA",
+    "industry_sector": "Utilities - Electric Power & Natural Gas",
+    "employee_count": 28000,
+    "data_source": "Duke Energy Corporate Website / Wikipedia",
+    "last_updated": "2025"
+  }
+]

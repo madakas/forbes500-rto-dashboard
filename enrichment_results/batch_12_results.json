@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Liberty Mutual Insurance Group",
+    "headquarters": "Boston, Massachusetts, USA",
+    "industry_sector": "Insurance",
+    "employee_count": 45000,
+    "data_source": "Wikipedia, ZoomInfo",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Stanley Black & Decker",
+    "headquarters": "New Britain, Connecticut, USA",
+    "industry_sector": "Manufacturing",
+    "employee_count": 48000,
+    "data_source": "Wikipedia, Zippia",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Morgan Stanley",
+    "headquarters": "New York, New York, USA",
+    "industry_sector": "Financial Services/Investment Banking",
+    "employee_count": 82000,
+    "data_source": "Wikipedia, ZoomInfo",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Zillow Group",
+    "headquarters": "Seattle, Washington, USA",
+    "industry_sector": "Real Estate Technology/Software",
+    "employee_count": 7298,
+    "data_source": "Wikipedia, Zippia",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Cognizant Technology Solutions",
+    "headquarters": "Teaneck, New Jersey, USA",
+    "industry_sector": "IT Consulting & Outsourcing",
+    "employee_count": 349800,
+    "data_source": "Wikipedia, Zippia",
+    "last_updated": "2025"
+  }
+]

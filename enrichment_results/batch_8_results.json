@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Cardinal Health",
+    "headquarters": "Dublin, Ohio, USA",
+    "industry_sector": "Healthcare Distribution",
+    "employee_count": 50000,
+    "data_source": "Web Search",
+    "last_updated": "2025"
+  },
+  {
+    "company": "SpaceX",
+    "headquarters": "Starbase, Texas, USA",
+    "industry_sector": "Aerospace & Defense",
+    "employee_count": 13000,
+    "data_source": "Web Search",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Under Armour",
+    "headquarters": "Baltimore, Maryland, USA",
+    "industry_sector": "Sportswear & Apparel",
+    "employee_count": 13000,
+    "data_source": "Web Search",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Texas Instruments",
+    "headquarters": "Dallas, Texas, USA",
+    "industry_sector": "Semiconductor Manufacturing",
+    "employee_count": 34000,
+    "data_source": "Web Search",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Rockwell Automation",
+    "headquarters": "Milwaukee, Wisconsin, USA",
+    "industry_sector": "Industrial Automation & Manufacturing",
+    "employee_count": 27000,
+    "data_source": "Web Search",
+    "last_updated": "2025"
+  }
+]

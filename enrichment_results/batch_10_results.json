@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Intuit",
+    "headquarters": "Mountain View, California, USA",
+    "industry_sector": "Financial Software",
+    "employee_count": 18200,
+    "data_source": "MacroTrends, Company Official Data",
+    "last_updated": "2025"
+  },
+  {
+    "company": "AH Group",
+    "headquarters": "Troy, Michigan, USA",
+    "industry_sector": "Industrial Repair & Component Management",
+    "employee_count": 300,
+    "data_source": "LeadIQ, Company Profile",
+    "last_updated": "2025"
+  },
+  {
+    "company": "Omnidian",
+    "headquarters": "Seattle, Washington, USA",
+    "industry_sector": "Renewable Energy Services",
+    "employee_count": 270,
+    "data_source": "PitchBook, LeadIQ",
+    "last_updated": "2025"
+  },
+  {
+    "company": "UnitedHealth Group",
+    "headquarters": "Minneapolis, Minnesota, USA",
+    "industry_sector": "Health Care Services",
+    "employee_count": 400000,
+    "data_source": "MacroTrends, Company Official Data",
+    "last_updated": "2024"
+  },
+  {
+    "company": "Walmart",
+    "headquarters": "Bentonville, Arkansas, USA",
+    "industry_sector": "Retail & Discount Stores",
+    "employee_count": 2100000,
+    "data_source": "MacroTrends, Company Official Data",
+    "last_updated": "2025"
+  }
+]
