@@ -390,7 +390,7 @@ with tab2:
                     "padding": "8px"
                 }
             },
-            map_style="mapbox://styles/mapbox/light-v10"
+            map_style="light"
         )
 
         st.pydeck_chart(deck)
