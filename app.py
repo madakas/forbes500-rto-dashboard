@@ -786,6 +786,14 @@ with tab5:
     - **Fortune** and **Statista** for the Most Innovative Companies ranking and methodology
     - **LexisNexis®** for patent analysis data
 
+    #### Team Limitation Busters
+
+    - **Iryna** (Ireland) — Google TPM; ex-AI startup director; M.Sc. Mathematics
+    - **Stefanie** (Switzerland) — Finance leader & CFO; ex-EY; IFRS & compliance expertise
+    - **Seun** (Ireland) — Google mid-market; Nigerian e-banking background; M.Sc. Digital Innovation
+    - **Karan** (Germany) — Entrepreneur; founded 90s e-commerce (acquired by Metro); nonprofit leader
+    - **Rudi** (Germany) — PhD Economics; energy-trading risk manager; 20+ yrs in energy trading
+
     ---
 
     ### References
