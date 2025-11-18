@@ -237,27 +237,6 @@ filtered_df = filtered_df[
 if selected_trends:
     filtered_df = filtered_df[filtered_df['trend_direction'].isin(selected_trends)]
 
-# Key metrics
-col1, col2, col3, col4 = st.columns(4)
-
-with col1:
-    st.metric("Companies", len(filtered_df))
-
-with col2:
-    avg_days = filtered_df['days_required'].mean()
-    st.metric("Avg. Days in Office", f"{avg_days:.1f}")
-
-with col3:
-    total_employees = filtered_df['employee_count'].sum()
-    st.metric("Total Employees", f"{total_employees:,.0f}")
-
-with col4:
-    tightening = len(filtered_df[filtered_df['trend_direction'] == 'Tightening'])
-    pct = (tightening / len(filtered_df) * 100) if len(filtered_df) > 0 else 0
-    st.metric("Policies Tightening", f"{tightening} ({pct:.0f}%)")
-
-st.divider()
-
 # Main tabs
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "🗺️ Map",
@@ -552,6 +531,27 @@ Here's a summary of what I found:
 # Tab 4: Analytics
 with tab4:
     st.subheader("Research Analytics")
+
+    # Key metrics at top
+    col1, col2, col3, col4 = st.columns(4)
+
+    with col1:
+        st.metric("Companies", len(filtered_df))
+
+    with col2:
+        avg_days = filtered_df['days_required'].mean()
+        st.metric("Avg. Days in Office", f"{avg_days:.1f}")
+
+    with col3:
+        total_employees = filtered_df['employee_count'].sum()
+        st.metric("Total Employees", f"{total_employees:,.0f}")
+
+    with col4:
+        tightening = len(filtered_df[filtered_df['trend_direction'] == 'Tightening'])
+        pct = (tightening / len(filtered_df) * 100) if len(filtered_df) > 0 else 0
+        st.metric("Policies Tightening", f"{tightening} ({pct:.0f}%)")
+
+    st.divider()
 
     # Policy Distribution and Days Required
     col_left, col_right = st.columns([1, 1])
