@@ -255,7 +255,7 @@ with tab1:
     map_df = filtered_df[
         (filtered_df['latitude'] != 0) &
         (filtered_df['longitude'] != 0)
-    ].copy()
+    ].copy().reset_index(drop=True)
 
     if len(map_df) > 0:
         # Color mapping for policy categories
