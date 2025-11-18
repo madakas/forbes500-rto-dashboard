@@ -272,6 +272,9 @@ with tab1:
             axis=1
         )
 
+        # Add row index for selection tracking (needed because color creates multiple traces)
+        map_df['row_idx'] = range(len(map_df))
+
         # Create placeholder for selected company profile (shows above map)
         profile_placeholder = st.container()
 
@@ -290,8 +293,10 @@ with tab1:
                 'policy_type': True,
                 'days_required': True,
                 'innovation_overall': True,
-                'headquarters': True
+                'headquarters': True,
+                'row_idx': False
             },
+            custom_data=['row_idx'],
             labels={
                 'policy_type': 'Policy',
                 'days_required': 'Days/Week',
@@ -331,9 +336,18 @@ with tab1:
         st.caption(f"Showing {len(map_df)} companies with headquarters locations")
 
         # Handle click selection - show profile ABOVE map in placeholder
-        if event and event.selection and event.selection.point_indices:
-            selected_idx = event.selection.point_indices[0]
-            selected_company = map_df.iloc[selected_idx]
+        if event and event.selection and event.selection.points:
+            # Get row index from custom_data (handles multiple traces from color grouping)
+            selected_point = event.selection.points[0]
+            row_idx = selected_point.get('customdata', [None])[0]
+            if row_idx is not None:
+                selected_company = map_df.iloc[row_idx]
+            else:
+                selected_company = None
+        else:
+            selected_company = None
+
+        if selected_company is not None:
 
             # Show selected company profile in placeholder (above map)
             with profile_placeholder:
