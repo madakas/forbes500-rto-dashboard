@@ -422,9 +422,6 @@ with tab2:
 
 # Tab 3: AI Assistant
 with tab3:
-    st.subheader("Research Assistant")
-    st.markdown("Ask questions about work policies across America's top innovators.")
-
     # Initialize search engine
     @st.cache_resource
     def get_search_engine():
@@ -436,24 +433,27 @@ with tab3:
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
-    # Example queries
-    with st.expander("Example questions you can ask"):
-        st.markdown("""
-        - Which tech companies are fully remote?
-        - Find companies with 3-day hybrid policies
-        - Which companies are tightening their RTO policies?
-        - Compare Google and Microsoft work policies
-        - What do executives say about returning to office?
-        - Which companies in healthcare have flexible policies?
-        - Find companies headquartered in California with hybrid policies
-        """)
+    # Header with clear button
+    col_header, col_clear = st.columns([4, 1])
+    with col_header:
+        st.subheader("Research Assistant")
+    with col_clear:
+        if st.session_state.messages:
+            if st.button("Clear", type="secondary"):
+                st.session_state.messages = []
+                st.rerun()
+
+    # Show example prompts only when no messages
+    if not st.session_state.messages:
+        st.markdown("Ask questions about work policies across America's top innovators.")
+        st.caption("Try: *Which tech companies are fully remote?* or *Compare Google and Microsoft policies*")
 
     # Display chat history
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    # Chat input
+    # Chat input (automatically at bottom)
     if prompt := st.chat_input("Ask about work policies..."):
         # Add user message to history
         st.session_state.messages.append({"role": "user", "content": prompt})
@@ -476,17 +476,21 @@ with tab3:
                     if api_key:
                         client = anthropic.Anthropic(api_key=api_key)
 
-                        with st.spinner("Thinking..."):
-                            response = client.messages.create(
-                                model="claude-sonnet-4-20250514",
-                                max_tokens=1024,
-                                system=create_system_prompt(),
-                                messages=[
-                                    {"role": "user", "content": generate_response_prompt(prompt, context)}
-                                ]
-                            )
-
-                        assistant_message = response.content[0].text
+                        # Streaming response
+                        with client.messages.stream(
+                            model="claude-sonnet-4-20250514",
+                            max_tokens=1024,
+                            system=create_system_prompt(),
+                            messages=[
+                                {"role": "user", "content": generate_response_prompt(prompt, context)}
+                            ]
+                        ) as stream:
+                            response_placeholder = st.empty()
+                            assistant_message = ""
+                            for text in stream.text_stream:
+                                assistant_message += text
+                                response_placeholder.markdown(assistant_message + "▌")
+                            response_placeholder.markdown(assistant_message)
                     else:
                         # Fallback: Show search results without LLM
                         companies_found = [r['company'].get('company', 'Unknown') for r in search_results]
@@ -508,8 +512,8 @@ Here's a summary of what I found:
 - Days in office: {wp.get('days_required', 'N/A')}
 - Trend: {wp.get('trend_direction', 'Unknown')}
 """
+                        st.markdown(assistant_message)
 
-                    st.markdown(assistant_message)
                     st.session_state.messages.append({"role": "assistant", "content": assistant_message})
 
                 except Exception as e:
@@ -521,12 +525,6 @@ Here's a summary of what I found:
             with st.chat_message("assistant"):
                 st.markdown(no_results_msg)
             st.session_state.messages.append({"role": "assistant", "content": no_results_msg})
-
-    # Clear chat button
-    if st.session_state.messages:
-        if st.button("Clear conversation"):
-            st.session_state.messages = []
-            st.rerun()
 
 # Tab 4: Analytics
 with tab4:
