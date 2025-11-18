@@ -259,8 +259,7 @@ with col4:
 st.divider()
 
 # Main tabs
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
-    "📊 Overview",
+tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "🗺️ Map",
     "🏢 Company Profiles",
     "🤖 Assistant",
@@ -268,68 +267,8 @@ tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
     "📚 About"
 ])
 
-# Tab 1: Overview
+# Tab 1: Map
 with tab1:
-    col_left, col_right = st.columns([1, 1])
-
-    with col_left:
-        st.subheader("Policy Distribution")
-
-        # Neutral color scheme for categories
-        color_map = {
-            'Hybrid': '#C4B5FD',      # Soft purple
-            'Full Office': '#FCD34D', # Soft amber
-            'Fully Remote': '#93C5FD', # Soft blue
-            'Unknown': '#E2E8F0'      # Gray
-        }
-
-        category_counts = filtered_df['category'].value_counts()
-        fig_pie = px.pie(
-            values=category_counts.values,
-            names=category_counts.index,
-            hole=0.4,
-            color=category_counts.index,
-            color_discrete_map=color_map
-        )
-        fig_pie.update_traces(textposition='inside', textinfo='percent+label')
-        fig_pie.update_layout(
-            showlegend=False,
-            margin=dict(t=20, b=20, l=20, r=20)
-        )
-        st.plotly_chart(fig_pie, use_container_width=True)
-
-    with col_right:
-        st.subheader("Days Required Distribution")
-
-        days_counts = filtered_df['days_required'].value_counts().sort_index()
-        fig_bar = px.bar(
-            x=days_counts.index,
-            y=days_counts.values,
-            labels={'x': 'Days per Week', 'y': 'Number of Companies'},
-            color_discrete_sequence=['#6366F1']
-        )
-        fig_bar.update_layout(
-            xaxis_title="Days Required in Office",
-            yaxis_title="Companies",
-            margin=dict(t=20, b=40, l=40, r=20)
-        )
-        st.plotly_chart(fig_bar, use_container_width=True)
-
-    # Sector breakdown
-    st.subheader("Policy Patterns by Sector")
-
-    sector_category = pd.crosstab(filtered_df['sector'], filtered_df['category'])
-    fig_heatmap = px.imshow(
-        sector_category,
-        labels=dict(x="Policy Category", y="Sector", color="Count"),
-        aspect="auto",
-        color_continuous_scale=["#F1F5F9", "#6366F1"]
-    )
-    fig_heatmap.update_layout(margin=dict(t=20, b=20, l=20, r=20))
-    st.plotly_chart(fig_heatmap, use_container_width=True)
-
-# Tab 2: Map
-with tab2:
     st.subheader("Company Headquarters Map")
 
     # Filter for companies with valid coordinates
@@ -412,8 +351,8 @@ with tab2:
     else:
         st.info("No companies with location data match your current filters.")
 
-# Tab 3: Company Profiles
-with tab3:
+# Tab 2: Company Profiles
+with tab2:
     st.subheader("Company Profiles")
 
     # Sort options
@@ -502,8 +441,8 @@ with tab3:
 
             st.divider()
 
-# Tab 4: AI Assistant
-with tab4:
+# Tab 3: AI Assistant
+with tab3:
     st.subheader("Research Assistant")
     st.markdown("Ask questions about work policies across America's top innovators.")
 
@@ -610,9 +549,70 @@ Here's a summary of what I found:
             st.session_state.messages = []
             st.rerun()
 
-# Tab 5: Analytics
-with tab5:
+# Tab 4: Analytics
+with tab4:
     st.subheader("Research Analytics")
+
+    # Policy Distribution and Days Required
+    col_left, col_right = st.columns([1, 1])
+
+    with col_left:
+        st.write("**Policy Distribution**")
+
+        # Neutral color scheme for categories
+        color_map = {
+            'Hybrid': '#C4B5FD',      # Soft purple
+            'Full Office': '#FCD34D', # Soft amber
+            'Fully Remote': '#93C5FD', # Soft blue
+            'Unknown': '#E2E8F0'      # Gray
+        }
+
+        category_counts = filtered_df['category'].value_counts()
+        fig_pie = px.pie(
+            values=category_counts.values,
+            names=category_counts.index,
+            hole=0.4,
+            color=category_counts.index,
+            color_discrete_map=color_map
+        )
+        fig_pie.update_traces(textposition='inside', textinfo='percent+label')
+        fig_pie.update_layout(
+            showlegend=False,
+            margin=dict(t=20, b=20, l=20, r=20)
+        )
+        st.plotly_chart(fig_pie, use_container_width=True)
+
+    with col_right:
+        st.write("**Days Required Distribution**")
+
+        days_counts = filtered_df['days_required'].value_counts().sort_index()
+        fig_bar = px.bar(
+            x=days_counts.index,
+            y=days_counts.values,
+            labels={'x': 'Days per Week', 'y': 'Number of Companies'},
+            color_discrete_sequence=['#6366F1']
+        )
+        fig_bar.update_layout(
+            xaxis_title="Days Required in Office",
+            yaxis_title="Companies",
+            margin=dict(t=20, b=40, l=40, r=20)
+        )
+        st.plotly_chart(fig_bar, use_container_width=True)
+
+    # Sector breakdown heatmap
+    st.write("**Policy Patterns by Sector**")
+
+    sector_category = pd.crosstab(filtered_df['sector'], filtered_df['category'])
+    fig_heatmap = px.imshow(
+        sector_category,
+        labels=dict(x="Policy Category", y="Sector", color="Count"),
+        aspect="auto",
+        color_continuous_scale=["#F1F5F9", "#6366F1"]
+    )
+    fig_heatmap.update_layout(margin=dict(t=20, b=20, l=20, r=20))
+    st.plotly_chart(fig_heatmap, use_container_width=True)
+
+    st.divider()
 
     col_ana1, col_ana2 = st.columns(2)
 
@@ -677,8 +677,8 @@ with tab5:
     fig_sector.update_layout(margin=dict(t=20, b=40, l=100, r=20))
     st.plotly_chart(fig_sector, use_container_width=True)
 
-# Tab 6: About
-with tab6:
+# Tab 5: About
+with tab5:
     st.subheader("About This Research")
 
     st.markdown("""
