@@ -786,9 +786,9 @@ with tab5:
 
     #### Team Limitation Busters (Stanford LEAD)
 
-    - Iryna (Ireland)
+    - [Iryna Salamykina](https://www.linkedin.com/in/iryna-salamykina/) (Ireland)
     - [Stefanie Danner](https://www.linkedin.com/in/stefanie-danner-70837038/) (Switzerland)
-    - Seun (Ireland)
+    - Seun Ogunkunle (Ireland)
     - [Karan Dehghani](https://www.linkedin.com/in/karandehghani/) (Germany)
     - [Ruediger Schils](https://www.linkedin.com/in/ruediger-schils-6b611169/) (Germany)
 
