@@ -249,6 +249,7 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
 # Tab 1: Map
 with tab1:
     st.subheader("Company Headquarters Map")
+    st.caption("Click on a company marker to view its profile")
 
     # Filter for companies with valid coordinates
     map_df = filtered_df[
@@ -257,76 +258,134 @@ with tab1:
     ].copy()
 
     if len(map_df) > 0:
-        # Add color based on policy category (neutral palette)
-        def get_color(category):
-            colors = {
-                'Hybrid': [196, 181, 253, 200],      # Soft purple
-                'Full Office': [252, 211, 77, 200],  # Soft amber
-                'Fully Remote': [147, 197, 253, 200], # Soft blue
-            }
-            return colors.get(category, [226, 232, 240, 200])
+        # Color mapping for policy categories
+        color_map = {
+            'Hybrid': '#C4B5FD',       # Soft purple
+            'Full Office': '#FCD34D',  # Soft amber
+            'Fully Remote': '#93C5FD', # Soft blue
+        }
+        map_df['color'] = map_df['category'].map(color_map).fillna('#E2E8F0')
 
-        map_df['color'] = map_df['category'].apply(get_color)
-
-        # Create tooltip
-        map_df['tooltip'] = map_df.apply(
-            lambda row: f"{row['company']}\n{row['policy_type']}\n{row['days_required']} days/week",
+        # Create hover text
+        map_df['hover_text'] = map_df.apply(
+            lambda row: f"<b>{row['company']}</b><br>{row['policy_type']}<br>{row['days_required']} days/week<br>Rank #{row['innovation_overall']}",
             axis=1
         )
 
-        # PyDeck layer
-        layer = pdk.Layer(
-            "ScatterplotLayer",
-            data=map_df,
-            get_position=["longitude", "latitude"],
-            get_color="color",
-            get_radius=50000,  # Radius in meters
-            pickable=True,
-            opacity=0.8,
-            stroked=True,
-            filled=True,
-            radius_min_pixels=8,
-            radius_max_pixels=25,
-            line_width_min_pixels=1,
-        )
-
-        # Initial view centered on US
-        view_state = pdk.ViewState(
-            latitude=39.8283,
-            longitude=-98.5795,
-            zoom=3.5,
-            pitch=0,
-        )
-
-        # Render map
-        deck = pdk.Deck(
-            layers=[layer],
-            initial_view_state=view_state,
-            tooltip={
-                "text": "{tooltip}",
-                "style": {
-                    "backgroundColor": "#1E293B",
-                    "color": "white",
-                    "fontSize": "12px",
-                    "padding": "8px"
-                }
+        # Create Plotly scatter_mapbox
+        fig = px.scatter_mapbox(
+            map_df,
+            lat='latitude',
+            lon='longitude',
+            color='category',
+            color_discrete_map=color_map,
+            hover_name='company',
+            hover_data={
+                'latitude': False,
+                'longitude': False,
+                'category': False,
+                'policy_type': True,
+                'days_required': True,
+                'innovation_overall': True,
+                'headquarters': True
             },
-            map_style="light"
+            labels={
+                'policy_type': 'Policy',
+                'days_required': 'Days/Week',
+                'innovation_overall': 'Rank',
+                'headquarters': 'Location'
+            },
+            zoom=3.5,
+            center={'lat': 39.8283, 'lon': -98.5795},
+            mapbox_style='carto-positron'
         )
 
-        st.pydeck_chart(deck)
+        fig.update_traces(
+            marker=dict(size=12, opacity=0.8),
+            selector=dict(mode='markers')
+        )
 
-        # Legend
-        st.markdown("**Legend**")
-        col_leg1, col_leg2, col_leg3 = st.columns(3)
-        with col_leg1:
-            st.markdown("🟣 Hybrid")
-        with col_leg2:
-            st.markdown("🟡 Full Office")
-        with col_leg3:
-            st.markdown("🔵 Fully Remote")
+        fig.update_layout(
+            margin=dict(l=0, r=0, t=0, b=0),
+            height=500,
+            legend=dict(
+                yanchor="top",
+                y=0.99,
+                xanchor="left",
+                x=0.01,
+                bgcolor="rgba(255, 255, 255, 0.8)"
+            )
+        )
+
+        # Display map with click event support
+        event = st.plotly_chart(
+            fig,
+            use_container_width=True,
+            on_select="rerun",
+            key="map_selection"
+        )
 
         st.caption(f"Showing {len(map_df)} companies with headquarters locations")
+
+        # Handle click selection
+        if event and event.selection and event.selection.point_indices:
+            selected_idx = event.selection.point_indices[0]
+            selected_company = map_df.iloc[selected_idx]
+
+            st.divider()
+            st.subheader(f"Selected: {selected_company['company']}")
+
+            # Display company profile
+            col_logo, col_info, col_policy = st.columns([1, 2, 2])
+
+            with col_logo:
+                if selected_company['logo_url']:
+                    st.image(selected_company['logo_url'], width=100)
+                else:
+                    st.write("🏢")
+                st.metric("Innovation Rank", f"#{selected_company['innovation_overall']}")
+
+            with col_info:
+                st.markdown(f"**{selected_company['company']}**")
+                st.write(f"**Industry:** {selected_company['industry_sector']}")
+                st.write(f"**📍 Location:** {selected_company['headquarters']}")
+                if selected_company['employee_count'] > 0:
+                    st.write(f"**👥 Employees:** {selected_company['employee_count']:,}")
+
+            with col_policy:
+                st.markdown(f"**Policy:** {selected_company['policy_type']}")
+                st.write(f"**Days Required:** {selected_company['days_required']} per week")
+                st.write(f"**Trend:** {selected_company['trend_direction']}")
+                st.write(f"**Effective:** {selected_company['effective_date']}")
+
+            # Policy details
+            with st.expander("View Full Details"):
+                st.write(f"**Policy Details:** {selected_company['details']}")
+
+                if selected_company['key_quote']:
+                    st.info(f'"{selected_company["key_quote"]}"')
+
+                if selected_company['previous_policy'] != 'N/A':
+                    st.write(f"**Previous Policy:** {selected_company['previous_policy']}")
+
+                # Innovation breakdown
+                st.write("**Innovation Rankings:**")
+                inno_col1, inno_col2, inno_col3 = st.columns(3)
+                with inno_col1:
+                    st.metric("Culture", f"#{selected_company['innovation_culture']}")
+                with inno_col2:
+                    st.metric("Process", f"#{selected_company['innovation_process']}")
+                with inno_col3:
+                    st.metric("Product", f"#{selected_company['innovation_product']}")
+
+                # Sources
+                if selected_company['sources']:
+                    st.write("**Sources:**")
+                    for source in selected_company['sources']:
+                        url = source.get('url', '#')
+                        source_type = source.get('type', 'Source')
+                        reliability = source.get('reliability', '')
+                        st.markdown(f"- [{source_type}]({url}) ({reliability})")
     else:
         st.info("No companies with location data match your current filters.")
 
