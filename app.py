@@ -1,6 +1,12 @@
 """
-Forbes 500 Return-to-Office Dashboard
-Interactive dashboard for tracking RTO policies across Fortune 500 companies
+America's Top 100 Innovators - Work Policy Research Platform
+
+Author: Maximilian Daub
+Course: Critical Analytical Thinking (Stanford LEAD)
+Professor: Haim Mendelson
+
+An academic research project examining return-to-office policies
+across America's most innovative companies.
 """
 
 import streamlit as st
@@ -12,25 +18,120 @@ import plotly.graph_objects as go
 
 # Page config
 st.set_page_config(
-    page_title="Forbes 500 RTO Dashboard",
-    page_icon="🏢",
+    page_title="America's Top 100 Innovators",
+    page_icon="🏛️",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
+# Custom CSS for academic, neutral design
+st.markdown("""
+<style>
+    /* Main theme colors - neutral academic palette */
+    :root {
+        --primary: #475569;
+        --accent: #6366F1;
+        --bg-light: #F8FAFC;
+        --bg-medium: #F1F5F9;
+        --text-primary: #1E293B;
+        --text-secondary: #64748B;
+    }
+
+    /* Header styling */
+    .main-header {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: var(--text-primary);
+        margin-bottom: 0.5rem;
+    }
+
+    .sub-header {
+        font-size: 1.1rem;
+        color: var(--text-secondary);
+        margin-bottom: 2rem;
+    }
+
+    /* Company card styling */
+    .company-card {
+        background: white;
+        border-radius: 12px;
+        padding: 1.5rem;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        margin-bottom: 1rem;
+        border: 1px solid #E2E8F0;
+    }
+
+    /* Quote styling */
+    .quote-box {
+        background: var(--bg-light);
+        border-left: 4px solid var(--accent);
+        padding: 1rem 1.5rem;
+        margin: 1rem 0;
+        font-style: italic;
+        color: var(--text-secondary);
+        border-radius: 0 8px 8px 0;
+    }
+
+    /* Policy badge styling - neutral colors */
+    .policy-badge {
+        display: inline-block;
+        padding: 0.25rem 0.75rem;
+        border-radius: 9999px;
+        font-size: 0.875rem;
+        font-weight: 500;
+    }
+
+    .badge-remote { background: #DBEAFE; color: #1E40AF; }
+    .badge-hybrid { background: #EDE9FE; color: #5B21B6; }
+    .badge-office { background: #FEF3C7; color: #92400E; }
+
+    /* Metric cards */
+    .metric-card {
+        background: white;
+        border-radius: 12px;
+        padding: 1.5rem;
+        text-align: center;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        border: 1px solid #E2E8F0;
+    }
+
+    /* Academic footer */
+    .academic-footer {
+        margin-top: 3rem;
+        padding-top: 2rem;
+        border-top: 1px solid #E2E8F0;
+        font-size: 0.875rem;
+        color: var(--text-secondary);
+    }
+
+    /* Logo image styling */
+    .company-logo {
+        border-radius: 8px;
+        background: white;
+        padding: 8px;
+        box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+    }
+
+    /* Hide Streamlit branding */
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+</style>
+""", unsafe_allow_html=True)
+
 # Load data
 @st.cache_data
 def load_data():
-    """Load the merged Forbes 500 RTO data"""
-    data_path = Path(__file__).parent / "data" / "forbes500_rto_data.json"
+    """Load the enriched Forbes Top 100 Innovators data"""
+    data_path = Path(__file__).parent / "data" / "forbes500_rto_data_top100_enriched.json"
 
     with open(data_path, 'r', encoding='utf-8') as f:
         companies = json.load(f)
 
-    # Convert to DataFrame for easier manipulation
+    # Convert to DataFrame
     rows = []
     for company in companies:
         wp = company.get('work_policy', {})
+        innovation = company.get('innovation', {})
 
         # Safely convert days_required to int
         days_required = wp.get('days_required', 0)
@@ -38,6 +139,13 @@ def load_data():
             days_required = int(days_required) if days_required is not None else 0
         except (ValueError, TypeError):
             days_required = 0
+
+        # Safely convert employee_count
+        employee_count = company.get('employee_count', 0)
+        try:
+            employee_count = int(employee_count) if employee_count else 0
+        except (ValueError, TypeError):
+            employee_count = 0
 
         row = {
             'company': company.get('company', 'Unknown'),
@@ -51,20 +159,26 @@ def load_data():
             'details': wp.get('details', ''),
             'effective_date': wp.get('effective_date', 'N/A'),
             'trend_direction': wp.get('trend_direction', 'Unknown'),
+            'previous_policy': wp.get('previous_policy', 'N/A'),
             'verification_status': company.get('verification_status', 'Unknown'),
             'key_quote': company.get('key_quote', ''),
             'research_date': company.get('research_date', 'N/A'),
             'sources': company.get('sources', []),
-            'notes': company.get('notes', '')
+            'notes': company.get('notes', ''),
+            # Enriched data
+            'logo_url': company.get('logo_url', ''),
+            'headquarters': company.get('headquarters', 'Unknown'),
+            'industry_sector': company.get('industry_sector', 'Unknown'),
+            'employee_count': employee_count,
+            'innovation_overall': innovation.get('overall_rank', 0),
+            'innovation_culture': innovation.get('culture_rank', 0),
+            'innovation_process': innovation.get('process_rank', 0),
+            'innovation_product': innovation.get('product_rank', 0),
         }
         rows.append(row)
 
     df = pd.DataFrame(rows)
-
-    # Clean up "Unknown" companies
     df = df[df['company'] != 'Unknown']
-
-    # Ensure days_required is integer type
     df['days_required'] = df['days_required'].astype(int)
 
     return df, companies
@@ -72,62 +186,36 @@ def load_data():
 # Load data
 df, raw_data = load_data()
 
-# Title
-st.title("🏢 Forbes 500 Return-to-Office Dashboard")
-st.markdown("Interactive tracker of RTO policies across America's most innovative companies")
+# Header
+st.markdown('<p class="main-header">America\'s Top 100 Innovators</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-header">Work Policy Research Platform | Stanford LEAD - Critical Analytical Thinking</p>', unsafe_allow_html=True)
 
 # Sidebar filters
-st.sidebar.header("🔍 Filters")
+st.sidebar.header("Research Filters")
 
-# Search by company name
-search_query = st.sidebar.text_input("Search Company", "")
+# Search
+search_query = st.sidebar.text_input("Search Company", "", placeholder="Type company name...")
 
 # Sector filter
 all_sectors = sorted(df['sector'].unique())
-selected_sectors = st.sidebar.multiselect(
-    "Sectors",
-    options=all_sectors,
-    default=[]
-)
+selected_sectors = st.sidebar.multiselect("Sectors", options=all_sectors, default=[])
 
-# Category filter
-all_categories = sorted([cat for cat in df['category'].unique() if cat != 'Unknown'])
-selected_categories = st.sidebar.multiselect(
-    "Policy Category",
-    options=all_categories,
-    default=[]
-)
+# Policy category filter
+all_categories = sorted(df['category'].unique())
+selected_categories = st.sidebar.multiselect("Policy Category", options=all_categories, default=[])
 
-# Days required slider
-days_range = st.sidebar.slider(
-    "Days in Office Required",
-    min_value=0,
-    max_value=5,
-    value=(0, 5)
-)
+# Days required
+days_range = st.sidebar.slider("Days in Office Required", min_value=0, max_value=5, value=(0, 5))
 
-# Trend direction filter
-all_trends = sorted(df['trend_direction'].unique())
-selected_trends = st.sidebar.multiselect(
-    "Trend Direction",
-    options=all_trends,
-    default=[]
-)
-
-# Verification status filter
-verification_filter = st.sidebar.multiselect(
-    "Verification Status",
-    options=df['verification_status'].unique(),
-    default=[]
-)
+# Trend direction
+all_trends = sorted([t for t in df['trend_direction'].unique() if t and t != 'Unknown'])
+selected_trends = st.sidebar.multiselect("Policy Trend", options=all_trends, default=[])
 
 # Apply filters
 filtered_df = df.copy()
 
 if search_query:
-    filtered_df = filtered_df[
-        filtered_df['company'].str.contains(search_query, case=False, na=False)
-    ]
+    filtered_df = filtered_df[filtered_df['company'].str.contains(search_query, case=False, na=False)]
 
 if selected_sectors:
     filtered_df = filtered_df[filtered_df['sector'].isin(selected_sectors)]
@@ -143,200 +231,307 @@ filtered_df = filtered_df[
 if selected_trends:
     filtered_df = filtered_df[filtered_df['trend_direction'].isin(selected_trends)]
 
-if verification_filter:
-    filtered_df = filtered_df[filtered_df['verification_status'].isin(verification_filter)]
-
-# Main content
+# Key metrics
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
-    st.metric("Total Companies", len(filtered_df))
+    st.metric("Companies", len(filtered_df))
 
 with col2:
     avg_days = filtered_df['days_required'].mean()
-    st.metric("Avg Days in Office", f"{avg_days:.1f}")
+    st.metric("Avg. Days in Office", f"{avg_days:.1f}")
 
 with col3:
-    tightening = len(filtered_df[filtered_df['trend_direction'] == 'Tightening'])
-    st.metric("Tightening Policies", tightening)
+    total_employees = filtered_df['employee_count'].sum()
+    st.metric("Total Employees", f"{total_employees:,.0f}")
 
 with col4:
-    verified = len(filtered_df[filtered_df['verification_status'] == 'Verified'])
-    st.metric("Verified Policies", verified)
+    tightening = len(filtered_df[filtered_df['trend_direction'] == 'Tightening'])
+    pct = (tightening / len(filtered_df) * 100) if len(filtered_df) > 0 else 0
+    st.metric("Policies Tightening", f"{tightening} ({pct:.0f}%)")
 
 st.divider()
 
-# Tabs for different views
+# Main tabs
 tab1, tab2, tab3, tab4 = st.tabs([
     "📊 Overview",
-    "🏢 Company Explorer",
-    "📈 Trends",
-    "📋 Data Quality"
+    "🏢 Company Profiles",
+    "📈 Analytics",
+    "📚 About"
 ])
 
+# Tab 1: Overview
 with tab1:
-    st.header("Policy Distribution")
+    col_left, col_right = st.columns([1, 1])
 
-    col_chart1, col_chart2 = st.columns(2)
+    with col_left:
+        st.subheader("Policy Distribution")
 
-    with col_chart1:
-        # Category distribution pie chart
+        # Neutral color scheme for categories
+        color_map = {
+            'Hybrid': '#C4B5FD',      # Soft purple
+            'Full Office': '#FCD34D', # Soft amber
+            'Fully Remote': '#93C5FD', # Soft blue
+            'Unknown': '#E2E8F0'      # Gray
+        }
+
         category_counts = filtered_df['category'].value_counts()
         fig_pie = px.pie(
             values=category_counts.values,
             names=category_counts.index,
-            title="Distribution by Policy Category",
-            hole=0.4
+            hole=0.4,
+            color=category_counts.index,
+            color_discrete_map=color_map
+        )
+        fig_pie.update_traces(textposition='inside', textinfo='percent+label')
+        fig_pie.update_layout(
+            showlegend=False,
+            margin=dict(t=20, b=20, l=20, r=20)
         )
         st.plotly_chart(fig_pie, use_container_width=True)
 
-    with col_chart2:
-        # Days required distribution
+    with col_right:
+        st.subheader("Days Required Distribution")
+
         days_counts = filtered_df['days_required'].value_counts().sort_index()
         fig_bar = px.bar(
             x=days_counts.index,
             y=days_counts.values,
-            labels={'x': 'Days Required in Office', 'y': 'Number of Companies'},
-            title="Distribution by Days Required in Office"
+            labels={'x': 'Days per Week', 'y': 'Number of Companies'},
+            color_discrete_sequence=['#6366F1']
+        )
+        fig_bar.update_layout(
+            xaxis_title="Days Required in Office",
+            yaxis_title="Companies",
+            margin=dict(t=20, b=40, l=40, r=20)
         )
         st.plotly_chart(fig_bar, use_container_width=True)
 
     # Sector breakdown
-    st.subheader("Policy Categories by Sector")
-    sector_category = pd.crosstab(filtered_df['sector'], filtered_df['category'])
+    st.subheader("Policy Patterns by Sector")
 
+    sector_category = pd.crosstab(filtered_df['sector'], filtered_df['category'])
     fig_heatmap = px.imshow(
         sector_category,
         labels=dict(x="Policy Category", y="Sector", color="Count"),
         aspect="auto",
-        color_continuous_scale="Blues"
+        color_continuous_scale=["#F1F5F9", "#6366F1"]
     )
+    fig_heatmap.update_layout(margin=dict(t=20, b=20, l=20, r=20))
     st.plotly_chart(fig_heatmap, use_container_width=True)
 
+# Tab 2: Company Profiles
 with tab2:
-    st.header("Company Explorer")
-
-    # Display options
-    show_details = st.checkbox("Show full details", value=False)
+    st.subheader("Company Profiles")
 
     # Sort options
-    sort_by = st.selectbox(
-        "Sort by",
-        options=['company', 'rank', 'days_required', 'sector'],
-        index=0
-    )
+    sort_col1, sort_col2 = st.columns([1, 3])
+    with sort_col1:
+        sort_by = st.selectbox(
+            "Sort by",
+            options=['Innovation Rank', 'Company Name', 'Days Required', 'Employee Count'],
+            index=0
+        )
 
-    sorted_df = filtered_df.sort_values(by=sort_by)
+    # Map sort options to columns
+    sort_map = {
+        'Innovation Rank': 'innovation_overall',
+        'Company Name': 'company',
+        'Days Required': 'days_required',
+        'Employee Count': 'employee_count'
+    }
 
-    # Display companies
+    ascending = sort_by in ['Innovation Rank', 'Company Name']
+    sorted_df = filtered_df.sort_values(by=sort_map[sort_by], ascending=ascending)
+
+    # Display companies in a grid
     for idx, row in sorted_df.iterrows():
-        with st.expander(f"**{row['company']}** - {row['category']} ({row['days_required']} days)"):
-            col_info1, col_info2, col_info3 = st.columns(3)
+        with st.container():
+            col_logo, col_info, col_policy = st.columns([1, 2, 2])
 
-            with col_info1:
-                st.write(f"**Sector:** {row['sector']}")
-                st.write(f"**Rank:** {row['rank']}")
-                st.write(f"**Fortune 500:** #{row['fortune_500_rank']}")
+            with col_logo:
+                if row['logo_url']:
+                    st.image(row['logo_url'], width=80)
+                else:
+                    st.write("🏢")
+                st.caption(f"Rank #{row['innovation_overall']}")
 
-            with col_info2:
-                st.write(f"**Policy Type:** {row['policy_type']}")
-                st.write(f"**Days Required:** {row['days_required']}")
-                st.write(f"**Specific Days:** {row['specific_days']}")
+            with col_info:
+                st.markdown(f"**{row['company']}**")
+                st.caption(f"{row['industry_sector']}")
+                st.caption(f"📍 {row['headquarters']}")
+                if row['employee_count'] > 0:
+                    st.caption(f"👥 {row['employee_count']:,} employees")
 
-            with col_info3:
-                st.write(f"**Trend:** {row['trend_direction']}")
-                st.write(f"**Effective Date:** {row['effective_date']}")
-                st.write(f"**Verified:** {row['verification_status']}")
+            with col_policy:
+                # Policy badge
+                badge_class = 'badge-hybrid'
+                if 'Remote' in row['category']:
+                    badge_class = 'badge-remote'
+                elif 'Office' in row['category']:
+                    badge_class = 'badge-office'
 
-            if show_details:
-                st.divider()
-                st.write("**Policy Details:**")
-                st.write(row['details'])
+                st.markdown(f"**{row['policy_type']}**")
+                st.caption(f"{row['days_required']} days/week • {row['trend_direction']}")
 
-                if row['key_quote']:
-                    st.info(f"💬 *\"{row['key_quote']}\"*")
+                # Expander for details
+                with st.expander("View Details"):
+                    st.write(f"**Policy Details:** {row['details']}")
 
-                if row['notes']:
-                    st.write("**Notes:**")
-                    st.write(row['notes'])
+                    if row['key_quote']:
+                        st.markdown(f"""
+                        <div class="quote-box">
+                            "{row['key_quote']}"
+                        </div>
+                        """, unsafe_allow_html=True)
 
-                if row['sources']:
-                    st.write("**Sources:**")
-                    for source in row['sources']:
-                        reliability = source.get('reliability', 'Unknown')
-                        source_type = source.get('type', 'Unknown')
-                        url = source.get('url', '#')
-                        st.write(f"- [{source_type} - {reliability}]({url})")
+                    st.write(f"**Effective Date:** {row['effective_date']}")
+                    if row['previous_policy'] != 'N/A':
+                        st.write(f"**Previous Policy:** {row['previous_policy']}")
 
+                    # Innovation breakdown
+                    st.write("**Innovation Rankings:**")
+                    inno_col1, inno_col2, inno_col3 = st.columns(3)
+                    with inno_col1:
+                        st.metric("Culture", f"#{row['innovation_culture']}")
+                    with inno_col2:
+                        st.metric("Process", f"#{row['innovation_process']}")
+                    with inno_col3:
+                        st.metric("Product", f"#{row['innovation_product']}")
+
+                    # Sources
+                    if row['sources']:
+                        st.write("**Sources:**")
+                        for source in row['sources']:
+                            url = source.get('url', '#')
+                            source_type = source.get('type', 'Source')
+                            reliability = source.get('reliability', '')
+                            st.markdown(f"- [{source_type}]({url}) ({reliability})")
+
+            st.divider()
+
+# Tab 3: Analytics
 with tab3:
-    st.header("Trend Analysis")
+    st.subheader("Research Analytics")
 
-    # Trend direction breakdown
-    trend_counts = filtered_df['trend_direction'].value_counts()
+    col_ana1, col_ana2 = st.columns(2)
 
-    col_trend1, col_trend2 = st.columns(2)
+    with col_ana1:
+        # Innovation vs Days Required
+        st.write("**Innovation Rank vs. Days Required**")
+        fig_scatter = px.scatter(
+            filtered_df,
+            x='days_required',
+            y='innovation_overall',
+            size='employee_count',
+            hover_name='company',
+            color='sector',
+            labels={
+                'days_required': 'Days in Office',
+                'innovation_overall': 'Innovation Rank',
+                'employee_count': 'Employees'
+            },
+            color_discrete_sequence=px.colors.qualitative.Set2
+        )
+        fig_scatter.update_yaxes(autorange="reversed")  # Lower rank = better
+        fig_scatter.update_layout(margin=dict(t=20, b=40, l=40, r=20))
+        st.plotly_chart(fig_scatter, use_container_width=True)
 
-    with col_trend1:
+    with col_ana2:
+        # Trend direction
+        st.write("**Policy Trend Direction**")
+        trend_counts = filtered_df['trend_direction'].value_counts()
+
+        # Neutral colors for trends
+        trend_colors = {
+            'Tightening': '#F59E0B',
+            'Stable': '#6366F1',
+            'Maintaining': '#6366F1',
+            'Relaxing': '#10B981',
+            'Unknown': '#94A3B8'
+        }
+
         fig_trend = px.bar(
             x=trend_counts.index,
             y=trend_counts.values,
-            labels={'x': 'Trend Direction', 'y': 'Number of Companies'},
-            title="Policy Trend Direction",
             color=trend_counts.index,
-            color_discrete_map={
-                'Tightening': '#ff6b6b',
-                'Maintaining': '#ffd93d',
-                'Relaxing': '#6bcf7f'
-            }
+            color_discrete_map=trend_colors,
+            labels={'x': 'Trend', 'y': 'Companies'}
+        )
+        fig_trend.update_layout(
+            showlegend=False,
+            margin=dict(t=20, b=40, l=40, r=20)
         )
         st.plotly_chart(fig_trend, use_container_width=True)
 
-    with col_trend2:
-        # Trend by sector
-        sector_trend = pd.crosstab(filtered_df['sector'], filtered_df['trend_direction'])
-        fig_sector_trend = px.bar(
-            sector_trend,
-            title="Trends by Sector",
-            barmode='stack'
-        )
-        st.plotly_chart(fig_sector_trend, use_container_width=True)
-
-with tab4:
-    st.header("Data Quality Dashboard")
-
-    col_qual1, col_qual2 = st.columns(2)
-
-    with col_qual1:
-        # Verification status
-        verification_counts = df['verification_status'].value_counts()
-        fig_verify = px.pie(
-            values=verification_counts.values,
-            names=verification_counts.index,
-            title="Verification Status Distribution"
-        )
-        st.plotly_chart(fig_verify, use_container_width=True)
-
-    with col_qual2:
-        # Research date distribution
-        st.subheader("Research Timeline")
-        date_counts = df['research_date'].value_counts().sort_index()
-        fig_dates = px.bar(
-            x=date_counts.index,
-            y=date_counts.values,
-            labels={'x': 'Research Date', 'y': 'Companies Researched'},
-            title="Companies Researched by Date"
-        )
-        st.plotly_chart(fig_dates, use_container_width=True)
-
-    # Companies needing verification
-    st.subheader("Companies Needing Verification")
-    unverified = df[df['verification_status'] != 'Verified']
-    st.dataframe(
-        unverified[['company', 'sector', 'verification_status', 'research_date']],
-        use_container_width=True
+    # Sector analysis
+    st.write("**Average Days in Office by Sector**")
+    sector_avg = filtered_df.groupby('sector')['days_required'].mean().sort_values(ascending=True)
+    fig_sector = px.bar(
+        x=sector_avg.values,
+        y=sector_avg.index,
+        orientation='h',
+        labels={'x': 'Average Days Required', 'y': 'Sector'},
+        color_discrete_sequence=['#6366F1']
     )
+    fig_sector.update_layout(margin=dict(t=20, b=40, l=100, r=20))
+    st.plotly_chart(fig_sector, use_container_width=True)
+
+# Tab 4: About
+with tab4:
+    st.subheader("About This Research")
+
+    st.markdown("""
+    ### Research Context
+
+    This platform presents research on work policies across America's most innovative companies,
+    conducted as part of the **Critical Analytical Thinking** course at Stanford LEAD,
+    taught by Professor **Haim Mendelson**.
+
+    ### Methodology
+
+    Companies were selected based on their ranking in the 2024 Fortune Most Innovative Companies list.
+    Work policy data was collected through:
+
+    - **Official company announcements** (career pages, press releases, SEC filings)
+    - **Media reports** (verified news sources)
+    - **Employee sources** (Glassdoor, Blind, verified reviews)
+
+    Each entry includes source attribution and reliability ratings.
+
+    ### Data Quality
+
+    - **Verification Status**: Each policy is marked as Verified, Partially Verified, or Unverified
+    - **Source Reliability**: High, Medium, or Low based on source type
+    - **Research Date**: All data collected November 2025
+
+    ### Limitations
+
+    - Policies change frequently; some information may be outdated
+    - Remote work eligibility varies by role within companies
+    - Employee sentiment and actual enforcement may differ from official policy
+
+    ### Author
+
+    **Maximilian Daub**
+    Stanford LEAD Program
+    [LinkedIn](https://www.linkedin.com/in/maximilian-daub/)
+
+    ### Acknowledgments
+
+    Special thanks to Professor Haim Mendelson for guidance on this research project.
+
+    ---
+
+    *This research is presented for educational purposes. It does not constitute endorsement
+    or criticism of any company's work policies.*
+    """)
 
 # Footer
-st.divider()
-st.caption(f"📊 Data last updated: {df['research_date'].max()} | Total companies: {len(df)}")
-st.caption("🔬 Research methodology: Multi-source verification with official, media, and employee sources")
+st.markdown("""
+<div class="academic-footer">
+    <strong>America's Top 100 Innovators - Work Policy Research Platform</strong><br>
+    Stanford LEAD | Critical Analytical Thinking | November 2025<br>
+    Research by Maximilian Daub
+</div>
+""", unsafe_allow_html=True)

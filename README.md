@@ -1,95 +1,96 @@
-# Forbes 500 Return-to-Office Dashboard
+# America's Top 100 Innovators - Work Policy Research Platform
 
-Interactive dashboard tracking Return-to-Office (RTO) policies across America's most innovative companies.
+An academic research project examining return-to-office policies across America's most innovative companies.
+
+**Author**: Maximilian Daub
+**Course**: Critical Analytical Thinking (Stanford LEAD)
+**Professor**: Haim Mendelson
+
+## Overview
+
+This platform provides research-based insights into work policies at America's top 100 most innovative companies, as ranked by Fortune. The data includes:
+
+- **Policy Type**: Remote, Hybrid, or Full Office requirements
+- **Days Required**: Number of days per week in office
+- **Trend Direction**: Whether policies are tightening, stable, or relaxing
+- **Innovation Rankings**: Culture, Process, and Product innovation scores
+- **Company Metadata**: Headquarters, employee count, industry sector
 
 ## Features
 
-- **🔍 Search & Filter**: Find companies by name, sector, policy type, and more
-- **📊 Interactive Visualizations**: Charts and graphs showing policy distributions
-- **🏢 Company Explorer**: Detailed view of each company's RTO policy
-- **📈 Trend Analysis**: Track how policies are changing over time
-- **✅ Data Quality**: Verification status and source tracking
+- **Interactive Filters**: Search by company, sector, policy type, or trend
+- **Company Profiles**: Detailed view with logos, key quotes, and source citations
+- **Analytics Dashboard**: Visualizations showing policy patterns across sectors
+- **Academic Attribution**: Full methodology and limitations disclosure
 
-## Data Overview
+## Data
 
-Currently tracking **116 companies** with verified RTO policies including:
-- Policy type and category
-- Days required in office
-- Trend direction (Tightening, Maintaining, Relaxing)
-- Official sources and key quotes
-- Implementation dates
+Currently tracking **62 companies** with verified work policies and enriched metadata including:
+- Company logos (via Clearbit)
+- Headquarters locations
+- Employee counts
+- Innovation rankings (Culture, Process, Product)
+- Executive quotes on work policy rationale
+- Source citations with reliability ratings
 
 ## Running Locally
 
-1. Clone the repository:
 ```bash
+# Clone the repository
 git clone https://github.com/madakas/forbes500-rto-dashboard.git
 cd forbes500-rto-dashboard
-```
 
-2. Install dependencies:
-```bash
+# Install dependencies
 pip install -r requirements.txt
-```
 
-3. Run the Streamlit app:
-```bash
+# Run the app
 streamlit run app.py
 ```
 
-The app will open in your browser at `http://localhost:8501`
+The app will open at `http://localhost:8501`
 
 ## Deployment
 
-This app is designed to deploy seamlessly to [Streamlit Community Cloud](https://streamlit.io/cloud):
+Deployed on [Streamlit Community Cloud](https://streamlit.io/cloud).
 
-1. Push this repo to GitHub
-2. Sign in to Streamlit Community Cloud
-3. Deploy from your GitHub repository
-4. App goes live at `https://[your-app-name].streamlit.app`
+## Methodology
+
+Companies were selected based on the 2024 Fortune Most Innovative Companies list. Work policy data was collected through:
+
+1. **Official Sources**: Company career pages, press releases, SEC filings
+2. **Media Reports**: Verified news articles from major publications
+3. **Employee Sources**: Glassdoor, Blind, and verified employee reviews
+
+Each entry includes source attribution and reliability ratings (High, Medium, Low).
+
+## Limitations
+
+- Policies change frequently; some information may be outdated
+- Remote work eligibility varies by role within companies
+- Employee sentiment and actual enforcement may differ from official policy
+- Data represents a snapshot as of November 2025
 
 ## Project Structure
 
 ```
 forbes500-rto-dashboard/
-├── app.py                      # Main Streamlit application
+├── app.py                                    # Main Streamlit application
 ├── data/
-│   └── forbes500_rto_data.json # Consolidated research data
-├── utils/
-│   └── merge_data.py           # Script to merge research batches
-├── requirements.txt            # Python dependencies
-└── README.md                   # This file
+│   └── forbes500_rto_data_top100_enriched.json  # Research data
+├── requirements.txt                          # Python dependencies
+└── README.md
 ```
-
-## Data Schema
-
-Each company record includes:
-- Company name and rank
-- Sector and Fortune 500 ranking
-- Work policy details (type, category, days required)
-- Trend direction and effective dates
-- Verification status and sources
-- Key quotes and notes
-
-## Research Methodology
-
-Data collected through multi-source verification:
-- **Official sources**: Company announcements, career pages, policy documents
-- **Media sources**: News articles, industry reports
-- **Employee sources**: Reviews, forums, verified accounts
-
-Each entry includes source reliability ratings and verification status.
-
-## Contributing
-
-This is a research project tracking publicly available information about corporate RTO policies. Data is regularly updated as policies change.
 
 ## License
 
-Data for research and informational purposes.
+This research is presented for educational purposes as part of Stanford LEAD coursework. It does not constitute endorsement or criticism of any company's work policies.
+
+## Contact
+
+**Maximilian Daub**
+Stanford LEAD Program
+[LinkedIn](https://www.linkedin.com/in/maximilian-daub/)
 
 ---
 
-**Last Updated**: November 2025
-**Companies Tracked**: 116
-**Data Source**: Multi-source verification
+*Stanford LEAD | Critical Analytical Thinking | November 2025*
