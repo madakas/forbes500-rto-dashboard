@@ -433,32 +433,52 @@ with tab3:
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
-    # Header with clear button
-    col_header, col_clear = st.columns([4, 1])
-    with col_header:
+    # Two different layouts based on state
+    if not st.session_state.messages:
+        # EMPTY STATE: Centered layout with input in middle
+        st.markdown("")
+        st.markdown("")
         st.subheader("Research Assistant")
-    with col_clear:
-        if st.session_state.messages:
+        st.markdown("Ask questions about work policies across America's top innovators.")
+
+        # Input in the middle
+        prompt = st.chat_input("Ask about work policies...")
+
+        # Example queries below input
+        st.markdown("")
+        st.caption("**Try these queries:**")
+        col1, col2 = st.columns(2)
+        with col1:
+            st.caption("• Which tech companies are fully remote?")
+            st.caption("• Compare Google and Microsoft policies")
+        with col2:
+            st.caption("• Which companies are tightening RTO?")
+            st.caption("• Find 3-day hybrid companies")
+    else:
+        # CHAT STATE: Messages above, input at bottom
+        # Header with clear button
+        col_header, col_clear = st.columns([4, 1])
+        with col_header:
+            st.subheader("Research Assistant")
+        with col_clear:
             if st.button("Clear", type="secondary"):
                 st.session_state.messages = []
                 st.rerun()
 
-    # Chat messages container with fixed height
-    chat_container = st.container(height=450)
+        # Chat messages container with fixed height
+        chat_container = st.container(height=450)
 
-    with chat_container:
-        # Show example prompts only when no messages
-        if not st.session_state.messages:
-            st.markdown("Ask questions about work policies across America's top innovators.")
-            st.caption("Try: *Which tech companies are fully remote?* or *Compare Google and Microsoft policies*")
+        with chat_container:
+            # Display chat history
+            for message in st.session_state.messages:
+                with st.chat_message(message["role"]):
+                    st.markdown(message["content"])
 
-        # Display chat history
-        for message in st.session_state.messages:
-            with st.chat_message(message["role"]):
-                st.markdown(message["content"])
+        # Input at bottom
+        prompt = st.chat_input("Ask about work policies...")
 
-    # Chat input (automatically at bottom)
-    if prompt := st.chat_input("Ask about work policies..."):
+    # Handle the prompt (works for both states)
+    if prompt:
         # Add user message to history
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.chat_message("user"):
