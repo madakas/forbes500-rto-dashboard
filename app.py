@@ -272,6 +272,9 @@ with tab1:
             axis=1
         )
 
+        # Create placeholder for selected company profile (shows above map)
+        profile_placeholder = st.container()
+
         # Create Plotly scatter_mapbox
         fig = px.scatter_mapbox(
             map_df,
@@ -307,7 +310,7 @@ with tab1:
 
         fig.update_layout(
             margin=dict(l=0, r=0, t=0, b=0),
-            height=500,
+            height=400,
             legend=dict(
                 yanchor="top",
                 y=0.99,
@@ -327,65 +330,68 @@ with tab1:
 
         st.caption(f"Showing {len(map_df)} companies with headquarters locations")
 
-        # Handle click selection
+        # Handle click selection - show profile ABOVE map in placeholder
         if event and event.selection and event.selection.point_indices:
             selected_idx = event.selection.point_indices[0]
             selected_company = map_df.iloc[selected_idx]
 
-            st.divider()
-            st.subheader(f"Selected: {selected_company['company']}")
+            # Show selected company profile in placeholder (above map)
+            with profile_placeholder:
+                st.subheader(f"Selected: {selected_company['company']}")
 
-            # Display company profile
-            col_logo, col_info, col_policy = st.columns([1, 2, 2])
+                # Display company profile
+                col_logo, col_info, col_policy = st.columns([1, 2, 2])
 
-            with col_logo:
-                if selected_company['logo_url']:
-                    st.image(selected_company['logo_url'], width=100)
-                else:
-                    st.write("🏢")
-                st.metric("Innovation Rank", f"#{selected_company['innovation_overall']}")
+                with col_logo:
+                    if selected_company['logo_url']:
+                        st.image(selected_company['logo_url'], width=100)
+                    else:
+                        st.write("🏢")
+                    st.metric("Innovation Rank", f"#{selected_company['innovation_overall']}")
 
-            with col_info:
-                st.markdown(f"**{selected_company['company']}**")
-                st.write(f"**Industry:** {selected_company['industry_sector']}")
-                st.write(f"**📍 Location:** {selected_company['headquarters']}")
-                if selected_company['employee_count'] > 0:
-                    st.write(f"**👥 Employees:** {selected_company['employee_count']:,}")
+                with col_info:
+                    st.markdown(f"**{selected_company['company']}**")
+                    st.write(f"**Industry:** {selected_company['industry_sector']}")
+                    st.write(f"**📍 Location:** {selected_company['headquarters']}")
+                    if selected_company['employee_count'] > 0:
+                        st.write(f"**👥 Employees:** {selected_company['employee_count']:,}")
 
-            with col_policy:
-                st.markdown(f"**Policy:** {selected_company['policy_type']}")
-                st.write(f"**Days Required:** {selected_company['days_required']} per week")
-                st.write(f"**Trend:** {selected_company['trend_direction']}")
-                st.write(f"**Effective:** {selected_company['effective_date']}")
+                with col_policy:
+                    st.markdown(f"**Policy:** {selected_company['policy_type']}")
+                    st.write(f"**Days Required:** {selected_company['days_required']} per week")
+                    st.write(f"**Trend:** {selected_company['trend_direction']}")
+                    st.write(f"**Effective:** {selected_company['effective_date']}")
 
-            # Policy details
-            with st.expander("View Full Details"):
-                st.write(f"**Policy Details:** {selected_company['details']}")
+                # Policy details
+                with st.expander("View Full Details"):
+                    st.write(f"**Policy Details:** {selected_company['details']}")
 
-                if selected_company['key_quote']:
-                    st.info(f'"{selected_company["key_quote"]}"')
+                    if selected_company['key_quote']:
+                        st.info(f'"{selected_company["key_quote"]}"')
 
-                if selected_company['previous_policy'] != 'N/A':
-                    st.write(f"**Previous Policy:** {selected_company['previous_policy']}")
+                    if selected_company['previous_policy'] != 'N/A':
+                        st.write(f"**Previous Policy:** {selected_company['previous_policy']}")
 
-                # Innovation breakdown
-                st.write("**Innovation Rankings:**")
-                inno_col1, inno_col2, inno_col3 = st.columns(3)
-                with inno_col1:
-                    st.metric("Culture", f"#{selected_company['innovation_culture']}")
-                with inno_col2:
-                    st.metric("Process", f"#{selected_company['innovation_process']}")
-                with inno_col3:
-                    st.metric("Product", f"#{selected_company['innovation_product']}")
+                    # Innovation breakdown
+                    st.write("**Innovation Rankings:**")
+                    inno_col1, inno_col2, inno_col3 = st.columns(3)
+                    with inno_col1:
+                        st.metric("Culture", f"#{selected_company['innovation_culture']}")
+                    with inno_col2:
+                        st.metric("Process", f"#{selected_company['innovation_process']}")
+                    with inno_col3:
+                        st.metric("Product", f"#{selected_company['innovation_product']}")
 
-                # Sources
-                if selected_company['sources']:
-                    st.write("**Sources:**")
-                    for source in selected_company['sources']:
-                        url = source.get('url', '#')
-                        source_type = source.get('type', 'Source')
-                        reliability = source.get('reliability', '')
-                        st.markdown(f"- [{source_type}]({url}) ({reliability})")
+                    # Sources
+                    if selected_company['sources']:
+                        st.write("**Sources:**")
+                        for source in selected_company['sources']:
+                            url = source.get('url', '#')
+                            source_type = source.get('type', 'Source')
+                            reliability = source.get('reliability', '')
+                            st.markdown(f"- [{source_type}]({url}) ({reliability})")
+
+                st.divider()
     else:
         st.info("No companies with location data match your current filters.")
 
