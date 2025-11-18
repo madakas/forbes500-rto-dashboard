@@ -433,128 +433,80 @@ with tab3:
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
-    # Check for first interaction
-    user_just_asked = "initial_chat_question" in st.session_state and st.session_state.initial_chat_question
-    has_history = len(st.session_state.messages) > 0
-
-    # EMPTY STATE: Show initial UI then stop
-    if not user_just_asked and not has_history:
-        st.markdown("")
+    # Header with restart button (always show)
+    col_header, col_clear = st.columns([4, 1])
+    with col_header:
         st.subheader("Research Assistant")
+    with col_clear:
+        if st.session_state.messages:
+            if st.button("Restart", icon=":material/refresh:"):
+                st.session_state.messages = []
+                st.rerun()
+
+    # Chat input FIRST (renders at bottom)
+    user_message = st.chat_input("Ask about work policies...")
+
+    # Show intro text only when empty
+    if not st.session_state.messages and not user_message:
         st.markdown("Ask questions about work policies across America's top innovators.")
+        st.caption("Try: *Which tech companies are fully remote?* • *Compare Google and Microsoft* • *Who's tightening RTO?*")
 
-        # Initial input
-        st.chat_input("Ask about work policies...", key="initial_chat_question")
+    # Display chat history
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
 
-        # Example suggestions
-        st.markdown("")
-        st.caption("**Try these queries:**")
-        col1, col2 = st.columns(2)
-        with col1:
-            st.caption("• Which tech companies are fully remote?")
-            st.caption("• Compare Google and Microsoft policies")
-        with col2:
-            st.caption("• Which companies are tightening RTO?")
-            st.caption("• Find 3-day hybrid companies")
+    # Handle new message
+    if user_message:
+        # Display user message
+        with st.chat_message("user"):
+            st.markdown(user_message)
 
-    else:
-        # CHAT STATE: Input at bottom, messages above
-        # Header with restart button
-        title_row = st.container()
-        with title_row:
-            col_header, col_clear = st.columns([4, 1])
-            with col_header:
-                st.subheader("Research Assistant")
-            with col_clear:
-                def clear_chat():
-                    st.session_state.messages = []
-                    st.session_state.initial_chat_question = None
-                st.button("Restart", icon=":material/refresh:", on_click=clear_chat)
+        # Search for relevant companies
+        search_results = search_engine.search(user_message, top_k=5)
 
-        # Chat input (placed before messages so it renders at bottom)
-        prompt = st.chat_input("Ask a follow-up...")
-
-        # Get the initial question if just asked
-        if not prompt and user_just_asked:
-            prompt = st.session_state.initial_chat_question
-
-        # Display chat history
-        for message in st.session_state.messages:
-            with st.chat_message(message["role"]):
-                st.markdown(message["content"])
-
-        # Handle the prompt
-        if prompt:
-            # Add user message to history
-            st.session_state.messages.append({"role": "user", "content": prompt})
-            with st.chat_message("user"):
-                st.markdown(prompt)
-
-            # Search for relevant companies
-            search_results = search_engine.search(prompt, top_k=5)
-
+        # Generate and display assistant response
+        with st.chat_message("assistant"):
             if search_results:
-                # Format context
                 context = format_company_context(search_results)
 
-                # Generate response
-                with st.chat_message("assistant"):
-                    try:
-                        # Check for API key
-                        api_key = st.secrets.get("ANTHROPIC_API_KEY", None)
+                try:
+                    api_key = st.secrets.get("ANTHROPIC_API_KEY", None)
 
-                        if api_key:
-                            client = anthropic.Anthropic(api_key=api_key)
+                    if api_key:
+                        client = anthropic.Anthropic(api_key=api_key)
 
-                            # Streaming response
-                            with client.messages.stream(
-                                model="claude-sonnet-4-20250514",
-                                max_tokens=1024,
-                                system=create_system_prompt(),
-                                messages=[
-                                    {"role": "user", "content": generate_response_prompt(prompt, context)}
-                                ]
-                            ) as stream:
-                                response_placeholder = st.empty()
-                                assistant_message = ""
-                                for text in stream.text_stream:
-                                    assistant_message += text
-                                    response_placeholder.markdown(assistant_message + "▌")
-                                response_placeholder.markdown(assistant_message)
-                        else:
-                            # Fallback: Show search results without LLM
-                            companies_found = [r['company'].get('company', 'Unknown') for r in search_results]
-                            assistant_message = f"""I found {len(search_results)} relevant companies based on your query:
+                        # Streaming response
+                        with client.messages.stream(
+                            model="claude-sonnet-4-20250514",
+                            max_tokens=1024,
+                            system=create_system_prompt(),
+                            messages=[
+                                {"role": "user", "content": generate_response_prompt(user_message, context)}
+                            ]
+                        ) as stream:
+                            assistant_message = st.write_stream(stream.text_stream)
+                    else:
+                        # Fallback without API key
+                        companies_found = [r['company'].get('company', 'Unknown') for r in search_results]
+                        assistant_message = f"**Found {len(search_results)} companies:** {', '.join(companies_found)}\n\n"
+                        for result in search_results[:3]:
+                            company = result['company']
+                            wp = company.get('work_policy', {})
+                            assistant_message += f"**{company.get('company', 'Unknown')}** - {wp.get('type', 'Unknown')} ({wp.get('days_required', 'N/A')} days)\n\n"
+                        assistant_message += "\n*Add Anthropic API key for AI-generated insights.*"
+                        st.markdown(assistant_message)
 
-**Companies found:** {', '.join(companies_found)}
-
-To get AI-generated insights, please add your Anthropic API key to the app secrets.
-
-Here's a summary of what I found:
-
-"""
-                            for result in search_results[:3]:
-                                company = result['company']
-                                wp = company.get('work_policy', {})
-                                assistant_message += f"""
-**{company.get('company', 'Unknown')}**
-- Policy: {wp.get('type', 'Unknown')}
-- Days in office: {wp.get('days_required', 'N/A')}
-- Trend: {wp.get('trend_direction', 'Unknown')}
-"""
-                            st.markdown(assistant_message)
-
-                        st.session_state.messages.append({"role": "assistant", "content": assistant_message})
-
-                    except Exception as e:
-                        error_msg = f"Error generating response: {str(e)}"
-                        st.error(error_msg)
-                        st.session_state.messages.append({"role": "assistant", "content": error_msg})
+                except Exception as e:
+                    assistant_message = f"Error: {str(e)}"
+                    st.error(assistant_message)
             else:
-                no_results_msg = "I couldn't find any companies matching your query. Try rephrasing or asking about specific companies, sectors, or policy types."
-                with st.chat_message("assistant"):
-                    st.markdown(no_results_msg)
-                st.session_state.messages.append({"role": "assistant", "content": no_results_msg})
+                assistant_message = "I couldn't find matching companies. Try asking about specific companies, sectors, or policy types."
+                st.markdown(assistant_message)
+
+        # Add to history AFTER displaying
+        st.session_state.messages.append({"role": "user", "content": user_message})
+        st.session_state.messages.append({"role": "assistant", "content": assistant_message})
 
 # Tab 4: Analytics
 with tab4:
