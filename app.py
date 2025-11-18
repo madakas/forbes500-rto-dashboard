@@ -16,6 +16,8 @@ from pathlib import Path
 import plotly.express as px
 import plotly.graph_objects as go
 import pydeck as pdk
+import anthropic
+from utils.chatbot import CompanySearchEngine, format_company_context, create_system_prompt, generate_response_prompt
 
 # Page config
 st.set_page_config(
@@ -257,10 +259,11 @@ with col4:
 st.divider()
 
 # Main tabs
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
     "📊 Overview",
     "🗺️ Map",
     "🏢 Company Profiles",
+    "🤖 Assistant",
     "📈 Analytics",
     "📚 About"
 ])
@@ -499,8 +502,116 @@ with tab3:
 
             st.divider()
 
-# Tab 4: Analytics
+# Tab 4: AI Assistant
 with tab4:
+    st.subheader("Research Assistant")
+    st.markdown("Ask questions about work policies across America's top innovators.")
+
+    # Initialize search engine
+    @st.cache_resource
+    def get_search_engine():
+        return CompanySearchEngine(raw_data)
+
+    search_engine = get_search_engine()
+
+    # Initialize chat history
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
+
+    # Example queries
+    with st.expander("Example questions you can ask"):
+        st.markdown("""
+        - Which tech companies are fully remote?
+        - Find companies with 3-day hybrid policies
+        - Which companies are tightening their RTO policies?
+        - Compare Google and Microsoft work policies
+        - What do executives say about returning to office?
+        - Which companies in healthcare have flexible policies?
+        - Find companies headquartered in California with hybrid policies
+        """)
+
+    # Display chat history
+    for message in st.session_state.messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
+
+    # Chat input
+    if prompt := st.chat_input("Ask about work policies..."):
+        # Add user message to history
+        st.session_state.messages.append({"role": "user", "content": prompt})
+        with st.chat_message("user"):
+            st.markdown(prompt)
+
+        # Search for relevant companies
+        search_results = search_engine.search(prompt, top_k=5)
+
+        if search_results:
+            # Format context
+            context = format_company_context(search_results)
+
+            # Generate response
+            with st.chat_message("assistant"):
+                try:
+                    # Check for API key
+                    api_key = st.secrets.get("ANTHROPIC_API_KEY", None)
+
+                    if api_key:
+                        client = anthropic.Anthropic(api_key=api_key)
+
+                        with st.spinner("Thinking..."):
+                            response = client.messages.create(
+                                model="claude-sonnet-4-20250514",
+                                max_tokens=1024,
+                                system=create_system_prompt(),
+                                messages=[
+                                    {"role": "user", "content": generate_response_prompt(prompt, context)}
+                                ]
+                            )
+
+                        assistant_message = response.content[0].text
+                    else:
+                        # Fallback: Show search results without LLM
+                        companies_found = [r['company'].get('company', 'Unknown') for r in search_results]
+                        assistant_message = f"""I found {len(search_results)} relevant companies based on your query:
+
+**Companies found:** {', '.join(companies_found)}
+
+To get AI-generated insights, please add your Anthropic API key to the app secrets.
+
+Here's a summary of what I found:
+
+"""
+                        for result in search_results[:3]:
+                            company = result['company']
+                            wp = company.get('work_policy', {})
+                            assistant_message += f"""
+**{company.get('company', 'Unknown')}**
+- Policy: {wp.get('type', 'Unknown')}
+- Days in office: {wp.get('days_required', 'N/A')}
+- Trend: {wp.get('trend_direction', 'Unknown')}
+"""
+
+                    st.markdown(assistant_message)
+                    st.session_state.messages.append({"role": "assistant", "content": assistant_message})
+
+                except Exception as e:
+                    error_msg = f"Error generating response: {str(e)}"
+                    st.error(error_msg)
+                    st.session_state.messages.append({"role": "assistant", "content": error_msg})
+        else:
+            no_results_msg = "I couldn't find any companies matching your query. Try rephrasing or asking about specific companies, sectors, or policy types."
+            with st.chat_message("assistant"):
+                st.markdown(no_results_msg)
+            st.session_state.messages.append({"role": "assistant", "content": no_results_msg})
+
+    # Clear chat button
+    if st.session_state.messages:
+        if st.button("Clear conversation"):
+            st.session_state.messages = []
+            st.rerun()
+
+# Tab 5: Analytics
+with tab5:
     st.subheader("Research Analytics")
 
     col_ana1, col_ana2 = st.columns(2)
@@ -566,8 +677,8 @@ with tab4:
     fig_sector.update_layout(margin=dict(t=20, b=40, l=100, r=20))
     st.plotly_chart(fig_sector, use_container_width=True)
 
-# Tab 5: About
-with tab5:
+# Tab 6: About
+with tab6:
     st.subheader("About This Research")
 
     st.markdown("""
