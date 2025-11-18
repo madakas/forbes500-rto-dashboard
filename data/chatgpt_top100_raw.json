@@ -1,0 +1,995 @@
+[
+  {
+    "Rank": 1,
+    "Name": "Alphabet",
+    "Culture rank": 6,
+    "Process rank": 6,
+    "Product rank": 1,
+    "Fortune 500 rank": 8,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/abc.xyz"
+  },
+  {
+    "Rank": 2,
+    "Name": "Microsoft",
+    "Culture rank": 10,
+    "Process rank": 11,
+    "Product rank": 3,
+    "Fortune 500 rank": 13,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/microsoft.com"
+  },
+  {
+    "Rank": 3,
+    "Name": "Apple",
+    "Culture rank": 25,
+    "Process rank": 9,
+    "Product rank": 2,
+    "Fortune 500 rank": 3,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/apple.com"
+  },
+  {
+    "Rank": 4,
+    "Name": "IBM",
+    "Culture rank": 14,
+    "Process rank": 15,
+    "Product rank": 4,
+    "Fortune 500 rank": 63,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/ibm.com"
+  },
+  {
+    "Rank": 5,
+    "Name": "Salesforce",
+    "Culture rank": 8,
+    "Process rank": 7,
+    "Product rank": 22,
+    "Fortune 500 rank": 123,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/salesforce.com"
+  },
+  {
+    "Rank": 6,
+    "Name": "Oracle",
+    "Culture rank": 48,
+    "Process rank": 12,
+    "Product rank": 7,
+    "Fortune 500 rank": 89,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/oracle.com"
+  },
+  {
+    "Rank": 7,
+    "Name": "Amazon",
+    "Culture rank": 56,
+    "Process rank": 14,
+    "Product rank": 5,
+    "Fortune 500 rank": 2,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/amazon.com"
+  },
+  {
+    "Rank": 8,
+    "Name": "Nike",
+    "Culture rank": 22,
+    "Process rank": 35,
+    "Product rank": 8,
+    "Fortune 500 rank": 88,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/nike.com"
+  },
+  {
+    "Rank": 9,
+    "Name": "Adobe",
+    "Culture rank": 17,
+    "Process rank": 16,
+    "Product rank": 27,
+    "Fortune 500 rank": 210,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/adobe.com"
+  },
+  {
+    "Rank": 10,
+    "Name": "Cisco Systems",
+    "Culture rank": 19,
+    "Process rank": 21,
+    "Product rank": 20,
+    "Fortune 500 rank": 74,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/cisco.com"
+  },
+  {
+    "Rank": 11,
+    "Name": "Tesla",
+    "Culture rank": 1,
+    "Process rank": 1,
+    "Product rank": 54,
+    "Fortune 500 rank": 50,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/tesla.com"
+  },
+  {
+    "Rank": 12,
+    "Name": "Intel",
+    "Culture rank": 7,
+    "Process rank": 2,
+    "Product rank": 47,
+    "Fortune 500 rank": 45,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/intel.com"
+  },
+  {
+    "Rank": 13,
+    "Name": "Johnson & Johnson",
+    "Culture rank": 12,
+    "Process rank": 8,
+    "Product rank": 72,
+    "Fortune 500 rank": 36,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/jnj.com"
+  },
+  {
+    "Rank": 14,
+    "Name": "Dell Technologies",
+    "Culture rank": 9,
+    "Process rank": 13,
+    "Product rank": 58,
+    "Fortune 500 rank": 28,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/dell.com"
+  },
+  {
+    "Rank": 15,
+    "Name": "3M",
+    "Culture rank": 18,
+    "Process rank": 5,
+    "Product rank": 69,
+    "Fortune 500 rank": 102,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/3m.com"
+  },
+  {
+    "Rank": 16,
+    "Name": "Comcast",
+    "Culture rank": 27,
+    "Process rank": 18,
+    "Product rank": 61,
+    "Fortune 500 rank": 32,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/comcast.com"
+  },
+  {
+    "Rank": 17,
+    "Name": "JPMorgan Chase",
+    "Culture rank": 53,
+    "Process rank": 20,
+    "Product rank": 10,
+    "Fortune 500 rank": 17,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/jpmorganchase.com"
+  },
+  {
+    "Rank": 18,
+    "Name": "Nvidia",
+    "Culture rank": 16,
+    "Process rank": 4,
+    "Product rank": 57,
+    "Fortune 500 rank": 182,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/nvidia.com"
+  },
+  {
+    "Rank": 19,
+    "Name": "Qualcomm",
+    "Culture rank": 24,
+    "Process rank": 3,
+    "Product rank": 63,
+    "Fortune 500 rank": 109,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/qualcomm.com"
+  },
+  {
+    "Rank": 20,
+    "Name": "Boston Scientific",
+    "Culture rank": 4,
+    "Process rank": 38,
+    "Product rank": 83,
+    "Fortune 500 rank": 299,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/bostonscientific.com"
+  },
+  {
+    "Rank": 21,
+    "Name": "Verizon Communications",
+    "Culture rank": 34,
+    "Process rank": 50,
+    "Product rank": 9,
+    "Fortune 500 rank": 23,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/verizon.com"
+  },
+  {
+    "Rank": 22,
+    "Name": "Procter & Gamble",
+    "Culture rank": 13,
+    "Process rank": 31,
+    "Product rank": 53,
+    "Fortune 500 rank": 22,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/pg.com"
+  },
+  {
+    "Rank": 23,
+    "Name": "Bank of America",
+    "Culture rank": 54,
+    "Process rank": 19,
+    "Product rank": 13,
+    "Fortune 500 rank": 25,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/bankofamerica.com"
+  },
+  {
+    "Rank": 24,
+    "Name": "Emerson Electric",
+    "Culture rank": 3,
+    "Process rank": 71,
+    "Product rank": 77,
+    "Fortune 500 rank": 181,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/emerson.com"
+  },
+  {
+    "Rank": 25,
+    "Name": "Thermo Fisher Scientific",
+    "Culture rank": 45,
+    "Process rank": 40,
+    "Product rank": 18,
+    "Fortune 500 rank": 99,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/thermofisher.com"
+  },
+  {
+    "Rank": 26,
+    "Name": "Abbott Laboratories",
+    "Culture rank": 28,
+    "Process rank": 48,
+    "Product rank": 24,
+    "Fortune 500 rank": 89,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/abbott.com"
+  },
+  {
+    "Rank": 27,
+    "Name": "AbbVie",
+    "Culture rank": 57,
+    "Process rank": 42,
+    "Product rank": 6,
+    "Fortune 500 rank": 63,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/abbvie.com"
+  },
+  {
+    "Rank": 28,
+    "Name": "Cummins",
+    "Culture rank": 30,
+    "Process rank": 41,
+    "Product rank": 14,
+    "Fortune 500 rank": 150,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/cummins.com"
+  },
+  {
+    "Rank": 29,
+    "Name": "HP",
+    "Culture rank": 44,
+    "Process rank": 39,
+    "Product rank": 11,
+    "Fortune 500 rank": 61,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/hp.com"
+  },
+  {
+    "Rank": 30,
+    "Name": "Pfizer",
+    "Culture rank": 36,
+    "Process rank": 22,
+    "Product rank": 19,
+    "Fortune 500 rank": 43,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/pfizer.com"
+  },
+  {
+    "Rank": 31,
+    "Name": "American Express",
+    "Culture rank": 52,
+    "Process rank": 37,
+    "Product rank": 12,
+    "Fortune 500 rank": 85,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/americanexpress.com"
+  },
+  {
+    "Rank": 32,
+    "Name": "Advanced Micro Devices",
+    "Culture rank": 46,
+    "Process rank": 17,
+    "Product rank": 30,
+    "Fortune 500 rank": 284,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/amd.com"
+  },
+  {
+    "Rank": 33,
+    "Name": "Walt Disney",
+    "Culture rank": 20,
+    "Process rank": 46,
+    "Product rank": 21,
+    "Fortune 500 rank": 53,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/disney.com"
+  },
+  {
+    "Rank": 34,
+    "Name": "PayPal Holdings",
+    "Culture rank": 50,
+    "Process rank": 27,
+    "Product rank": 15,
+    "Fortune 500 rank": 144,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/paypal.com"
+  },
+  {
+    "Rank": 35,
+    "Name": "Houston Methodist",
+    "Culture rank": 2,
+    "Process rank": 61,
+    "Product rank": 106,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/houstonmethodist.org"
+  },
+  {
+    "Rank": 36,
+    "Name": "Corning",
+    "Culture rank": 37,
+    "Process rank": 36,
+    "Product rank": 17,
+    "Fortune 500 rank": 294,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/corning.com"
+  },
+  {
+    "Rank": 37,
+    "Name": "AT&T",
+    "Culture rank": 80,
+    "Process rank": 26,
+    "Product rank": 16,
+    "Fortune 500 rank": 13,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/att.com"
+  },
+  {
+    "Rank": 38,
+    "Name": "Lockheed Martin",
+    "Culture rank": 49,
+    "Process rank": 33,
+    "Product rank": 28,
+    "Fortune 500 rank": 60,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/lockheedmartin.com"
+  },
+  {
+    "Rank": 39,
+    "Name": "Mayo Clinic",
+    "Culture rank": 5,
+    "Process rank": 60,
+    "Product rank": 86,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/mayoclinic.org"
+  },
+  {
+    "Rank": 40,
+    "Name": "Northrop Grumman",
+    "Culture rank": 35,
+    "Process rank": 52,
+    "Product rank": 34,
+    "Fortune 500 rank": 101,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/northropgrumman.com"
+  },
+  {
+    "Rank": 41,
+    "Name": "Air Products & Chemicals",
+    "Culture rank": 64,
+    "Process rank": 29,
+    "Product rank": 29,
+    "Fortune 500 rank": 291,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/airproducts.com"
+  },
+  {
+    "Rank": 42,
+    "Name": "PepsiCo",
+    "Culture rank": 39,
+    "Process rank": 32,
+    "Product rank": 37,
+    "Fortune 500 rank": 45,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/pepsico.com"
+  },
+  {
+    "Rank": 43,
+    "Name": "Microchip Technology",
+    "Culture rank": 40,
+    "Process rank": 34,
+    "Product rank": 32,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/microchip.com"
+  },
+  {
+    "Rank": 44,
+    "Name": "Mass General Brigham",
+    "Culture rank": 15,
+    "Process rank": 55,
+    "Product rank": 89,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/massgeneralbrigham.org"
+  },
+  {
+    "Rank": 45,
+    "Name": "Coca-Cola",
+    "Culture rank": 43,
+    "Process rank": 66,
+    "Product rank": 23,
+    "Fortune 500 rank": 93,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/coca-colacompany.com"
+  },
+  {
+    "Rank": 46,
+    "Name": "State Farm Insurance",
+    "Culture rank": 81,
+    "Process rank": 23,
+    "Product rank": 31,
+    "Fortune 500 rank": 42,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/statefarm.com"
+  },
+  {
+    "Rank": 47,
+    "Name": "Motorola Solutions",
+    "Culture rank": 29,
+    "Process rank": 68,
+    "Product rank": 36,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/motorolasolutions.com"
+  },
+  {
+    "Rank": 48,
+    "Name": "Fidelity Investments",
+    "Culture rank": 47,
+    "Process rank": 43,
+    "Product rank": 41,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/fidelity.com"
+  },
+  {
+    "Rank": 49,
+    "Name": "Dash Solutions",
+    "Culture rank": 21,
+    "Process rank": 74,
+    "Product rank": 40,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/dashsolutions.com"
+  },
+  {
+    "Rank": 50,
+    "Name": "Visa",
+    "Culture rank": 23,
+    "Process rank": 24,
+    "Product rank": 46,
+    "Fortune 500 rank": 144,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/visa.com"
+  },
+  {
+    "Rank": 51,
+    "Name": "Cardinal Health",
+    "Culture rank": 62,
+    "Process rank": 44,
+    "Product rank": 33,
+    "Fortune 500 rank": 15,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/cardinalhealth.com"
+  },
+  {
+    "Rank": 52,
+    "Name": "SpaceX",
+    "Culture rank": 58,
+    "Process rank": 10,
+    "Product rank": 67,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/spacex.com"
+  },
+  {
+    "Rank": 53,
+    "Name": "Under Armour",
+    "Culture rank": 76,
+    "Process rank": 30,
+    "Product rank": 25,
+    "Fortune 500 rank": null,
+    "logo_url": "https://logo.clearbit.com/underarmour.com"
+  },
+  {
+    "Rank": 54,
+    "Name": "Exxon Mobil",
+    "Culture rank": 61,
+    "Process rank": 45,
+    "Product rank": 26,
+    "Fortune 500 rank": 6,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/exxonmobil.com"
+  },
+  {
+    "Rank": 55,
+    "Name": "Cargill",
+    "Culture rank": 63,
+    "Process rank": 69,
+    "Product rank": 35,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/cargill.com"
+  },
+  {
+    "Rank": 56,
+    "Name": "Leidos Holdings",
+    "Culture rank": 66,
+    "Process rank": 56,
+    "Product rank": 38,
+    "Fortune 500 rank": 311,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/leidos.com"
+  },
+  {
+    "Rank": 57,
+    "Name": "General Dynamics",
+    "Culture rank": 88,
+    "Process rank": 25,
+    "Product rank": 43,
+    "Fortune 500 rank": 90,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/gd.com"
+  },
+  {
+    "Rank": 58,
+    "Name": "WisdomTree",
+    "Culture rank": 33,
+    "Process rank": 80,
+    "Product rank": 52,
+    "Fortune 500 rank": null,
+    "logo_url": "https://logo.clearbit.com/wisdomtree.com"
+  },
+  {
+    "Rank": 59,
+    "Name": "Texas Instruments",
+    "Culture rank": 38,
+    "Process rank": 47,
+    "Product rank": 44,
+    "Fortune 500 rank": 233,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/ti.com"
+  },
+  {
+    "Rank": 60,
+    "Name": "Rockwell Automation",
+    "Culture rank": 60,
+    "Process rank": 51,
+    "Product rank": 39,
+    "Fortune 500 rank": null,
+    "logo_url": "https://logo.clearbit.com/rockwellautomation.com"
+  },
+  {
+    "Rank": 61,
+    "Name": "Booz Allen Hamilton Holding",
+    "Culture rank": 82,
+    "Process rank": 49,
+    "Product rank": 42,
+    "Fortune 500 rank": null,
+    "logo_url": "https://logo.clearbit.com/boozallen.com"
+  },
+  {
+    "Rank": 62,
+    "Name": "Allstate",
+    "Culture rank": 69,
+    "Process rank": 53,
+    "Product rank": 45,
+    "Fortune 500 rank": 84,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/allstate.com"
+  },
+  {
+    "Rank": 63,
+    "Name": "Ebay",
+    "Culture rank": 42,
+    "Process rank": 82,
+    "Product rank": 56,
+    "Fortune 500 rank": 300,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/ebay.com"
+  },
+  {
+    "Rank": 64,
+    "Name": "Cleveland Clinic",
+    "Culture rank": 11,
+    "Process rank": 96,
+    "Product rank": 97,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/clevelandclinic.org"
+  },
+  {
+    "Rank": 65,
+    "Name": "Netflix",
+    "Culture rank": 26,
+    "Process rank": 62,
+    "Product rank": 66,
+    "Fortune 500 rank": 115,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/netflix.com"
+  },
+  {
+    "Rank": 66,
+    "Name": "Duke University Health System",
+    "Culture rank": 26,
+    "Process rank": 79,
+    "Product rank": 91,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/dukehealth.org"
+  },
+  {
+    "Rank": 67,
+    "Name": "Citigroup",
+    "Culture rank": 86,
+    "Process rank": 54,
+    "Product rank": 49,
+    "Fortune 500 rank": 33,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/citi.com"
+  },
+  {
+    "Rank": 68,
+    "Name": "MicroStrategy",
+    "Culture rank": 74,
+    "Process rank": 58,
+    "Product rank": 48,
+    "Fortune 500 rank": null,
+    "logo_url": "https://logo.clearbit.com/microstrategy.com"
+  },
+  {
+    "Rank": 69,
+    "Name": "Intuit",
+    "Culture rank": 31,
+    "Process rank": 70,
+    "Product rank": 64,
+    "Fortune 500 rank": 445,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/intuit.com"
+  },
+  {
+    "Rank": 70,
+    "Name": "Becton Dickinson",
+    "Culture rank": 79,
+    "Process rank": 59,
+    "Product rank": 51,
+    "Fortune 500 rank": 221,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/bd.com"
+  },
+  {
+    "Rank": 71,
+    "Name": "PNC Financial Services Group",
+    "Culture rank": 71,
+    "Process rank": 67,
+    "Product rank": 50,
+    "Fortune 500 rank": 120,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/pnc.com"
+  },
+  {
+    "Rank": 72,
+    "Name": "Children's Healthcare of Atlanta",
+    "Culture rank": 8,
+    "Process rank": 89,
+    "Product rank": 114,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/choa.org"
+  },
+  {
+    "Rank": 73,
+    "Name": "Ashley Furniture Industries",
+    "Culture rank": 55,
+    "Process rank": 72,
+    "Product rank": 60,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/ashleyfurniture.com"
+  },
+  {
+    "Rank": 74,
+    "Name": "AH Group",
+    "Culture rank": 32,
+    "Process rank": 73,
+    "Product rank": 62,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/ahgroupna.com"
+  },
+  {
+    "Rank": 75,
+    "Name": "Omnidian",
+    "Culture rank": 59,
+    "Process rank": 57,
+    "Product rank": 65,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/omnidian.com"
+  },
+  {
+    "Rank": 76,
+    "Name": "General Mills",
+    "Culture rank": 65,
+    "Process rank": 64,
+    "Product rank": 55,
+    "Fortune 500 rank": 216,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/generalmills.com"
+  },
+  {
+    "Rank": 77,
+    "Name": "Hartford Insurance Group",
+    "Culture rank": 67,
+    "Process rank": 63,
+    "Product rank": 68,
+    "Fortune 500 rank": 142,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/thehartford.com"
+  },
+  {
+    "Rank": 78,
+    "Name": "UnitedHealth Group",
+    "Culture rank": 77,
+    "Process rank": 76,
+    "Product rank": 59,
+    "Fortune 500 rank": 5,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/unitedhealthgroup.com"
+  },
+  {
+    "Rank": 79,
+    "Name": "Assurant",
+    "Culture rank": 75,
+    "Process rank": 75,
+    "Product rank": 70,
+    "Fortune 500 rank": 315,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/assurant.com"
+  },
+  {
+    "Rank": 80,
+    "Name": "Walmart",
+    "Culture rank": 90,
+    "Process rank": 65,
+    "Product rank": 71,
+    "Fortune 500 rank": 1,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/walmart.com"
+  },
+  {
+    "Rank": 81,
+    "Name": "Best Buy",
+    "Culture rank": 94,
+    "Process rank": 78,
+    "Product rank": 74,
+    "Fortune 500 rank": 75,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/bestbuy.com"
+  },
+  {
+    "Rank": 82,
+    "Name": "Target",
+    "Culture rank": 84,
+    "Process rank": 83,
+    "Product rank": 73,
+    "Fortune 500 rank": 32,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/target.com"
+  },
+  {
+    "Rank": 83,
+    "Name": "Charter Communications",
+    "Culture rank": 83,
+    "Process rank": 84,
+    "Product rank": 75,
+    "Fortune 500 rank": 70,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/charter.com"
+  },
+  {
+    "Rank": 84,
+    "Name": "Humana",
+    "Culture rank": 41,
+    "Process rank": 88,
+    "Product rank": 85,
+    "Fortune 500 rank": 73,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/humana.com"
+  },
+  {
+    "Rank": 85,
+    "Name": "Cigna",
+    "Culture rank": 68,
+    "Process rank": 85,
+    "Product rank": 78,
+    "Fortune 500 rank": 37,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/cigna.com"
+  },
+  {
+    "Rank": 86,
+    "Name": "FedEx",
+    "Culture rank": 85,
+    "Process rank": 81,
+    "Product rank": 76,
+    "Fortune 500 rank": 44,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/fedex.com"
+  },
+  {
+    "Rank": 87,
+    "Name": "Starbucks",
+    "Culture rank": 87,
+    "Process rank": 90,
+    "Product rank": 80,
+    "Fortune 500 rank": 120,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/starbucks.com"
+  },
+  {
+    "Rank": 88,
+    "Name": "WVU Medicine",
+    "Culture rank": 41,
+    "Process rank": 92,
+    "Product rank": 99,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/wvumedicine.org"
+  },
+  {
+    "Rank": 89,
+    "Name": "Charles Schwab",
+    "Culture rank": 89,
+    "Process rank": 77,
+    "Product rank": 81,
+    "Fortune 500 rank": 99,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/schwab.com"
+  },
+  {
+    "Rank": 90,
+    "Name": "Labcorp Holdings",
+    "Culture rank": 73,
+    "Process rank": 86,
+    "Product rank": 79,
+    "Fortune 500 rank": null,
+    "logo_url": "https://logo.clearbit.com/labcorp.com"
+  },
+  {
+    "Rank": 91,
+    "Name": "McKesson",
+    "Culture rank": 91,
+    "Process rank": 91,
+    "Product rank": 82,
+    "Fortune 500 rank": 9,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/mckesson.com"
+  },
+  {
+    "Rank": 92,
+    "Name": "Duke Energy",
+    "Culture rank": 78,
+    "Process rank": 95,
+    "Product rank": 90,
+    "Fortune 500 rank": 104,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/duke-energy.com"
+  },
+  {
+    "Rank": 93,
+    "Name": "Liberty Mutual Insurance Group",
+    "Culture rank": 72,
+    "Process rank": 87,
+    "Product rank": 88,
+    "Fortune 500 rank": 86,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/libertymutual.com"
+  },
+  {
+    "Rank": 94,
+    "Name": "Kansas Health System",
+    "Culture rank": 51,
+    "Process rank": 94,
+    "Product rank": 95,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/kansashealthsystem.com"
+  },
+  {
+    "Rank": 95,
+    "Name": "Stanley Black & Decker",
+    "Culture rank": 93,
+    "Process rank": 86,
+    "Product rank": 84,
+    "Fortune 500 rank": 244,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/stanleyblackanddecker.com"
+  },
+  {
+    "Rank": 96,
+    "Name": "Morgan Stanley",
+    "Culture rank": 70,
+    "Process rank": 98,
+    "Product rank": 92,
+    "Fortune 500 rank": 61,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/morganstanley.com"
+  },
+  {
+    "Rank": 97,
+    "Name": "Zillow Group",
+    "Culture rank": 92,
+    "Process rank": 93,
+    "Product rank": 94,
+    "Fortune 500 rank": null,
+    "logo_url": "https://logo.clearbit.com/zillowgroup.com"
+  },
+  {
+    "Rank": 98,
+    "Name": "Cognizant Technology Solutions",
+    "Culture rank": 95,
+    "Process rank": 97,
+    "Product rank": 87,
+    "Fortune 500 rank": 194,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/cognizant.com"
+  },
+  {
+    "Rank": 99,
+    "Name": "Goldman Sachs Group",
+    "Culture rank": 96,
+    "Process rank": 99,
+    "Product rank": 93,
+    "Fortune 500 rank": 62,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/goldmansachs.com"
+  },
+  {
+    "Rank": 100,
+    "Name": "Byrne Software Technologies",
+    "Culture rank": 97,
+    "Process rank": 100,
+    "Product rank": 96,
+    "Fortune 500 rank": null,
+    "Working Model": null,
+    "logo_url": "https://logo.clearbit.com/byrnesoftware.com"
+  }
+]

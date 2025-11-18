@@ -1,0 +1,268 @@
+[
+  {
+    "rank": 3,
+    "name": "Apple",
+    "culture_rank": 25,
+    "process_rank": 9,
+    "product_rank": 2
+  },
+  {
+    "rank": 4,
+    "name": "IBM",
+    "culture_rank": 14,
+    "process_rank": 15,
+    "product_rank": 4
+  },
+  {
+    "rank": 5,
+    "name": "Salesforce",
+    "culture_rank": 8,
+    "process_rank": 7,
+    "product_rank": 22
+  },
+  {
+    "rank": 6,
+    "name": "Oracle",
+    "culture_rank": 48,
+    "process_rank": 12,
+    "product_rank": 7
+  },
+  {
+    "rank": 9,
+    "name": "Adobe",
+    "culture_rank": 17,
+    "process_rank": 16,
+    "product_rank": 27
+  },
+  {
+    "rank": 10,
+    "name": "Cisco Systems",
+    "culture_rank": 19,
+    "process_rank": 21,
+    "product_rank": 20
+  },
+  {
+    "rank": 12,
+    "name": "Intel",
+    "culture_rank": 7,
+    "process_rank": 2,
+    "product_rank": 47
+  },
+  {
+    "rank": 13,
+    "name": "Johnson & Johnson",
+    "culture_rank": 12,
+    "process_rank": 8,
+    "product_rank": 72
+  },
+  {
+    "rank": 14,
+    "name": "Dell Technologies",
+    "culture_rank": 9,
+    "process_rank": 13,
+    "product_rank": 58
+  },
+  {
+    "rank": 15,
+    "name": "3M",
+    "culture_rank": 18,
+    "process_rank": 5,
+    "product_rank": 69
+  },
+  {
+    "rank": 23,
+    "name": "Bank of America",
+    "culture_rank": 54,
+    "process_rank": 19,
+    "product_rank": 13
+  },
+  {
+    "rank": 24,
+    "name": "Emerson Electric",
+    "culture_rank": 3,
+    "process_rank": 71,
+    "product_rank": 77
+  },
+  {
+    "rank": 25,
+    "name": "Thermo Fisher Scientific",
+    "culture_rank": 45,
+    "process_rank": 40,
+    "product_rank": 18
+  },
+  {
+    "rank": 26,
+    "name": "Abbott Laboratories",
+    "culture_rank": 28,
+    "process_rank": 48,
+    "product_rank": 24
+  },
+  {
+    "rank": 27,
+    "name": "AbbVie",
+    "culture_rank": 57,
+    "process_rank": 42,
+    "product_rank": 6
+  },
+  {
+    "rank": 54,
+    "name": "Exxon Mobil",
+    "culture_rank": 61,
+    "process_rank": 45,
+    "product_rank": 26
+  },
+  {
+    "rank": 55,
+    "name": "Cargill",
+    "culture_rank": 63,
+    "process_rank": 69,
+    "product_rank": 35
+  },
+  {
+    "rank": 56,
+    "name": "Leidos Holdings",
+    "culture_rank": 66,
+    "process_rank": 56,
+    "product_rank": 38
+  },
+  {
+    "rank": 57,
+    "name": "General Dynamics",
+    "culture_rank": 88,
+    "process_rank": 25,
+    "product_rank": 43
+  },
+  {
+    "rank": 58,
+    "name": "WisdomTree",
+    "culture_rank": 33,
+    "process_rank": 80,
+    "product_rank": 52
+  },
+  {
+    "rank": 66,
+    "name": "Duke University Health System",
+    "culture_rank": 26,
+    "process_rank": 79,
+    "product_rank": 91
+  },
+  {
+    "rank": 67,
+    "name": "Citigroup",
+    "culture_rank": 86,
+    "process_rank": 54,
+    "product_rank": 49
+  },
+  {
+    "rank": 68,
+    "name": "MicroStrategy",
+    "culture_rank": 74,
+    "process_rank": 58,
+    "product_rank": 48
+  },
+  {
+    "rank": 70,
+    "name": "Becton Dickinson",
+    "culture_rank": 79,
+    "process_rank": 59,
+    "product_rank": 51
+  },
+  {
+    "rank": 71,
+    "name": "PNC Financial Services Group",
+    "culture_rank": 71,
+    "process_rank": 67,
+    "product_rank": 50
+  },
+  {
+    "rank": 72,
+    "name": "Children's Healthcare of Atlanta",
+    "culture_rank": 8,
+    "process_rank": 89,
+    "product_rank": 114
+  },
+  {
+    "rank": 73,
+    "name": "Ashley Furniture Industries",
+    "culture_rank": 55,
+    "process_rank": 72,
+    "product_rank": 60
+  },
+  {
+    "rank": 76,
+    "name": "General Mills",
+    "culture_rank": 65,
+    "process_rank": 64,
+    "product_rank": 55
+  },
+  {
+    "rank": 77,
+    "name": "Hartford Insurance Group",
+    "culture_rank": 67,
+    "process_rank": 63,
+    "product_rank": 68
+  },
+  {
+    "rank": 79,
+    "name": "Assurant",
+    "culture_rank": 75,
+    "process_rank": 75,
+    "product_rank": 70
+  },
+  {
+    "rank": 83,
+    "name": "Charter Communications",
+    "culture_rank": 83,
+    "process_rank": 84,
+    "product_rank": 75
+  },
+  {
+    "rank": 84,
+    "name": "Humana",
+    "culture_rank": 41,
+    "process_rank": 88,
+    "product_rank": 85
+  },
+  {
+    "rank": 85,
+    "name": "Cigna",
+    "culture_rank": 68,
+    "process_rank": 85,
+    "product_rank": 78
+  },
+  {
+    "rank": 88,
+    "name": "WVU Medicine",
+    "culture_rank": 41,
+    "process_rank": 92,
+    "product_rank": 99
+  },
+  {
+    "rank": 89,
+    "name": "Charles Schwab",
+    "culture_rank": 89,
+    "process_rank": 77,
+    "product_rank": 81
+  },
+  {
+    "rank": 90,
+    "name": "Labcorp Holdings",
+    "culture_rank": 73,
+    "process_rank": 86,
+    "product_rank": 79
+  },
+  {
+    "rank": 91,
+    "name": "McKesson",
+    "culture_rank": 91,
+    "process_rank": 91,
+    "product_rank": 82
+  },
+  {
+    "rank": 94,
+    "name": "Kansas Health System",
+    "culture_rank": 51,
+    "process_rank": 94,
+    "product_rank": 95
+  }
+]

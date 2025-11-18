@@ -1,0 +1,2700 @@
+[
+  {
+    "company": "Alphabet",
+    "rank": 1,
+    "sector": "Technology",
+    "fortune_500_rank": "8",
+    "work_policy": {
+      "type": "3-day hybrid (mandatory)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "N/A - Determined by teams/functions",
+      "details": "Most employees required to work in physical offices minimum 3 days per week, with 2 days flexible location. Badge tracking enforced since June 2023. Attendance linked to performance reviews.",
+      "effective_date": "2022-04",
+      "trend_direction": "Tightening",
+      "previous_policy": "Flexible remote",
+      "previous_date": "2020-2022"
+    },
+    "sources": [
+      {
+        "url": "https://buildremote.co/return-to-office/google/",
+        "type": "Tracker",
+        "reliability": "High"
+      },
+      {
+        "url": "https://blog.google/inside-google/life-at-google/hybrid-approach-work/",
+        "type": "Official",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We've heard from Googlers that those who spend at least three days a week in the office feel more connected to other Googlers.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 6,
+      "process_rank": 6,
+      "product_rank": 1,
+      "overall_rank": 1
+    },
+    "logo_url": "https://logo.clearbit.com/abc.xyz"
+  },
+  {
+    "company": "Microsoft",
+    "rank": 2,
+    "sector": "Technology",
+    "fortune_500_rank": "13",
+    "work_policy": {
+      "type": "3-day hybrid",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "N/A - Not mandated by company",
+      "details": "Employees living within 50 miles of Microsoft office must work on-site 3 days per week. Phased rollout beginning February 2026. Microsoft AI division has stricter 4-day requirement starting January 2026.",
+      "effective_date": "2026-02",
+      "trend_direction": "Tightening",
+      "previous_policy": "50% in-office (hybrid)",
+      "previous_date": "2022-04"
+    },
+    "sources": [
+      {
+        "url": "https://blogs.microsoft.com/blog/2025/09/09/flexible-work-update/",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://buildremote.co/return-to-office/microsoft-2026/",
+        "type": "Tracker",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "When people work together in person more often, they thrive — they are more energized, empowered, and they deliver stronger results.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 10,
+      "process_rank": 11,
+      "product_rank": 3,
+      "overall_rank": 2
+    },
+    "logo_url": "https://logo.clearbit.com/microsoft.com"
+  },
+  {
+    "company": "Amazon",
+    "rank": 7,
+    "sector": "Retailing",
+    "fortune_500_rank": "2",
+    "work_policy": {
+      "type": "5-day office-first",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Mon-Fri",
+      "details": "Full-time in-office requirement with exceptions only for extenuating circumstances. Employees must relocate to office hub by June 18, 2025, or resign.",
+      "effective_date": "2025-01",
+      "trend_direction": "Tightening",
+      "previous_policy": "3-day hybrid",
+      "previous_date": "2023-05"
+    },
+    "sources": [
+      {
+        "url": "https://www.aboutamazon.com/news/company-news/ceo-andy-jassy-latest-update-on-amazon-return-to-office-manager-team-ratio",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://buildremote.co/return-to-office/amazon/",
+        "type": "Tracker",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We've decided that we're going to return to being in the office the way we were before the onset of COVID.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 56,
+      "process_rank": 14,
+      "product_rank": 5,
+      "overall_rank": 7
+    },
+    "logo_url": "https://logo.clearbit.com/amazon.com"
+  },
+  {
+    "company": "Nike",
+    "rank": 8,
+    "sector": "Industrials",
+    "fortune_500_rank": "88",
+    "work_policy": {
+      "type": "4-day hybrid (office-first)",
+      "category": "Hybrid",
+      "days_required": 4,
+      "specific_days": "Not specified - 4 days in-office, 1 day remote",
+      "details": "Office-based employees work 4 days per week in-office with 1 remote day. Company provides 4 weeks of annual remote work allowance.",
+      "effective_date": "2024-01",
+      "trend_direction": "Tightening",
+      "previous_policy": "3-day hybrid",
+      "previous_date": "2022-05"
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2023/10/20/nike-changes-return-to-office-policy-four-days/",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://fortune.com/2024/04/14/nike-ceo-john-donahoe-remote-work-from-home-disruptive-innovation-product-pipeline/",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "It turns out, it's really hard to do bold, disruptive innovation, to develop a boldly disruptive shoe on Zoom.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 22,
+      "process_rank": 35,
+      "product_rank": 8,
+      "overall_rank": 8
+    },
+    "logo_url": "https://logo.clearbit.com/nike.com"
+  },
+  {
+    "company": "Tesla",
+    "rank": 11,
+    "sector": "Motor Vehicles & Parts",
+    "fortune_500_rank": "40",
+    "work_policy": {
+      "type": "5-day office-first (full-time in-office)",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Mon-Fri",
+      "details": "Minimum 40 hours per week in main Tesla office. Exceptions require Elon Musk's personal approval. Non-compliance treated as resignation.",
+      "effective_date": "2022-06",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://buildremote.co/companies/companies-requiring-5-days-in-office/",
+        "type": "Tracker",
+        "reliability": "High"
+      },
+      {
+        "url": "https://electrek.co/2022/06/01/elon-musk-tesla-employees-come-back-office-or-quit/",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Anyone who wishes to do remote work must be in the office for a minimum (and I mean *minimum*) of 40 hours per week or depart Tesla.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 1,
+      "process_rank": 1,
+      "product_rank": 54,
+      "overall_rank": 11
+    },
+    "logo_url": "https://logo.clearbit.com/tesla.com"
+  },
+  {
+    "company": "Comcast",
+    "rank": 16,
+    "sector": "Telecommunications",
+    "fortune_500_rank": "33",
+    "work_policy": {
+      "type": "4-day hybrid",
+      "category": "Hybrid",
+      "days_required": 4,
+      "specific_days": "Flexible - determined by team",
+      "details": "4 days in office, 1 day remote. Over 25,000 positions designated as fully remote.",
+      "effective_date": "2023-09",
+      "trend_direction": "Tightening",
+      "previous_policy": "3-day hybrid",
+      "previous_date": "2022-09"
+    },
+    "sources": [
+      {
+        "url": "https://www.inquirer.com/business/comcast/comcast-corporate-office-return-to-work-four-days-week-hybrid-20230622.html",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We value flexibility, and in return, we expect you to be responsive to the needs of the business and your team.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 27,
+      "process_rank": 18,
+      "product_rank": 61,
+      "overall_rank": 16
+    },
+    "logo_url": "https://logo.clearbit.com/comcast.com"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "rank": 17,
+    "sector": "Financials",
+    "fortune_500_rank": "12",
+    "work_policy": {
+      "type": "5-day office-first",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Mon-Fri",
+      "details": "Full-time in-office requirement. Ended 3-day hybrid policy. CEO Jamie Dimon has been outspoken defending the mandate despite employee backlash.",
+      "effective_date": "2025-03",
+      "trend_direction": "Tightening",
+      "previous_policy": "3-day hybrid",
+      "previous_date": "Pre-2025"
+    },
+    "sources": [
+      {
+        "url": "https://www.bloomberg.com/news/articles/2025-01-07/jpmorgan-planning-to-bring-staff-back-to-office-five-days-a-week",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://fortune.com/2025/01/10/jpmorgan-tells-staff-to-return-to-the-office-five-days-a-week/",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "You can't learn working from your basement",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 53,
+      "process_rank": 20,
+      "product_rank": 10,
+      "overall_rank": 17
+    },
+    "logo_url": "https://logo.clearbit.com/jpmorganchase.com"
+  },
+  {
+    "company": "Nvidia",
+    "rank": 18,
+    "sector": "Technology",
+    "fortune_500_rank": "134",
+    "work_policy": {
+      "type": "Flexible/No mandate",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Team and employee choice",
+      "details": "No company-wide return-to-office mandate. Team-driven model where individual managers and teams decide what works best. Complete employee autonomy over work location - home, office, or café. Luxurious office spaces available but optional. One of few major tech companies maintaining full flexibility.",
+      "effective_date": "2020-present",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2023/10/14/nvidia-skips-return-to-office-sticks-to-remote-work-among-hottest-tech-companies/",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://kadence.co/news/why-nvidia-is-sticking-with-hybrid-work/",
+        "type": "Analysis",
+        "reliability": "High"
+      },
+      {
+        "url": "https://fortune.com/2025/03/06/companies-with-remote-hybrid-work-options-spotify-nvidia-zillow-pintrest-microsoft/",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "There's no question we're going to do this [remote work as permanent]. I have no trouble with letting employees work from home indefinitely. - Jensen Huang, CEO",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Nvidia stands out among major tech companies for maintaining flexible policy while competitors enforce strict RTO mandates. VP Beau Davidson states policy enables employees 'to balance their personal and work obligations, while preparing for the future, so they can focus on doing their life's work.'",
+    "innovation": {
+      "culture_rank": 16,
+      "process_rank": 4,
+      "product_rank": 57,
+      "overall_rank": 18
+    },
+    "logo_url": "https://logo.clearbit.com/nvidia.com"
+  },
+  {
+    "company": "Qualcomm",
+    "rank": 19,
+    "sector": "Technology",
+    "fortune_500_rank": "124",
+    "work_policy": {
+      "type": "5-day in-office (Full RTO)",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Monday-Friday",
+      "details": "Full 5-day office return announced February 19, 2025 by CEO Cristiano Amon at all-hands meeting. To be fully implemented by end of fiscal year 2025 (September 28, 2025). Employees not complying with previous 4-day policy receiving termination notices with 45-day deadline. One of the strictest policies among major tech companies.",
+      "effective_date": "September 28, 2025",
+      "trend_direction": "Tightening",
+      "previous_policy": "4-day hybrid",
+      "previous_date": "May 2023"
+    },
+    "sources": [
+      {
+        "url": "https://buildremote.co/return-to-office/qualcomm/",
+        "type": "Tracker",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.teamblind.com/post/Qualcomm-is-doing-4-days-RTO-starting-in-May-5Fs37MLX",
+        "type": "Employee Forum",
+        "reliability": "Low"
+      }
+    ],
+    "key_quote": "5 days in office will be fully implemented by the end of FY25. - Anonymous Qualcomm employee reporting CEO announcement",
+    "verification_status": "Unverified - Employee reports",
+    "research_date": "2025-11-17",
+    "notes": "Rapid policy escalation: 2 days (2021) → 4 days (May 2023) → 5 days (Feb 2025 announcement, Sept 2025 implementation). Not officially confirmed by Qualcomm corporate communications. Information sourced from employee forums and anonymous reports.",
+    "innovation": {
+      "culture_rank": 24,
+      "process_rank": 3,
+      "product_rank": 63,
+      "overall_rank": 19
+    },
+    "logo_url": "https://logo.clearbit.com/qualcomm.com"
+  },
+  {
+    "company": "Boston Scientific",
+    "rank": 20,
+    "sector": "Health Care",
+    "fortune_500_rank": "300",
+    "work_policy": {
+      "type": "3-day hybrid (Connected Work Strategy)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Flexible - employee choice with team coordination",
+      "details": "Global 'Connected Work Strategy' (CWS) with three tiers: 'On-site' (4-5 days), 'Hybrid' (3 days), 'Remote' (1 day). Most employees (~90% in pilot) chose Hybrid option. Employees select work type with manager, can reselect annually. Permanent framework, not temporary pandemic measure.",
+      "effective_date": "2021-present",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.koreabiomed.com/news/articleView.html?idxno=11251",
+        "type": "Media",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://news.bostonscientific.eu/featured-stories?item=41",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/Boston-Scientific-Work-From-Home-US-BNFT152_E2187_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "The hybrid work model - combining office and remote working - offers a key opportunity to provide a more tailored employee experience.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Employee feedback indicates 3-day hybrid is 'best in class right now.' Policy designed as permanent framework with built-in flexibility and annual review opportunities.",
+    "innovation": {
+      "culture_rank": 4,
+      "process_rank": 38,
+      "product_rank": 83,
+      "overall_rank": 20
+    },
+    "logo_url": "https://logo.clearbit.com/bostonscientific.com"
+  },
+  {
+    "company": "Verizon Communications",
+    "rank": 21,
+    "sector": "Telecommunications",
+    "fortune_500_rank": "20",
+    "work_policy": {
+      "type": "3-day hybrid",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Not specified",
+      "details": "Management and corporate hybrid-approved employees required in office 3 days/week starting September 3, 2024 (day after Labor Day). Increased from previous 8 days/month requirement. Full-time remote employees unaffected. Coincides with new 200,000 sq ft NYC headquarters lease at Penn 2 tower consolidating 1,000+ employees.",
+      "effective_date": "September 3, 2024",
+      "trend_direction": "Tightening",
+      "previous_policy": "8 days per month",
+      "previous_date": "Pre-September 2024"
+    },
+    "sources": [
+      {
+        "url": "https://buildremote.co/return-to-office/verizon/",
+        "type": "Tracker",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.investing.com/news/stock-market-news/verizon-increases-office-days-for-hybrid-workers-leases-larger-nyc-space--wsj-93CH-4156162",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We believe that our teams perform best when we are together. - Verizon spokesman",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Ironic shift: In February 2025, Verizon actively recruited AT&T employees by promoting flexible hybrid/remote options, yet had already tightened its own policy. Three core campuses: NYC (global HQ), Basking Ridge NJ (operational HQ), Irving TX.",
+    "innovation": {
+      "culture_rank": 34,
+      "process_rank": 50,
+      "product_rank": 9,
+      "overall_rank": 21
+    },
+    "logo_url": "https://logo.clearbit.com/verizon.com"
+  },
+  {
+    "company": "Procter & Gamble",
+    "rank": 22,
+    "sector": "Household Products",
+    "fortune_500_rank": "47",
+    "work_policy": {
+      "type": "3-day hybrid (2 days WFH)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Not specified - manager discretion",
+      "details": "Employees typically work from home 2 days/week, in office 3 days/week where role supports it. 'Workways' program in Canada allows employees to design hybrid arrangement fitting individual/team/business needs. Includes work-from-anywhere options: domestic (within Canada) and international (2 weeks/year). Significantly varies by manager and role.",
+      "effective_date": "2021-present",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.glassdoor.com/Benefits/Procter-and-Gamble-Work-From-Home-US-BNFT152_E544_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://us.pg.com/blogs/pg-future-workplaces/",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://money.usnews.com/careers/companies/procter-gamble-963896",
+        "type": "Analysis",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "With the rapid rise of hybrid work, the role of the workplace is changing. At P&G, we're making sure our offices are engaging workspaces that support the way people work today and are ready for the future.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Flexible team-based approach rather than strict corporate mandate. P&G workspaces designed to support in-person, virtual, and hybrid work. Manager discretion allows significant variation across teams.",
+    "innovation": {
+      "culture_rank": 13,
+      "process_rank": 31,
+      "product_rank": 53,
+      "overall_rank": 22
+    },
+    "logo_url": "https://logo.clearbit.com/pg.com"
+  },
+  {
+    "company": "Cummins",
+    "rank": 28,
+    "sector": "Industrials",
+    "fortune_500_rank": "149",
+    "work_policy": {
+      "type": "Hybrid (Wednesday anchor)",
+      "category": "Hybrid",
+      "days_required": 1,
+      "specific_days": "Wednesday required",
+      "details": "Corporate employees expected to be in office on Wednesdays. Hybrid employees work at assigned location semi-regularly but company does not support permanent off-site workspace setup. Flexible remote work allowed other days.",
+      "effective_date": "2022-2024",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.flexindex.com/company/cummins",
+        "type": "Tracker",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.ibj.com/articles/downtowns-largest-employers-bet-on-hybrid-work",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Corporate employees are expected to go into an office on Wednesday",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Company uses Wednesday as an anchor day for in-person collaboration. More flexible than many industrial companies.",
+    "innovation": {
+      "culture_rank": 30,
+      "process_rank": 41,
+      "product_rank": 14,
+      "overall_rank": 28
+    },
+    "logo_url": "https://logo.clearbit.com/cummins.com"
+  },
+  {
+    "company": "HP Inc",
+    "rank": 29,
+    "sector": "Technology",
+    "fortune_500_rank": "59",
+    "work_policy": {
+      "type": "Flexible hybrid (employee choice)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "None - manager and employee discretion",
+      "details": "Voluntary hybrid approach where employees and managers decide when office presence is needed. No mandatory office days. 77% of HP employees prefer hybrid work. Technology-first strategy prioritizes employee choice over mandates.",
+      "effective_date": "2020-2024",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.computerworld.com/article/1635006/hp-exec-theres-no-going-back-to-the-pre-pandemic-workplace.html",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.theretirementgroup.com/featured-article/5448145/hp-returntooffice-strategy-balancing-flexibility-with-corporate-needs",
+        "type": "Analysis",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Most companies want to move past the 'forced return' to the office era of hybrid work. The future is hybrid flexibility, which delivers the best of the home and the office to workers everywhere. - Alex Cho, President of Personal Systems (former)",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "HP stands out for voluntary approach vs. strict mandates. Emphasizes technology enablement and employee preference.",
+    "innovation": {
+      "culture_rank": 44,
+      "process_rank": 39,
+      "product_rank": 11,
+      "overall_rank": 29
+    },
+    "logo_url": "https://logo.clearbit.com/hp.com"
+  },
+  {
+    "company": "Pfizer",
+    "rank": 30,
+    "sector": "Health Care",
+    "fortune_500_rank": "69",
+    "work_policy": {
+      "type": "3-day hybrid (2-3 days)",
+      "category": "Hybrid",
+      "days_required": 2,
+      "specific_days": "Not specified - varies by team",
+      "details": "2-3 days per week in office (averaging 2.5 days). 'Tightly policed' with potential termination for non-compliance.",
+      "effective_date": "2023-01",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.technologynetworks.com/biopharma/articles/pharmas-push-to-resume-in-person-work-carries-consequences-386872",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://centerfordigitalinnovation.pfizer.com/careers",
+        "type": "Official",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "I started to worry we were going to lose the DNA of our company, the feeling of family.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 36,
+      "process_rank": 22,
+      "product_rank": 19,
+      "overall_rank": 30
+    },
+    "logo_url": "https://logo.clearbit.com/pfizer.com"
+  },
+  {
+    "company": "American Express",
+    "rank": 31,
+    "sector": "Financials",
+    "fortune_500_rank": "58",
+    "work_policy": {
+      "type": "Hybrid (1-3 days, typically 2)",
+      "category": "Hybrid",
+      "days_required": 2,
+      "specific_days": "Team-determined",
+      "details": "Amex Flex program with role-based flexibility. 4 weeks work-from-anywhere annually. No strict RTO mandate.",
+      "effective_date": "2022-03",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://about.americanexpress.com/newsroom/press-releases/news-details/2021/American-Express-Introducing-Amex-Flex--Our-New-Way-Of-Working-10-18-2021/default.aspx",
+        "type": "Official",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We want to build on the progress we've made working virtually, including how we've become more efficient and agile.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 52,
+      "process_rank": 37,
+      "product_rank": 12,
+      "overall_rank": 31
+    },
+    "logo_url": "https://logo.clearbit.com/americanexpress.com"
+  },
+  {
+    "company": "Advanced Micro Devices (AMD)",
+    "rank": 32,
+    "sector": "Technology",
+    "fortune_500_rank": "164",
+    "work_policy": {
+      "type": "3-day hybrid",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Not specified (manager discretion)",
+      "details": "Official guideline: 3+ days per week in office for non-remote workers. Some teams require 12 days/month. Enforcement varies significantly by team and manager. Employees can be classified as onsite, partially remote, or full remote.",
+      "effective_date": "May 2024",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.flexindex.com/company/amd",
+        "type": "Tracker",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.teamblind.com/post/amd-return-to-office-policy-ramtvgka",
+        "type": "Employee Forum",
+        "reliability": "Low"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/AMD-Work-From-Home-US-BNFT152_E15_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Corporate employees are expected to go into an office 3 days a week at AMD. Hybrid where you come into the office 3 days and work from home 2 days.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Policy enforcement appears highly variable across teams. More flexible in practice than on paper.",
+    "innovation": {
+      "culture_rank": 46,
+      "process_rank": 17,
+      "product_rank": 30,
+      "overall_rank": 32
+    },
+    "logo_url": "https://logo.clearbit.com/amd.com"
+  },
+  {
+    "company": "Walt Disney",
+    "rank": 33,
+    "sector": "Media",
+    "fortune_500_rank": "53",
+    "work_policy": {
+      "type": "4-day hybrid",
+      "category": "Hybrid",
+      "days_required": 4,
+      "specific_days": "Monday-Thursday (Friday remote)",
+      "details": "Hybrid employees required in office 4 days/week (Mon-Thu). Implemented by CEO Bob Iger upon return in 2023. One of the strictest policies among large companies. Policy faced employee pushback with 2,300+ petition signatures.",
+      "effective_date": "March 1, 2023",
+      "trend_direction": "Maintaining",
+      "previous_policy": "3-day hybrid",
+      "previous_date": "2022"
+    },
+    "sources": [
+      {
+        "url": "https://www.cnbc.com/2023/01/09/disney-ceo-bob-iger-tells-employees-to-return-to-the-office-four-days-a-week.html",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.washingtonpost.com/business/2023/01/10/disney-rto-4-days/",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://hubblehq.com/blog/famous-companies-workplace-strategies",
+        "type": "Tracker",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "In a creative business like ours, nothing can replace the ability to connect, observe, and create with peers that comes from being physically together. - Bob Iger, CEO",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Policy still in effect as of 2024. Relatively strict compared to tech industry peers. Strong CEO mandate.",
+    "innovation": {
+      "culture_rank": 20,
+      "process_rank": 46,
+      "product_rank": 21,
+      "overall_rank": 33
+    },
+    "logo_url": "https://logo.clearbit.com/disney.com"
+  },
+  {
+    "company": "PayPal Holdings",
+    "rank": 34,
+    "sector": "Business Services",
+    "fortune_500_rank": "143",
+    "work_policy": {
+      "type": "3-day hybrid",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Not specified",
+      "details": "3 days/week in office starting mid-October 2024. Includes 30 days/year domestic remote work and 2 weeks/year international remote work. Exceptions for insufficient office space. Progressive tightening from optional to 2-day to 3-day requirement.",
+      "effective_date": "Mid-October 2024",
+      "trend_direction": "Tightening",
+      "previous_policy": "2-day hybrid (optional)",
+      "previous_date": "2023-2024"
+    },
+    "sources": [
+      {
+        "url": "https://www.teamblind.com/post/paypal-hybrid-policy-and-overseas-work-rryfxksu",
+        "type": "Employee Forum",
+        "reliability": "Low"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/PayPal-Work-From-Home-US-BNFT152_E9848_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.fishbowlapp.com/post/hi-got-through-the-paypal-interview-and-they-are-asking-me-to-work-3-days-from-office-and-2-days-from-home-but-ive-dependency-and-a-kid",
+        "type": "Employee Forum",
+        "reliability": "Low"
+      }
+    ],
+    "key_quote": "3 days per week in office starting mid-October 2024. 30 days of domestic remote work yearly and 2 weeks of international remote work yearly.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Recent policy tightening. Additional remote work allowances provide some flexibility.",
+    "innovation": {
+      "culture_rank": 50,
+      "process_rank": 27,
+      "product_rank": 15,
+      "overall_rank": 34
+    },
+    "logo_url": "https://logo.clearbit.com/paypal.com"
+  },
+  {
+    "company": "Houston Methodist",
+    "rank": 35,
+    "sector": "Health Care",
+    "fortune_500_rank": "N/A",
+    "work_policy": {
+      "type": "Role-dependent (Hybrid for eligible roles)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "N/A",
+      "details": "Healthcare organization with role-dependent flexibility. Clinical staff (nurses, physicians, greeters, patient-facing roles) required on-site full-time. Administrative and support roles (Patient Access, billing, coding, scheduling) offer remote and hybrid options. Some corporate roles have remote opportunities with positive work-life balance. Approximately 32,000+ employees total.",
+      "effective_date": "2020-2024",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.flexjobs.com/remote-jobs/company/houston_methodist",
+        "type": "Job Listings",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.glassdoor.com/Reviews/Houston-Methodist-work-life-balance-Reviews-EI_IE4460.0,17_KH18,35.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.houstonmethodistcareers.org/blog/article/145/",
+        "type": "Company",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Tons of employee perks, surprises, and flexibility - Excellent work/life balance (corporate) - Remote opportunities",
+    "verification_status": "Partially Verified",
+    "research_date": "2025-11-17",
+    "notes": "Named Glassdoor Best Places to Work 2024 for 3rd consecutive year. Healthcare nature means most clinical roles must be on-site. Administrative roles have remote/hybrid flexibility. Employee satisfaction rating 4.3/5 on Glassdoor with 4.0/5 for work-life balance. 88% would recommend to a friend. No formal RTO mandate found; policy appears stable since pandemic.",
+    "innovation": {
+      "culture_rank": 2,
+      "process_rank": 61,
+      "product_rank": 106,
+      "overall_rank": 35
+    },
+    "logo_url": "https://logo.clearbit.com/houstonmethodist.org"
+  },
+  {
+    "company": "Corning",
+    "rank": 36,
+    "sector": "Industrials",
+    "fortune_500_rank": "336",
+    "work_policy": {
+      "type": "Hybrid (Role-dependent)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Not specified",
+      "details": "Manufacturing and industrial company with role-dependent policies. Manufacturing/production roles require on-site presence. Office/administrative roles have hybrid options with flexibility varying by department and manager. Employee survey prompted policy adjustments that reduced turnover. Some employees have full remote options while others use hybrid arrangements.",
+      "effective_date": "2020-2024",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.theretirementgroup.com/featured-article/5448096/return-to-work-policies-are-causing-issues-will-corning-workers-be-affected",
+        "type": "Analysis",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.glassdoor.com/Reviews/Corning-Reviews-E183.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.flexindex.com/company/corning-incorporated",
+        "type": "Tracker",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Friendly staff, lots of events, fun environment, hybrid, employee perks! I worked remote but had the option of sitting at a desk.",
+    "verification_status": "Partially Verified",
+    "research_date": "2025-11-17",
+    "notes": "Headquartered in Corning, NY with ~20,000 employees across 6 continents. Overall rating 3.8/5 on Glassdoor, 3.5/5 for work-life balance. Policy appears manager and role-dependent rather than company-wide mandate. Employee survey influenced policy changes. Manufacturing nature limits remote work for production roles.",
+    "innovation": {
+      "culture_rank": 37,
+      "process_rank": 36,
+      "product_rank": 17,
+      "overall_rank": 36
+    },
+    "logo_url": "https://logo.clearbit.com/corning.com"
+  },
+  {
+    "company": "AT&T",
+    "rank": 37,
+    "sector": "Telecommunications",
+    "fortune_500_rank": "13",
+    "work_policy": {
+      "type": "5-day full office",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Monday-Friday",
+      "details": "Full return to office mandate requiring 5 days per week starting January 2025. Affects approximately 18,000+ management employees across 9 corporate hubs (Dallas, Atlanta, Los Angeles, San Ramon, Seattle, St. Louis, Washington DC, Middletown NJ, Bedminster NJ). Shift from 3-day hybrid policy implemented in summer 2023. Field technicians, retail staff, and customer service roles already worked on-site throughout pandemic.",
+      "effective_date": "January 2025",
+      "trend_direction": "Tightening",
+      "previous_policy": "3-day hybrid",
+      "previous_date": "Summer 2023 - December 2024"
+    },
+    "sources": [
+      {
+        "url": "https://www.dallasnews.com/business/2024/12/18/att-orders-more-us-employees-to-return-to-office-5-days-a-week-in-2025/",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://tech.co/news/att-five-day-return-to-office",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://buildremote.co/return-to-office/att-rto/",
+        "type": "Tracker",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.hrgrapevine.com/us/content/article/2024-12-19-att-mandates-five-day-return-to-desks-from-january",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "The majority of our employees and leaders never stopped working on location for the full work week—including during the pandemic. Our workforce strategies are implemented based on business needs and varies by organization, location and other factors. - AT&T Spokesperson",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Major policy shift announced December 2024. Company closed 300+ offices since pandemic while consolidating to 9 hubs. Employee concerns about relocation requirements and some view policy as covert headcount reduction. CEO John Stankey warned employees to align with mandate or seek other opportunities. AT&T reports adequate office space in Dallas headquarters unlike Amazon's capacity issues.",
+    "innovation": {
+      "culture_rank": 80,
+      "process_rank": 26,
+      "product_rank": 16,
+      "overall_rank": 37
+    },
+    "logo_url": "https://logo.clearbit.com/att.com"
+  },
+  {
+    "company": "Lockheed Martin",
+    "rank": 38,
+    "sector": "Aerospace & Defense",
+    "fortune_500_rank": "57",
+    "work_policy": {
+      "type": "Flexible Hybrid (role-dependent)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Not specified - manager discretion",
+      "details": "40-45% hybrid, 10% fully remote, remainder onsite. Security clearance requirements significantly affect remote work options. 4/10 and 9/80 schedules available.",
+      "effective_date": "2021",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://insidedefense.com/share/211389",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.lockheedmartin.com/en-us/careers/why-lm/LM_Benefits.html",
+        "type": "Official",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Well over 40% of our employees that won't be necessarily coming back to the office full-time; they might be doing part-time, and almost 10% of our employees that will go full-time telework.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 49,
+      "process_rank": 33,
+      "product_rank": 28,
+      "overall_rank": 38
+    },
+    "logo_url": "https://logo.clearbit.com/lockheedmartin.com"
+  },
+  {
+    "company": "Mayo Clinic",
+    "rank": 39,
+    "sector": "Health Care",
+    "fortune_500_rank": "N/A",
+    "work_policy": {
+      "type": "Role-dependent (Hybrid for eligible roles)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "N/A",
+      "details": "Healthcare organization with selective remote work program since 2011. Approximately 1,500 employees at Minnesota campus work permanently remote, primarily in Patient Access (preregistration, precertification, scheduling, coding, billing, authorization, insurance verification). Expanded to Arizona and Florida campuses. Clinical staff (clinicians, greeters, high-touch patient care) required on-site. Remote workers undergo probationary period and must maintain secure, paperless home offices with strict HIPAA compliance. Used as recruitment and retention tool.",
+      "effective_date": "2011-2024",
+      "trend_direction": "Maintaining/Expanding",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.advisory.com/daily-briefing/2017/01/05/mayo-clinic-work-remotely",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.beckershospitalreview.com/workforce/mayo-clinic-to-allow-1-500-employees-to-work-from-home-long-term",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://vynemedical.com/case-study/work-from-home-mayo-clinic/",
+        "type": "Case Study",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://jobs.mayoclinic.org/Remote",
+        "type": "Job Listings",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We visit workers' homes and have them send us pictures of their home offices … and if workers move, they are obligated to let us know. Remote work continues to support teams whose work is not reliant on campus resources.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Pioneering healthcare remote work since 2011 in Patient Access. Program expanded significantly during pandemic. Benefits include higher employee satisfaction, reduced turnover, easier recruitment, freed hospital space for clinical operations. Strict security requirements: banned home printing, paperless environment, PHI safeguarding. Campuses in Minnesota, Arizona, Florida, and Midwest Health System locations. Remote workers on waitlist indicating high demand.",
+    "innovation": {
+      "culture_rank": 5,
+      "process_rank": 60,
+      "product_rank": 86,
+      "overall_rank": 39
+    },
+    "logo_url": "https://logo.clearbit.com/mayoclinic.org"
+  },
+  {
+    "company": "Northrop Grumman",
+    "rank": 40,
+    "sector": "Aerospace & Defense",
+    "fortune_500_rank": "101",
+    "work_policy": {
+      "type": "Role-dependent (Limited hybrid/remote)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Varies by manager",
+      "details": "Defense contractor with security clearance requirements limiting remote work. Majority of engineering and classified roles require on-site presence in SCIF/SAPF secure facilities. Some administrative, non-classified roles offer hybrid or remote options (4.5-day week, 9-day fortnight available). Remote work requires manager approval and role suitability. Flexibility varies significantly by program, location, and security requirements. Headquarters in Falls Church, VA with operations nationwide.",
+      "effective_date": "2020-2024",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.indeed.com/cmp/Northrop-Grumman/faq/what-is-the-work-from-home-policy-at-northrop-grumman",
+        "type": "Employee Q&A",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.securityclearedjobs.com/employer/cdbdb4ed-69d2-4dcb-853b-0ba509eca2db/northrop-grumman/hub/remote-working-policy",
+        "type": "Job Site",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/Northrop-Grumman-Work-From-Home-US-BNFT152_E488_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.northropgrumman.com/careers/security-clearances",
+        "type": "Company",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Most engineering roles require employees to be at the office due to the nature of classified work. Return to office is required for some positions at Northrop Grumman, but working from home is possible depending on circumstances.",
+    "verification_status": "Partially Verified",
+    "research_date": "2025-11-17",
+    "notes": "Security clearance requirements (Confidential, Secret, Top Secret, SCI, SAP) significantly limit remote work options. Classified work requires secure facilities (SCIF/SAPF). Some hybrid positions listed requiring TS/SCI clearances indicate flexibility exists for certain roles. Company among top 20 offering high-paying remote positions in aerospace/defense sector. Policy is position-dependent rather than company-wide. Employees have expressed concerns about RTO policies. Offers 9/80 schedules and flexible working patterns where applicable.",
+    "innovation": {
+      "culture_rank": 35,
+      "process_rank": 52,
+      "product_rank": 34,
+      "overall_rank": 40
+    },
+    "logo_url": "https://logo.clearbit.com/northropgrumman.com"
+  },
+  {
+    "company": "Air Products & Chemicals",
+    "rank": 41,
+    "sector": "Materials",
+    "fortune_500_rank": 291,
+    "work_policy": {
+      "type": "Hybrid/Flexible - Role-dependent policy with remote and hybrid options available for certain positions",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Varies by role - some positions offer 2 days in office/2 days remote on 4x10 schedule",
+      "details": "Company offers hybrid positions for IT and technical roles. Employees report flexibility is allowed. No company-wide standardized policy publicly announced. Field positions and some technical roles can be fully remote.",
+      "effective_date": null,
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "type": "Job Postings",
+        "url": "https://www.flexjobs.com/remote-jobs/company/air_products",
+        "date": "2024",
+        "note": "Hybrid positions advertised including Planning & Project Management IT Analyst roles"
+      },
+      {
+        "type": "Employee Reviews",
+        "url": "https://www.indeed.com/cmp/Air-Products/topics/work-from-home",
+        "date": "2024",
+        "note": "6 employees answered questions about work from home policy; employees report flexibility"
+      },
+      {
+        "type": "Employee Reviews",
+        "url": "https://www.glassdoor.com/Reviews/Air-Products-work-life-balance-Reviews-EI_IE17.0,12_KH13,30.htm",
+        "date": "2024",
+        "note": "3.9/5 work-life balance rating; employees note remote work helps balance"
+      }
+    ],
+    "key_quote": "Air Products has not publicly announced a formal company-wide RTO policy. The company offers hybrid and some remote positions, particularly in IT and technical roles. Employee reviews indicate flexibility is provided and work-life balance is generally respected. Specific office attendance requirements vary by role and department. No evidence of recent RTO mandate or policy tightening.",
+    "verification_status": "Unverified",
+    "research_date": "2025-11-17",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 64,
+      "process_rank": 29,
+      "product_rank": 29,
+      "overall_rank": 41
+    },
+    "logo_url": "https://logo.clearbit.com/airproducts.com"
+  },
+  {
+    "company": "PepsiCo",
+    "rank": 42,
+    "sector": "Food, Beverages & Tobacco",
+    "fortune_500_rank": "44",
+    "work_policy": {
+      "type": "Flexible Hybrid (no mandated days)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Manager-determined",
+      "details": "Work that Works program. No limitations on remote/office days. Employees work with managers to determine optimal location. Expected average ~2.5 days in office.",
+      "effective_date": "2021-06",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.cnn.com/2021/06/23/success/pepsi-return-to-work-plans/index.html",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "If you can do your job sitting on the beach in Bermuda drinking a Margarita, good for you. We care about outputs.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 39,
+      "process_rank": 32,
+      "product_rank": 37,
+      "overall_rank": 42
+    },
+    "logo_url": "https://logo.clearbit.com/pepsico.com"
+  },
+  {
+    "company": "Microchip Technology",
+    "rank": 43,
+    "sector": "Technology",
+    "fortune_500_rank": "659",
+    "work_policy": {
+      "type": "3-day hybrid",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Not specified - role dependent",
+      "details": "Hybrid roles require in-person attendance at least 3 days per week at Chandler, Arizona headquarters. Policy implemented post-COVID with strict monitoring of office attendance. Hybrid work not offered to new hires until after one year of employment. Work-from-home rules described as strict by employees, with corporate oversight of foot traffic patterns.",
+      "effective_date": "Post-2020",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.glassdoor.com/Reviews/Microchip-Technology-Reviews-E2298.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Microchip-Technology/reviews",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.microchip.com/en-us/about/careers",
+        "type": "Official",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "The working environment is relaxed, allows hybrid WFH, and provides a good work-life balance. However, the company has a very strict hybrid schedule where they monitor when you are in the office.",
+    "verification_status": "Verified - Employee reports",
+    "research_date": "2025-11-17",
+    "notes": "Semiconductor company with headquarters in Chandler, Arizona since 1989. Known for strong no-layoff policy and good work-life balance despite strict monitoring. Hybrid eligibility requires one year tenure. Policy varies by role; manufacturing and lab positions typically require full-time onsite presence.",
+    "innovation": {
+      "culture_rank": 40,
+      "process_rank": 34,
+      "product_rank": 32,
+      "overall_rank": 43
+    },
+    "logo_url": "https://logo.clearbit.com/microchip.com"
+  },
+  {
+    "company": "Mass General Brigham",
+    "rank": 44,
+    "sector": "Health Care",
+    "fortune_500_rank": "N/A",
+    "work_policy": {
+      "type": "Role-dependent (Healthcare)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Flexible - varies by position",
+      "details": "Three work arrangement options: entirely on-site, hybrid (1-4 days/week on-site), or fully remote. Corporate/administrative functions default to remote-first; clinical and care operations typically require on-site presence. 4,000 administrative employees consolidated at Assembly Row campus in Somerville, MA. Each employee's arrangement pre-determined by position type and manager discretion.",
+      "effective_date": "2021-present",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.beckershospitalreview.com/workforce/mass-general-brigham-cfo-5-insights-on-remote-work-how-to-bring-employees-back-onsite.html",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/Mass-General-Brigham-Work-From-Home-US-BNFT152_E6284_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.massgeneralbrigham.org/en/about/careers/working-here-assembly-row",
+        "type": "Official",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "For corporate functions, work from home is the norm, while for those delivering care or part of operations for care, WFH is typically not an option. - Mass General Brigham CFO Peter Markell",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Healthcare system with 80,000+ employees. Extended remote work through June 2021 for ~20,000 employees during pandemic. Assembly Row campus (LEED Gold certified) houses 4,000 administrative staff. Managers encouraged to use remote/hybrid-first approach where possible. Focus on employee safety and mental health in transition planning.",
+    "innovation": {
+      "culture_rank": 15,
+      "process_rank": 55,
+      "product_rank": 89,
+      "overall_rank": 44
+    },
+    "logo_url": "https://logo.clearbit.com/massgeneralbrigham.org"
+  },
+  {
+    "company": "Coca-Cola",
+    "rank": 45,
+    "sector": "Food/Beverages",
+    "fortune_500_rank": "87",
+    "work_policy": {
+      "type": "3-day hybrid (minimum)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Flexible - employee choice",
+      "details": "Employees commit to coming together in person minimum 3 days/week - either in office, out in market, or face-to-face meetings with teams, customers, partners, suppliers, or bottlers. Company strives to 'cultivate a culture and environment that optimizes the synergy of in-person collaboration with the flexibility provided by remote work.' Policy applies to Atlanta headquarters and global locations.",
+      "effective_date": "2023-2024",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.ajc.com/news/atlanta-airport-blog/some-of-atlantas-largest-companies-remain-flexible-with-remote-work/64MZGHO4JBEKZGJRRMGW4AHLCI/",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.nojitter.com/workspace/coca-cola-rethinks-hybrid-work-to-tell-a-better-workplace-story",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://ones.software/blog/2022/11/29/how-does-coca-cola-implement-hybrid-working-to-provide-a-better-workplace-",
+        "type": "Analysis",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Our purpose, to refresh the world and make a difference, is best served when we are together in person, more often.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Minimum 3-day requirement confirmed by Atlanta Journal-Constitution (January 2024). Flexibility in where in-person work occurs (office, field, client meetings). Redesigned workspaces to support hybrid model with fewer fixed elements/walls. Uses Microsoft Teams for remote collaboration. Policy became 'critical enterprise imperative' post-pandemic.",
+    "innovation": {
+      "culture_rank": 43,
+      "process_rank": 66,
+      "product_rank": 23,
+      "overall_rank": 45
+    },
+    "logo_url": "https://logo.clearbit.com/coca-colacompany.com"
+  },
+  {
+    "company": "State Farm Insurance",
+    "rank": 46,
+    "sector": "Financials",
+    "fortune_500_rank": "36",
+    "work_policy": {
+      "type": "Hybrid - Manager discretion",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Manager and team dependent",
+      "details": "Approximately 40,000 employees (69% of workforce) work hybrid arrangement. Most common model: in office 1 week per month, remote remainder. Leaders work with employees to determine specific time split between home and office. No uniform company-wide mandate; varies by business area and manager discretion. Employees assigned to facilities in Atlanta, Dallas, Phoenix, and Bloomington, IL.",
+      "effective_date": "July 1, 2021",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://newsroom.statefarm.com/state-farm-offers-more-flexibility-to-employees/",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://buildremote.co/return-to-office/state-farm/",
+        "type": "Tracker",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.wglt.org/news/2021-04-09/state-farm-moving-to-hybrid-workplace-model",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Most State Farm employees will be hybrid, which means they will spend time working both at home and the office. Leaders will work with employees to determine how much time they spend at each location.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Flexible team-based approach announced March 2022, implemented July 2021. Typical pattern: 1 week/month in office, 3 weeks remote. CEO Michael Tipsord noted in December 2022 still working through workforce return logistics. Unverified employee forum posts (November 2024) claimed mandatory full RTO in 2025, but no official company confirmation. Office space footprint decreasing.",
+    "innovation": {
+      "culture_rank": 81,
+      "process_rank": 23,
+      "product_rank": 31,
+      "overall_rank": 46
+    },
+    "logo_url": "https://logo.clearbit.com/statefarm.com"
+  },
+  {
+    "company": "Motorola Solutions",
+    "rank": 47,
+    "sector": "Technology",
+    "fortune_500_rank": "512",
+    "work_policy": {
+      "type": "Flexible hybrid/remote",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Team and manager discretion",
+      "details": "Office-based, hybrid, and remote working models offered where 'employees can do their best work wherever they work best.' Most roles fully remote since COVID; some require onsite (lab testers, warehouse workers). Chicago corporate office roles typically 1-2 days/week currently, with expectations up to 4 days/week. Some positions specify 3 days/week hybrid. Remote work program includes telecommuting at manager discretion.",
+      "effective_date": "2020-present",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://builtin.com/company/motorola-solutions/benefits",
+        "type": "Employee Benefits Info",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/Motorola-Solutions-Work-From-Home-US-BNFT152_E427189_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.builtinchicago.org/company/motorola-solutions",
+        "type": "Company Info",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "We offer office-based, hybrid and remote working models, where Motorolans can do their best work wherever they work best.",
+    "verification_status": "Verified - Employee reports",
+    "research_date": "2025-11-17",
+    "notes": "Communications technology company (not to be confused with Motorola Mobility). Flexible arrangements vary significantly by role, team, and location. Remote options more readily available post-COVID. Employees report flexibility as major benefit, citing 'flexible work schedule' and 'great culture.' No company-wide RTO mandate announced. Chicago HQ serves as primary corporate campus.",
+    "innovation": {
+      "culture_rank": 29,
+      "process_rank": 68,
+      "product_rank": 36,
+      "overall_rank": 47
+    },
+    "logo_url": "https://logo.clearbit.com/motorolasolutions.com"
+  },
+  {
+    "company": "Fidelity Investments",
+    "rank": 48,
+    "sector": "Financials",
+    "fortune_500_rank": "72",
+    "work_policy": {
+      "type": "2 weeks per month hybrid (8-10 days/month)",
+      "category": "Full Office",
+      "days_required": 10,
+      "specific_days": "Two assigned weeks per month (Monday-Friday)",
+      "details": "Employees required to work in office two full weeks out of every four weeks starting September 2024. Previously required one week out of four. Policy announced in February 2024 memo affecting 75,000+ employees. Approximately 1,200 workers applied for exemptions, with roughly 50% approved. Small number of employees chose voluntary departure rather than comply. Those not complying receiving termination notices.",
+      "effective_date": "September 2024",
+      "trend_direction": "Tightening",
+      "previous_policy": "1 week per month (4-5 days)",
+      "previous_date": "Pre-September 2024"
+    },
+    "sources": [
+      {
+        "url": "https://www.pionline.com/money-management/fidelity-prepares-adopt-2-weeks-office-hybrid-schedule-small-number-choose-leave",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.bostonglobe.com/2024/02/16/business/fidelity-deutsche-bank-rto-return-office/",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.boston.com/news/local-news/2024/02/20/fidelity-prepares-to-double-required-in-office-time-for-most-workers/",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We know on-site work allows opportunity to build lasting relationships between people and teams that help to fuel both individual growth and collective success. - Fidelity spokesperson",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Doubled in-office requirement from 1 week/month to 2 weeks/month. Fidelity has 74,000 employees worldwide, with 5,800+ in Boston. Policy impacted hybrid associates who previously had exemptions, not fully remote workers. Part of broader trend among financial services firms tightening RTO requirements in 2024.",
+    "innovation": {
+      "culture_rank": 47,
+      "process_rank": 43,
+      "product_rank": 41,
+      "overall_rank": 48
+    },
+    "logo_url": "https://logo.clearbit.com/fidelity.com"
+  },
+  {
+    "company": "Dash Solutions",
+    "rank": 49,
+    "sector": "Business Services",
+    "fortune_500_rank": null,
+    "work_policy": {
+      "type": "Hybrid (Remote and In-Office)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Not specified",
+      "details": "120 employees working both remotely and in the Homewood office. Company supports hybrid model with employees distributed between remote and in-office locations. Relocated to larger office space in Homewood, AL (600 University Park Place) in May 2023 to provide state-of-the-art workspace for collaboration while maintaining remote work options. Formerly Prepaid Technologies, rebranded as Dash Solutions in February 2023.",
+      "effective_date": "Current (2023-present)",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://dashsolutions.com/dash-solutions-new-homewood-office/",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.zoominfo.com/c/dash-solutions-inc/62753935",
+        "type": "Directory",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Dash Solutions has 120 employees working both remotely and in the Homewood office. - Company announcement",
+    "verification_status": "Partial - Limited public information",
+    "research_date": "2025-11-17",
+    "notes": "Birmingham, Alabama-based fintech company providing digital payment and engagement solutions. 40% workforce growth since May 2022 following $96M investment from Edison Partners in 2021. Specific remote/in-office ratio and policy details not publicly disclosed. Office expansion suggests commitment to hybrid model supporting both work arrangements.",
+    "innovation": {
+      "culture_rank": 21,
+      "process_rank": 74,
+      "product_rank": 40,
+      "overall_rank": 49
+    },
+    "logo_url": "https://logo.clearbit.com/dashsolutions.com"
+  },
+  {
+    "company": "Visa",
+    "rank": 50,
+    "sector": "Business Services",
+    "fortune_500_rank": "135",
+    "work_policy": {
+      "type": "Hybrid (2-3 days)",
+      "category": "Hybrid",
+      "days_required": 2,
+      "specific_days": "Tue, Wed, Thu (varies by office)",
+      "details": "50% in-office requirement (10 days per month alternating 2/3 days per week). 90% of roles hybrid. 4 weeks work-from-anywhere annually.",
+      "effective_date": "2023",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2022/05/13/visa-ceo-al-kelly-says-remote-work-would-have-impeded-his-rise-to-the-c-suite/",
+        "type": "Media",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "I think a job can be done at home, but I'm not sure a career gets built if you work from home.",
+    "verification_status": "Partial",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 23,
+      "process_rank": 24,
+      "product_rank": 46,
+      "overall_rank": 50
+    },
+    "logo_url": "https://logo.clearbit.com/visa.com"
+  },
+  {
+    "company": "Cardinal Health",
+    "rank": 51,
+    "sector": "Health Care",
+    "fortune_500_rank": "14",
+    "work_policy": {
+      "type": "Flexible (Remote/Hybrid/In-Person)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Manager discretion",
+      "details": "Three work models available: remote, hybrid, and in-person. No company-wide mandate for specific office days. CHRO Ola Snow states company is 'less focused on where employees get their work done but on what work needs to be done and where people are best energized to do it.' Policy varies significantly by role, department, and manager. Frontline workers have flexible shift options. Remote positions available in sales and customer service. No distinction between salaried/hourly for flexibility eligibility.",
+      "effective_date": "2022-present",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://newsroom.cardinalhealth.com/2022-12-07-From-high-tech-offices-to-boosted-benefits-How-HR-executives-are-developing-return-to-office-strategies",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.glassdoor.com/Reviews/Cardinal-Health-work-from-home-Reviews-EI_IE1227.0,15_KH16,30.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "We're less focused on where employees get their work done but on what work needs to be done and where people are best energized to do it. - Ola Snow, CHRO",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Cardinal Health describes approach as 'the next normal, not the new normal' - suggesting ongoing evolution. Expanded caregiver benefits (subsidized childcare/elder care) and 'mid-week moments' program support flexibility. Employee reviews indicate mixed experiences with policy varying significantly by manager. Some reports suggest certain departments eliminated hybrid options while others maintain flexibility. Company emphasizes business needs over fixed schedules.",
+    "innovation": {
+      "culture_rank": 62,
+      "process_rank": 44,
+      "product_rank": 33,
+      "overall_rank": 51
+    },
+    "logo_url": "https://logo.clearbit.com/cardinalhealth.com"
+  },
+  {
+    "company": "SpaceX",
+    "rank": 52,
+    "sector": "Aerospace & Defense",
+    "fortune_500_rank": null,
+    "work_policy": {
+      "type": "5-day in-office (Full RTO)",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Monday-Friday (minimum 40 hours/week)",
+      "details": "Employees required to spend minimum 40 hours per week in the office where actual colleagues are located (not remote pseudo-offices). Elon Musk issued ultimatum: 40 hours in office or leave the company. Those who don't show up assumed to have resigned. Remote work no longer acceptable. Senior employees held to higher visibility standards - 'the more senior you are, the more visible must be your presence.' Musk emphasized leadership presence by spending time in factories working alongside line workers.",
+      "effective_date": "June 2022",
+      "trend_direction": "Tightening",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.engadget.com/elon-musk-tells-space-x-and-tesla-workers-that-they-must-return-to-the-office-full-time-223747961.html",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.space.com/elon-musk-spacex-tesla-no-remote-work",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.washingtonpost.com/technology/2022/06/01/elon-musk-tesla-office/",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "The more senior you are, the more visible must be your presence. I will be at the factory floor so frequently that those on the line will think that I work there. - Elon Musk",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "One of the strictest RTO policies in tech/aerospace. SpaceX employed approximately 12,000 people when policy announced (June 2022). Policy identical to Tesla's simultaneous announcement. Musk later advocated for same 5-day federal employee RTO with Vivek Ramaswamy (November 2024-January 2025), stating it would result in 'voluntary terminations that we welcome.' Policy reflects Musk's strong anti-remote work stance.",
+    "innovation": {
+      "culture_rank": 58,
+      "process_rank": 10,
+      "product_rank": 67,
+      "overall_rank": 52
+    },
+    "logo_url": "https://logo.clearbit.com/spacex.com"
+  },
+  {
+    "company": "Under Armour",
+    "rank": 53,
+    "sector": "Industrials",
+    "fortune_500_rank": "602",
+    "work_policy": {
+      "type": "3-4 day hybrid (transitioning to 4)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Not specified",
+      "details": "Currently requires 3 days in-office per week through September 5, 2025. Increasing to 4 days in-office per week beginning September 8, 2025. Policy applies to corporate employees at Baltimore headquarters. Phased transition approach with gradual increase in office requirements. Along with T. Rowe Price, expanded return-to-office requirements in Baltimore market during 2024. Some positions already designated as 4 days/week, suggesting role-based variation.",
+      "effective_date": "Current: 3 days; Future: 4 days (Sept 8, 2025)",
+      "trend_direction": "Tightening",
+      "previous_policy": "Hybrid (fewer days)",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.msn.com/en-us/money/companies/under-armour-t-rowe-expand-return-to-office-requirements/ar-AA1MrAbm",
+        "type": "Media",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://careers.underarmour.com/job/Baltimore-Professional,-Sustainability-&-Product-Operations-MD-21230/1240755400/",
+        "type": "Job Postings",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.southbmore.com/2024/10/29/under-armour-to-open-new-office-building-in-november/",
+        "type": "Media",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Under Armour, T. Rowe expand return-to-office requirements. - WBAL-TV Baltimore (September 2025)",
+    "verification_status": "Verified from job postings and media reports",
+    "research_date": "2025-11-17",
+    "notes": "Approximately 1,500 employees working at new Baltimore Peninsula headquarters (opened November 2024). New HQ added 280,000 sq ft office space. Policy tightening coincides with major office infrastructure investment. Aligns with broader Baltimore corporate trend - T. Rowe Price also implementing 4-day requirement for 8,000+ associates. Under Armour operates on hybrid basis similar to other athletic apparel companies (Adidas, Tapestry), contrasting with Nike's stricter 4-day mandate.",
+    "innovation": {
+      "culture_rank": 76,
+      "process_rank": 30,
+      "product_rank": 25,
+      "overall_rank": 53
+    },
+    "logo_url": "https://logo.clearbit.com/underarmour.com"
+  },
+  {
+    "company": "Texas Instruments",
+    "rank": 59,
+    "sector": "Technology",
+    "fortune_500_rank": "188",
+    "work_policy": {
+      "type": "5-day in-office (Full RTO)",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Monday-Friday",
+      "details": "Mandatory 5 days per week in-person at all Dallas locations for all job roles, with no remote work allowed. HR actively monitors daily badge-ins to enforce compliance. CFO announced policy citing 'poor financial performance,' though employees note demand decreased due to end of chip shortage. Policy coincided with unannounced layoffs in Fall 2024.",
+      "effective_date": "March 2024",
+      "trend_direction": "Tightening",
+      "previous_policy": "Manager-flexible hybrid",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.glassdoor.com/Benefits/Texas-Instruments-Work-From-Home-US-BNFT152_E651_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.glassdoor.com/Reviews/Texas-Instruments-Dallas-Reviews-EI_IE651.0,17_IL.18,24_IM218.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.commercialcafe.com/blog/biggest-us-companies-return-to-office/",
+        "type": "Tracker",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "TI mandated 5 days a week at all Dallas locations for all job roles with no remote work allowed. CFO announced 5 days in office due to 'poor financial performance.' - Glassdoor employee reviews",
+    "verification_status": "Verified - Employee reports",
+    "research_date": "2025-11-17",
+    "notes": "One of the strictest RTO policies among tech companies. Previously, managers were very flexible with WFH policies, though this varied by group. Policy change coincided with financial challenges and layoffs, creating significant employee dissatisfaction. Badge monitoring enforcement suggests company is serious about compliance.",
+    "innovation": {
+      "culture_rank": 38,
+      "process_rank": 47,
+      "product_rank": 44,
+      "overall_rank": 59
+    },
+    "logo_url": "https://logo.clearbit.com/ti.com"
+  },
+  {
+    "company": "Rockwell Automation",
+    "rank": 60,
+    "sector": "Industrials",
+    "fortune_500_rank": "414",
+    "work_policy": {
+      "type": "3-day hybrid (specific days)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Monday, Tuesday, Thursday",
+      "details": "Employees expected to work at a Rockwell location at least Mondays, Tuesdays, and Thursdays unless they have a business obligation out of the office. Policy applies to hybrid-eligible employees at locations including Milwaukee, WI and Mayfield Heights, OH. Company is eliminating hiring of remote employees. Some employee reports mention 4 days per week, suggesting policy variations or recent changes.",
+      "effective_date": "2024",
+      "trend_direction": "Tightening",
+      "previous_policy": "Flexible hybrid/WFH",
+      "previous_date": "Pre-COVID"
+    },
+    "sources": [
+      {
+        "url": "https://www.indeed.com/viewjob?jk=ecef8e6990b82ad2",
+        "type": "Job Listings",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/Rockwell-Automation-Work-From-Home-US-BNFT152_E567_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.theretirementgroup.com/featured-article/how-a-hybrid-hybrid-work-environment-could-work-for-your-team-for-rockwell-employees",
+        "type": "Analysis",
+        "reliability": "Low"
+      }
+    ],
+    "key_quote": "Rockwell Automation's hybrid policy aligns that employees are expected to work at a Rockwell location at least Mondays, Tuesdays, and Thursdays unless they have a business obligation out of the office. - Indeed job posting",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Specific day requirements (Mon/Tue/Thu) provide predictability for team collaboration while offering Wed/Fri flexibility. Pre-COVID, employees could decide how much they worked from home. Company faced layoffs of 900 employees globally in 2024, contributing to decreased employee morale (3.7/5 Glassdoor rating, down 1% over 12 months).",
+    "innovation": {
+      "culture_rank": 60,
+      "process_rank": 51,
+      "product_rank": 39,
+      "overall_rank": 60
+    },
+    "logo_url": "https://logo.clearbit.com/rockwellautomation.com"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "rank": 61,
+    "sector": "Technology",
+    "fortune_500_rank": "339",
+    "work_policy": {
+      "type": "Client-dependent flexible (Hybrid/Remote/Onsite)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Determined by client requirements and team needs",
+      "details": "Three work models: 'Onsite' (4+ days/week or >50% over 90 days at client/company sites), 'Remote' (≤20 days/year onsite, requires living >50 miles from facility or no facility in state), 'Hybrid' (work expectations determined at team level). Arrangements are heavily client-dependent. Some teams require office once per week, others fully remote. Recent administration changes have reduced remote government contracts.",
+      "effective_date": "2021-present",
+      "trend_direction": "Tightening (client-driven)",
+      "previous_policy": "Very flexible remote before 2024",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.boozallen.com/careers/life-at-booz/flexibility-at-booz-allen.html",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/Booz-Allen-Hamilton-Work-From-Home-US-BNFT152_E2735_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.theretirementgroup.com/featured-article/5448096/return-to-work-policies-are-causing-issues-will-booz-allen-hamilton-holding-workers-be-affected",
+        "type": "Analysis",
+        "reliability": "Low"
+      }
+    ],
+    "key_quote": "Booz Allen Hamilton offers flexible scheduling and teleworking, but hybrid depends on the project - some are fully remote and others vary in amount of days per week. Work arrangements are client dependent. - Employee reviews",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Highly variable policy based on client contracts rather than uniform company mandate. If you can get on a contract that allows remote, you rarely need to go to office, but fewer government contracts offer this option in 2024-2025. Some employees report requirement to go to work office at least once a week (2024), though this doesn't work well for employees whose offices are far from home. Additional flexibility options include compressed work weeks, job sharing, and part-time employment.",
+    "innovation": {
+      "culture_rank": 82,
+      "process_rank": 49,
+      "product_rank": 42,
+      "overall_rank": 61
+    },
+    "logo_url": "https://logo.clearbit.com/boozallen.com"
+  },
+  {
+    "company": "Allstate",
+    "rank": 62,
+    "sector": "Financials",
+    "fortune_500_rank": "76",
+    "work_policy": {
+      "type": "Flexible choice (Predominantly remote)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Employee choice",
+      "details": "75% of employees are home-based, 24% hybrid, 1% office-based. Manager-led decisions allow teams to determine their own arrangements. Employees can choose when to use offices. Closed 5,000+ employee headquarters in Northbrook, IL and reduced office footprint from 12M to 4M sq ft. Partnership with LiquidSpace gives 25% of 54,000 corporate employees access to coworking spaces in cities like Atlanta, Tampa, and Minneapolis.",
+      "effective_date": "2020-present",
+      "trend_direction": "Maintaining",
+      "previous_policy": "20% remote (pre-pandemic)",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.computerworld.com/article/1625683/allstate-goes-all-in-on-remote-work-while-building-company-culture.html",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.bisnow.com/national/news/coworking/allstate-commits-to-hybrid-work-with-move-to-coworking-memberships-126842",
+        "type": "Media",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.secureworld.io/industry-news/allstate-workplace-flexibility",
+        "type": "Media",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.allstatecorporation.com/stories/flexible-workplace.aspx",
+        "type": "Official",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "95% of employees surveyed said 'We want flexibility.' Currently 75% of employees are home-based, 24% are hybrid, and 1% are office-based. - CHRO",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "One of the most flexible policies among Fortune 500 companies. After surveying 40,000 employees in summer 2020, 95% requested flexible work. Results: 23% increase in job applications, 33% increase in diverse applicants, 30% increase in diverse candidates overall. Corporate office spending reduced from $382M (2020) to $138M (2024). Employee engagement increased from 80.5% (2019) to 83.5% (2023). Converted offices to collaboration centers rather than traditional workspaces.",
+    "innovation": {
+      "culture_rank": 69,
+      "process_rank": 53,
+      "product_rank": 45,
+      "overall_rank": 62
+    },
+    "logo_url": "https://logo.clearbit.com/allstate.com"
+  },
+  {
+    "company": "eBay",
+    "rank": 63,
+    "sector": "Technology",
+    "fortune_500_rank": "337",
+    "work_policy": {
+      "type": "3-day hybrid",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Flexible - team coordination",
+      "details": "Majority of workforce is hybrid, splitting time between working remotely and onsite at specific eBay office locations. Leaders, teams, and individuals work together to determine when to be onsite to drive results and achieve business and personal goals. Also offers fully Remote positions (home-based, not assigned to specific location, may occasionally travel) and Onsite positions (when essential for access to specialized equipment/technology).",
+      "effective_date": "Post-pandemic",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://jobs.ebayinc.com/us/en/how-we-work",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.glassdoor.com/Benefits/eBay-Work-From-Home-US-BNFT152_E7853_N1.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://hubblehq.com/blog/famous-companies-workplace-strategies",
+        "type": "Tracker",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Flexibility is deeply rooted in our values and culture. The majority of eBay's workforce is hybrid, splitting their time between working remotely and onsite at a specific eBay office location. - eBay Careers",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "eBay has maintained its flexible hybrid approach while other tech companies like Amazon, Dell, and AT&T implemented stricter full-time office requirements in 2024-2025. Employees report 3 days in office per week as of January 2025. Specific days and arrangements vary by role and team, requiring discussion with hiring managers during interview process. Company emphasizes that flexibility is core to its values and culture.",
+    "innovation": {
+      "culture_rank": 42,
+      "process_rank": 82,
+      "product_rank": 56,
+      "overall_rank": 63
+    },
+    "logo_url": "https://logo.clearbit.com/ebay.com"
+  },
+  {
+    "company": "Cleveland Clinic",
+    "rank": 100,
+    "sector": "Health Care",
+    "fortune_500_rank": "",
+    "work_policy": {
+      "type": "Flexible remote/hybrid - Role-dependent",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Varies by team - 2-3 days for hybrid, fully remote for others",
+      "details": "Cleveland Clinic continues to embrace and expand remote/hybrid work. Over 11,000 employees (13% of global workforce) work remotely or hybrid as of 2024. Two-thirds of administrative employees work fully remote, while the rest are hybrid with 2-3 days in office. Clinical staff remain on-site. Eligible roles include systems and financial analysis, project/program/care management, HR, scheduling, patient financial advocacy, and authorization.",
+      "effective_date": "2021-06",
+      "trend_direction": "Relaxing",
+      "previous_policy": "Traditional on-site healthcare model",
+      "previous_date": "2020-03"
+    },
+    "sources": [
+      {
+        "url": "https://www.beckershospitalreview.com/workforce/cleveland-clinics-remote-hybrid-workforce-tops-11k/",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2024-01"
+      },
+      {
+        "url": "https://consultqd.clevelandclinic.org/novel-program-supports-remote-employees-with-a-team-of-champions",
+        "type": "Official",
+        "reliability": "High",
+        "date": "2024-08"
+      },
+      {
+        "url": "https://www.ormanager.com/briefs/cleveland-clinic-continues-to-embrace-hybrid-remote-work/",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2024"
+      }
+    ],
+    "key_quote": "While many companies are calling remote employees back to the office, at Cleveland Clinic, flexible work is only gaining speed. Engagement scores for remote and hybrid employees are in the 98th percentile for recommending Cleveland Clinic as a place to work.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Cleveland Clinic is a significant outlier in the healthcare industry and broader corporate landscape. The organization has 8,100 non-clinical employees working remote/hybrid, with engagement scores in the 98th percentile. They have a dedicated Remote and Hybrid Work Champions program with 25 stakeholders across the enterprise. The strategy rolled out in June 2021 and has only expanded since then, contrasting sharply with the broader RTO trend.",
+    "innovation": {
+      "culture_rank": 11,
+      "process_rank": 96,
+      "product_rank": 97,
+      "overall_rank": 64
+    },
+    "logo_url": "https://logo.clearbit.com/clevelandclinic.org"
+  },
+  {
+    "company": "Netflix",
+    "rank": 90,
+    "sector": "Media",
+    "fortune_500_rank": "115",
+    "work_policy": {
+      "type": "Hybrid-by-choice (team-based flexibility)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Varies by team preference",
+      "details": "Netflix maintains a flexible, team-based approach with no company-wide RTO mandate. Teams set their own cadence for in-office time. Many employees work in-office a few days per week by personal or team preference, while significant numbers are almost entirely remote. Most engineering and data teams are totally remote. The company emphasizes 'purposeful, not mandatory' office time, rooted in their 'freedom and responsibility' culture. Netflix continues hiring for remote roles in 2024-2025.",
+      "effective_date": "2024-01",
+      "trend_direction": "Maintaining",
+      "previous_policy": "Similar flexible approach maintained throughout pandemic",
+      "previous_date": "2020-03"
+    },
+    "sources": [
+      {
+        "url": "https://wfa.team/blog/netflix-remote-work-from-anywhere-policy/",
+        "type": "Tracker",
+        "reliability": "High",
+        "date": "2024"
+      },
+      {
+        "url": "https://www.teamblind.com/post/what-is-the-rto-policy-for-netflix-ew0wwynk",
+        "type": "Employee",
+        "reliability": "Medium",
+        "date": "2024"
+      }
+    ],
+    "key_quote": "Netflix updated its famous Culture Memo in 2024 and notably did not install any strict anti-remote edicts - instead, it doubled down on hiring 'responsible' people and trusting them with freedom. Netflix encourages 'in-office [time that is] purposeful, not mandatory.'",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Netflix's approach is consistent with their culture of freedom and responsibility. The 2024 Culture Memo update emphasized that autonomy remains key and employees can log in 'from home, an office, or a café across the world' as needed. The company avoids rigid remote policies with 'no one-size-fits-all schedule.' Co-CEOs Ted Sarandos and Greg Peters maintain this flexible approach. Employee reviews highlight remote work as a 5/5 perk.",
+    "innovation": {
+      "culture_rank": 26,
+      "process_rank": 62,
+      "product_rank": 66,
+      "overall_rank": 65
+    },
+    "logo_url": "https://logo.clearbit.com/netflix.com"
+  },
+  {
+    "company": "Intuit",
+    "rank": 55,
+    "sector": "Technology",
+    "fortune_500_rank": "221",
+    "work_policy": {
+      "type": "2-3 day hybrid (team-based flexibility)",
+      "category": "Hybrid",
+      "days_required": 2,
+      "specific_days": "Varies by team",
+      "details": "Intuit expects all teams to work on-site at least 2 days per week, with teams empowered to determine the optimal hybrid work approach. Some teams require 3 days. The company emphasizes 'people over policies' with teams coming together in person with purpose. Not strictly enforced across all teams.",
+      "effective_date": "2022-05",
+      "trend_direction": "Maintaining",
+      "previous_policy": "Full flexibility during pandemic",
+      "previous_date": "2020-2022"
+    },
+    "sources": [
+      {
+        "url": "https://www.intuit.com/careers/hybrid-work/",
+        "type": "Official",
+        "reliability": "High",
+        "date": "2024-11-17"
+      },
+      {
+        "url": "https://www.ciodive.com/news/Intuit-hybrid-work-return-to-office-tech/633642/",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2022-10"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Intuit/faq/is-hybrid-2-days-a-week-or-3-in-office",
+        "type": "Employee",
+        "reliability": "Medium",
+        "date": "2024-06"
+      }
+    ],
+    "key_quote": "Survey results revealed that 80% of Intuit employees preferred a hybrid-workplace model that brings together virtual collaboration with on-site interaction. At Intuit, hybrid work is built around people over policies, with teams coming together in person with purpose, not just to fill a calendar.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Intuit maintains one of the more flexible hybrid policies among tech companies, avoiding strict 5-day RTO mandates. Implementation varies by team with some requiring 2 days and others 3 days. The company emphasizes intentional collaboration over mandate enforcement.",
+    "innovation": {
+      "culture_rank": 31,
+      "process_rank": 70,
+      "product_rank": 64,
+      "overall_rank": 69
+    },
+    "logo_url": "https://logo.clearbit.com/intuit.com"
+  },
+  {
+    "company": "AH Group",
+    "rank": 74,
+    "sector": "Health Care",
+    "fortune_500_rank": "N/A",
+    "work_policy": {
+      "type": "Unknown - No public information available",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Unknown",
+      "details": "No public information available about work arrangements",
+      "effective_date": null,
+      "trend_direction": "Unknown",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "type": "Company Website",
+        "url": "https://ahgroupna.com/about/",
+        "date": "2024",
+        "note": "Industrial MRO and repair management company with global operations - no RTO policy information"
+      },
+      {
+        "type": "LinkedIn",
+        "url": "https://www.linkedin.com/company/ahgroupofcompanies",
+        "date": "2024",
+        "note": "Company profile confirmed but no remote work policy details"
+      }
+    ],
+    "key_quote": "AH Group (American Hydrostatics) is a global leader in managing failed machinery and automation components, headquartered in Troy, Michigan with operations in 11 countries. The company has not publicly disclosed its RTO, hybrid, or remote work policies. NOTE: Could not verify this company at rank 74 on Fortune's Most Innovative Companies 2025 list - the ranking may need verification.",
+    "verification_status": "Unverified",
+    "research_date": "2025-11-17",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 32,
+      "process_rank": 73,
+      "product_rank": 62,
+      "overall_rank": 74
+    },
+    "logo_url": "https://logo.clearbit.com/ahgroupna.com"
+  },
+  {
+    "company": "Omnidian",
+    "rank": 75,
+    "sector": "Energy",
+    "fortune_500_rank": "",
+    "work_policy": {
+      "type": "Remote-friendly hybrid",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "None",
+      "details": "Distributed team across 4 continents. No mandatory office requirements. WeWork coworking access available but no brick-and-mortar offices. Remote work encouraged.",
+      "effective_date": "Ongoing",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.flexjobs.com/remote-jobs/company/omnidian",
+        "type": "Tracker",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Remote work is encouraged and flexible scheduling is possible",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 59,
+      "process_rank": 57,
+      "product_rank": 65,
+      "overall_rank": 75
+    },
+    "logo_url": "https://logo.clearbit.com/omnidian.com"
+  },
+  {
+    "company": "UnitedHealth Group",
+    "rank": 88,
+    "sector": "Health Care",
+    "fortune_500_rank": "5",
+    "work_policy": {
+      "type": "4-day office requirement",
+      "category": "Hybrid",
+      "days_required": 4,
+      "specific_days": "Varies by team",
+      "details": "Hybrid employees in Minnesota and Washington D.C. required to work from office 4 days per week starting week of July 7, 2025. Applies to approximately 19,000 in-state workers. Does not apply to permanent remote/telecommuter employees. First formal change to RTO expectations in 4 years.",
+      "effective_date": "2025-07-07",
+      "trend_direction": "Tightening",
+      "previous_policy": "3-day hybrid model",
+      "previous_date": "2021-07"
+    },
+    "sources": [
+      {
+        "url": "https://buildremote.co/return-to-office/unitedhealth/",
+        "type": "Tracker",
+        "reliability": "High",
+        "date": "2025-06"
+      },
+      {
+        "url": "https://www.startribune.com/unitedhealth-group-requiring-more-time-at-hq-for-hybrid-workers-in-twin-cities/601381108",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2025-06"
+      },
+      {
+        "url": "https://www.beckerspayer.com/workforce/unitedhealth-mandates-4-days-in-office-for-some-employees/",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2025-06"
+      }
+    ],
+    "key_quote": "Fostering strong connections and in-person collaboration helps strengthen employee teams based in our Twin Cities offices to further enhance innovation and better coordinate the support we provide to the customers we are honored to serve.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "UnitedHealth is one of only 18 Fortune 500 companies requiring 4 days per week in office. Part of broader Minnesota trend including Medtronic, Ameriprise, Target, and state government. Notably, company previously championed flexibility and eliminated ~8 million sq ft of office space in 2023 Sustainability Report as employees opted for remote/hybrid. This represents significant policy reversal. Role-dependent: clinical staff always on-site, policy focuses on corporate/administrative hybrid workers.",
+    "innovation": {
+      "culture_rank": 77,
+      "process_rank": 76,
+      "product_rank": 59,
+      "overall_rank": 78
+    },
+    "logo_url": "https://logo.clearbit.com/unitedhealthgroup.com"
+  },
+  {
+    "company": "Walmart",
+    "rank": 80,
+    "sector": "Retailing",
+    "fortune_500_rank": "1",
+    "work_policy": {
+      "type": "5-day office-first with relocation mandate",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Mon-Fri",
+      "details": "5 days per week at designated corporate campuses. Required relocation to Bentonville, Hoboken, or San Francisco. Closed Dallas, Atlanta, Toronto offices.",
+      "effective_date": "2024-08 to 2025-01",
+      "trend_direction": "Tightening",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.cnn.com/2024/05/14/business/walmart-layoff-corporate-workers/index.html",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Being together, in person, makes us better and helps us to collaborate, innovate and move even faster.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 90,
+      "process_rank": 65,
+      "product_rank": 71,
+      "overall_rank": 80
+    },
+    "logo_url": "https://logo.clearbit.com/walmart.com"
+  },
+  {
+    "company": "Best Buy",
+    "rank": 89,
+    "sector": "Retailing",
+    "fortune_500_rank": "72",
+    "work_policy": {
+      "type": "3-day hybrid",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Varies by team",
+      "details": "Best Buy requires employees to be in the office three days per week under a policy set in 2022. The company maintains this hybrid approach for corporate staff, though specific days vary by team and role. Some employees have mentioned flexibility in scheduling.",
+      "effective_date": "2022-04",
+      "trend_direction": "Maintaining",
+      "previous_policy": "Remote-first during COVID-19",
+      "previous_date": "2020-2022"
+    },
+    "sources": [
+      {
+        "url": "https://buildremote.co/return-to-office/minnesota/",
+        "type": "Tracker",
+        "reliability": "High",
+        "date": "2024-09"
+      },
+      {
+        "url": "https://www.startribune.com/best-buy-will-start-hybrid-work-weeks-at-corporate-campus-on-april-18/600157052",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2022-04"
+      },
+      {
+        "url": "https://www.indeed.com/cmp/Best-Buy/reviews",
+        "type": "Employee",
+        "reliability": "Medium",
+        "date": "2025-08"
+      }
+    ],
+    "key_quote": "Best Buy requires employees to be in the office three days per week under a policy it set in 2022.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Best Buy Canada adopted a more flexible remote-first approach for corporate staff in 2022, but US operations maintain 3-day in-office requirement. Employee reviews from 2025 confirm hybrid/WFH environment continues. The company eliminated 400 remote positions in earlier years but maintains hybrid flexibility for corporate campus roles.",
+    "innovation": {
+      "culture_rank": 94,
+      "process_rank": 78,
+      "product_rank": 74,
+      "overall_rank": 81
+    },
+    "logo_url": "https://logo.clearbit.com/bestbuy.com"
+  },
+  {
+    "company": "Target",
+    "rank": 94,
+    "sector": "Retailing",
+    "fortune_500_rank": "32",
+    "work_policy": {
+      "type": "3-day hybrid",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "Flexible - employee choice",
+      "details": "Target expanded its RTO policy in September 2025, requiring most headquarters workers to be in office 3 days per week. This represents a major shift from one of the least stringent RTO policies in the Fortune 500. Employees can establish their own schedules and select which three days work best for their roles and teams.",
+      "effective_date": "2025-09-02",
+      "trend_direction": "Tightening",
+      "previous_policy": "Flexible hybrid - team-determined",
+      "previous_date": "2022-2025"
+    },
+    "sources": [
+      {
+        "url": "https://buildremote.co/return-to-office/target-rto/",
+        "type": "Tracker",
+        "reliability": "High",
+        "date": "2025-07"
+      },
+      {
+        "url": "https://www.thehrdigest.com/target-employees-return-to-office-as-rto-mandates-lead-the-way/",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2025-07"
+      },
+      {
+        "url": "https://www.retaildive.com/news/target-commercial-chief-rick-gomez-return-to-office/753299/",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2025-07"
+      },
+      {
+        "url": "https://www.startribune.com/target-together-return-to-work-downtown-minneapolis-ameriprise/601466349",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2025-08"
+      }
+    ],
+    "key_quote": "More time together in the office will help us grow our business faster, solve problems quickly and build stronger relationships. - Rick Gomez, Chief Commercial Officer",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "This policy change affects Target's commercial division (one of its largest business units including merchandising). The announcement came via email from Chief Commercial Officer Rick Gomez. Target previously had one of the least stringent RTO policies in Minnesota's Fortune 500 companies. The company maintains that besides five mandated in-office weeks, work groups can still decide on additional office time.",
+    "innovation": {
+      "culture_rank": 84,
+      "process_rank": 83,
+      "product_rank": 73,
+      "overall_rank": 82
+    },
+    "logo_url": "https://logo.clearbit.com/target.com"
+  },
+  {
+    "company": "FedEx",
+    "rank": 86,
+    "sector": "Transportation",
+    "fortune_500_rank": "46",
+    "work_policy": {
+      "type": "Hybrid (Purple Flex)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "Purple Flex Team Days - predetermined but not publicly disclosed",
+      "details": "Three work categories: Central (100% office), Hybrid (mixed with Team Days), Anywhere (fully remote). Specific office day requirements not publicly disclosed.",
+      "effective_date": "2021-2022",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "url": "https://www.i4cp.com/meetings/getting-hybrid-work-right-7-21",
+        "type": "Media",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Purple Flex Team Days for intentional, pre-determined collaboration",
+    "verification_status": "Partial",
+    "research_date": "2025-11-16",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 85,
+      "process_rank": 81,
+      "product_rank": 76,
+      "overall_rank": 86
+    },
+    "logo_url": "https://logo.clearbit.com/fedex.com"
+  },
+  {
+    "company": "Starbucks",
+    "rank": 96,
+    "sector": "Consumer Discretionary",
+    "fortune_500_rank": "120",
+    "work_policy": {
+      "type": "3-day hybrid (enforcement started Jan 2025)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "No longer required Tuesdays (as of Jan 2025), otherwise varies",
+      "details": "Corporate employees required to work in office 3 days per week. Company implemented strict accountability process starting January 2025 with termination as possible consequence for non-compliance. Remote people managers must relocate to Seattle or Toronto or leave company. Note: BuildRemote.co mentions future increase to 4 days effective Sept 2025, but this could not be verified in other sources as of Nov 2025.",
+      "effective_date": "2023-01",
+      "trend_direction": "Tightening",
+      "previous_policy": "More flexible remote work during pandemic",
+      "previous_date": "Pre-2023"
+    },
+    "sources": [
+      {
+        "url": "https://buildremote.co/return-to-office/starbucks/",
+        "type": "Tracker",
+        "reliability": "High",
+        "date": "2024-10-28"
+      },
+      {
+        "url": "https://www.hrgrapevine.com/us/content/article/2024-10-30-starbucks-warns-staff-defy-our-rto-mandate-risk-being-fired",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2024-10-30"
+      },
+      {
+        "url": "https://fortune.com/2024/10/28/starbucks-return-to-office-mandate-remote-work-from-home-fired-brian-niccol/",
+        "type": "Media",
+        "reliability": "High",
+        "date": "2024-10-28"
+      }
+    ],
+    "key_quote": "We are reestablishing our in-office culture because we do our best work when we're together. - CEO Brian Niccol",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "This is Starbucks' 4th RTO mandate change in 3 years. Accountability process with potential termination began January 2025. Controversy exists as CEO Niccol himself works remotely from California and commutes to Seattle by corporate jet. Affects approximately 3,500 corporate employees.",
+    "innovation": {
+      "culture_rank": 87,
+      "process_rank": 90,
+      "product_rank": 80,
+      "overall_rank": 87
+    },
+    "logo_url": "https://logo.clearbit.com/starbucks.com"
+  },
+  {
+    "company": "Duke Energy",
+    "rank": 92,
+    "sector": "Energy",
+    "fortune_500_rank": 104,
+    "work_policy": {
+      "type": "Hybrid - Flexible arrangements varying by role",
+      "category": "Hybrid",
+      "days_required": 2,
+      "specific_days": "Common schedule: 4x10 hours with 2 days in office, 2 days remote. Some positions may require 3 days in office.",
+      "details": "Hybrid policy allows employees to work from both remote and onsite locations after onboarding period. Employees must live within reasonable commute distance to designated Duke Energy facility. Specific requirements vary by position and department.",
+      "effective_date": "2023-2024",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "type": "Job Postings",
+        "url": "https://www.indeed.com/cmp/Duke-Energy/faq/work-from-home",
+        "date": "2024",
+        "note": "Employee responses indicate hybrid arrangements with 2-3 days in office"
+      },
+      {
+        "type": "News Article",
+        "url": "https://www.wcnc.com/article/money/duke-energy-downsizing-real-estate-footprint-employees-working-home/275-4c5b06b7-e162-414b-be80-732ef7d1e94e",
+        "date": "2024",
+        "note": "Duke Energy downsizing real estate footprint, new Charlotte HQ designed for 4,400 workers despite 6,000 employees"
+      },
+      {
+        "type": "Company Resource",
+        "url": "https://www.flexindex.com/company/duke-energy",
+        "date": "2024",
+        "note": "Listed as offering hybrid remote work arrangements"
+      }
+    ],
+    "key_quote": "Duke Energy has embraced a hybrid work model with most positions requiring 2-3 days in office per week. The company spokesperson stated employees 'can have a hybrid work environment and still get jobs done.' Their new Charlotte headquarters was designed to accommodate not all employees simultaneously, indicating commitment to ongoing flexible work. The specific schedule varies by role, with some departments using a 4x10 schedule (2 days in office, 2 remote) while others may require 3 days in office.",
+    "verification_status": "Partial",
+    "research_date": "2025-11-17",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 78,
+      "process_rank": 95,
+      "product_rank": 90,
+      "overall_rank": 92
+    },
+    "logo_url": "https://logo.clearbit.com/duke-energy.com"
+  },
+  {
+    "company": "Liberty Mutual Insurance Group",
+    "rank": 93,
+    "sector": "Financials",
+    "fortune_500_rank": 86,
+    "work_policy": {
+      "type": "Hybrid - 2 days in office per week for employees within 50 miles of hub locations",
+      "category": "Hybrid",
+      "days_required": 2,
+      "specific_days": "2 days per week in office for most departments; GRS Claims only requires 2 days per month in office",
+      "details": "Employees living within 50 miles of hub office locations (Boston, Seattle, Portsmouth, Plano) must work hybrid schedule. Those 50+ miles from hubs can remain fully remote. Field adjusters typically 100% remote. Some departments vary in requirements. Company offered 7 weeks of fully remote work in summer/holiday periods in 2024.",
+      "effective_date": "September 2023",
+      "trend_direction": "Maintaining",
+      "previous_policy": "",
+      "previous_date": ""
+    },
+    "sources": [
+      {
+        "type": "Employee Reports",
+        "url": "https://www.indeed.com/cmp/Liberty-Mutual-Insurance/faq/what-is-the-work-from-home-policy-at-liberty-mutual-insurance",
+        "date": "2024",
+        "note": "Multiple employees confirm 2 days/week requirement for those within 50 miles of hubs"
+      },
+      {
+        "type": "News Article",
+        "url": "https://www.hr-brew.com/stories/2024/06/26/to-avoid-a-summer-slump-some-employers-offer-flexible-work-policies",
+        "date": "2024-06",
+        "note": "Liberty Mutual offers hybrid employees 7 weeks fully remote during summer/holidays 2024"
+      },
+      {
+        "type": "News Article",
+        "url": "https://www.boston.com/news/the-boston-globe/2024/11/27/amazon-is-requiring-workers-to-come-back-to-the-office-five-days-a-week-are-boston-companies-following-suit/",
+        "date": "2024-11",
+        "note": "Liberty Mutual maintaining 2 days/week policy as of November 2024, not increasing despite other companies' RTO pushes"
+      },
+      {
+        "type": "News Article",
+        "url": "https://www.dallasnews.com/business/real-estate/2024/04/30/hybrid-work-compels-liberty-mutual-to-reimagine-plano-campus/",
+        "date": "2024-04",
+        "note": "Company planning for employees to average 2 days/week in office, 3 days virtual"
+      }
+    ],
+    "key_quote": "Liberty Mutual has a clearly defined hybrid policy requiring 2 days per week in office for employees within 50 miles of major hub locations (Boston, Seattle, Portsmouth, Plano). The policy was implemented in September 2023 and has remained stable through November 2024, even as other companies increased RTO requirements. Notably, the company provided additional flexibility with 7 weeks of fully remote work during summer/holiday periods in 2024. GRS Claims department has more lenient requirements (2 days/month vs 2 days/week). Field adjusters remain fully remote. The company is redesigning office spaces to accommodate the hybrid model.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "",
+    "innovation": {
+      "culture_rank": 72,
+      "process_rank": 87,
+      "product_rank": 88,
+      "overall_rank": 93
+    },
+    "logo_url": "https://logo.clearbit.com/libertymutual.com"
+  },
+  {
+    "company": "Stanley Black & Decker",
+    "rank": 95,
+    "sector": "Household Products",
+    "fortune_500_rank": "95",
+    "work_policy": {
+      "type": "Hybrid/Remote split (Role-based)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "N/A - Role-dependent",
+      "details": "One-third of office positions (10,000 worldwide) are fully remote, one-third work hybrid schedule, and one-third remain in office 5 days per week. Role-based approach where customer service roles can be fully virtual, while engineering roles typically hybrid or in-office. Company restructured headquarters to support communications infrastructure for hybrid work.",
+      "effective_date": "2021-08",
+      "trend_direction": "Stable",
+      "previous_policy": "Traditional office-first",
+      "previous_date": "Pre-2020"
+    },
+    "sources": [
+      {
+        "url": "https://www.hartfordbusiness.com/article/amid-vastly-changing-work-environment-stanley-black-decker-to-shift-one-third-of-office",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.courant.com/2021/08/09/stanley-black-decker-pivots-to-hybrid-workplace-as-covid-19-pandemic-reshapes-the-office-of-the-future/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "We wanted to take a thoughtful, role-based approach to determine which jobs could be done remotely or require an in-person presence.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Policy established in 2021 and remains stable through 2024. About 350 Connecticut employees shifted to remote work. Company invested in headquarters renovation to support hybrid infrastructure.",
+    "innovation": {
+      "culture_rank": 93,
+      "process_rank": 86,
+      "product_rank": 84,
+      "overall_rank": 95
+    },
+    "logo_url": "https://logo.clearbit.com/stanleyblackanddecker.com"
+  },
+  {
+    "company": "Morgan Stanley",
+    "rank": 96,
+    "sector": "Financials",
+    "fortune_500_rank": "96",
+    "work_policy": {
+      "type": "4-day hybrid (Wealth Management) / 3-day hybrid (Other divisions)",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "N/A - Not specified",
+      "details": "Wealth Management division (~15,000 employees) required in office 4 days per week starting May 5, 2025. Supervisors expected in office 5 days unless exempted. Most other employees work hybrid with average 3 days per week in office. Remote work capped at 90 days per year for salespeople (policy from July 2022). Company tracks office presence through system logins.",
+      "effective_date": "2025-05",
+      "trend_direction": "Tightening",
+      "previous_policy": "3-day hybrid average",
+      "previous_date": "2022-2024"
+    },
+    "sources": [
+      {
+        "url": "https://www.advisorhub.com/morgan-stanley-to-bring-advisors-back-to-office-four-days-a-week/",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://buildremote.co/return-to-office/morgan-stanley/",
+        "type": "Tracker",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.advisorhub.com/exclusive-morgan-stanley-calls-brokers-back-to-offices-sets-90-day-cap-on-wfh/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "What has not changed, however, is the vast majority of us do our best work when we are together in person.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Policy varies by division. Wealth Management head Jed Finn announced 4-day requirement in March 2025 memo. Company uses badge tracking and login monitoring to enforce attendance.",
+    "innovation": {
+      "culture_rank": 70,
+      "process_rank": 98,
+      "product_rank": 92,
+      "overall_rank": 96
+    },
+    "logo_url": "https://logo.clearbit.com/morganstanley.com"
+  },
+  {
+    "company": "Zillow Group",
+    "rank": 97,
+    "sector": "Technology",
+    "fortune_500_rank": "97",
+    "work_policy": {
+      "type": "Remote-first (CloudHQ)",
+      "category": "Fully Remote",
+      "days_required": 0,
+      "specific_days": "N/A",
+      "details": "84% of 6,900 employees are fully remote with no requirement to work in office regularly. Only 5% required in office 80-100% of time (primarily mortgage roles due to compliance requirements). Company maintains 6 offices across US (Seattle, San Francisco, Irvine, New York, and other major hubs) but considers them optional collaborative spaces. Employees now located in all 50 states.",
+      "effective_date": "2020-early",
+      "trend_direction": "Stable",
+      "previous_policy": "Traditional office-based",
+      "previous_date": "Pre-2020"
+    },
+    "sources": [
+      {
+        "url": "https://www.entrepreneur.com/business-news/zillow-is-sticking-with-remote-work-cloudhq-says-ceo/486254",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://fortune.com/2024/08/30/zillow-ceo-remote-work-job-applicants-quadrupled-jeremy-wacksman/",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.zillowgroup.com/news/zillow-announces-indefinite-work-from-home-policy/",
+        "type": "Official",
+        "reliability": "High"
+      },
+      {
+        "url": "https://fortune.com/2025/05/23/remote-work-business-strategy-zillow/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "Remote work isn't a perk, it's a business strategy. We pivoted the company and committed to [CloudHQ] model almost 5 years ago now, and it's been fantastic for us.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "CEO Jeremy Wacksman reports 4x increase in job applicants compared to pre-pandemic. Rent expense decreased $31 million in 2024 due to reduced office space needs. Chief People Officer Dan Spaulding emphasizes removing 'politics of proximity' from workplace culture.",
+    "innovation": {
+      "culture_rank": 92,
+      "process_rank": 93,
+      "product_rank": 94,
+      "overall_rank": 97
+    },
+    "logo_url": "https://logo.clearbit.com/zillowgroup.com"
+  },
+  {
+    "company": "Cognizant Technology Solutions",
+    "rank": 98,
+    "sector": "Technology",
+    "fortune_500_rank": "98",
+    "work_policy": {
+      "type": "3-day hybrid (India employees)",
+      "category": "Hybrid",
+      "days_required": 3,
+      "specific_days": "N/A - Team leader discretion",
+      "details": "All India associates (254,000 of 347,700 total employees) required in office average 3 days per week or as defined by team leader, effective February 2024. Company launched hybrid-work scheduling app to coordinate schedules and reserve office space. CEO urged employees to prioritize collaborative activities like projects, training, and team building during in-office time. Non-compliance warnings issued April 2024 with potential termination for violations.",
+      "effective_date": "2024-02",
+      "trend_direction": "Tightening",
+      "previous_policy": "Flexible office visits based on project needs",
+      "previous_date": "2020-2024"
+    },
+    "sources": [
+      {
+        "url": "https://www.businesstoday.in/technology/news/story/wfh-over-cognizant-asks-employees-in-india-to-work-from-office-thrice-a-week-internal-memo-shows-419411-2024-02-29",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.business-standard.com/companies/news/may-lead-to-termination-cognizant-warns-it-employees-defying-return-to-office-rule-124051700430_1.html",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://www.hrkatha.com/news/3-days-in-office-cognizant-mandate-for-india-employees/",
+        "type": "News",
+        "reliability": "High"
+      }
+    ],
+    "key_quote": "All India associates are expected to be in the office an average of three days per week, or as defined by their team leader.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "CEO Ravi Kumar S announced policy in late February 2024 memo. Company joined Indian IT peers TCS, Infosys, and Wipro in implementing return-to-office mandates. Enforcement includes office hour tracking and seat allocation system.",
+    "innovation": {
+      "culture_rank": 95,
+      "process_rank": 97,
+      "product_rank": 87,
+      "overall_rank": 98
+    },
+    "logo_url": "https://logo.clearbit.com/cognizant.com"
+  },
+  {
+    "company": "Goldman Sachs Group",
+    "rank": 99,
+    "sector": "Financials",
+    "fortune_500_rank": "99",
+    "work_policy": {
+      "type": "5-day office-first",
+      "category": "Full Office",
+      "days_required": 5,
+      "specific_days": "Mon-Fri",
+      "details": "Full-time in-office requirement with flexibility only for exceptional circumstances. Policy continuously enforced since 2021 with multiple reminder campaigns. In August 2023, HR Chief Jacqueline Arthur sent reminders to employees after reluctance from non-revenue-producing staff. Revenue-producing employees mostly compliant. One of Wall Street's strictest return-to-office policies alongside Blackstone and JPMorgan.",
+      "effective_date": "2021",
+      "trend_direction": "Stable",
+      "previous_policy": "Remote during pandemic",
+      "previous_date": "2020-2021"
+    },
+    "sources": [
+      {
+        "url": "https://fortune.com/2023/08/22/goldman-sachs-return-to-office-rto-five-days-weekly/",
+        "type": "News",
+        "reliability": "High"
+      },
+      {
+        "url": "https://buildremote.co/return-to-office/goldman-sachs/",
+        "type": "Tracker",
+        "reliability": "High"
+      },
+      {
+        "url": "https://hubblehq.com/blog/famous-companies-workplace-strategies",
+        "type": "Tracker",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "While there is flexibility when needed, we are simply reminding our employees of our existing policy. We have continued to encourage employees to work in the office five days a week.",
+    "verification_status": "Verified",
+    "research_date": "2025-11-17",
+    "notes": "Goldman has issued seven return-to-office mandates/reminders since 2021. Among most aggressive Wall Street firms on in-office requirements. Senior managers frustrated by reluctance of non-revenue staff to comply fully.",
+    "innovation": {
+      "culture_rank": 96,
+      "process_rank": 99,
+      "product_rank": 93,
+      "overall_rank": 99
+    },
+    "logo_url": "https://logo.clearbit.com/goldmansachs.com"
+  },
+  {
+    "company": "Byrne Software Technologies",
+    "rank": 100,
+    "sector": "Technology",
+    "fortune_500_rank": "N/A",
+    "work_policy": {
+      "type": "Flexible/Remote options available",
+      "category": "Hybrid",
+      "days_required": 0,
+      "specific_days": "N/A",
+      "details": "Company offers flexible work arrangements including some remote positions. As a consulting firm, many employees work at client sites. Employee reviews mention mostly flexible hours. Company unveiled Employee Stock Ownership Plan (ESOP) in 2024.",
+      "effective_date": "N/A",
+      "trend_direction": "Stable",
+      "previous_policy": "N/A",
+      "previous_date": "N/A"
+    },
+    "sources": [
+      {
+        "url": "https://www.glassdoor.com/Reviews/Byrne-Software-Reviews-E101500.htm",
+        "type": "Employee Reviews",
+        "reliability": "Medium"
+      },
+      {
+        "url": "https://www.linkedin.com/company/byrne-software-technologies",
+        "type": "Company Profile",
+        "reliability": "Medium"
+      }
+    ],
+    "key_quote": "Hours were mostly flexible",
+    "verification_status": "Limited Info",
+    "research_date": "2025-11-17",
+    "notes": "St. Louis-based IT consulting firm. No official public RTO policy found. Company focuses on IT Professional Services, Benefits Administration Software, and Construction Management. Limited public information available on formal work-from-home policies.",
+    "innovation": {
+      "culture_rank": 97,
+      "process_rank": 100,
+      "product_rank": 96,
+      "overall_rank": 100
+    },
+    "logo_url": "https://logo.clearbit.com/byrnesoftware.com"
+  }
+]
