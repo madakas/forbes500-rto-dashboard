@@ -577,28 +577,91 @@ with tab5:
     conducted as part of the **Critical Analytical Thinking** course at Stanford LEAD,
     taught by Professor **Haim Mendelson**.
 
-    ### Methodology
+    ---
 
-    Companies were selected based on their ranking in the 2024 Fortune Most Innovative Companies list.
-    Work policy data was collected through:
+    ### Company Selection: Why the Top 100?
 
-    - **Official company announcements** (career pages, press releases, SEC filings)
-    - **Media reports** (verified news sources)
-    - **Employee sources** (Glassdoor, Blind, verified reviews)
+    Companies in this study were selected from [Fortune's America's Most Innovative Companies 2025](https://fortune.com/ranking/americas-most-innovative-companies/),
+    a ranking developed by **Statista** in partnership with Fortune magazine.
 
-    Each entry includes source attribution and reliability ratings.
+    **Why focus on the Top 100?**
 
-    ### Data Quality
+    1. **Research Scope**: The top 100 represents the highest-scoring third of the 300 ranked companies,
+       providing a focused yet comprehensive sample of innovation leaders
+    2. **Data Quality**: Higher-ranked companies typically have more publicly available information
+       about their workplace policies
+    3. **Relevance**: These companies set industry standards and their policies influence broader
+       workforce trends
+    4. **Diversity**: The top 100 spans 18 industries and 37 states, ensuring representative coverage
 
-    - **Verification Status**: Each policy is marked as Verified, Partially Verified, or Unverified
-    - **Source Reliability**: High, Medium, or Low based on source type
+    ---
+
+    ### Innovation Ranking Methodology (Statista/Fortune)
+
+    The Fortune ranking evaluates companies across **three dimensions of innovation**:
+
+    #### 1. Product Innovation (1/3 weight)
+    - Regular introduction of new products or services
+    - Improvement of existing products and services
+    - Patent portfolio strength (via LexisNexis® Patent Asset Index)
+
+    #### 2. Process Innovation (1/3 weight)
+    - Development and use of new technologies
+    - Innovative production processes
+    - Digital transformation initiatives
+
+    #### 3. Innovation Culture (1/3 weight)
+    - Spirit of entrepreneurship and creativity
+    - Employee empowerment to take initiative
+    - Environment for developing new ideas
+
+    **Data Sources:**
+    - **Employee Survey**: 40,000+ US employees (internal view)
+    - **Expert Survey**: 2,500+ innovation experts (external view)
+    - **Patent Analysis**: LexisNexis® Intellectual Property Solutions
+    - **Expert Advisory Board**: 10 academics and innovation consultants
+
+    ---
+
+    ### Work Policy Research Methodology
+
+    Work policy data was collected through multi-source verification:
+
+    **Primary Sources:**
+    - **Official Sources**: Company career pages, press releases, SEC filings, executive statements
+    - **Media Reports**: Verified news articles from major publications (Reuters, Bloomberg, WSJ, etc.)
+    - **Employee Sources**: Glassdoor reviews, Blind posts, verified employee accounts
+
+    **Data Points Collected:**
+    - Policy type and category
+    - Days required in office
+    - Specific day requirements
+    - Effective dates and policy timeline
+    - Trend direction (Tightening, Stable, Relaxing)
+    - Executive quotes explaining policy rationale
+
+    **Verification Process:**
+    - Each policy verified against multiple sources
+    - Source reliability rated (High, Medium, Low)
+    - Research date recorded for each entry
+
+    ---
+
+    ### Data Quality & Limitations
+
+    **Quality Indicators:**
+    - **Verification Status**: Verified, Partially Verified, or Unverified
+    - **Source Reliability**: Based on source type and recency
     - **Research Date**: All data collected November 2025
 
-    ### Limitations
+    **Limitations:**
+    - Policies change frequently; information represents a point-in-time snapshot
+    - Remote work eligibility varies by role, team, and location within companies
+    - Official policy may differ from actual enforcement
+    - Some companies have limited public information available
+    - Employee reviews represent individual experiences, not comprehensive surveys
 
-    - Policies change frequently; some information may be outdated
-    - Remote work eligibility varies by role within companies
-    - Employee sentiment and actual enforcement may differ from official policy
+    ---
 
     ### Author
 
@@ -608,12 +671,22 @@ with tab5:
 
     ### Acknowledgments
 
-    Special thanks to Professor Haim Mendelson for guidance on this research project.
+    - Professor **Haim Mendelson** for guidance on this research project
+    - **Fortune** and **Statista** for the Most Innovative Companies ranking and methodology
+    - **LexisNexis®** for patent analysis data
 
     ---
 
-    *This research is presented for educational purposes. It does not constitute endorsement
-    or criticism of any company's work policies.*
+    ### References
+
+    - Fortune. (2025). *America's Most Innovative Companies 2025*. [https://fortune.com/ranking/americas-most-innovative-companies/](https://fortune.com/ranking/americas-most-innovative-companies/)
+    - Statista. (2025). *America's Most Innovative Companies 2025: Methodology*. March 2025.
+
+    ---
+
+    *This research is presented for educational purposes as part of Stanford LEAD coursework.
+    It does not constitute endorsement or criticism of any company's work policies.
+    The quality of companies not included in this study is not disputed.*
     """)
 
 # Footer
