@@ -42,7 +42,9 @@
     "industry_sector": "Technology - Internet Services",
     "employee_count": 187103,
     "enrichment_source": "PitchBook, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.3861,
+    "longitude": -122.0839
   },
   {
     "company": "Microsoft",
@@ -87,7 +89,9 @@
     "industry_sector": "Technology - Software & Cloud Services",
     "employee_count": 228000,
     "enrichment_source": "Statista, Wikipedia",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 47.674,
+    "longitude": -122.1215
   },
   {
     "company": "Apple",
@@ -127,7 +131,9 @@
     "industry_sector": "Technology - Consumer Electronics",
     "employee_count": 164000,
     "enrichment_source": "BuildRemote.co, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.323,
+    "longitude": -122.0322
   },
   {
     "company": "IBM",
@@ -167,7 +173,9 @@
     "industry_sector": "IT Services and Consulting",
     "employee_count": 282000,
     "enrichment_source": "BuildRemote.co, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 40.7128,
+    "longitude": -74.006
   },
   {
     "company": "Salesforce",
@@ -207,7 +215,9 @@
     "industry_sector": "Cloud Computing and Enterprise Software",
     "employee_count": 79000,
     "enrichment_source": "BuildRemote.co, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.7749,
+    "longitude": -122.4194
   },
   {
     "company": "Oracle",
@@ -247,7 +257,9 @@
     "industry_sector": "IT Services and Consulting",
     "employee_count": 202000,
     "enrichment_source": "Employee Reports, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 30.2672,
+    "longitude": -97.7431
   },
   {
     "company": "Amazon",
@@ -292,7 +304,9 @@
     "industry_sector": "Technology - E-commerce & Cloud Services",
     "employee_count": 1578000,
     "enrichment_source": "Amazon Corporate Filings",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 47.6062,
+    "longitude": -122.3321
   },
   {
     "company": "Nike",
@@ -337,7 +351,9 @@
     "industry_sector": "Consumer Goods - Athletic Apparel & Footwear",
     "employee_count": 79400,
     "enrichment_source": "Statista, Nike Corporate",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 45.4871,
+    "longitude": -122.8037
   },
   {
     "company": "Adobe",
@@ -377,7 +393,9 @@
     "industry_sector": "Software Development",
     "employee_count": 40000,
     "enrichment_source": "BuildRemote.co, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.3382,
+    "longitude": -121.8863
   },
   {
     "company": "Cisco Systems",
@@ -417,7 +435,9 @@
     "industry_sector": "Technology - Networking and Communications",
     "employee_count": 86200,
     "enrichment_source": "BuildRemote.co, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.3382,
+    "longitude": -121.8863
   },
   {
     "company": "Tesla",
@@ -462,7 +482,9 @@
     "industry_sector": "Automotive - Electric Vehicles & Energy",
     "employee_count": 125665,
     "enrichment_source": "Tesla Corporate Filings",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 30.2672,
+    "longitude": -97.7431
   },
   {
     "company": "Intel",
@@ -502,7 +524,9 @@
     "industry_sector": "Semiconductors",
     "employee_count": 131000,
     "enrichment_source": "BuildRemote.co, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.3541,
+    "longitude": -121.9552
   },
   {
     "company": "Johnson & Johnson",
@@ -542,7 +566,9 @@
     "industry_sector": "Pharmaceuticals and Medical Technology",
     "employee_count": 138000,
     "enrichment_source": "Employee Reports, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 40.7357,
+    "longitude": -74.1724
   },
   {
     "company": "Dell Technologies",
@@ -582,7 +608,9 @@
     "industry_sector": "Computer Hardware",
     "employee_count": 108000,
     "enrichment_source": "BuildRemote.co, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 30.5083,
+    "longitude": -97.6789
   },
   {
     "company": "3M",
@@ -622,7 +650,9 @@
     "industry_sector": "Industrial Goods and Machinery",
     "employee_count": 93000,
     "enrichment_source": "BuildRemote.co, Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 44.9778,
+    "longitude": -93.265
   },
   {
     "company": "Comcast",
@@ -662,7 +692,9 @@
     "industry_sector": "Media & Telecommunications",
     "employee_count": 186000,
     "enrichment_source": "Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 39.9526,
+    "longitude": -75.1652
   },
   {
     "company": "JPMorgan Chase",
@@ -707,7 +739,9 @@
     "industry_sector": "Financial Services & Banking",
     "employee_count": 316000,
     "enrichment_source": "Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 40.7128,
+    "longitude": -74.006
   },
   {
     "company": "Nvidia",
@@ -757,7 +791,9 @@
     "industry_sector": "Semiconductors & Computing",
     "employee_count": 278000,
     "enrichment_source": "Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.3541,
+    "longitude": -121.9552
   },
   {
     "company": "Qualcomm",
@@ -802,7 +838,9 @@
     "industry_sector": "Semiconductors & Telecommunications",
     "employee_count": 50000,
     "enrichment_source": "Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 32.7157,
+    "longitude": -117.1611
   },
   {
     "company": "Boston Scientific",
@@ -852,7 +890,9 @@
     "industry_sector": "Medical Devices & Biotechnology",
     "employee_count": 53000,
     "enrichment_source": "Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 42.3601,
+    "longitude": -71.0589
   },
   {
     "company": "Verizon Communications",
@@ -897,7 +937,9 @@
     "industry_sector": "Telecommunications",
     "employee_count": 99600,
     "enrichment_source": "Fortune 500 / Company Website",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 40.7128,
+    "longitude": -74.006
   },
   {
     "company": "Procter & Gamble",
@@ -947,7 +989,9 @@
     "industry_sector": "Consumer Packaged Goods",
     "employee_count": 109000,
     "enrichment_source": "Company Reports",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 39.1031,
+    "longitude": -84.512
   },
   {
     "company": "Cummins",
@@ -992,7 +1036,9 @@
     "industry_sector": "Industrial Machinery",
     "employee_count": 62000,
     "enrichment_source": "Company Reports",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 39.9612,
+    "longitude": -82.9988
   },
   {
     "company": "HP Inc",
@@ -1037,7 +1083,9 @@
     "industry_sector": "Information Technology",
     "employee_count": 58000,
     "enrichment_source": "Company Reports",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 37.4419,
+    "longitude": -122.143
   },
   {
     "company": "Pfizer",
@@ -1082,7 +1130,9 @@
     "industry_sector": "Pharmaceuticals",
     "employee_count": 81000,
     "enrichment_source": "Company Reports",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 40.7128,
+    "longitude": -74.006
   },
   {
     "company": "American Express",
@@ -1122,7 +1172,9 @@
     "industry_sector": "Financial Services",
     "employee_count": 75100,
     "enrichment_source": "Multiple sources",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 40.7128,
+    "longitude": -74.006
   },
   {
     "company": "Advanced Micro Devices (AMD)",
@@ -1172,7 +1224,9 @@
     "industry_sector": "Semiconductors",
     "employee_count": 28000,
     "enrichment_source": "Multiple sources",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.3541,
+    "longitude": -121.9552
   },
   {
     "company": "Walt Disney",
@@ -1222,7 +1276,9 @@
     "industry_sector": "Entertainment",
     "employee_count": 233800,
     "enrichment_source": "Multiple sources",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 34.1808,
+    "longitude": -118.309
   },
   {
     "company": "PayPal Holdings",
@@ -1272,7 +1328,9 @@
     "industry_sector": "Financial Technology",
     "employee_count": 26000,
     "enrichment_source": "Multiple sources",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.3382,
+    "longitude": -121.8863
   },
   {
     "company": "Houston Methodist",
@@ -1322,7 +1380,9 @@
     "industry_sector": "Healthcare",
     "employee_count": 32000,
     "enrichment_source": "Multiple sources",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 29.7604,
+    "longitude": -95.3698
   },
   {
     "company": "Corning",
@@ -1372,7 +1432,9 @@
     "industry_sector": "Specialty Glass, Ceramics and Materials",
     "employee_count": 56300,
     "enrichment_source": "Corporate Reports, MacroTrends",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 40.7128,
+    "longitude": -74.006
   },
   {
     "company": "AT&T",
@@ -1427,7 +1489,9 @@
     "industry_sector": "Telecommunications",
     "employee_count": 140990,
     "enrichment_source": "PitchBook, Corporate Data",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 32.7767,
+    "longitude": -96.797
   },
   {
     "company": "Lockheed Martin",
@@ -1472,7 +1536,9 @@
     "industry_sector": "Aerospace and Defense",
     "employee_count": 121000,
     "enrichment_source": "Corporate Profile, GlobalData",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 38.9847,
+    "longitude": -77.0947
   },
   {
     "company": "Mayo Clinic",
@@ -1527,7 +1593,9 @@
     "industry_sector": "Healthcare and Medicine",
     "employee_count": 76000,
     "enrichment_source": "Corporate Reports",
-    "enrichment_date": "2022"
+    "enrichment_date": "2022",
+    "latitude": 44.9778,
+    "longitude": -93.265
   },
   {
     "company": "Northrop Grumman",
@@ -1582,7 +1650,9 @@
     "industry_sector": "Aerospace and Defense",
     "employee_count": 97000,
     "enrichment_source": "Corporate Reports, MacroTrends",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 37.5407,
+    "longitude": -77.436
   },
   {
     "company": "Air Products & Chemicals",
@@ -1635,7 +1705,9 @@
     "industry_sector": "Industrial Gases & Specialty Chemicals",
     "employee_count": 23000,
     "enrichment_source": "Web Search",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 39.9526,
+    "longitude": -75.1652
   },
   {
     "company": "PepsiCo",
@@ -1675,7 +1747,9 @@
     "industry_sector": "Food and Beverage",
     "employee_count": 319000,
     "enrichment_source": "Web Search",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 40.7128,
+    "longitude": -74.006
   },
   {
     "company": "Microchip Technology",
@@ -1725,7 +1799,9 @@
     "industry_sector": "Semiconductors",
     "employee_count": 19400,
     "enrichment_source": "Web Search",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 33.4484,
+    "longitude": -112.074
   },
   {
     "company": "Mass General Brigham",
@@ -1775,7 +1851,9 @@
     "industry_sector": "Healthcare & Hospitals",
     "employee_count": 82000,
     "enrichment_source": "Web Search",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 42.3601,
+    "longitude": -71.0589
   },
   {
     "company": "Coca-Cola",
@@ -1825,7 +1903,9 @@
     "industry_sector": "Beverages",
     "employee_count": 82500,
     "enrichment_source": "Web Search",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 33.749,
+    "longitude": -84.388
   },
   {
     "company": "State Farm Insurance",
@@ -1875,7 +1955,9 @@
     "industry_sector": "Insurance",
     "employee_count": 97000,
     "enrichment_source": "Company Overview & Multiple Sources",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 41.8781,
+    "longitude": -87.6298
   },
   {
     "company": "Motorola Solutions",
@@ -1925,7 +2007,9 @@
     "industry_sector": "Telecommunications/Technology and Communications",
     "employee_count": 21000,
     "enrichment_source": "Company Profile & MacroTrends",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 41.8781,
+    "longitude": -87.6298
   },
   {
     "company": "Fidelity Investments",
@@ -1975,7 +2059,9 @@
     "industry_sector": "Financial Services",
     "employee_count": 10001,
     "enrichment_source": "Company Careers & Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 42.3601,
+    "longitude": -71.0589
   },
   {
     "company": "Dash Solutions",
@@ -2020,7 +2106,9 @@
     "industry_sector": "Financial Services",
     "employee_count": 161,
     "enrichment_source": "LeadIQ & LinkedIn",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 33.5186,
+    "longitude": -86.8104
   },
   {
     "company": "Visa",
@@ -2060,7 +2148,9 @@
     "industry_sector": "Payment Processing Technology",
     "employee_count": 28000,
     "enrichment_source": "Company Profile & ZoomInfo",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.7749,
+    "longitude": -122.4194
   },
   {
     "company": "Cardinal Health",
@@ -2105,7 +2195,9 @@
     "industry_sector": "Healthcare Distribution",
     "employee_count": 50000,
     "enrichment_source": "Web Search",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 39.9612,
+    "longitude": -82.9988
   },
   {
     "company": "SpaceX",
@@ -2155,7 +2247,9 @@
     "industry_sector": "Aerospace & Defense",
     "employee_count": 13000,
     "enrichment_source": "Web Search",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 30.2672,
+    "longitude": -97.7431
   },
   {
     "company": "Under Armour",
@@ -2205,7 +2299,9 @@
     "industry_sector": "Sportswear & Apparel",
     "employee_count": 13000,
     "enrichment_source": "Web Search",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 39.2904,
+    "longitude": -76.6122
   },
   {
     "company": "Texas Instruments",
@@ -2255,7 +2351,9 @@
     "industry_sector": "Semiconductor Manufacturing",
     "employee_count": 34000,
     "enrichment_source": "Web Search",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 32.7767,
+    "longitude": -96.797
   },
   {
     "company": "Rockwell Automation",
@@ -2305,7 +2403,9 @@
     "industry_sector": "Industrial Automation & Manufacturing",
     "employee_count": 27000,
     "enrichment_source": "Web Search",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 43.0389,
+    "longitude": -87.9065
   },
   {
     "company": "Booz Allen Hamilton",
@@ -2355,7 +2455,9 @@
     "industry_sector": "Management Consulting & IT Services",
     "employee_count": 33400,
     "enrichment_source": "Company Fact Sheet & Official Website",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.5407,
+    "longitude": -77.436
   },
   {
     "company": "Allstate",
@@ -2410,7 +2512,9 @@
     "industry_sector": "Property & Casualty Insurance",
     "employee_count": 55400,
     "enrichment_source": "Company Official Website & Stock Analysis",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 41.8781,
+    "longitude": -87.6298
   },
   {
     "company": "eBay",
@@ -2460,7 +2564,9 @@
     "industry_sector": "E-Commerce & Online Retail",
     "employee_count": 11600,
     "enrichment_source": "Company Official Website & ZoomInfo",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 37.3382,
+    "longitude": -121.8863
   },
   {
     "company": "Cleveland Clinic",
@@ -2513,7 +2619,9 @@
     "industry_sector": "Healthcare & Hospitals",
     "employee_count": 82608,
     "enrichment_source": "Company Official Website & Annual Report",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 39.9612,
+    "longitude": -82.9988
   },
   {
     "company": "Netflix",
@@ -2560,7 +2668,9 @@
     "industry_sector": "Entertainment & Media Streaming",
     "employee_count": 14000,
     "enrichment_source": "Company Official Website & LinkedIn",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 37.3861,
+    "longitude": -122.0839
   },
   {
     "company": "Intuit",
@@ -2613,7 +2723,9 @@
     "industry_sector": "Financial Software",
     "employee_count": 18200,
     "enrichment_source": "MacroTrends, Company Official Data",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 37.3861,
+    "longitude": -122.0839
   },
   {
     "company": "AH Group",
@@ -2660,7 +2772,9 @@
     "industry_sector": "Industrial Repair & Component Management",
     "employee_count": 300,
     "enrichment_source": "LeadIQ, Company Profile",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 42.3314,
+    "longitude": -83.0458
   },
   {
     "company": "Omnidian",
@@ -2700,7 +2814,9 @@
     "industry_sector": "Renewable Energy Services",
     "employee_count": 270,
     "enrichment_source": "PitchBook, LeadIQ",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 47.6062,
+    "longitude": -122.3321
   },
   {
     "company": "UnitedHealth Group",
@@ -2753,7 +2869,9 @@
     "industry_sector": "Health Care Services",
     "employee_count": 400000,
     "enrichment_source": "MacroTrends, Company Official Data",
-    "enrichment_date": "2024"
+    "enrichment_date": "2024",
+    "latitude": 44.9778,
+    "longitude": -93.265
   },
   {
     "company": "Walmart",
@@ -2793,7 +2911,9 @@
     "industry_sector": "Retail & Discount Stores",
     "employee_count": 2100000,
     "enrichment_source": "MacroTrends, Company Official Data",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 36.3729,
+    "longitude": -94.2088
   },
   {
     "company": "Best Buy",
@@ -2846,7 +2966,9 @@
     "industry_sector": "Consumer Electronics Retail",
     "employee_count": 85000,
     "enrichment_source": "Best Buy Corporate Website / MacroTrends",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 44.9778,
+    "longitude": -93.265
   },
   {
     "company": "Target",
@@ -2905,7 +3027,9 @@
     "industry_sector": "General Merchandise Retail",
     "employee_count": 440000,
     "enrichment_source": "Target Corporate Website / MacroTrends",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 44.9778,
+    "longitude": -93.265
   },
   {
     "company": "FedEx",
@@ -2945,7 +3069,9 @@
     "industry_sector": "Integrated Freight & Logistics",
     "employee_count": 440000,
     "enrichment_source": "FedEx Corporate Website / MacroTrends",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 35.1495,
+    "longitude": -90.049
   },
   {
     "company": "Starbucks",
@@ -2998,7 +3124,9 @@
     "industry_sector": "Food & Beverage Services",
     "employee_count": 381000,
     "enrichment_source": "Starbucks Corporate Website / MacroTrends",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 47.6062,
+    "longitude": -122.3321
   },
   {
     "company": "Duke Energy",
@@ -3051,7 +3179,9 @@
     "industry_sector": "Utilities - Electric Power & Natural Gas",
     "employee_count": 28000,
     "enrichment_source": "Duke Energy Corporate Website / Wikipedia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 35.2271,
+    "longitude": -80.8431
   },
   {
     "company": "Liberty Mutual Insurance Group",
@@ -3110,7 +3240,9 @@
     "industry_sector": "Insurance",
     "employee_count": 45000,
     "enrichment_source": "Wikipedia, ZoomInfo",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 42.3601,
+    "longitude": -71.0589
   },
   {
     "company": "Stanley Black & Decker",
@@ -3155,7 +3287,9 @@
     "industry_sector": "Manufacturing",
     "employee_count": 48000,
     "enrichment_source": "Wikipedia, Zippia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 41.0534,
+    "longitude": -73.5387
   },
   {
     "company": "Morgan Stanley",
@@ -3205,7 +3339,9 @@
     "industry_sector": "Financial Services/Investment Banking",
     "employee_count": 82000,
     "enrichment_source": "Wikipedia, ZoomInfo",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 40.7128,
+    "longitude": -74.006
   },
   {
     "company": "Zillow Group",
@@ -3260,7 +3396,9 @@
     "industry_sector": "Real Estate Technology/Software",
     "employee_count": 7298,
     "enrichment_source": "Wikipedia, Zippia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 47.6062,
+    "longitude": -122.3321
   },
   {
     "company": "Cognizant Technology Solutions",
@@ -3310,7 +3448,9 @@
     "industry_sector": "IT Consulting & Outsourcing",
     "employee_count": 349800,
     "enrichment_source": "Wikipedia, Zippia",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 40.7357,
+    "longitude": -74.1724
   },
   {
     "company": "Goldman Sachs Group",
@@ -3360,7 +3500,9 @@
     "industry_sector": "Investment Banking & Financial Services",
     "employee_count": 46500,
     "enrichment_source": "Goldman Sachs Official & MacroTrends",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 40.7128,
+    "longitude": -74.006
   },
   {
     "company": "Byrne Software Technologies",
@@ -3405,6 +3547,8 @@
     "industry_sector": "IT Services & IT Consulting",
     "employee_count": 71,
     "enrichment_source": "Byrne Software Official & ZoomInfo",
-    "enrichment_date": "2025"
+    "enrichment_date": "2025",
+    "latitude": 38.627,
+    "longitude": -90.1994
   }
 ]

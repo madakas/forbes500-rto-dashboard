@@ -15,6 +15,7 @@ import json
 from pathlib import Path
 import plotly.express as px
 import plotly.graph_objects as go
+import pydeck as pdk
 
 # Page config
 st.set_page_config(
@@ -174,6 +175,9 @@ def load_data():
             'innovation_culture': innovation.get('culture_rank', 0),
             'innovation_process': innovation.get('process_rank', 0),
             'innovation_product': innovation.get('product_rank', 0),
+            # Geolocation
+            'latitude': company.get('latitude', 0),
+            'longitude': company.get('longitude', 0),
         }
         rows.append(row)
 
@@ -253,8 +257,9 @@ with col4:
 st.divider()
 
 # Main tabs
-tab1, tab2, tab3, tab4 = st.tabs([
+tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "📊 Overview",
+    "🗺️ Map",
     "🏢 Company Profiles",
     "📈 Analytics",
     "📚 About"
@@ -320,8 +325,92 @@ with tab1:
     fig_heatmap.update_layout(margin=dict(t=20, b=20, l=20, r=20))
     st.plotly_chart(fig_heatmap, use_container_width=True)
 
-# Tab 2: Company Profiles
+# Tab 2: Map
 with tab2:
+    st.subheader("Company Headquarters Map")
+
+    # Filter for companies with valid coordinates
+    map_df = filtered_df[
+        (filtered_df['latitude'] != 0) &
+        (filtered_df['longitude'] != 0)
+    ].copy()
+
+    if len(map_df) > 0:
+        # Add color based on policy category (neutral palette)
+        def get_color(category):
+            colors = {
+                'Hybrid': [196, 181, 253, 200],      # Soft purple
+                'Full Office': [252, 211, 77, 200],  # Soft amber
+                'Fully Remote': [147, 197, 253, 200], # Soft blue
+            }
+            return colors.get(category, [226, 232, 240, 200])
+
+        map_df['color'] = map_df['category'].apply(get_color)
+
+        # Create tooltip
+        map_df['tooltip'] = map_df.apply(
+            lambda row: f"{row['company']}\n{row['policy_type']}\n{row['days_required']} days/week",
+            axis=1
+        )
+
+        # PyDeck layer
+        layer = pdk.Layer(
+            "ScatterplotLayer",
+            data=map_df,
+            get_position=["longitude", "latitude"],
+            get_color="color",
+            get_radius=50000,  # Radius in meters
+            pickable=True,
+            opacity=0.8,
+            stroked=True,
+            filled=True,
+            radius_min_pixels=8,
+            radius_max_pixels=25,
+            line_width_min_pixels=1,
+        )
+
+        # Initial view centered on US
+        view_state = pdk.ViewState(
+            latitude=39.8283,
+            longitude=-98.5795,
+            zoom=3.5,
+            pitch=0,
+        )
+
+        # Render map
+        deck = pdk.Deck(
+            layers=[layer],
+            initial_view_state=view_state,
+            tooltip={
+                "text": "{tooltip}",
+                "style": {
+                    "backgroundColor": "#1E293B",
+                    "color": "white",
+                    "fontSize": "12px",
+                    "padding": "8px"
+                }
+            },
+            map_style="mapbox://styles/mapbox/light-v10"
+        )
+
+        st.pydeck_chart(deck)
+
+        # Legend
+        st.markdown("**Legend**")
+        col_leg1, col_leg2, col_leg3 = st.columns(3)
+        with col_leg1:
+            st.markdown("🟣 Hybrid")
+        with col_leg2:
+            st.markdown("🟡 Full Office")
+        with col_leg3:
+            st.markdown("🔵 Fully Remote")
+
+        st.caption(f"Showing {len(map_df)} companies with headquarters locations")
+    else:
+        st.info("No companies with location data match your current filters.")
+
+# Tab 3: Company Profiles
+with tab3:
     st.subheader("Company Profiles")
 
     # Sort options
@@ -410,8 +499,8 @@ with tab2:
 
             st.divider()
 
-# Tab 3: Analytics
-with tab3:
+# Tab 4: Analytics
+with tab4:
     st.subheader("Research Analytics")
 
     col_ana1, col_ana2 = st.columns(2)
@@ -477,8 +566,8 @@ with tab3:
     fig_sector.update_layout(margin=dict(t=20, b=40, l=100, r=20))
     st.plotly_chart(fig_sector, use_container_width=True)
 
-# Tab 4: About
-with tab4:
+# Tab 5: About
+with tab5:
     st.subheader("About This Research")
 
     st.markdown("""
