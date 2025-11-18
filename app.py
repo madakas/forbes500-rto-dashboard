@@ -443,15 +443,19 @@ with tab3:
                 st.session_state.messages = []
                 st.rerun()
 
-    # Show example prompts only when no messages
-    if not st.session_state.messages:
-        st.markdown("Ask questions about work policies across America's top innovators.")
-        st.caption("Try: *Which tech companies are fully remote?* or *Compare Google and Microsoft policies*")
+    # Chat messages container with fixed height
+    chat_container = st.container(height=450)
 
-    # Display chat history
-    for message in st.session_state.messages:
-        with st.chat_message(message["role"]):
-            st.markdown(message["content"])
+    with chat_container:
+        # Show example prompts only when no messages
+        if not st.session_state.messages:
+            st.markdown("Ask questions about work policies across America's top innovators.")
+            st.caption("Try: *Which tech companies are fully remote?* or *Compare Google and Microsoft policies*")
+
+        # Display chat history
+        for message in st.session_state.messages:
+            with st.chat_message(message["role"]):
+                st.markdown(message["content"])
 
     # Chat input (automatically at bottom)
     if prompt := st.chat_input("Ask about work policies..."):
